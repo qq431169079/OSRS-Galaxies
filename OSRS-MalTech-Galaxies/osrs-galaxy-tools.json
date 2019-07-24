@@ -1,0 +1,8 @@
+{
+  "description": "This galaxy is for the indexing of tools (i.e. different malware).",
+  "name": "OSRS Tools",
+  "namespace": "misp",
+  "type": "osrs-tools",
+  "uuid": "11b5ebfc-7711-11e9-8f9e-2a86e4085a59",
+  "version": 17
+}

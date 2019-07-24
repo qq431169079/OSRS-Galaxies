@@ -1,0 +1,8 @@
+{
+  "description": "This galaxy is for the indexing of files classified as backdoors.",
+  "name": "OSRS Backdoor",
+  "namespace": "misp",
+  "type": "osrs-backdoor",
+  "uuid": "d21d8fb2-774d-11e9-8248-2a86e4085a59",
+  "version": 6
+}
