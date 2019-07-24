@@ -1,0 +1,1671 @@
+{
+  "category": "Enumerated-Threats",
+  "description": "The HITRUST Threat Catalogue includes more than the spreadsheet; however, it is the primary artifact.  Threats have been categorized in what is thought to be a logical grouping of types, categories, and sub-categories.  The threat catalogue has three types of threats which are logical, physical, and organizational.  Each type of threat will have categories such as intentional, unintentional, and force majeure.",
+  "name": "Enumerated-Threats",
+  "source": "HITRUST Threat Catalogue",
+  "type": "hitrust",
+  "uuid": "1871cce4-7348-11e9-a923-1681be663d3e",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "2bec414e-734a-11e9-a923-1681be663d3e",
+      "value": "Test place holder for Enumerated Threats"
+    },
+	{
+      "description": "The process of resolving a legal dispute between two or more parties (individuals or business entities) who seek compensation for damages incurred or specific performances that were not delivered.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "d0d57900-735e-11e9-a923-1681be663d3e",
+      "value": "OCC1_Civil"
+    },
+	{
+      "description": "Specifically deals with the such administrative agencies decision-making capabilities, as they carry out laws passed by state and federal legislatures. Differ from regular civil and criminal courts, and their authority is limited to making administrative decisions",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "d0d58184-735e-11e9-a923-1681be663d3e",
+      "value": "OCR1_Administrative"
+    },
+	{
+      "description": "The process of resolving a legal dispute between two or more parties (individuals or business entities) who seek compensation for damages incurred or specific performances that were not delivered.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "d0d584a4-735e-11e9-a923-1681be663d3e",
+      "value": "OCR2_Civil"
+    },
+	{
+      "description": "Of going to trial in a criminal court to either prosecute or defend oneself in a criminal matter.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "d0d585f8-735e-11e9-a923-1681be663d3e",
+      "value": "OCR3_Criminal"
+    },
+	{
+      "description": "The process of resolving a legal dispute between two or more parties (individuals or business entities) who seek compensation for damages incurred or specific performances that were not delivered.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "d0d58738-735e-11e9-a923-1681be663d3e",
+      "value": "OCS1_Civil"
+    },
+	{
+      "description": "Of going to trial in a criminal court to either prosecute or defend oneself in a criminal matter.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "d0d5886e-735e-11e9-a923-1681be663d3e",
+      "value": "OCS2_Cimrinal"
+    },
+	{
+      "description": "Loss of information due to errors in installation or system configuration.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "f47b8d5a-735d-11e9-8848-1681be663d3e",
+      "value": "PUM1_Configuration_Errors"
+    },
+	{
+      "description": "Loss due to improper IT asset or business processes design (inadequate specifications of IT products, inadequate usability, insecure interfaces, policy/procedure flows, design errors, and changes).",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "f47b908e-735d-11e9-8848-1681be663d3e",
+      "value": "PUM2_Improperly_Designing_Information_Systems"
+    },
+	{
+      "description": "Depending on the requirements defined by the organization, a poorly planned network infrastructure may impact the confidentiality of data and the integrity of the network, which may lead to unauthorized disclosure of sensitive information to unauthorized users.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "f47b923c-735d-11e9-8848-1681be663d3e",
+      "value": "PUM3_Improperly_Designing_Network_Infrastructure"
+    },
+	{
+      "description": "Unauthorized changes of hardware devices such as removing memory or hard drive.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "f47b9426-735d-11e9-8848-1681be663d3e",
+      "value": "PUM4_Manipulation_of_Hardware"
+    },
+	{
+      "description": "Manipulation due to unauthorized hardware.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "f47b9610-735d-11e9-8848-1681be663d3e",
+      "value": "PUM5_Rogue_Hardware"
+    },
+	{
+      "description": "Unauthorized access by convienence or courtesy.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "f47b97aa-735d-11e9-8848-1681be663d3e",
+      "value": "PUM6_Tailgating"
+    },
+	{
+      "description": "A set of rules applied by senior management and/or the owner of the equipment, information, and etc. may be used and sets guidelines as to how it should be used.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "f47bb8c0-735d-11e9-8848-1681be663d3e",
+      "value": "PUM7_Unacceptable_Use"
+    },
+	{
+      "description": "Unavailability of key personnel, their competencies/skills, and knowledge.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "1baa761c-735d-11e9-a923-1681be663d3e",
+      "value": "PUH1_Absence_of_personnel"
+    },
+	{
+      "description": "Sudden damage as a result of an unexpected and non-deliberate action.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "1baa78f6-735d-11e9-a923-1681be663d3e",
+      "value": "PUH2_Accidental_Damage"
+    },
+	{
+      "description": "Fire unintentionally set by a human.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "1baa7a4a-735d-11e9-a923-1681be663d3e",
+      "value": "PUH3_Accidental_fire"
+    },
+	{
+      "description": "Accidently or unintentionally losing any physical IT Asset.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "1baa7b8a-735d-11e9-a923-1681be663d3e",
+      "value": "PUH4_Loss_of_IT_assets"
+    },
+	{
+      "description": " Unintentional mishandling of passwords leading to leakage of covered information.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "1baa7cca-735d-11e9-a923-1681be663d3e",
+      "value": "PUH5_Mishandling_of_Passwords"
+    },
+	{
+      "description": "Accidental verbal disclosure of sensitive information by unauthorized individuals overhearing.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "1baa85ee-735d-11e9-a923-1681be663d3e",
+      "value": "PUH6_Unintentional_Information_Sharing"
+    },
+	{
+      "description": "Failure or disruption of third party services required for proper operation of information systems. Example: Supplies or resources.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "da9eb958-735c-11e9-a923-1681be663d3e",
+      "value": "PUF1_3rd_Party_Services"
+    },
+	{
+      "description": "Failure of communications links due to problems with cable networks.  e.g. Copper & Fiber.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "da9ebc0a-735c-11e9-a923-1681be663d3e",
+      "value": "PUF2_Cable"
+    },
+	{
+      "description": "A special form of line impairment, caused by currents and voltages of signals transmitted over adjacent lines. This may result in the disclosure of sensitive information.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "da9ebd7c-735c-11e9-a923-1681be663d3e",
+      "value": "PUF3_Cross_Talk"
+    },
+	{
+      "description": "Power failure with the potential to cause asset damage or unavailability.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "da9ebec6-735c-11e9-a923-1681be663d3e",
+      "value": "PUF4_Electric_Power"
+    },
+	{
+      "description": "Unexpected combustion of electronic equipment.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "da9ec006-735c-11e9-a923-1681be663d3e",
+      "value": "PUF5_Equipment_Fire"
+    },
+	{
+      "description": "Failure to maintain atmospheric conditions for assets.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "da9ec146-735c-11e9-a923-1681be663d3e",
+      "value": "PUF6_Heating_ventilation_and_air_conditioning(HVAC)"
+    },
+	{
+      "description": "Failure or malfunction of parts and components of IT hardware (e.g. motherboard, CPU, RAM, video card, hard drive, power supply).",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "da9ec27c-735c-11e9-a923-1681be663d3e",
+      "value": "PUF7_IT_hardware"
+    },
+	{
+      "description": "Failure of facility plumbing including gas and water systems.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "da9ec3c6-735c-11e9-a923-1681be663d3e",
+      "value": "PUF8_Plumbing"
+    },
+	{
+      "description": "Fluctuations in the supply voltage can result in malfunctions and damage to IT systems.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "da9ec592-735c-11e9-a923-1681be663d3e",
+      "value": "PUF9_Voltage"
+    },
+	{
+      "description": "Failure of communications links due to problems with wireless networks. e.g. radio/RF.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "da9ec70e-735c-11e9-a923-1681be663d3e",
+      "value": "PUF10_Wireless"
+    },
+	{
+      "description": "An employee that applies their authority incorrectly, or oversteps their level of authority.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "240f49ec-735b-11e9-a923-1681be663d3e",
+      "value": "PIN1_Abuse_of_Authority"
+    },
+	{
+      "description": "Searching through discarded assets with the intent of personal gain and/or damage.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "240f4ce4-735b-11e9-a923-1681be663d3e",
+      "value": "PIN2_Dumpter_Diving"
+    },
+	{
+      "description": "The deliberate sharing of non-public information with unauthorized entities; such as physically giving sensitive documents.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "240f4e42-735b-11e9-a923-1681be663d3e",
+      "value": "PIN3_Information_Sharing"
+    },
+	{
+      "description": "Unauthorized changes of hardware devices such as removing memory or hard drive.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "240f4f82-735b-11e9-a923-1681be663d3e",
+      "value": "PIN4_Manipulation_of_Hardware"
+    },
+	{
+      "description": "Lying or decieving to pretend to be someone one is not.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "240f50b8-735b-11e9-a923-1681be663d3e",
+      "value": "PIN5_Masquerade_or_Pretexting"
+    },
+	{
+      "description": " The attacker promises to provide a benefit or service in the return of vital access or details.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "240f5428-735b-11e9-a923-1681be663d3e",
+      "value": "PIN6_Quid_Pro_Quo"
+    },
+	{
+      "description": "The process by which a man-made object is deconstructed to reveal its design, architecture, or to extract knowledge from the object.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "240f5572-735b-11e9-a923-1681be663d3e",
+      "value": "PIN7_Reverse_Engineering(RE)"
+    },
+	{
+      "description": "Manipulation due to unauthorized hardware.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "240f56a8-735b-11e9-a923-1681be663d3e",
+      "value": "PIN8_Rogue_Hardware"
+    },
+	{
+      "description": "Unauthorized access by someone else's means of access at their time of entry.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "240f57d4-735b-11e9-a923-1681be663d3e",
+      "value": "PIN9_Tailgating"
+    },
+	{
+      "description": "Not abiding by the rules defined as acceptable by the governing or owning entity.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "240f5900-735b-11e9-a923-1681be663d3e",
+      "value": "PIN10_Unacceptable_Use"
+    },
+	{
+      "description": "Attaining physical access without premission or approval.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "240f5c2a-735b-11e9-a923-1681be663d3e",
+      "value": "PIN11_Unauthorized_Access"
+    },
+	{
+      "description": "To appropriate something, such as property entrusted to one's care fraudulently to one's own use. A form of theft through fraud.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "bb9e16a4-735a-11e9-a923-1681be663d3e",
+      "value": "PIM1_Embezzlement"
+    },
+	{
+      "description": "The act of obtaining money, property, or services from an organization through coercion.  A form of theft through use of force or intimidation to obtain compliance.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "bb9e1e06-735a-11e9-a923-1681be663d3e",
+      "value": "PIM2_Extortion"
+    },
+	{
+      "description": "Deliberate deception to secure unfair or unlawful gain, or to deprive a victim of a legal right. A form of theft through deception.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "bb9e1fa0-735a-11e9-a923-1681be663d3e",
+      "value": "PIM3_Fraud"
+    },
+	{
+      "description": "The act of physically stealing, taking and removing of the property with intent to deprive the rightful owner of it.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "bb9e20ea-735a-11e9-a923-1681be663d3e",
+      "value": "PIM4_Theft"
+    },
+	{
+      "description": "Intentionally setting fire to assets causing damage.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "33c18ec8-735a-11e9-a923-1681be663d3e",
+      "value": "PIC1_Arson"
+    },
+	{
+      "description": "Disruption leading to adverse operations (i.e., demonstrations, riots, strikes, and protests).",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "33c19152-735a-11e9-a923-1681be663d3e",
+      "value": "PIC2_Large_Events"
+    },
+	{
+      "description": "Deliberately destroy, damage, or obstruct (something), especially for political or military advantage.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "33c192b0-735a-11e9-a923-1681be663d3e",
+      "value": "PIC3_Sabotage"
+    },
+	{
+      "description": "The use of intentionally indiscriminate violence as a means to create terror among masses of people; or fear to achieve a financial, political, religious or ideological aim through physical violence.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "33c193e6-735a-11e9-a923-1681be663d3e",
+      "value": "PIC4_Terrorism"
+    },
+	{
+      "description": "Action involving deliberate destruction of or damage to property.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "33c19526-735a-11e9-a923-1681be663d3e",
+      "value": "PIC5_Vandalism"
+    },
+	{
+      "description": "Damage to assets, facilities, and employees due to physical war or armed conflict. (e.g. bombing).",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "33c1965c-735a-11e9-a923-1681be663d3e",
+      "value": "PIC6_Warfare"
+    },
+	{
+      "description": "Severe snowstorm with high winds and low visibility that can cause damage or accessibility issues.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "9f1fda2c-7359-11e9-a923-1681be663d3e",
+      "value": "PFM1_Blizzard"
+    },
+	{
+      "description": "Rapid circulation of air around a low pressure center with destructive surrounding weather causing damage and accessibility issues.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "9f1fdde2-7359-11e9-a923-1681be663d3e",
+      "value": "PFM2_Cyclonic_Storms"
+    },
+	{
+      "description": "A storm that produces hail which reaches the surface causing damage.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "9f1fdf5e-7359-11e9-a923-1681be663d3e",
+      "value": "PFM3_Hailstorm"
+    },
+	{
+      "description": "A prolonged period of abnormally hot weather that can impact people and electronic systems.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "9f1fe09e-7359-11e9-a923-1681be663d3e",
+      "value": "PFM4_Heat_Waves"
+    },
+	{
+      "description": "A storm of freezing rain which can damage assets.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "9f1fe49a-7359-11e9-a923-1681be663d3e",
+      "value": "PFM5_Ice_Storm"
+    },
+	{
+      "description": "Damage of asset caused by a lightning strike (electrical overvoltage).",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "9f1fe5f8-7359-11e9-a923-1681be663d3e",
+      "value": "PFM6_Lightning"
+    },
+	{
+      "description": "Eroding of a surface by water causing damage to structures and assets on the surface.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "4b7a89da-7359-11e9-a923-1681be663d3e",
+      "value": "PFH1_Erosion"
+    },
+	{
+      "description": "An overflowing of a large amount of water beyond its normal confines, especially over what is normally dry land causing damage to assets in the flood path.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "4b7a8cd2-7359-11e9-a923-1681be663d3e",
+      "value": "PFH2_Flood"
+    },
+	{
+      "description": "Damage from a long high sea wave caused by a underwater earthquake, landslide or other disturbance.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "4b7a8e30-7359-11e9-a923-1681be663d3e",
+      "value": "PFH3_Tsunami"
+    },
+	{
+      "description": "A mass of snow, ice, and rocks falling rapidly down a mountainside damaging structures or assets in its path.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "c4daf522-7358-11e9-a923-1681be663d3e",
+      "value": "PFG1_Avalanche"
+    },
+	{
+      "description": "Sudden movement of a block of the Earth’s crust along a geological fault and associated ground shaking with the potential to damage assets.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "c4daf7f2-7358-11e9-a923-1681be663d3e",
+      "value": "PFG2_Earthquake"
+    },
+	{
+      "description": "The sliding down of a mass of earth or rock from a mountain or cliff damaging structures or assets in its path.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "c4dafa5e-7358-11e9-a923-1681be663d3e",
+      "value": "PFG3_Landslide"
+    },
+	{
+      "description": "A large hole that suddenly appears in the ground when the surface of the ground is no longer supported causing damage to anything resting on that surface.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "c4dafbd0-7358-11e9-a923-1681be663d3e",
+      "value": "PFG4_Sinkhole"
+    },
+	{
+      "description": "Damage of asset caused by eruption and lava.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "c4dafd10-7358-11e9-a923-1681be663d3e",
+      "value": "PFG5_Volcano"
+    },
+	{
+      "description": "An uncontrolled or non-prescribed combustion of burning vegetation in a natural setting with the potential to damage or disrupt.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "c4daffa4-7358-11e9-a923-1681be663d3e",
+      "value": "PFG6_Wildfires"
+    },
+	{
+      "description": "The collection of tiny foreign particles that can have an adverse effect on assets.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "813f6e56-7358-11e9-a923-1681be663d3e",
+      "value": "PFE1_Contaminants"
+    },
+	{
+      "description": "Chemical (i.e. gaseous or liquid) contaminants causing corrosion of assets.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "813f70ea-7358-11e9-a923-1681be663d3e",
+      "value": "PFE2_Corrosion"
+    },
+	{
+      "description": "Water vapor in the air that can collect as condensation causing water damage to assets.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "813f7248-7358-11e9-a923-1681be663d3e",
+      "value": "PFE3_Humidity"
+    },
+	{
+      "description": "Prolonged period of abnormally low rainfall, and a shortage of water causing damage to assets.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "46251af0-7358-11e9-a923-1681be663d3e",
+      "value": "PFC1_Drought"
+    },
+	{
+      "description": "Lack of or insufficient logging may prevent the organization from determining whether security specifications were violated or whether attacks were attempted. Additionally, organizations may not be able to assess whether logged information can be used for error analysis in the event of damage and for determining the causes or for integrity tests.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "c70d4190-7355-11e9-a923-1681be663d3e",
+      "value": "LUM11_Lack_of_or_insufficient_logging"
+    },
+	{
+      "description": "Loss of records by improper/unauthorized use of storage devices.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "c70d441a-7355-11e9-a923-1681be663d3e",
+      "value": "LUM12_Loss_due_to_Unauthorized_Storage"
+    },
+	{
+      "description": "The malicious use of network scanning tools to discover open and possibly unused ports, protocols, and services as well as vulnerabilities.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "c70d4564-7355-11e9-a923-1681be663d3e",
+      "value": "LUM13_Misuse_of_audit_tools"
+    },
+	{
+      "description": "Leaking covered information as a result of using mobile device applications.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "c70d4690-7355-11e9-a923-1681be663d3e",
+      "value": "LUM14_Mobile_Device_Applications_data_leakage"
+    },
+	{
+      "description": "Information leak / sharing / damage caused by misuse of information assets (lack of awareness of application features) or wrong / improper information assets configuration or management.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "c70d47d0-7355-11e9-a923-1681be663d3e",
+      "value": "LUM15_System_Configuration_Errors"
+    },
+	{
+      "description": "A violation of the set of rules applied by senior management or the asset/resource owner of a network, website, or service, that restrict the ways in which the network, website or system may be used and sets guidelines as to how it should be used.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "c70d4b54-7355-11e9-a923-1681be663d3e",
+      "value": "LUM16_Unacceptable_Use"
+    },
+	{
+      "description": "Does not allow for prescription of information protection.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "c70d4c94-7355-11e9-a923-1681be663d3e",
+      "value": "LUM17_Unmanaged_data"
+    },
+	{
+      "description": "Leakage of covered information when using web applications.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "c70d4db6-7355-11e9-a923-1681be663d3e",
+      "value": "LUM18_Web_Applications_data_leakage"
+    },
+	{
+      "description": "Loss of integrity of certificates used for authorization services.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "837d8472-7354-11e9-a923-1681be663d3e",
+      "value": "LUM1_Certificate_Integrity_Loss"
+    },
+	{
+      "description": "An account/id/username has been used or accessed by a non-authorized means.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "837d8706-7354-11e9-a923-1681be663d3e",
+      "value": "LUM2_Compromised_Credentials"
+    },
+	{
+      "description": "Storage media that retains stored information in a retrievable/intact manner longer than desired (failure to totally erase).",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "837d8bf2-7354-11e9-a923-1681be663d3e",
+      "value": "LUM3_Data_Remanence"
+    },
+	{
+      "description": "Loss of a data-storage medium.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "837d8d82-7354-11e9-a923-1681be663d3e",
+      "value": "LUM4_Data_Storage_Media_Loss"
+    },
+	{
+      "description": "Loss of the integrity or consistency of a database may result in the data being incorrect or in a corrupt state and as a result may not be accessed or processed correctly.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "837d8ed6-7354-11e9-a923-1681be663d3e",
+      "value": "LUM5_Database_Integrity_Loss"
+    },
+	{
+      "description": "Roles or permissions that if misused could allow a person to exploit the  systems for his or her own gain or purpose.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "837d9016-7354-11e9-a923-1681be663d3e",
+      "value": "LUM6_Elevated_Privileges"
+    },
+	{
+      "description": "Loss due to improper IT asset or business processes design (inadequate specifications of IT products, inadequate usability, insecure interfaces, policy/procedure flows, design errors, and changes).",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "837d9142-7354-11e9-a923-1681be663d3e",
+      "value": "LUM7_Improperly_Designing_Information_Systems"
+    },
+	{
+      "description": "Depending on the requirements defined by the organization, a poorly planned network infrastructure may impact the confidentiality of data and the integrity of the network, which may lead to unauthorized disclosure of sensitive information to unauthorized users.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "837d926e-7354-11e9-a923-1681be663d3e",
+      "value": "LUM8_Improperly_Designing_Network_Infastructure"
+    },
+	{
+      "description": "Management of cryptographic keys in a cryptosystem. This includes dealing with the generation, exchange, storage, use, crypto-shredding (destruction) and replacement of keys.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "837d939a-7354-11e9-a923-1681be663d3e",
+      "value": "LUM9_Inappropriate_or_inadequate_key_management"
+    },
+	{
+      "description": "Inadequate testing on new systems may result in possible errors in the hardware or software or that they may remain undetected or may result in significant disruption to IT operations or systems.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "837d9822-7354-11e9-a923-1681be663d3e",
+      "value": "LUM10_Insufficiently_or_Inadequately_following_Release_Procedures"
+    },
+	{
+      "description": "Unintentional distribution of covered information to an unauthorized entity by an employee or employees.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "feea571c-7353-11e9-a923-1681be663d3e",
+      "value": "LUH1_Data_Sharing_or_Leakage"
+    },
+	{
+      "description": "Changing of data and records (information) stored in devices and storage media.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "feea59d8-7353-11e9-a923-1681be663d3e",
+      "value": "LUH2_Improper_Data_Modification"
+    },
+	{
+      "description": "Inappropriate/ inadequate labeling or classifying of media.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "feea5e06-7353-11e9-a923-1681be663d3e",
+      "value": "LUH3_Misclassifying_of_Data"
+    },
+	{
+      "description": "Unintentional mishandling of passwords leading to leakage of covered information.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "feea5f64-7353-11e9-a923-1681be663d3e",
+      "value": "LUH4_Mishandling_of_Passwords"
+    },
+	{
+      "description": "Failure or disruption of third party services required for proper operation of information systems. Example: Resources Or Supporting systems.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "483e3baa-7353-11e9-a923-1681be663d3e",
+      "value": "LUF1_3rd_Party_Services"
+    },
+	{
+      "description": "A database failure which may result in systems or applications not being available, which can have a significant impact to business operations resulting in financial loss or potential brand damage.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "483e4514-7353-11e9-a923-1681be663d3e",
+      "value": "LUF2_Database_Systems"
+    },
+	{
+      "description": "When the bandwidth of the network is insufficient, the transmission rate in the network and eventually the availability in the network will be severely limited to the organization's users resulting in potential business disruptions.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "483e46e0-7353-11e9-a923-1681be663d3e",
+      "value": "LUF3_Network_Bandwidth"
+    },
+	{
+      "description": "The process of selecting a path for traffic in a network, or between or across multiple networks.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "483e4834-7353-11e9-a923-1681be663d3e",
+      "value": "LUF4_Network_Routing"
+    },
+	{
+      "description": "The failure of programs and other operations used by a computer.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "483e496a-7353-11e9-a923-1681be663d3e",
+      "value": "LUF5_Software_or_Code"
+    },
+	{
+      "description": "The retention of retrievable data on a computer or other electronic system; memory.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "483e4aa0-7353-11e9-a923-1681be663d3e",
+      "value": "LUF6_Storage"
+    },
+	{
+      "description": "The failure/malfunction of Virtual parts and components of IT hardware (e.g. motherboard, CPU, RAM, video card, hard drive, power supply).  Failure of Virtual IT.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "483e4c4e-7353-11e9-a923-1681be663d3e",
+      "value": "LUF7_Virtual_Parts_and_Components"
+    },
+	{
+      "description": "The intentional installation of unmanaged or unauthorized software.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "2d0062ce-7352-11e9-a923-1681be663d3e",
+      "value": "LIN51_Unauthorized_software_installation"
+    },
+	{
+      "description": "A computer program that can copy itself and infect a computer without permission or knowledge of the user. A virus might corrupt or delete data on a computer, use e-mail programs to spread itself to other computers, or even erase everything on a hard disk.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "2d00659e-7352-11e9-a923-1681be663d3e",
+      "value": "LIN52_Virus"
+    },
+	{
+      "description": "A form of fraud using voice over internet protocol in which individuals are tricked into revealing unauthorized access to sensitive information.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "2d0066f2-7352-11e9-a923-1681be663d3e",
+      "value": "LIN53_Vishing"
+    },
+	{
+      "description": "The act of locating and possibly exploiting wireless networks; example access point mapping.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "2d00681e-7352-11e9-a923-1681be663d3e",
+      "value": "LIN54_War_Driving"
+    },
+	{
+      "description": "Malware residing on the websites which a group often uses.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "2d00694a-7352-11e9-a923-1681be663d3e",
+      "value": "LIN55_Watering_Holes"
+    },
+	{
+      "description": "Web spoofing occurs when an attacker forges an existing website (i.e., an attacker designs a fake website in such a way that it looks like the website of a known organization) The attacker attempts to draw users to the website with the objective of launching further attacks.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "2d006e18-7352-11e9-a923-1681be663d3e",
+      "value": "LIN56_Web_Spoofing"
+    },
+	{
+      "description": "A form of spear phishing that targets senior management, executives, or prominent individuals in order to gain access to sensitive information.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "2d0070a2-7352-11e9-a923-1681be663d3e",
+      "value": "LIN57_Whaling"
+    },
+	{
+      "description": "The surreptitious electronic monitoring of Internet-based communications.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "2d00726e-7352-11e9-a923-1681be663d3e",
+      "value": "LIN58_Wire_Tapping"
+    },
+	{
+      "description": "Self propagating standalone malicious software.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "2d0073e0-7352-11e9-a923-1681be663d3e",
+      "value": "LIN59_Worms"
+    },
+	{
+      "description": "Deliberate manipulation of search engine indexes to direct a user to malicious content on falsified sites.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "fefa3180-7350-11e9-a923-1681be663d3e",
+      "value": "LIN41_Search_Engine_Poisoning"
+    },
+	{
+      "description": "Allows the exploitation of a web application by injecting scripts in HTML pages or executing arbitrary codes remotely.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "fefa345a-7350-11e9-a923-1681be663d3e",
+      "value": "LIN42_Server_Side_Includes(SSI)_Injection"
+    },
+	{
+      "description": "Receiving unsolicited, undesired, or illegal email messages.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "fefa35ae-7350-11e9-a923-1681be663d3e",
+      "value": "LIN43_SPAM"
+    },
+	{
+      "description": "Phishing while tailoring the email to a specific audience.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "fefa36e4-7350-11e9-a923-1681be663d3e",
+      "value": "LIN44_Spear_phishing"
+    },
+	{
+      "description": "Software that aims to gather information about a person or organization without their knowledge.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "fefa3810-7350-11e9-a923-1681be663d3e",
+      "value": "LIN45_Spyware"
+    },
+	{
+      "description": "Takes advantage of the syntax of SQL to inject commands that can read or modify a database, or compromise the meaning of the original query.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "fefa393c-7350-11e9-a923-1681be663d3e",
+      "value": "LIN46_SQL_injection"
+    },
+	{
+      "description": "Any malicious computer program which misleads users of its true intent.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "fefa3a68-7350-11e9-a923-1681be663d3e",
+      "value": "LIN47_Trojan"
+    },
+	{
+      "description": "Not abiding by the rules defined as acceptable by the governing or owning entity.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "fefa403a-7350-11e9-a923-1681be663d3e",
+      "value": "LIN48_Unacceptable_Use"
+    },
+	{
+      "description": "Attaining logical access without permission or approval.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "fefa41de-7350-11e9-a923-1681be663d3e",
+      "value": "LIN49_Unauthorized_Access"
+    },
+	{
+      "description": "Use of an unauthorized (insecure) encryption module can lead to a false sense of protection the encryption was meant to protect.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "fefa431e-7350-11e9-a923-1681be663d3e",
+      "value": "LIN50_Unauthorized_encryption"
+    },
+	{
+      "description": " The attacker promises to provide a benefit or service in the return of vital access or details.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "bd6c48bc-734f-11e9-a923-1681be663d3e",
+      "value": "LIN31_Quid_Pro_Quo"
+    },
+	{
+      "description": "Infection of a computer system or device by malware that restricts access to the system and information while demanding that the user pays a ransom to remove the restriction.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "bd6c4ba0-734f-11e9-a923-1681be663d3e",
+      "value": "LIN32_Ransomware"
+    },
+	{
+      "description": "Remote administration capabilities allowing an attacker to control the victim's computer.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "bd6c4cf4-734f-11e9-a923-1681be663d3e",
+      "value": "LIN33_Remote_Access_Trojan(RAT)"
+    },
+	{
+      "description": "Intentional data manipulation to repudiate action.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "bd6c4e2a-734f-11e9-a923-1681be663d3e",
+      "value": "LIN34_Repudiation_of_actions"
+    },
+	{
+      "description": "The process by which a man-made object is deconstructed to reveal its design, architecture, or to extract knowledge from the object.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "bd6c4f56-734f-11e9-a923-1681be663d3e",
+      "value": "LIN35_Reverse_Engineering(RE)"
+    },
+	{
+      "description": "Unauthorized access via unmanaged access points to an organizations managed network.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "bd6c53d4-734f-11e9-a923-1681be663d3e",
+      "value": "LIN36_Rogue_Access_Points"
+    },
+	{
+      "description": "Use of rogue certificates that are valid certificates by a legitimate certificate authority which are untrustworthy.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "bd6c5532-734f-11e9-a923-1681be663d3e",
+      "value": "LIN37_Rogue_certificates"
+    },
+	{
+      "description": "Malicious software that misleads users about their computers security in order to manipulate them.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "bd6c5668-734f-11e9-a923-1681be663d3e",
+      "value": "LIN38_Rogue_security_software"
+    },
+	{
+      "description": "A set of software tools that enable an unauthorized user to gain control of a computer system without being detected.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "bd6c57b2-734f-11e9-a923-1681be663d3e",
+      "value": "LIN39_Rootkits"
+    },
+	{
+      "description": "Routing network packets to IP addresses not intended by sender via unauthorized manipulation of routing table.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "bd6c58e8-734f-11e9-a923-1681be663d3e",
+      "value": "LIN40_Routing_table_manipulation"
+    },
+	{
+      "description": "Injection of malicious code to extend the functionality of an application or information system without having to execute commands.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "61f8bd54-734e-11e9-a923-1681be663d3e",
+      "value": "LIN21_Malicious_Code_Execution"
+    },
+	{
+      "description": "A type of eavesdropping attack that occurs when a malicious actor inserts himself as a relay/proxy into a communication session between people or systems.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "61f8c13c-734e-11e9-a923-1681be663d3e",
+      "value": "LIN22_Man_in_the_Middle"
+    },
+	{
+      "description": "Modification of an encryption module in order to read secret keys, change keys, or change security parameters.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "61f8c2d6-734e-11e9-a923-1681be663d3e",
+      "value": "LIN23_Manipulation_of_an_encryption_module"
+    },
+	{
+      "description": " The modification of data with the intent to cause loss of integrity.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "61f8c4b6-734e-11e9-a923-1681be663d3e",
+      "value": "LIN24_Manipulation_of_data"
+    },
+	{
+      "description": "Lying or decieving to pretend to be someone one is not.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "61f8c5f6-734e-11e9-a923-1681be663d3e",
+      "value": "LIN25_Masquerade_or_Pretexting"
+    },
+	{
+      "description": "Threat in which a valid data transmission is maliciously or fraudulently repeated or delayed.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "61f8c722-734e-11e9-a923-1681be663d3e",
+      "value": "LIN26_Message_Replay"
+    },
+	{
+      "description": "The malicious use of network scanning tools to discover open and possibly unused ports, protocols, and services as well as vulnerabilities.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "61f8c84e-734e-11e9-a923-1681be663d3e",
+      "value": "LIN27_Misuse_of_audit_tools"
+    },
+	{
+      "description": "Unauthorized access to network.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "61f8c97a-734e-11e9-a923-1681be663d3e",
+      "value": "LIN28_Network_Intrusion"
+    },
+	{
+      "description": "Identifying information about a network to find security weaknesses.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "61f8cc18-734e-11e9-a923-1681be663d3e",
+      "value": "LIN29_Network_Sniffing"
+    },
+	{
+      "description": "An email fraud method in which the perpetrator sends out legitimate-looking email in an attempt to gather personal and financial information from recipients. Typically, the messages appear to come from well-known and trustworthy websites.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "61f8cd4e-734e-11e9-a923-1681be663d3e",
+      "value": "LIN30_Phishing"
+    },
+	{
+      "description": "Service unavailability due to a massive number of requests for access to network services from multiple malicious clients.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "1398ac74-734d-11e9-a923-1681be663d3e",
+      "value": "LIN11_Distributed_Denial_of_Service"
+    },
+	{
+      "description": "Domain name server cache poising or spoofing to divert traffic to malicious servers.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "1398af44-734d-11e9-a923-1681be663d3e",
+      "value": "LIN12_DNS_Spoofing"
+    },
+	{
+      "description": "A compromised website that has a user unintentionally download malware.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "1398b318-734d-11e9-a923-1681be663d3e",
+      "value": "LIN13_Drive_By_Download"
+    },
+	{
+      "description": "Roles or permissions with more than the normal level of access that if compromised could allow a person to exploit the systems for personal gain or illicit purpose.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "1398b764-734d-11e9-a923-1681be663d3e",
+      "value": "LIN14_Elevated_Privileges"
+    },
+	{
+      "description": "Spying on information through capturing emanations from operational equipment.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "1398b8ae-734d-11e9-a923-1681be663d3e",
+      "value": "LIN15_Emission_Attacks"
+    },
+	{
+      "description": "A type of injection in which malicious scripts are injected into otherwise benign and trusted websites.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "1398b9da-734d-11e9-a923-1681be663d3e",
+      "value": "LIN16_HTML_script_injection"
+    },
+	{
+      "description": "The deliberate sharing of information with unauthorized entities; such as emailing sensitive information or file transfers.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "1398bb06-734d-11e9-a923-1681be663d3e",
+      "value": "LIN17_Information_Sharing"
+    },
+	{
+      "description": "IP spoofing is a method of attack under which incorrect IP addresses are used to disguise the attackers’ identity to the system being attacked.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "1398bc32-734d-11e9-a923-1681be663d3e",
+      "value": "LIN18_IP_Spoofing"
+    },
+	{
+      "description": "to exploit web based applications that construct LDAP statements based on user input.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "1398bd54-734d-11e9-a923-1681be663d3e",
+      "value": "LIN19_LDAP_Injection"
+    },
+	{
+      "description": "An attacker can change the Media Access Control (MAC) address of his device and send Ethernet frames in the network segment with a different ID, which can result in the possible circumvention of security mechanisms which are based solely on the use of a MAC address.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "1398be76-734d-11e9-a923-1681be663d3e",
+      "value": "LIN20_MAC_Spoofing"
+    },
+	{
+      "description": "Using authorized access to perform illegitimate actions.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "ae332ca2-734b-11e9-a923-1681be663d3e",
+      "value": "LIN1_Abuse_of_authorizations"
+    },
+	{
+      "description": "The illegitimate takeover of groups of IP addresses.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "ae332fae-734b-11e9-a923-1681be663d3e",
+      "value": "LIN2_Address_space_hijacking"
+    },
+	{
+      "description": "Unauthorized modifications to code or configuration data, attacking its integrity.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "ae33310c-734b-11e9-a923-1681be663d3e",
+      "value": "LIN3_Alteration_of_software"
+    },
+	{
+      "description": "Access of web sites through chains of HTTP proxies (obfuscation), bypassing the security mechanism(s).",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "ae33324c-734b-11e9-a923-1681be663d3e",
+      "value": "LIN4_Anonymous_proxies"
+    },
+	{
+      "description": "Overtaking, by the attacker, the ownership of a whole autonomous system and its prefixes despite origin validation.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "ae333648-734b-11e9-a923-1681be663d3e",
+      "value": "LIN5_Autonomous_System_hijacking"
+    },
+	{
+      "description": "Unauthorized access via systematically checking all possible keys or passwords until the correct one is found.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "ae333792-734b-11e9-a923-1681be663d3e",
+      "value": "LIN6_Brute_force"
+    },
+	{
+      "description": "Exploiting a bugs, design flaws or configuration oversights in an operating system or software application to gain elevated access to resources.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "ae3338c8-734b-11e9-a923-1681be663d3e",
+      "value": "LIN7_Code_Injections"
+    },
+	{
+      "description": "Execution of arbitrary commands on the host operating system via a vulnerable application. This attack differs from Code Injection, in that code injection allows the attacker to add his own code that is then executed by the application. In Command Injection, the attacker extends the default functionality of the application, which execute system commands, without the necessity of injecting code. Also know as Remote Command Execution.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "ae3339f4-734b-11e9-a923-1681be663d3e",
+      "value": "LIN8_Command_injection"
+    },
+	{
+      "description": "An account/id/username has been used or accessed by a non authorized means.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "ae333b20-734b-11e9-a923-1681be663d3e",
+      "value": "LIN9_Compromised_Credentials"
+    },
+	{
+      "description": "Service unavailability due to a massive number of requests for services from a single point.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "ae333ef4-734b-11e9-a923-1681be663d3e",
+      "value": "LIN10_Denial_of_Service"
+    },
+	{
+      "description": "To appropriate something, such as property entrusted to one's care fraudulently to one's own use. A form of theft through fraud.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "1743e480-734b-11e9-a923-1681be663d3e",
+      "value": "LIM1_Embezzlement"
+    },
+	{
+      "description": "The act of obtaining money, property, or services from an organization through coercion.  A form of theft through use of force or intimidation to obtain compliance.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "1743e714-734b-11e9-a923-1681be663d3e",
+      "value": "LIM2_Extortion"
+    },
+	{
+      "description": "Deliberate deception to secure unfair or unlawful gain, or to deprive a victim of a legal right.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "1743e85e-734b-11e9-a923-1681be663d3e",
+      "value": "LIM3_Fraud"
+    },
+	{
+      "description": "The act of logically stealing and/or removing of the property with intent to deprive the rightful owner of it.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "1743ec00-734b-11e9-a923-1681be663d3e",
+      "value": "LIM4_Theft"
+    },
+	{
+      "description": "Deliberate actions aimed to cause disruption or damage to information and/or IT assets for financial or personal gain.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "a4c20626-734a-11e9-a923-1681be663d3e",
+      "value": "LIC1_Sabotage"
+    },
+	{
+      "description": "The use of violence as a means to create terror among masses of people; or fear to achieve a financial, political, religious or ideological aim.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "a4c208ba-734a-11e9-a923-1681be663d3e",
+      "value": "LIC2_Terrorism"
+    },
+	{
+      "description": "Deliberate destruction or damage to information and/or IT assets but, not for personal gain.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "a4c20b94-734a-11e9-a923-1681be663d3e",
+      "value": "LIC3_Vandalism"
+    },
+	{
+      "description": "Damage to assets, facilities, and employees due to war or armed conflict.",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/threat-catalogue/"
+        ]
+      },
+      "uuid": "a4c20ce8-734a-11e9-a923-1681be663d3e",
+      "value": "LIC4_Warfare"
+    }
+	  ],
+	"version": 1
+}
