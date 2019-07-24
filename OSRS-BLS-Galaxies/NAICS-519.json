@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Other Information Services subsector group establishments supplying information, storing and providing access to information, searching and retrieving information, operating Web sites that use search engines to allow for searching information on the Internet, or publishing and/or broadcasting content exclusively on the Internet. The main components of the subsector are news syndicates, libraries, archives, exclusive Internet publishing and/or broadcasting, and Web Search Portals.",
+  "name": "NAICS-519",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-519",
+  "uuid": "0a1c1bac-4839-11e9-8646-d663bd873d93",
+  "version": 6
+}

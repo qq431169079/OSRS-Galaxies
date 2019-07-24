@@ -1,0 +1,8 @@
+{
+  "description": "The Postal Service subsector includes the activities of the National Post Office and its subcontractors operating under a universal service obligation to provide mail services, and using the infrastructure required to fulfill that obligation. These services include delivering letters and small parcels. These articles can be described as those that can be handled by one person without using special equipment. This allows the collection, pick-up, and delivery operations to be done with limited labor costs and minimal equipment. Sorting and transportation activities, where necessary, are generally mechanized. The restriction to small parcels distinguishes these establishments from those in the transportation industries. These establishments may also provide express delivery services using the infrastructure established for provision of basic mail services.",
+  "name": "NAICS-491",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-491",
+  "uuid": "6821cbd0-483d-11e9-8646-d663bd873d93",
+  "version": 1
+}

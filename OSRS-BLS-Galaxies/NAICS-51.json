@@ -1,0 +1,8 @@
+{
+  "description": "The Information sector comprises establishments engaged in the following processes: (a) producing and distributing information and cultural products, (b) providing the means to transmit or distribute these products as well as data or communications, and (c) processing data. The main components of this sector are the publishing industries, including software publishing, and both traditional publishing and publishing exclusively on the Internet; the motion picture and sound recording industries; the broadcasting industries, including traditional broadcasting and those broadcasting exclusively over the Internet; the telecommunications industries; Web search portals, data processing industries, and the information services industries. The Information sector groups three types of establishments: (1) those engaged in producing and distributing information and cultural products; (2) those that provide the means to transmit or distribute these products as well as data or communications; and (3) those that process data.",
+  "name": "NAICS-51",
+  "namespace": "misp",
+  "type": "OSRS-NAICS-51",
+  "uuid": "f454c150-4826-11e9-8646-d663bd873d93",
+  "version": 3
+}

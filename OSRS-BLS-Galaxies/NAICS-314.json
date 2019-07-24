@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Textile Product Mills subsector group establishments that make textile products (except apparel). With a few exceptions, processes used in these industries are generally cut and sew (i.e., purchasing fabric and cutting and sewing to make nonapparel textile products, such as sheets and towels).",
+  "name": "NAICS-314",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-314",
+  "uuid": "e7cff916-4850-11e9-8646-d663bd873d93",
+  "version": 1
+}

@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Food and Beverage Stores subsector usually retail food and beverages merchandise from fixed point-of-sale locations. Establishments in this subsector have special equipment (e.g., freezers, refrigerated display cases, refrigerators) for displaying food and beverage goods. They have staff trained in the processing of food products to guarantee the proper storage and sanitary conditions required by regulatory authority.",
+  "name": "NAICS-445",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-445",
+  "uuid": "76d4f580-4801-11e9-b210-d663bd873d93",
+  "version": 1
+}

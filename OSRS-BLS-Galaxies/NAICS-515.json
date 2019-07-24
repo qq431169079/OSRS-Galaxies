@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Broadcasting (except Internet) subsector include establishments that create content or acquire the right to distribute content and subsequently broadcast the content. The industry groups (Radio and Television Broadcasting and Cable and Other Subscription Programming) are based on differences in the methods of communication and the nature of services provided. The Radio and Television Broadcasting industry group includes establishments that operate broadcasting studios and facilities for over the air or satellite delivery of radio and television programs of entertainment, news, talk, and the like. These establishments are often engaged in the production and purchase of programs and generating revenues from the sale of air time to advertisers and from donations, subsidies, and/or the sale of programs. The Cable and Other Subscription Programming industry group includes establishments operating studios and facilities for the broadcasting of programs that are typically narrowcast in nature (limited format, such as news, sports, education, and youth-oriented programming) on a subscription or fee basis.",
+  "name": "NAICS-515",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-515",
+  "uuid": "3aeb9b58-47f4-11e9-b210-d663bd873d93",
+  "version": 3
+}

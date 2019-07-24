@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Nonstore Retailers subsector retail merchandise using methods, such as the broadcasting of infomercials, the broadcasting and publishing of direct-response advertising, the publishing of paper and electronic catalogs, door-to-door solicitation, in-home demonstration, selling from portable stalls and distribution through vending machines. Establishments in this subsector include mail-order houses, vending machine operators, home delivery sales, door-to-door sales, party plan sales, electronic shopping, and sales through portable stalls (e.g., street vendors, except food). Establishments engaged in the direct sale (i.e., nonstore) of products, such as home heating oil dealers and newspaper delivery service providers are included in this subsector.",
+  "name": "NAICS-454",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-454",
+  "uuid": "0ab2668a-4838-11e9-8646-d663bd873d93",
+  "version": 1
+}

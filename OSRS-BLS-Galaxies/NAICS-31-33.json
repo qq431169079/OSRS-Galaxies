@@ -1,0 +1,8 @@
+{
+  "description": "The Manufacturing sector comprises establishments engaged in the mechanical, physical, or chemical transformation of materials, substances, or components into new products. Establishments in the Manufacturing sector are often described as plants, factories, or mills and characteristically use power-driven machines and materials-handling equipment. However, establishments that transform materials or substances into new products by hand or in the worker's home and those engaged in selling to the general public products made on the same premises from which they are sold, such as bakeries, candy stores, and custom tailors, may also be included in this sector. Manufacturing establishments may process materials or may contract with other establishments to process their materials for them. Both types of establishments are included in manufacturing.",
+  "name": "NAICS-31-33",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-31-33",
+  "uuid": "223fec04-482a-11e9-8646-d663bd873d93",
+  "version": 2
+}

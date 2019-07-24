@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Hospitals subsector provide medical, diagnostic, and treatment services that include physician, nursing, and other health services to inpatients and the specialized accommodation services required by inpatients. Hospitals may also provide outpatient services as a secondary activity. Establishments in the Hospitals subsector provide inpatient health services, many of which can only be provided using the specialized facilities and equipment that form a significant and integral part of the production process.",
+  "name": "NAICS-622",
+  "namespace": "misp",
+  "type": "OSRS-NAICS-622",
+  "uuid": "712b51f4-4826-11e9-8646-d663bd873d93",
+  "version": 12
+}

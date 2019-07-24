@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Data Processing, Hosting, and Related Services subsector group establishments that provide the infrastructure for hosting and/or data processing services.",
+  "name": "NAICS-518",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-518",
+  "uuid": "fe92429c-47fd-11e9-b210-d663bd873d93",
+  "version": 2
+}

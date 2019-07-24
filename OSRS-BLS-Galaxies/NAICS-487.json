@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Scenic and Sightseeing Transportation subsector utilize transportation equipment to provide recreation and entertainment. These activities have a production process distinct from passenger transportation carried out for the purpose of other types of for-hire transportation. This process does not emphasize efficient transportation; in fact, such activities often use obsolete vehicles, such as steam trains, to provide some extra ambience. The activity is local in nature, usually involving a same-day return to the point of departure.",
+  "name": "NAICS-487",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-487",
+  "uuid": "f6fa46ce-4848-11e9-8646-d663bd873d93",
+  "version": 1
+}

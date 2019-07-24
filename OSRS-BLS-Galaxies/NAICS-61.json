@@ -1,0 +1,8 @@
+{
+  "description": "The Educational Services sector comprises establishments that provide instruction and training in a wide variety of subjects. This instruction and training is provided by specialized establishments, such as schools, colleges, universities, and training centers. These establishments may be privately owned and operated for profit or not for profit, or they may be publicly owned and operated. They may also offer food and/or accommodation services to their students. Educational services are usually delivered by teachers or instructors that explain, tell, demonstrate, supervise, and direct learning. Instruction is imparted in diverse settings, such as educational institutions, the workplace, or the home, and through diverse means, such as correspondence, television, the Internet, or other electronic and distance-learning methods. The training provided by these establishments may include the use of simulators and simulation methods. It can be adapted to the particular needs of the students, for example sign language can replace verbal language for teaching students with hearing impairments. All industries in the sector share this commonality of process, namely, labor inputs of instructors with the requisite subject matter expertise and teaching ability.",
+  "name": "NAICS-61",
+  "namespace": "misp",
+  "type": "OSRS-NAICS-61",
+  "uuid": "792ddae8-47fe-11e9-b210-d663bd873d93",
+  "version": 10
+}

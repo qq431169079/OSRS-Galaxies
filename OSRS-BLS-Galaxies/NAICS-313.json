@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Textile Mills subsector group establishments that transform a basic fiber (natural or synthetic) into a product, such as yarn or fabric that is further manufactured into usable items, such as apparel, sheets, towels, and textile bags for individual or industrial consumption. The further manufacturing may be performed in the same establishment and classified in this subsector, or it may be performed at a separate establishment and be classified elsewhere in manufacturing.",
+  "name": "NAICS-313",
+  "namespace": "misp",
+  "type": "labyrith-NAICS-313",
+  "uuid": "58c49556-4850-11e9-8646-d663bd873d93",
+  "version": 1
+}

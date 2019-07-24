@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Miscellaneous Store Retailers subsector retail merchandise from fixed point-of-sale locations (except new or used motor vehicles and parts; new furniture and home furnishings; new appliances and electronic products; new building materials and garden equipment and supplies; food and beverages; health and personal care goods; gasoline; new clothing and accessories; and new sporting goods, hobby goods, books, and music). Establishments in this subsector include stores with unique characteristics like florists, used merchandise stores, and pet and pet supply stores as well as other store retailers.",
+  "name": "NAICS-453",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-453",
+  "uuid": "8314b2c4-482c-11e9-8646-d663bd873d93",
+  "version": 1
+}

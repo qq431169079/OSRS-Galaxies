@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Waste Management and Remediation Services subsector group establishments engaged in the collection, treatment, and disposal of waste materials. This includes establishments engaged in local hauling of waste materials; operating materials recovery facilities (i.e., those that sort recyclable materials from the trash stream); providing remediation services (i.e., those that provide for the cleanup of contaminated buildings, mine sites, soil, or ground water); and providing septic pumping and other miscellaneous waste management services. There are three industry groups within the subsector that separate these activities into waste collection, waste treatment and disposal, and remediation and other waste management.",
+  "name": "NAICS-562",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-562",
+  "uuid": "28b485d0-4853-11e9-8646-d663bd873d93",
+  "version": 1
+}

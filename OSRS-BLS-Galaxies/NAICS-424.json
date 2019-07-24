@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Merchant Wholesalers, Nondurable Goods subsector sell nondurable goods to other businesses. Nondurable goods are items generally with a normal life expectancy of less than three years. Nondurable goods merchant wholesale trade establishments are engaged in wholesaling products, such as paper and paper products, chemicals and chemical products, drugs, textiles and textile products, apparel, footwear, groceries, farm products, petroleum and petroleum products, alcoholic beverages, books, magazines, newspapers, flowers and nursery stock, and tobacco products.",
+  "name": "NAICS-424",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-424",
+  "uuid": "cad5b560-482a-11e9-8646-d663bd873d93",
+  "version": 1
+}

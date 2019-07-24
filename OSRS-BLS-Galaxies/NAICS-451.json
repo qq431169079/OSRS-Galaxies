@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Sporting Goods, Hobby, Book, and Music Stores subsector are engaged in retailing and providing expertise on use of sporting equipment or other specific leisure activities, such as needlework and musical instruments. Book stores are also included in this subsector.",
+  "name": "NAICS-451",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-451",
+  "uuid": "3f0fea44-484a-11e9-8646-d663bd873d93",
+  "version": 1
+}

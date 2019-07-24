@@ -1,0 +1,8 @@
+{
+  "description": "The Specialty Trade Contractors subsector comprises establishments whose primary activity is performing specific activities (e.g., pouring concrete, site preparation, plumbing, painting, and electrical work) involved in building construction or other activities that are similar for all types of construction, but that are not responsible for the entire project. The work performed may include new work, additions, alterations, maintenance, and repairs. The production work performed by establishments in this subsector is usually subcontracted from establishments of the general contractor type or operative builders, but especially in remodeling and repair construction, work also may be done directly for the owner of the property. Specialty trade contractors usually perform most of their work at the construction site, although they may have shops where they perform prefabrication and other work. Establishments primarily engaged in preparing sites for new construction are also included in this subsector.",
+  "name": "NAICS-238",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-238",
+  "uuid": "e45e2610-4849-11e9-8646-d663bd873d93",
+  "version": 2
+}

@@ -1,0 +1,8 @@
+{
+  "description": "The Mining sector comprises establishments that extract naturally occurring mineral solids, such as coal and ores; liquid minerals, such as crude petroleum; and gases, such as natural gas. The term mining is used in the broad sense to include quarrying, well operations, beneficiating (e.g., crushing, screening, washing, and flotation), and other preparation customarily performed at the mine site, or as a part of mining activity.",
+  "name": "NAICS-21",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-21",
+  "uuid": "b865df08-482b-11e9-8646-d663bd873d93",
+  "version": 2
+}

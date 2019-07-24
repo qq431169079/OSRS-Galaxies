@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Health and Personal Care Stores subsector retail health and personal care merchandise from fixed point-of-sale locations. Establishments in this subsector are characterized principally by the products they retail, and some health and personal care stores may have specialized staff trained in dealing with the products. Staff may include pharmacists, opticians, and other professionals engaged in retailing, advising customers, and/or fitting the product sold to the customer's needs.",
+  "name": "NAICS-446",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-446",
+  "uuid": "7500e510-4825-11e9-8646-d663bd873d93",
+  "version": 3
+}

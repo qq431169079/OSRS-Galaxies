@@ -1,0 +1,8 @@
+{
+  "description": "The Utilities sector comprises establishments engaged in the provision of the following utility services: electric power, natural gas, steam supply, water supply, and sewage removal. Within this sector, the specific activities associated with the utility services provided vary by utility: electric power includes generation, transmission, and distribution; natural gas includes distribution; steam supply includes provision and/or distribution; water supply includes treatment and distribution; and sewage removal includes collection, treatment, and disposal of waste through sewer systems and sewage treatment facilities.",
+  "name": "NAICS-22",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-22",
+  "uuid": "66bedebc-4852-11e9-8646-d663bd873d93",
+  "version": 2
+}

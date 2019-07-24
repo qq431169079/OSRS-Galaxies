@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Rail Transportation subsector provide rail transportation of passengers and/or cargo using railroad rolling stock. The railroads in this subsector primarily either operate on networks, with physical facilities, labor force, and equipment spread over an extensive geographic area, or operate over a short distance on a local rail line.",
+  "name": "NAICS-482",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-482",
+  "uuid": "450e2810-4846-11e9-8646-d663bd873d93",
+  "version": 2
+}

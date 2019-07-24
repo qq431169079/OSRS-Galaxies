@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Plastics and Rubber Products Manufacturing subsector make goods by processing plastics materials and raw rubber. The core technology employed by establishments in this subsector is that of plastics or rubber product production. Plastics and rubber are combined in the same subsector because plastics are increasingly being used as a substitute for rubber; however the subsector is generally restricted to the production of products made of just one material, either solely plastics or rubber.",
+  "name": "NAICS-326",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-326",
+  "uuid": "2c031492-483d-11e9-8646-d663bd873d93",
+  "version": 1
+}

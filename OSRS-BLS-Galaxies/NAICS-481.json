@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Air Transportation subsector provide air transportation of passengers and/or cargo using aircraft, such as airplanes and helicopters. The subsector distinguishes scheduled from nonscheduled air transportation. Scheduled air carriers fly regular routes on regular schedules and operate even if flights are only partially loaded. Nonscheduled carriers often operate during nonpeak time slots at busy airports. These establishments have more flexibility with respect to choice of airport, hours of operation, load factors, and similar operational characteristics. Nonscheduled carriers provide chartered air transportation of passengers, cargo, or specialty flying services. Specialty flying services establishments use general-purpose aircraft to provide a variety of specialized flying services.",
+  "name": "NAICS-481",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-481",
+  "uuid": "9e2bab6c-47f0-11e9-b210-d663bd873d93",
+  "version": 3
+}

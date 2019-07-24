@@ -1,0 +1,8 @@
+{
+  "description": "The Wholesale Trade sector comprises establishments engaged in wholesaling merchandise, generally without transformation, and rendering services incidental to the sale of merchandise. The merchandise described in this sector includes the outputs of agriculture, mining, manufacturing, and certain information industries, such as publishing. The wholesaling process is an intermediate step in the distribution of merchandise. Wholesalers are organized to sell or arrange the purchase or sale of (a) goods for resale (i.e., goods sold to other wholesalers or retailers), (b) capital or durable nonconsumer goods, and (c) raw and intermediate materials and supplies used in production. Wholesalers sell merchandise to other businesses and normally operate from a warehouse or office. These warehouses and offices are characterized by having little or no display of merchandise. In addition, neither the design nor the location of the premises is intended to solicit walk-in traffic. Wholesalers do not normally use advertising directed to the general public. Customers are generally reached initially via telephone, in-person marketing, or by specialized advertising that may include Internet and other electronic means. Follow-up orders are either vendor-initiated or client-initiated, generally based on previous sales, and typically exhibit strong ties between sellers and buyers. In fact, transactions are often conducted between wholesalers and clients that have long-standing business relationships.",
+  "name": "NAICS-42",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-42",
+  "uuid": "307ebf1e-4854-11e9-8646-d663bd873d93",
+  "version": 1
+}

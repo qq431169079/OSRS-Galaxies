@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Telecommunications subsector group establishments that provide telecommunications and the services related to that activity (e.g., telephony, including Voice over Internet Protocol (VoIP); cable and satellite television distribution services; Internet access; telecommunications reselling services). The Telecommunications subsector is primarily engaged in operating, and/or providing access to facilities for the transmission of voice, data, text, sound, and video. Transmission facilities may be based on a single technology or a combination of technologies.",
+  "name": "NAICS-517",
+  "namespace": "misp",
+  "type": "OSRS-NAICS-517",
+  "uuid": "70d51acc-484f-11e9-8646-d663bd873d93",
+  "version": 3
+}

@@ -1,0 +1,8 @@
+{
+  "description": "The Monetary Authorities-Central Bank subsector groups establishments that engage in performing central banking functions, such as issuing currency, managing the Nation's money supply and international reserves, holding deposits that represent the reserves of other banks and other central banks, and acting as a fiscal agent for the central government.",
+  "name": "NAICS-521",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-521",
+  "uuid": "cd413ea8-482c-11e9-8646-d663bd873d93",
+  "version": 1
+}

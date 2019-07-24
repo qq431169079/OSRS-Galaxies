@@ -1,0 +1,8 @@
+{
+  "description": "The Arts, Entertainment, and Recreation sector includes a wide range of establishments that operate facilities or provide services to meet varied cultural, entertainment, and recreational interests of their patrons. This sector comprises (1) establishments that are involved in producing, promoting, or participating in live performances, events, or exhibits intended for public viewing; (2) establishments that preserve and exhibit objects and sites of historical, cultural, or educational interest; and (3) establishments that operate facilities or provide services that enable patrons to participate in recreational activities or pursue amusement, hobby, and leisure-time interests.  Some establishments that provide cultural, entertainment, or recreational facilities and services are classified in other sectors.",
+  "name": "NAICS-71",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-71",
+  "uuid": "20ef7d42-47f3-11e9-b210-d663bd873d93",
+  "version": 3
+}

@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Clothing and Clothing Accessories Stores subsector retail new clothing and clothing accessories merchandise from fixed point-of-sale locations. Establishments in this subsector have similar display equipment and staff that is knowledgeable regarding fashion trends and the proper match of styles, colors, and combinations of clothing and accessories to the characteristics and tastes of the customer.",
+  "name": "NAICS-448",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-448",
+  "uuid": "57f73e04-47f5-11e9-b210-d663bd873d93",
+  "version": 1
+}

@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Performing Arts, Spectator Sports, and Related Industries subsector group establishments that produce or organize and promote live presentations involving the performances of actors and actresses, singers, dancers, musical groups and artists, athletes, and other entertainers, including independent (i.e., freelance) entertainers and the establishments that manage their careers. The classification recognizes four basic processes: (1) producing (i.e., presenting) events; (2) organizing, managing, and/or promoting events; (3) managing and representing entertainers; and (4) providing the artistic, creative and technical skills necessary to the production of these live events. Also, this subsector contains four industries for performing arts companies. Each is defined on the basis of the particular skills of the entertainers involved in the presentations.",
+  "name": "NAICS-711",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-711",
+  "uuid": "e1b6d780-483b-11e9-8646-d663bd873d93",
+  "version": 5
+}

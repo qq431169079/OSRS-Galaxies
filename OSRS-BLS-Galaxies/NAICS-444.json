@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Building Material and Garden Equipment and Supplies Dealers subsector retail new building material and garden equipment and supplies from fixed point-of-sale locations. Establishments in this subsector have display equipment designed to handle lumber and related products and garden equipment and supplies that may be kept either indoors or outdoors under covered areas. The staff is usually knowledgeable in the use of the specific products being retailed in the construction, repair, and maintenance of the home and associated grounds.",
+  "name": "NAICS-444",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-444",
+  "uuid": "9f46aaca-47f4-11e9-b210-d663bd873d93",
+  "version": 2
+}

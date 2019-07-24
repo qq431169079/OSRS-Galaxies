@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Wood Product Manufacturing subsector manufacture wood products, such as lumber, plywood, veneers, wood containers, wood flooring, wood trusses, manufactured homes (i.e., mobile homes), and prefabricated wood buildings. The production processes of the Wood Product Manufacturing subsector include sawing, planing, shaping, laminating, and assembling of wood products starting from logs that are cut into bolts, or lumber that then may be further cut, or shaped by lathes or other shaping tools. The lumber or other transformed wood shapes may also be subsequently planed or smoothed, and assembled into finished products, such as wood containers. The Wood Product Manufacturing subsector includes establishments that make wood products from logs and bolts that are sawed and shaped, and establishments that purchase sawed lumber and make wood products. With the exception of sawmills and wood preservation establishments, the establishments are grouped into industries mainly based on the specific products manufactured.",
+  "name": "NAICS-321",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-321",
+  "uuid": "75b9bea8-4854-11e9-8646-d663bd873d93",
+  "version": 1
+}

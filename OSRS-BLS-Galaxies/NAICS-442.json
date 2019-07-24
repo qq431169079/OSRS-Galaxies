@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Furniture and Home Furnishings Stores subsector retail new furniture and home furnishings from fixed point-of-sale locations. Establishments in this subsector usually operate from showrooms and have substantial areas for the presentation of their products. Many offer interior decorating services in addition to the sale of products.",
+  "name": "NAICS-442",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-442",
+  "uuid": "abb3db62-4802-11e9-b210-d663bd873d93",
+  "version": 1
+}

@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Fabricated Metal Product Manufacturing subsector transform metal into intermediate or end products, other than machinery, computers and electronics, and metal furniture, or treat metals and metal formed products fabricated elsewhere. Important fabricated metal processes are forging, stamping, bending, forming, and machining, used to shape individual pieces of metal; and other processes, such as welding and assembling, used to join separate parts together. Establishments in this subsector may use one of these processes or a combination of these processes.",
+  "name": "NAICS-332",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-332",
+  "uuid": "949800dc-47ff-11e9-b210-d663bd873d93",
+  "version": 1
+}

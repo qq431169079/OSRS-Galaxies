@@ -1,0 +1,8 @@
+{
+  "description": "The Construction of Buildings subsector comprises establishments primarily responsible for the construction of buildings. The work performed may include new work, additions, alterations, or maintenance and repairs. The on-site assembly of precut, panelized, and prefabricated buildings and construction of temporary buildings are included in this subsector. Part or all of the production work for which the establishments in this subsector have responsibility may be subcontracted to other construction establishments—usually specialty trade contractors.",
+  "name": "NAICS-236",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-236",
+  "uuid": "1340db74-47f7-11e9-b210-d663bd873d93",
+  "version": 1
+}

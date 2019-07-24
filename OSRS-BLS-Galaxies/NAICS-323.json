@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Printing and Related Support Activities subsector print products, such as newspapers, books, labels, business cards, stationery, business forms, and other materials, and perform support activities, such as data imaging, platemaking services, and bookbinding. The support activities included here are an integral part of the printing industry, and a product (a printing plate, a bound book, or a computer disk or file) that is an integral part of the printing industry is almost always provided by these operations.",
+  "name": "NAICS-323",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-323",
+  "uuid": "b96ff916-483e-11e9-8646-d663bd873d93",
+  "version": 1
+}

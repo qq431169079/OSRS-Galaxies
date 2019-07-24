@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Primary Metal Manufacturing subsector smelt and/or refine ferrous and nonferrous metals from ore, pig or scrap, using electrometallurgical and other process metallurgical techniques. Establishments in this subsector also manufacture metal alloys and superalloys by introducing other chemical elements to pure metals. The output of smelting and refining, usually in ingot form, is used in rolling, drawing, and extruding operations to make sheet, strip, bar, rod, or wire, and in molten form to make castings and other basic metal products.",
+  "name": "NAICS-331",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-331",
+  "uuid": "b0706504-483d-11e9-8646-d663bd873d93",
+  "version": 1
+}

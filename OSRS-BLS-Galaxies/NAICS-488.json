@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Support Activities for Transportation subsector provide services which support transportation. These services may be provided to transportation carrier establishments or to the general public. This subsector includes a wide array of establishments, including air traffic control services, marine cargo handling, and motor vehicle towing.",
+  "name": "NAICS-488",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-488",
+  "uuid": "1f0d6852-484f-11e9-8646-d663bd873d93",
+  "version": 2
+}

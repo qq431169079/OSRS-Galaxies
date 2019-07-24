@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Warehousing and Storage subsector are primarily engaged in operating warehousing and storage facilities for general merchandise, refrigerated goods, and other warehouse products. These establishments provide facilities to store goods. They do not sell the goods they handle. These establishments take responsibility for storing the goods and keeping them secure. They may also provide a range of services, often referred to as logistics services, related to the distribution of goods. Logistics services can include labeling, breaking bulk, inventory control and management, light assembly, order entry and fulfillment, packaging, pick and pack, price marking and ticketing, and transportation arrangement. However, establishments in this industry group always provide warehousing or storage services in addition to any logistic services. Furthermore, the warehousing or storage of goods must be more than incidental to the performance of services, such as price marking.",
+  "name": "NAICS-493",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-493",
+  "uuid": "ba531098-4852-11e9-8646-d663bd873d93",
+  "version": 1
+}

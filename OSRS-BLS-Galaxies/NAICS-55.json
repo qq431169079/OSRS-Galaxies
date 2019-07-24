@@ -1,0 +1,8 @@
+{
+  "description": "The Management of Companies and Enterprises sector comprises (1) establishments that hold the securities of (or other equity interests in) companies and enterprises for the purpose of owning a controlling interest or influencing management decisions or (2) establishments (except government establishments) that administer, oversee, and manage establishments of the company or enterprise and that normally undertake the strategic or organizational planning and decision making role of the company or enterprise. Establishments that administer, oversee, and manage may hold the securities of the company or enterprise. Establishments in this sector perform essential activities that are often undertaken, in-house, by establishments in many sectors of the economy. By consolidating the performance of these activities of the enterprise at one establishment, economies of scale are achieved.",
+  "name": "NAICS-55",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-55",
+  "uuid": "bb7e50f0-4829-11e9-8646-d663bd873d93",
+  "version": 3
+}

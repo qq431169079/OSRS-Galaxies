@@ -1,0 +1,8 @@
+{
+  "description": "The Accommodation and Food Services sector comprises establishments providing customers with lodging and/or preparing meals, snacks, and beverages for immediate consumption. The sector includes both accommodation and food services establishments because the two activities are often combined at the same establishment.",
+  "name": "NAICS-72",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-72",
+  "uuid": "0cb57c6a-477a-11e9-b210-d663bd873d93",
+  "version": 1
+}

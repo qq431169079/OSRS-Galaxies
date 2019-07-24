@@ -1,0 +1,7 @@
+{
+  "description": "Industries in the Animal Production subsector raise or fatten animals for the sale of animals or animal products. The subsector comprises establishments, such as ranches, farms, and feedlots primarily engaged in keeping, grazing, breeding, or feeding animals. These animals are kept for the products they produce or for eventual sale. The animals are generally raised in various environments, from total confinement or captivity to feeding on an open range pasture. Establishments primarily engaged in the farm raising and production of aquatic animals or plants in controlled or selected aquatic environments are included in this subsector.",
+  "name": "NAICS-112",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-112",
+  "uuid": "426857ec-47f2-11e9-b210-d663bd873d93",
+}

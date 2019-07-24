@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Credit Intermediation and Related Activities subsector group establishments that (1) lend funds raised from depositors; (2) lend funds raised from credit market borrowing; or (3) facilitate the lending of funds or issuance of credit by engaging in such activities as mortgage and loan brokerage, clearinghouse and reserve services, and check cashing services.",
+  "name": "NAICS-522",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-522",
+  "uuid": "ee91055a-47f7-11e9-b210-d663bd873d93",
+  "version": 1
+}

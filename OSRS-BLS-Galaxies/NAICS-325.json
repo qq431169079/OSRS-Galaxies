@@ -1,0 +1,8 @@
+{
+  "description": "The Chemical Manufacturing subsector is based on the transformation of organic and inorganic raw materials by a chemical process and the formulation of products. This subsector distinguishes the production of basic chemicals that comprise the first industry group from the production of intermediate and end products produced by further processing of basic chemicals that make up the remaining industry groups.",
+  "name": "NAICS-325",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-325",
+  "uuid": "f27f8fb8-47f4-11e9-b210-d663bd873d93",
+  "version": 2
+}

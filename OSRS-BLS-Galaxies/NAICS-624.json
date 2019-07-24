@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Social Assistance subsector provide a wide variety of social assistance services directly to their clients. These services do not include residential or accommodation services, except on a short stay basis.",
+  "name": "NAICS-624",
+  "namespace": "misp",
+  "type": "OSRS-NAICS-624",
+  "uuid": "996ade00-4849-11e9-8646-d663bd873d93",
+  "version": 2
+}

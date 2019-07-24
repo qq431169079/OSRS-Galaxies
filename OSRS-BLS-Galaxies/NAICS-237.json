@@ -1,0 +1,8 @@
+{
+  "description": "The Heavy and Civil Engineering Construction subsector comprises establishments whose primary activity is the construction of entire engineering projects (e.g., highways and dams), and specialty trade contractors, whose primary activity is the production of a specific component for such projects. Specialty trade contractors in Heavy and Civil Engineering Construction generally are performing activities that are specific to heavy and civil engineering construction projects and are not normally performed on buildings. The work performed may include new work, additions, alterations, or maintenance and repairs.",
+  "name": "NAICS-237",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-237",
+  "uuid": "21547192-4826-11e9-8646-d663bd873d93",
+  "version": 1
+}

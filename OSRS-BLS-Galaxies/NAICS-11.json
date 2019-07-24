@@ -1,0 +1,8 @@
+{
+  "description": "The Agriculture, Forestry, Fishing and Hunting sector comprises establishments primarily engaged in growing crops, raising animals, harvesting timber, and harvesting fish and other animals from a farm, ranch, or their natural habitats.  The establishments in this sector are often described as farms, ranches, dairies, greenhouses, nurseries, orchards, or hatcheries. A farm may consist of a single tract of land or a number of separate tracts which may be held under different tenures. For example, one tract may be owned by the farm operator and another rented. It may be operated by the operator alone or with the assistance of members of the household or hired employees, or it may be operated by a partnership, corporation, or other type of organization. When a landowner has one or more tenants, renters, croppers, or managers, the land operated by each is considered a farm.",
+  "name": "NAICS-11",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-11",
+  "uuid": "3cd9ecb6-47f0-11e9-b210-d663bd873d93",
+  "version": 1
+}

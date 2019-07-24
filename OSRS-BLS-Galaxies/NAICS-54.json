@@ -1,0 +1,8 @@
+{
+  "description": "The Professional, Scientific, and Technical Services sector comprises establishments that specialize in performing professional, scientific, and technical activities for others. These activities require a high degree of expertise and training. The establishments in this sector specialize according to expertise and provide these services to clients in a variety of industries and, in some cases, to households. Activities performed include: legal advice and representation; accounting, bookkeeping, and payroll services; architectural, engineering, and specialized design services; computer services; consulting services; research services; advertising services; photographic services; translation and interpretation services; veterinary services; and other professional, scientific, and technical services.",
+  "name": "NAICS-54",
+  "namespace": "misp",
+  "type": "OSRS-NAICS-54",
+  "uuid": "4fb9f7a0-483f-11e9-8646-d663bd873d93",
+  "version": 19
+}

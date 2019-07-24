@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Miscellaneous Manufacturing subsector make a wide range of products that cannot readily be classified in specific NAICS subsectors in manufacturing. Processes used by these establishments vary significantly, both among and within industries. For example, a variety of manufacturing processes are used in manufacturing sporting and athletic goods that include products such as tennis racquets and golf balls. The processes for these products differ from each other, and the processes differ significantly from the fabrication processes used in making dolls or toys, the melting and shaping of precious metals to make jewelry, and the bending, forming, and assembly used in making medical products.",
+  "name": "NAICS-339",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-339",
+  "uuid": "330d209a-482c-11e9-8646-d663bd873d93",
+  "version": 2
+}

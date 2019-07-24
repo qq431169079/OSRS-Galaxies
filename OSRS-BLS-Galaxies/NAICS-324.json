@@ -1,0 +1,8 @@
+{
+  "description": "The Petroleum and Coal Products Manufacturing subsector is based on the transformation of crude petroleum and coal into usable products. The dominant process is petroleum refining that involves the separation of crude petroleum into component products through such techniques as cracking and distillation. In addition, this subsector includes establishments that primarily further process refined petroleum and coal products and produce products, such as asphalt coatings and petroleum lubricating oils.",
+  "name": "NAICS-324",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-324",
+  "uuid": "8e0d4c8a-483c-11e9-8646-d663bd873d93",
+  "version": 1
+}

@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Apparel Manufacturing subsector group establishments with two distinct manufacturing processes: (1) cut and sew (i.e., purchasing fabric and cutting and sewing to make a garment), and (2) the manufacture of garments in establishments that first knit fabric and then cut and sew the fabric into a garment. The Apparel Manufacturing subsector includes a diverse range of establishments manufacturing full lines of ready-to-wear apparel and custom apparel: apparel contractors, performing cutting or sewing operations on materials owned by others; jobbers performing entrepreneurial functions involved in apparel manufacture; and tailors, manufacturing custom garments for individual clients are all included. Knitting, when done alone, is classified in the Textile Mills subsector, but when knitting is combined with the production of complete garments, the activity is classified in Apparel Manufacturing.",
+  "name": "NAICS-315",
+  "namespace": "misp",
+  "type": "OSRS-NAICS-315",
+  "uuid": "b232871e-47f2-11e9-b210-d663bd873d93",
+  "version": 2
+}

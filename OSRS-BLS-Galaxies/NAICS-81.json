@@ -1,0 +1,8 @@
+{
+  "description": "The Other Services (except Public Administration) sector comprises establishments engaged in providing services not specifically provided for elsewhere in the classification system. Establishments in this sector are primarily engaged in activities, such as equipment and machinery repairing, promoting or administering religious activities, grantmaking, advocacy, and providing drycleaning and laundry services, personal care services, death care services, pet care services, photofinishing services, temporary parking services, and dating services.",
+  "name": "NAICS-81",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-81",
+  "uuid": "54cc3182-4839-11e9-8646-d663bd873d93",
+  "version": 3
+}

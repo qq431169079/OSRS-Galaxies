@@ -1,0 +1,8 @@
+{
+  "description": "The Transportation and Warehousing sector includes industries providing transportation of passengers and cargo, warehousing and storage for goods, scenic and sightseeing transportation, and support activities related to modes of transportation. Establishments in these industries use transportation equipment or transportation related facilities as a productive asset. The type of equipment depends on the mode of transportation. The modes of transportation are air, rail, water, road, and pipeline.",
+  "name": "NAICS-48-49",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-48-49",
+  "uuid": "c8c0318e-4851-11e9-8646-d663bd873d93",
+  "version": 2
+}

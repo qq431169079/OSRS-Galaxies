@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Support Activities for Agriculture and Forestry subsector provide support services that are an essential part of agricultural and forestry production. These support activities may be performed by the agriculture or forestry producing establishment or conducted independently as an alternative source of inputs required for the production process for a given crop, animal, or forestry industry. Establishments that primarily perform these activities independent of the agriculture or forestry producing establishment are in this subsector.",
+  "name": "NAICS-115",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-115",
+  "uuid": "90dff83c-484a-11e9-8646-d663bd873d93",
+  "version": 1
+}

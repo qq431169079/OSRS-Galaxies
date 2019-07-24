@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Transit and Ground Passenger Transportation subsector include a variety of passenger transportation activities, such as urban transit systems; chartered bus, school bus, and interurban bus transportation; and taxis. These activities are distinguished based primarily on such production process factors as vehicle types, routes, and schedules.",
+  "name": "NAICS-485",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-485",
+  "uuid": "4106e21a-4851-11e9-8646-d663bd873d93",
+  "version": 1
+}

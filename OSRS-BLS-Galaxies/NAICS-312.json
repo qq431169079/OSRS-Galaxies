@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Beverage and Tobacco Product Manufacturing subsector manufacture beverages and tobacco products. The industry group, Beverage Manufacturing, includes three types of establishments: (1) those that manufacture nonalcoholic beverages; (2) those that manufacture alcoholic beverages through the fermentation process; and (3) those that produce distilled alcoholic beverages. Ice manufacturing, while not a beverage, is included with nonalcoholic beverage manufacturing because it uses the same production process as water purification. The industry group, Tobacco Manufacturing, includes two types of establishments: (1) those engaged in redrying and stemming tobacco and, (2) those that manufacture tobacco products, such as cigarettes and cigars.",
+  "name": "NAICS-312",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-312",
+  "uuid": "c822b214-47f3-11e9-b210-d663bd873d93",
+  "version": 1
+}

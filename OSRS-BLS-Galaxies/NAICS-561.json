@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Administrative and Support Services subsector group establishments engaged in activities that support the day-to-day operations of other organizations. The processes employed in this sector (e.g., general management, personnel administration, clerical activities, cleaning activities) are often integral parts of the activities of establishments found in all sectors of the economy. The establishments classified in this subsector have specialization in one or more of these activities and can, therefore, provide services to clients in a variety of industries and, in some cases, to households. The individual industries of this subsector are defined on the basis of the particular process that they are engaged in and the particular services they provide.",
+  "name": "NAICS-561",
+  "namespace": "misp",
+  "type": "OSRS-NAICS-561",
+  "uuid": "fb32e1b0-477b-11e9-b210-d663bd873d93",
+  "version": 3
+}

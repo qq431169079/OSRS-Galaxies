@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Nursing and Residential Care Facilities subsector provide residential care combined with either nursing, supervisory, or other types of care as required by the residents. In this subsector, the facilities are a significant part of the production process and the care provided is a mix of health and social services with the health services being largely some level of nursing services.",
+  "name": "NAICS-623",
+  "namespace": "misp",
+  "type": "OSRS-NAICS-623",
+  "uuid": "54898aa4-4838-11e9-8646-d663bd873d93",
+  "version": 5
+}

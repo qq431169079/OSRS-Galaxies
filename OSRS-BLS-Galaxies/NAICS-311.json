@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Food Manufacturing subsector transform livestock and agricultural products into products for intermediate or final consumption. The industry groups are distinguished by the raw materials (generally of animal or vegetable origin) processed into food products. The food products manufactured in these establishments are typically sold to wholesalers or retailers for distribution to consumers, but establishments primarily engaged in retailing bakery and candy products made on the premises not for immediate consumption are included.",
+  "name": "NAICS-311",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-311",
+  "uuid": "b82af4f4-4800-11e9-b210-d663bd873d93",
+  "version": 1
+}

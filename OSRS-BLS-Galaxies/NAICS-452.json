@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the General Merchandise Stores subsector retail new general merchandise from fixed point-of-sale locations. Establishments in this subsector are unique in that they have the equipment and staff capable of retailing a large variety of goods from a single location. This includes a variety of display equipment and staff trained to provide information on many lines of products.",
+  "name": "NAICS-452",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-452",
+  "uuid": "7b58b65a-4824-11e9-8646-d663bd873d93",
+  "version": 1
+}

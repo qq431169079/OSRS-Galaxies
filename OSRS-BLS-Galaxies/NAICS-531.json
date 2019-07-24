@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Real Estate subsector group establishments that are primarily engaged in renting or leasing real estate to others; managing real estate for others; selling, buying, or renting real estate for others; and providing other real estate related services, such as appraisal services. This subsector includes equity Real Estate Investment Trusts (REITs) that are primarily engaged in leasing buildings, dwellings, or other real estate property to others.",
+  "name": "NAICS-531",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-531",
+  "uuid": "a7b0c658-4846-11e9-8646-d663bd873d93",
+  "version": 1
+}
