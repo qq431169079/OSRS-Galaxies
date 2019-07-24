@@ -1,0 +1,60 @@
+{
+	"category": "NAICS-446",
+	"description": "Industries in the Health and Personal Care Stores subsector retail health and personal care merchandise from fixed point-of-sale locations. Establishments in this subsector are characterized principally by the products they retail, and some health and personal care stores may have specialized staff trained in dealing with the products. Staff may include pharmacists, opticians, and other professionals engaged in retailing, advising customers, and/or fitting the product sold to the customer's needs.",
+	"name": "NAICS-446",
+	"source": "BLS Industries at a Glance",
+	"type": "labyrinth-NAICS-446",
+	"uuid": "7500e510-4825-11e9-8646-d663bd873d93",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag446.htm"
+				]
+			},
+			"uuid": "53291120-48ec-11e9-8646-d663bd873d93",
+			"value": "Test Health and Personal Care Stores Value"
+		},
+		{
+			"description": "Herbalife Nutrition is a global multi-level marketing corporation that develops, markets, and sells dietary supplements, weight management, sports nutrition, and personal-care products. The company was founded by Mark Hughes in 1980, and it employs an estimated 8,000 people worldwide.",
+			"meta": {
+				"refs": [
+					"https://www.herbalife.com/"
+				]
+			},
+			"uuid": "c11ac5c2-4b2e-11e9-8646-d663bd873d93",
+			"value": "Herbalife"
+		},
+		{
+			"description": "Online health and wellness resource that also sells health and wellness suppliments.",
+			"meta": {
+				"refs": [
+					"https://www.bodybuilding.com/index.html"
+				]
+			},
+			"uuid": "609f4c94-65e7-11e9-a923-1681be663d3e",
+			"value": "Bodybuilding.com"
+		},
+		{
+			"description": "Medical supplies shipped free right to your home from Edgepark Medical Supplies – the nationwide leader in home-delivered medical products.",
+			"meta": {
+				"refs": [
+					"https://www.edgepark.com/"
+				]
+			},
+			"uuid": "01482292-abc0-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Edgepark Medical Supplies"
+		},
+		{
+			"description": "A Canadian producer of medical cannabis under the Access to Cannabis for Medical Purposes Regulations (ACMPR).",
+			"meta": {
+				"refs": [
+					"https://www.redecan.ca/"
+				]
+			},
+			"uuid": "451497e0-4b2f-11e9-8646-d663bd873d93",
+			"value": "RedeCan"
+		}
+	],
+	"version": 3
+}

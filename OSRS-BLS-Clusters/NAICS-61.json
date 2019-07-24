@@ -1,0 +1,320 @@
+{
+	"category": "NAICS-61",
+	"description": "The Educational Services sector comprises establishments that provide instruction and training in a wide variety of subjects. This instruction and training is provided by specialized establishments, such as schools, colleges, universities, and training centers. These establishments may be privately owned and operated for profit or not for profit, or they may be publicly owned and operated. They may also offer food and/or accommodation services to their students. Educational services are usually delivered by teachers or instructors that explain, tell, demonstrate, supervise, and direct learning. Instruction is imparted in diverse settings, such as educational institutions, the workplace, or the home, and through diverse means, such as correspondence, television, the Internet, or other electronic and distance-learning methods. The training provided by these establishments may include the use of simulators and simulation methods. It can be adapted to the particular needs of the students, for example sign language can replace verbal language for teaching students with hearing impairments. All industries in the sector share this commonality of process, namely, labor inputs of instructors with the requisite subject matter expertise and teaching ability.",
+	"name": "NAICS-61",
+	"source": "BLS Industries at a Glance",
+	"type": "OSRS-NAICS-61",
+	"uuid": "792ddae8-47fe-11e9-b210-d663bd873d93",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag61.htm"
+				]
+			},
+			"uuid": "ee6ac540-48c2-11e9-8646-d663bd873d93",
+			"value": "Test Educational Services Value"
+		},
+		{
+			"description": "Florida Keys Community College is a community college in Key West, Florida. Its main campus is on Stock Island, adjacent to what it purports to be the only living coral reef in North America. FKCC also operates two additional campuses in the Florida Keys; one in Marathon and another in Key Largo.",
+			"meta": {
+				"refs": [
+					"https://www.fkcc.edu/"
+				]
+			},
+			"uuid": "3203b118-4b20-11e9-8646-d663bd873d93",
+			"value": "Florida Keys Community College"
+		},
+		{
+			"description": "The University of Waterloo is a public research university with a main campus in Waterloo, Ontario, Canada. The main campus is on 404 hectares of land adjacent to Uptown Waterloo and Waterloo Park. The university offers academic programs administered by six faculties and ten faculty-based schools.",
+			"meta": {
+				"refs": [
+					"https://uwaterloo.ca/"
+				]
+			},
+			"uuid": "ae2e9dca-4b20-11e9-8646-d663bd873d93",
+			"value": "University of Waterloo"
+		},
+		{
+			"description": "Grinnell College is a private liberal arts college in Grinnell, Iowa. It was founded in 1846 when a group of New England Congregationalists established the Trustees of Iowa College. Grinnell is known for its rigorous academics, innovative pedagogy, and commitment to social justice.",
+			"meta": {
+				"refs": [
+					"https://www.grinnell.edu/"
+				]
+			},
+			"uuid": "f40209d6-4b20-11e9-8646-d663bd873d93",
+			"value": "Grinnell College"
+		},
+		{
+			"description": "Hamilton College is a private, nonsectarian liberal arts college in Clinton, New York. It was founded as Hamilton-Oneida Academy in 1793, and was chartered as Hamilton College in 1812 in honor of inaugural trustee Alexander Hamilton.",
+			"meta": {
+				"refs": [
+					"https://www.hamilton.edu/"
+				]
+			},
+			"uuid": "2e39549c-4b21-11e9-8646-d663bd873d93",
+			"value": "Hamilton College"
+		},
+		{
+			"description": "Oberlin is a place of intense energy and creativity, built on a foundation of academic, artistic, and musical excellence. With a top-ranking liberal arts college, a world-class conservatory, and a first-rate art museum all on a single campus, it is the ideal laboratory in which to study and design the world you want.",
+			"meta": {
+				"refs": [
+					"https://www.oberlin.edu/about-oberlin"
+				]
+			},
+			"uuid": "64237772-4b21-11e9-8646-d663bd873d93",
+			"value": "Oberlin College"
+		},
+		{
+			"description": "Atlantic School of Theology is a Canadian public ecumenical university that provides graduate level theological education and undertakes research to assist students to prepare for Christian ministries and other forms of public leadership.",
+			"meta": {
+				"refs": [
+					"http://www.astheology.ns.ca/home/welcome.html"
+				]
+			},
+			"uuid": "8899f63a-4b21-11e9-8646-d663bd873d93",
+			"value": "Atlantic School of Theology"
+		},
+		{
+			"description": "The Sir John Colfox Academy is a coeducational secondary school and sixth form located in Bridport in the English county of Dorset. Previously a community school administered by Dorset County Council, the Sir John Colfox School converted to academy status in May 2015 and was renamed the Sir John Colfox Academy.",
+			"meta": {
+				"refs": [
+					"https://www.colfox.org/"
+				]
+			},
+			"uuid": "b3d23d1e-4ff2-11e9-8647-d663bd873d93",
+			"value": "The Sir John Colfox Academy"
+		},
+		{
+			"description": "The Georgia Institute of Technology, commonly referred to as Georgia Tech, is a public research university and institute of technology in Atlanta, Georgia. It is part of the University System of Georgia and has satellite campuses in Savannah, Georgia; Metz, France; Athlone, Ireland; Shenzhen, China; and Singapore.",
+			"meta": {
+				"refs": [
+					"https://www.gatech.edu/"
+				]
+			},
+			"uuid": "1f1a8294-5bfa-11e9-8647-d663bd873d93",
+			"value": "Georgia Institute of Technology"
+		},
+		{
+			"description": "Berkeley High School is a public high school in the Berkeley Unified School District, and the only public high school in the city of Berkeley, California, United States.",
+			"meta": {
+				"refs": [
+					"https://bhs.berkeleyschools.net/"
+				]
+			},
+			"uuid": "88059bfa-6b53-11e9-a923-1681be663d3e",
+			"value": "Berkeley High School, CA"
+		},
+		{
+			"description": "The University of Toledo, commonly referred to as U of Toledo or UT, is a public research university located in Toledo, Ohio, United States.",
+			"meta": {
+				"refs": [
+					"https://www.utoledo.edu/"
+				]
+			},
+			"uuid": "88059fb0-6b53-11e9-a923-1681be663d3e",
+			"value": "University of Toledo"
+		},
+		{
+			"description": "Community College of Allegheny County is a community college in the Pittsburgh, Pennsylvania area. With four campuses and four centers, the college offers associate's degrees, certificate and diploma programs.",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag61.htm"
+				]
+			},
+			"uuid": "8805a14a-6b53-11e9-a923-1681be663d3e",
+			"value": "Community College of Allegheny County"
+		},
+		{
+			"description": "The University of Alaska Fairbanks, also referred to as UAF or Alaska, is a public research university in College, Alaska. It is a flagship campus of the University of Alaska system and a land-grant, sea-grant, and space-grant institution. The University of Alaska Museum of the North is also on the Fairbanks campus.",
+			"meta": {
+				"refs": [
+					"https://www.alaska.edu/"
+				]
+			},
+			"uuid": "8805a28a-6b53-11e9-a923-1681be663d3e",
+			"value": "University of Alaska"
+		},
+		{
+			"description": "Seattle University is a private Jesuit university in Seattle, Washington. SU is the largest independent university in the Northwest US, with over 7,500 students enrolled in undergraduate and graduate.",
+			"meta": {
+				"refs": [
+					"https://www.seattleu.edu/"
+				]
+			},
+			"uuid": "17883088-6cf0-11e9-a923-1681be663d3e",
+			"value": "Seattle University"
+		},
+		{
+			"description": "Buena Vista Horace Mann K-8 Community School is a K–8th grade public elementary and middle school in the Mission District of San Francisco, California with the proud distinction of being San Francisco Unified School District’s first Two-Way Spanish Immersion School.",
+			"meta": {
+				"refs": [
+					"http://www.wearebvhm.com/"
+				]
+			},
+			"uuid": "5a7ac334-7104-11e9-a923-1681be663d3e",
+			"value": "Buena Vista Horace Mann"
+		},
+		{
+			"description": "Augustana College is a private liberal arts college in Rock Island, Illinois, United States. The college enrolls approximately 2,500 students. Covering 115 acres of hilly, wooded land, Augustana is adjacent to the Mississippi River.",
+			"meta": {
+				"refs": [
+					"https://www.augustana.edu/"
+				]
+			},
+			"uuid": "cca17450-7bd4-11e9-8f9e-2a86e4085a59",
+			"value": "Augustana College"
+		},
+		{
+			"description": "The Australian National University is a national research university located in Canberra, the capital of Australia. Its main campus in Acton encompasses seven teaching and research colleges, in addition to several national academies and institutes.",
+			"meta": {
+				"refs": [
+					"https://www.anu.edu.au/"
+				]
+			},
+			"uuid": "5b3d6b62-8d3f-11e9-bc42-526af7764f64",
+			"value": "The Australian National University"
+		},
+		{
+			"description": "The University of Chicago Medicine, with a history dating to 1927, is a not-for-profit academic medical health system based on the campus of the University of Chicago in Hyde Park, and with hospitals, outpatient clinics and physician practices throughout Chicago and its suburbs. UChicago Medicine unites five organizations to fulfill its tripartite mission of medical education, research and patient care; Pritzker School of Medicine, Biological Sciences Division, Medical Center, Community Health and Hospital Division, and UChicago Medicine Physicians.",
+			"meta": {
+				"refs": [
+					"https://www.uchicagomedicine.org/"
+				]
+			},
+			"uuid": "5b3d6dec-8d3f-11e9-bc42-526af7764f64",
+			"value": "The University of Chicago Medicine"
+		},
+		{
+			"description": "Shanghai Jiao Tong University is a major research university in Shanghai. Established in 1896 as Nanyang Public School by an imperial edict issued by the Guangxu Emperor, it has been referred to as The MIT of the East since the 1930s.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Shanghai_Jiao_Tong_University"
+				]
+			},
+			"uuid": "5b3d6fc2-8d3f-11e9-bc42-526af7764f64",
+			"value": "Shanghai Jiao Tong University"
+		},
+		{
+			"description": "Australian Catholic University is a public university in Australia. It has seven Australian campuses, and also maintains a campus in Rome. In 2016 it had 24,458 students. ACU is made up of four faculties, which offer bachelor, master and doctoral degrees.",
+			"meta": {
+				"refs": [
+					"https://www.acu.edu.au/"
+				]
+			},
+			"uuid": "1e83c638-95ed-11e9-bc42-526af7764f64",
+			"value": "Australian Catholic University"
+		},
+		{
+			"description": "Temple University is a state-related research university located in Philadelphia, Pennsylvania. It was founded in 1884 by the Baptist minister Russell Conwell.",
+			"meta": {
+				"refs": [
+					"https://www.temple.edu/"
+				]
+			},
+			"uuid": "1e83c8c2-95ed-11e9-bc42-526af7764f64",
+			"value": "Temple University"
+		},
+		{
+			"description": "Graceland University is a private liberal arts university with campuses in Lamoni, Iowa and Independence, Missouri. The university offers degree completion and master’s degree programs at satellite campuses in Centerville and Cedar Rapids, Iowa and Trenton, Missouri.",
+			"meta": {
+				"refs": [
+					"https://www.graceland.edu/"
+				]
+			},
+			"uuid": "1e83ca16-95ed-11e9-bc42-526af7764f64",
+			"value": "Graceland University"
+		},
+		{
+			"description": "Oregon State University is a public research university in Corvallis, Oregon. The university offers more than 200 undergraduate degree programs along with a variety of graduate and doctoral degrees. It is also the largest university in the state, with a total enrollment exceeding 28,000.",
+			"meta": {
+				"refs": [
+					"https://oregonstate.edu/"
+				]
+			},
+			"uuid": "1e83cb56-95ed-11e9-bc42-526af7764f64",
+			"value": "Oregon State University"
+		},
+		{
+			"description": "Missouri Southern State University is a public university in Joplin, Missouri. It was established in 1937 as Joplin Junior College.",
+			"meta": {
+				"refs": [
+					"https://www.mssu.edu/"
+				]
+			},
+			"uuid": "1e83cf0c-95ed-11e9-bc42-526af7764f64",
+			"value": "Missouri Southern State University"
+		},
+		{
+			"description": "Nagle Catholic College commonly known as Nagle or NCC, is an independent Roman Catholic co-educational secondary day school, located in the coastal town of Geraldton in the Mid West region of Western Australia, Australia.",
+			"meta": {
+				"refs": [
+					"http://www.ncc.wa.edu.au/"
+				]
+			},
+			"uuid": "1e83d04c-95ed-11e9-bc42-526af7764f64",
+			"value": "Nagle Catholic College"
+		},
+		{
+			"description": "K12 Inc. is a for-profit education company that sells online schooling and curricula. K12 is an education management organization that provides online education designed as alternatives alternative to traditional bricks and mortar education for public school students from kindergarten to 12th grade.",
+			"meta": {
+				"refs": [
+					"https://www.k12.com/"
+				]
+			},
+			"uuid": "2d95c98e-a5cc-11e9-a2a3-2a2ae2dbcce4",
+			"value": "K12 Inc."
+		},
+		{
+			"description": "Monroe College is a private for-profit college and graduate school based in New York City. The college was founded in 1933 and has campuses in the Bronx, New Rochelle, and Saint Lucia with an extension site in Manhattan. The college is named after James Monroe, the fifth President of the United States.",
+			"meta": {
+				"refs": [
+					"https://www.monroecollege.edu/"
+				]
+			},
+			"uuid": "2d95cc0e-a5cc-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Monroe College"
+		},
+		{
+			"description": "Northwest Indian College is a public college in Bellingham, Washington. It was established by the Lummi Nation and is the only accredited Tribal College or University serving reservation communities of Washington, Oregon, and Idaho.",
+			"meta": {
+				"refs": [
+					"https://www.nwic.edu/"
+				]
+			},
+			"uuid": "638de678-abbe-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Northwest Indian College"
+		},
+		{
+			"description": "The University of Nebraska–Lincoln, commonly referred to as Nebraska, UNL, or NU, is a public research university in Lincoln, Nebraska. It is the state's oldest university and the largest in the University of Nebraska system.",
+			"meta": {
+				"refs": [
+					"https://www.unl.edu/"
+				]
+			},
+			"uuid": "638de8c6-abbe-11e9-a2a3-2a2ae2dbcce4",
+			"value": "University of Nebraska-Lincoln"
+		},
+		{
+			"description": "The University of Alabama is a public research university in Tuscaloosa, Alabama. Established in 1820, the University of Alabama is the oldest and largest of the public universities in Alabama as well as the flagship of the University of Alabama System.",
+			"meta": {
+				"refs": [
+					"https://www.ua.edu/"
+				]
+			},
+			"uuid": "638dea10-abbe-11e9-a2a3-2a2ae2dbcce4",
+			"value": "The University of Alabama"
+		},
+		{
+			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
+			"meta": {
+				"refs": [
+					"http://www.orchardview.org/schools/high-school/"
+				]
+			},
+			"uuid": "f4dfc716-4b21-11e9-8646-d663bd873d93",
+			"value": "Orchard View High School"
+		}
+	],
+	"version": 10
+}

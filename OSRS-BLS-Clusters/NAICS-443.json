@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-443",
+  "description": "Industries in the Electronics and Appliance Stores subsector retail new electronics and appliances from point-of-sale locations. Establishments in this subsector often operate from locations that have special provisions for floor displays requiring special electrical capacity to accommodate the proper demonstration of the products. The staff includes sales personnel knowledgeable in the characteristics and warranties of the line of goods retailed and may also include trained repair persons to handle the maintenance and repair of the electronic equipment and appliances. The classifications within this subsector are made principally on the type of product and knowledge required to operate each type of store.",
+  "name": "NAICS-443",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-443",
+  "uuid": "41be3296-47ff-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag443.htm"
+        ]
+      },
+      "uuid": "9c2c1d0a-48c3-11e9-8646-d663bd873d93",
+      "value": "Test Electronics and Appliance Stores Value"
+    }
+	  ],
+	"version": 1
+}

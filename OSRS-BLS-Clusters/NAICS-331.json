@@ -1,0 +1,31 @@
+{
+  "category": "NAICS-331",
+  "description": "Industries in the Primary Metal Manufacturing subsector smelt and/or refine ferrous and nonferrous metals from ore, pig or scrap, using electrometallurgical and other process metallurgical techniques. Establishments in this subsector also manufacture metal alloys and superalloys by introducing other chemical elements to pure metals. The output of smelting and refining, usually in ingot form, is used in rolling, drawing, and extruding operations to make sheet, strip, bar, rod, or wire, and in molten form to make castings and other basic metal products.",
+  "name": "NAICS-331",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-331",
+  "uuid": "b0706504-483d-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag331.htm"
+        ]
+      },
+      "uuid": "eb3097b6-48f8-11e9-8646-d663bd873d93",
+      "value": "Test Primary Metal Manufacturing Value"
+    },
+	{
+      "description": "Norsk Hydro ASA is a Norwegian aluminium and renewable energy company, headquartered in Oslo. It is one of the largest aluminium companies worldwide. It has operations in some 50 countries around the world and is active on all continents.",
+      "meta": {
+        "refs": [
+          "https://www.hydro.com/"
+        ]
+      },
+      "uuid": "a1c5653a-4ff5-11e9-8647-d663bd873d93",
+      "value": "Norsk Hydro"
+    }
+	  ],
+	"version": 2
+}

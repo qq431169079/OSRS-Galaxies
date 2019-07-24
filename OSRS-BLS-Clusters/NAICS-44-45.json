@@ -1,0 +1,40 @@
+{
+	"category": "NAICS-44-45",
+	"description": "The Retail Trade sector comprises establishments engaged in retailing merchandise, generally without transformation, and rendering services incidental to the sale of merchandise. The retailing process is the final step in the distribution of merchandise; retailers are, therefore, organized to sell merchandise in small quantities to the general public. This sector comprises two main types of retailers: store and nonstore retailers. 1. Store retailers operate fixed point-of-sale locations, located and designed to attract a high volume of walk-in customers. In general, retail stores have extensive displays of merchandise and use mass-media advertising to attract customers. They typically sell merchandise to the general public for personal or household consumption, but some also serve business and institutional clients. In addition to retailing merchandise, some types of store retailers are also engaged in the provision of after-sales services, such as repair and installation. 2. Nonstore retailers, like store retailers, are organized to serve the general public, but their retailing methods differ. The establishments of this subsector reach customers and market merchandise with methods, such as the broadcasting of infomercials, the broadcasting and publishing of direct-response advertising, the publishing of paper and electronic catalogs, door-to-door solicitation, in-home demonstration, selling from portable stalls (street vendors, except food), and distribution through vending machines.",
+	"name": "NAICS-44-45",
+	"source": "BLS Industries at a Glance",
+	"type": "labyrinth-NAICS-44-45",
+	"uuid": "a756e8ca-4848-11e9-8646-d663bd873d93",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag44-45.htm"
+				]
+			},
+			"uuid": "d6c483d8-48fc-11e9-8646-d663bd873d93",
+			"value": "Test Retail Trade Value"
+		},
+		{
+			"description": "Shopify is a Canadian e-commerce company headquartered in Ottawa, Ontario. It is also the name of its proprietary e-commerce platform for online stores and retail point-of-sale systems.",
+			"meta": {
+				"refs": [
+					"https://www.shopify.com/"
+				]
+			},
+			"uuid": "ff53bf86-65e8-11e9-a923-1681be663d3e",
+			"value": "Shopify"
+		},
+		{
+			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
+			"meta": {
+				"refs": [
+					"https://www.gearbest.com/"
+				]
+			},
+			"uuid": "71ba847e-4b40-11e9-8646-d663bd873d93",
+			"value": "Gearbest"
+		}
+	],
+	"version": 2
+}

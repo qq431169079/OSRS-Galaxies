@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-313",
+  "description": "Industries in the Textile Mills subsector group establishments that transform a basic fiber (natural or synthetic) into a product, such as yarn or fabric that is further manufactured into usable items, such as apparel, sheets, towels, and textile bags for individual or industrial consumption. The further manufacturing may be performed in the same establishment and classified in this subsector, or it may be performed at a separate establishment and be classified elsewhere in manufacturing.",
+  "name": "NAICS-313",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrith-NAICS-313",
+  "uuid": "58c49556-4850-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag313.htm"
+        ]
+      },
+      "uuid": "9ea53894-4901-11e9-8646-d663bd873d93",
+      "value": "Test Textile Mills Value"
+    }
+	  ],
+	"version": 1
+}

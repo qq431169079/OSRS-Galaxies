@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-525",
+  "description": "Industries in the Funds, Trusts, and Other Financial Vehicles subsector are comprised of legal entities (i.e., funds, plans, and/or programs) organized to pool securities or other assets on behalf of shareholders or beneficiaries of employee benefit or other trust funds. The portfolios are customized to achieve specific investment characteristics, such as diversification, risk, rate of return, and price volatility. These entities earn interest, dividends, and other investment income, but have little or no employment and no revenue from the sale of services.",
+  "name": "NAICS-525",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-525",
+  "uuid": "32c85796-4802-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag525.htm"
+        ]
+      },
+      "uuid": "8509c836-48c6-11e9-8646-d663bd873d93",
+      "value": "Test Funds, Trusts, and Other Financial Vehicles Value"
+    }
+	  ],
+	"version": 1
+}

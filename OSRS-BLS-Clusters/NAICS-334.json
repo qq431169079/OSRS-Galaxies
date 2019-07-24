@@ -1,0 +1,62 @@
+{
+	"category": "NAICS-334",
+	"description": "Industries in the Computer and Electronic Product Manufacturing subsector group establishments that manufacture computers, computer peripherals, communications equipment, and similar electronic products, and establishments that manufacture components for such products. The Computer and Electronic Product Manufacturing industries have been combined in the hierarchy of NAICS because of the economic significance they have attained. Their rapid growth suggests that they will become even more important to the economies of all three North American countries in the future, and in addition their manufacturing processes are fundamentally different from the manufacturing processes of other machinery and equipment. The design and use of integrated circuits and the application of highly specialized miniaturization technologies are common elements in the production technologies of the computer and electronic subsector.",
+	"name": "NAICS-334",
+	"source": "BLS Industries at a Glance",
+	"type": "labyrinth-NAICS-334",
+	"uuid": "caba55de-47f5-11e9-b210-d663bd873d93",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag334.htm"
+				]
+			},
+			"uuid": "8a9bc782-48c0-11e9-8646-d663bd873d93",
+			"value": "Test Computer and Electronic Product Manufacturing Value"
+		},
+		{
+			"description": "Lenovo Group Limited, often shortened to Lenovo, is a Chinese multinational technology company with headquarters in Beijing. It designs, develops, manufactures, and sells personal computers, tablet computers, smartphones, workstations, servers, electronic storage devices, IT management software, and smart televisions.",
+			"meta": {
+				"refs": [
+					"https://www.lenovo.com/us/en/"
+				]
+			},
+			"uuid": "0e38490c-abbe-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Lenovo Group Limited"
+		},
+		{
+			"description": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. It is considered one of the Big Four of technology along with Amazon, Google, and Facebook.",
+			"meta": {
+				"refs": [
+					"https://www.apple.com/",
+					"https://en.wikipedia.org/wiki/Apple_Inc."
+				]
+			},
+			"uuid": "5bda4d68-4b1f-11e9-8646-d663bd873d93",
+			"value": "Apple Inc."
+		},
+		{
+			"description": "SyTech Corporation manufactures and supports a variety of high-tech communication solutions for law enforcement, public safety and military organizations.",
+			"meta": {
+				"refs": [
+					"https://www.sytechcorp.com/"
+				]
+			},
+			"uuid": "c0349ef2-aca5-11e9-a2a3-2a2ae2dbcce4",
+			"value": "SyTech Corporation"
+		},
+		{
+			"description": "Cisco Systems, Inc. is an American multinational technology conglomerate headquartered in San Jose, California, in the center of Silicon Valley. Cisco develops, manufactures and sells networking hardware, telecommunications equipment and other high-technology services and products. Through its numerous acquired subsidiaries, such as OpenDNS, WebEx, Jabber and Jasper, Cisco specializes into specific tech markets, such as Internet of Things (IoT), domain security and energy management.",
+			"meta": {
+				"refs": [
+					"https://www.cisco.com/",
+					"https://en.wikipedia.org/wiki/Cisco_Systems"
+				]
+			},
+			"uuid": "5bda5074-4b1f-11e9-8646-d663bd873d93",
+			"value": "Cisco"
+		}
+	],
+	"version": 3
+}

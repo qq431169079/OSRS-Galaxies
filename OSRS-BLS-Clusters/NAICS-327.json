@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-327",
+  "description": "The Nonmetallic Mineral Product Manufacturing subsector transforms mined or quarried nonmetallic minerals, such as sand, gravel, stone, clay, and refractory materials, into products for intermediate or final consumption. Processes used include grinding, mixing, cutting, shaping, and honing. Heat often is used in the process and chemicals are frequently mixed to change the composition, purity, and chemical properties for the intended product. For example, glass is produced by heating silica sand to the melting point (sometimes combined with cullet or recycled glass) and then drawn, floated, or blow molded to the desired shape or thickness. Refractory materials are heated and then formed into bricks or other shapes for use in industrial applications.",
+  "name": "NAICS-327",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-327",
+  "uuid": "5f36358a-4836-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag327.htm"
+        ]
+      },
+      "uuid": "451fc3dc-48f4-11e9-8646-d663bd873d93",
+      "value": "Test Nonmetallic Mineral Product Manufacturing Value"
+    }
+	  ],
+	"version": 1
+}

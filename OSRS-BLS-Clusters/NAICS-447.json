@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-447",
+  "description": "Industries in the Gasoline Stations subsector retail automotive fuels (e.g., gasoline, diesel fuel, gasohol) and automotive oils or retail these products in combination with convenience store items. These establishments have specialized equipment for the storage and dispensing of automotive fuels.",
+  "name": "NAICS-447",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-447",
+  "uuid": "1271a0c0-4824-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag447.htm"
+        ]
+      },
+      "uuid": "1f995cfe-48ea-11e9-8646-d663bd873d93",
+      "value": "Test Gasoline Stations Value"
+    }
+	  ],
+	"version": 1
+}

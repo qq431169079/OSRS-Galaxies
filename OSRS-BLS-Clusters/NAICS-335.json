@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-335",
+  "description": "Industries in the Electrical Equipment, Appliance, and Component Manufacturing subsector manufacture products that generate, distribute and use electrical power. Electric Lighting Equipment Manufacturing establishments produce electric lamp bulbs, lighting fixtures, and parts. Household Appliance Manufacturing establishments make both small and major electrical appliances and parts. Electrical Equipment Manufacturing establishments make goods, such as electric motors, generators, transformers, and switchgear apparatus. Other Electrical Equipment and Component Manufacturing establishments make devices for storing electrical power (e.g., batteries), for transmitting electricity (e.g., insulated wire), and wiring devices (e.g., electrical outlets, fuse boxes, and light switches).",
+  "name": "NAICS-335",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-335",
+  "uuid": "d6fe2164-47fe-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag335.htm"
+        ]
+      },
+      "uuid": "4149ad26-48c3-11e9-8646-d663bd873d93",
+      "value": "Test Electrical Equipment, Appliance, and Component Manufacturing Value"
+    }
+	  ],
+	"version": 1
+}

@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-211",
+  "description": "Industries in the Oil and Gas Extraction subsector operate and/or develop oil and gas field properties. Such activities may include exploration for crude petroleum and natural gas; drilling, completing, and equipping wells; operating separators, emulsion breakers, desilting equipment, and field gathering lines for crude petroleum and natural gas; and all other activities in the preparation of oil and gas up to the point of shipment from the producing property. This subsector includes the production of crude petroleum, the mining and extraction of oil from oil shale and oil sands, and the production of natural gas, sulfur recovery from natural gas, and recovery of hydrocarbon liquids.",
+  "name": "NAICS-211",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-211",
+  "uuid": "a5331c2c-4838-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag211.htm"
+        ]
+      },
+      "uuid": "681ec4b8-48f5-11e9-8646-d663bd873d93",
+      "value": "Test Oil and Gas Extraction Value"
+    }
+	  ],
+	"version": 1
+}

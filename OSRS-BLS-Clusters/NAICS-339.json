@@ -1,0 +1,31 @@
+{
+  "category": "NAICS-339",
+  "description": "Industries in the Miscellaneous Manufacturing subsector make a wide range of products that cannot readily be classified in specific NAICS subsectors in manufacturing. Processes used by these establishments vary significantly, both among and within industries. For example, a variety of manufacturing processes are used in manufacturing sporting and athletic goods that include products such as tennis racquets and golf balls. The processes for these products differ from each other, and the processes differ significantly from the fabrication processes used in making dolls or toys, the melting and shaping of precious metals to make jewelry, and the bending, forming, and assembly used in making medical products.",
+  "name": "NAICS-339",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-339",
+  "uuid": "330d209a-482c-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag339.htm"
+        ]
+      },
+      "uuid": "14384832-48f1-11e9-8646-d663bd873d93",
+      "value": "Test Miscellaneous Manufacturing Value"
+    },
+	{
+      "description": "Manufacturer and retailer of omni-directional cameras.",
+      "meta": {
+        "refs": [
+          "https://theta360.com/"
+        ]
+      },
+      "uuid": "16bf89d6-8d42-11e9-bc42-526af7764f64",
+      "value": "Theta360"
+    }
+	  ],
+	"version": 2
+}

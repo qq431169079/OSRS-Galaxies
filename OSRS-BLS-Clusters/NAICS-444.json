@@ -1,0 +1,31 @@
+{
+  "category": "NAICS-444",
+  "description": "Industries in the Building Material and Garden Equipment and Supplies Dealers subsector retail new building material and garden equipment and supplies from fixed point-of-sale locations. Establishments in this subsector have display equipment designed to handle lumber and related products and garden equipment and supplies that may be kept either indoors or outdoors under covered areas. The staff is usually knowledgeable in the use of the specific products being retailed in the construction, repair, and maintenance of the home and associated grounds.",
+  "name": "NAICS-444",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-444",
+  "uuid": "9f46aaca-47f4-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag444.htm"
+        ]
+      },
+      "uuid": "921f8aa8-48bf-11e9-8646-d663bd873d93",
+      "value": "Test Building Material and Garden Equipment and Supplies Dealers Value"
+    },
+	{
+      "description": "AeroGrow International, Inc is the manufacturer and distributor of the world’s leading indoor gardening systems – the AeroGarden line of Smart Countertop Gardens. Headquartered in Boulder, Colorado, AeroGrow is the leader in the rapidly growing indoor gardening market with a commitment to helping people successfully grow healthy, fresh food - and more - regardless of season, location, or experience.",
+      "meta": {
+        "refs": [
+          "http://www.b2i.us/profiles/investor/fullpage.asp?BzID=1354&to=cp&Nav=1&LangID=1&s=0&ID=5470"
+        ]
+      },
+      "uuid": "7e58d3d8-5bf9-11e9-8647-d663bd873d93",
+      "value": "AeroGrow International"
+    }
+	  ],
+	"version": 2
+}

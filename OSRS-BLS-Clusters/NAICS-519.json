@@ -1,0 +1,80 @@
+{
+	"category": "NAICS-519",
+	"description": "Industries in the Other Information Services subsector group establishments supplying information, storing and providing access to information, searching and retrieving information, operating Web sites that use search engines to allow for searching information on the Internet, or publishing and/or broadcasting content exclusively on the Internet. The main components of the subsector are news syndicates, libraries, archives, exclusive Internet publishing and/or broadcasting, and Web Search Portals.",
+	"name": "NAICS-519",
+	"source": "BLS Industries at a Glance",
+	"type": "labyrinth-NAICS-519",
+	"uuid": "0a1c1bac-4839-11e9-8646-d663bd873d93",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag519.htm"
+				]
+			},
+			"uuid": "c3e9d904-48f5-11e9-8646-d663bd873d93",
+			"value": "Test Other Information Services Value"
+		},
+		{
+			"description": "Kanopy is an on-demand streaming video platform for public libraries and universities that offers viewers a large collection of award-winning films and documentaries. Kanopy includes children's programming with its subdivision Kanopy Kids. All members have access to the children's videos section with their account.",
+			"meta": {
+				"refs": [
+					"https://www.kanopy.com/"
+				]
+			},
+			"uuid": "853185d4-50d1-11e9-8647-d663bd873d93",
+			"value": "Kanopy"
+		},
+		{
+			"description": "Cultura Colectiva is a Mexico-based digital media publisher. It publishes content designed to be shared over social media networks targeted at a Latin American audience. It currently ranks third among the most read digital native media publishers in Mexico and one of the 10 most important in Latin America.",
+			"meta": {
+				"refs": [
+					"https://culturacolectiva.com/en/"
+				]
+			},
+			"uuid": "fc252652-5bfb-11e9-8647-d663bd873d93",
+			"value": "Cultura Colectiva"
+		},
+		{
+			"description": "Johnson Newspaper is a publishing company that is based in Watertown, N.Y. The company publishes the Watertown Daily Times, as well as The Jefferson County Pennysaver. The Pennysaver is a classified advertisement publication that serves buyers and sellers in Jefferson County, N.Y. It is delivered to homes through the county on Mondays, via carriers and counter drops. Approximately 28,000 Pennysavers are circulated on a weekly basis. The Watertown Daily Times is a daily newspaper that serves Jefferson, Lewis and St. Lawrence counties in New York. The publication features local, national and international news coverage. The Watertown Daily also covers sports, business, entertainment and a variety of other news.",
+			"meta": {
+				"refs": [
+					"http://www.watertowndailytimes.com/"
+				]
+			},
+			"uuid": "fe9f9100-7105-11e9-a923-1681be663d3e",
+			"value": "Johnson Newspaper Corp."
+		},
+		{
+			"description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware. It is considered one of the Big Four technology companies, alongside Amazon, Apple and Facebook.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Google"
+				]
+			},
+			"uuid": "c8911c18-7e35-11e9-8f9e-2a86e4085a59",
+			"value": "Google LLC"
+		},
+		{
+			"description": "Flipboard is a news aggregator and social network aggregation company based in Palo Alto, California, with offices in New York, Vancouver and Bejiing. Its software, also known as Flipboard, was first released in July 2010.",
+			"meta": {
+				"refs": [
+					"https://flipboard.com/"
+				]
+			},
+			"uuid": "ffba0ce8-8224-11e9-bc42-526af7764f64",
+			"value": "Flipboard, Inc."
+		},
+		{
+			"description": "Newsquest Media Group Ltd. is the second largest publisher of regional and local newspapers in the United Kingdom with 205 brands across the UK, publishing online and in print. It reaches 28 million visitors a month online and 6.5 million readers a week in print.",
+			"meta": {
+				"refs": [
+					"http://www.newsquest.co.uk/"
+				]
+			},
+			"uuid": "47f61cc0-4b36-11e9-8646-d663bd873d93",
+			"value": "Newsquest"
+		}
+	],
+	"version": 6
+}

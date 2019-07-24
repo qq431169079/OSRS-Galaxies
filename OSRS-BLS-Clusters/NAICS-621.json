@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-621",
+  "description": "Industries in the Ambulatory Health Care Services subsector provide health care services directly or indirectly to ambulatory patients and do not usually provide inpatient services. Health practitioners in this subsector provide outpatient services, with the facilities and equipment not usually being the most significant part of the production process.",
+  "name": "NAICS-621",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-621",
+  "uuid": "027d91d4-47f1-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag621.htm"
+        ]
+      },
+      "uuid": "a98dcafe-48bc-11e9-8646-d663bd873d93",
+      "value": "Test Ambulatory Health Care Services Value"
+    }
+	  ],
+	"version": 1
+}

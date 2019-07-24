@@ -1,0 +1,30 @@
+{
+	"category": "NAICS-448",
+	"description": "Industries in the Clothing and Clothing Accessories Stores subsector retail new clothing and clothing accessories merchandise from fixed point-of-sale locations. Establishments in this subsector have similar display equipment and staff that is knowledgeable regarding fashion trends and the proper match of styles, colors, and combinations of clothing and accessories to the characteristics and tastes of the customer.",
+	"name": "NAICS-448",
+	"source": "BLS Industries at a Glance",
+	"type": "labyrinth-NAICS-448",
+	"uuid": "57f73e04-47f5-11e9-b210-d663bd873d93",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag448.htm"
+				]
+			},
+			"uuid": "36abb222-48c0-11e9-8646-d663bd873d93",
+			"value": "Test Clothing and Clothing Accessories Stores"
+		},
+		{
+			"description": "Since 1987, Kathmandu has designed gear to endure the rugged landscapes of our homeland, and to outfit the adventurous spirit of our people.",
+			"meta": {
+				"refs": [
+					"https://www.kathmanduholdings.com/"
+				]
+			},
+			"uuid": "dae270d2-4b1e-11e9-8646-d663bd873d93",
+			"value": "Kathmandu Holdings Ltd."
+		}
+	],
+	"version": 1
+}

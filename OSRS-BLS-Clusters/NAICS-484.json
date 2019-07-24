@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-484",
+  "description": "Industries in the Truck Transportation subsector provide over-the-road transportation of cargo using motor vehicles, such as trucks and tractor trailers. The subsector is subdivided into general freight trucking and specialized freight trucking. This distinction reflects differences in equipment used, type of load carried, scheduling, terminal, and other networking services. General freight transportation establishments handle a wide variety of general commodities, generally palletized, and transported in a container or van trailer. Specialized freight transportation is the transportation of cargo that, because of size, weight, shape, or other inherent characteristics require specialized equipment for transportation.",
+  "name": "NAICS-484",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-484",
+  "uuid": "17a6351e-4852-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag484.htm"
+        ]
+      },
+      "uuid": "15abb0de-4903-11e9-8646-d663bd873d93",
+      "value": "Test Truck Transportation Value"
+    }
+	  ],
+	"version": 1
+}

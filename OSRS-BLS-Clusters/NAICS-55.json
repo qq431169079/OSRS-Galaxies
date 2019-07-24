@@ -1,0 +1,41 @@
+{
+  "category": "NAICS-55",
+  "description": "The Management of Companies and Enterprises sector comprises (1) establishments that hold the securities of (or other equity interests in) companies and enterprises for the purpose of owning a controlling interest or influencing management decisions or (2) establishments (except government establishments) that administer, oversee, and manage establishments of the company or enterprise and that normally undertake the strategic or organizational planning and decision making role of the company or enterprise. Establishments that administer, oversee, and manage may hold the securities of the company or enterprise. Establishments in this sector perform essential activities that are often undertaken, in-house, by establishments in many sectors of the economy. By consolidating the performance of these activities of the enterprise at one establishment, economies of scale are achieved.",
+  "name": "NAICS-55",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-55",
+  "uuid": "bb7e50f0-4829-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag55.htm"
+        ]
+      },
+      "uuid": "0106aada-48ef-11e9-8646-d663bd873d93",
+      "value": "Test Management of Companies and Enterprises Value"
+    },
+	{
+      "description": "Pyramid manages hotels and resorts throughout the continental United States, Hawaii, the Caribbean, Ireland, and the United Kingdom. We deliver outstanding experiences to guests and strong returns to owners at properties ranging from full-service, meeting space driven hotels, to independent boutique hotels and resorts, to select-service urban and suburban assets.",
+      "meta": {
+        "refs": [
+          "http://pyramidhotelgroup.com/properties/"
+        ]
+      },
+      "uuid": "c66ea232-8d41-11e9-bc42-526af7764f64",
+      "value": "The Pyramid Hotel Group"
+    },
+	{
+      "description": "Earl Enterprises bring together the power of people, services and creative genius to build innovative sustainable companies that guests can enjoy today and in the future through our diversified brand portfolio. Earl Enterprises is growing as a leader in the field of entertainment, leisure, tourism, hotel, and restaurant consultant services.",
+      "meta": {
+        "refs": [
+          "https://www.earlenterprise.com/about-us/"
+        ]
+      },
+      "uuid": "c69d1fe0-5a0b-11e9-8647-d663bd873d93",
+      "value": "Earl Enterprises"
+    }
+	  ],
+	"version": 3
+}

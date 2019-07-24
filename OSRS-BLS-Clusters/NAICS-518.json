@@ -1,0 +1,31 @@
+{
+  "category": "NAICS-518",
+  "description": "Industries in the Data Processing, Hosting, and Related Services subsector group establishments that provide the infrastructure for hosting and/or data processing services.",
+  "name": "NAICS-518",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-518",
+  "uuid": "fe92429c-47fd-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag518.htm"
+        ]
+      },
+      "uuid": "90c1fd32-48c2-11e9-8646-d663bd873d93",
+      "value": "Test Data Processing, Hosting, and Related Services Value"
+    },
+	{
+      "description": "iNSYNQ offers virtual desktops, giving you access to all of your critical business applications anytime and from anywhere.",
+      "meta": {
+        "refs": [
+          "https://www.insynq.com/"
+        ]
+      },
+      "uuid": "1ff2871e-aca6-11e9-a2a3-2a2ae2dbcce4",
+      "value": "iNSYNQ"
+    }
+	  ],
+	"version": 2
+}

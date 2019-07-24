@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-512",
+  "description": "Industries in the Motion Picture and Sound Recording Industries subsector group establishments involved in the production and distribution of motion pictures and sound recordings. While producers and distributors of motion pictures and sound recordings issue works for sale as traditional publishers do, the processes are sufficiently different to warrant placing establishments engaged in these activities in a separate subsector. Production is typically a complex process that involves several distinct types of establishments that are engaged in activities, such as contracting with performers, creating the film or sound content, and providing technical postproduction services. Film distribution is often to exhibitors, such as theaters and broadcasters, rather than through the wholesale and retail distribution chain. When the product is in a mass-produced form, NAICS treats production and distribution as the major economic activity as it does in the Publishing Industries subsector, rather than as a subsidiary activity to the manufacture of such products.",
+  "name": "NAICS-512",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-512",
+  "uuid": "73302f24-4835-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag512.htm"
+        ]
+      },
+      "uuid": "1e0d9c4e-48f2-11e9-8646-d663bd873d93",
+      "value": "Test Motion Picture and Sound Recording Industries Value"
+    }
+	  ],
+	"version": 1
+}

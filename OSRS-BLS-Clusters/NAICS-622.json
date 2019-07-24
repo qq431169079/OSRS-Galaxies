@@ -1,0 +1,260 @@
+{
+	"category": "NAICS-622",
+	"description": "Industries in the Hospitals subsector provide medical, diagnostic, and treatment services that include physician, nursing, and other health services to inpatients and the specialized accommodation services required by inpatients. Hospitals may also provide outpatient services as a secondary activity. Establishments in the Hospitals subsector provide inpatient health services, many of which can only be provided using the specialized facilities and equipment that form a significant and integral part of the production process.",
+	"name": "NAICS-622",
+	"source": "BLS Industries at a Glance",
+	"type": "OSRS-NAICS-622",
+	"uuid": "712b51f4-4826-11e9-8646-d663bd873d93",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag622.htm"
+				]
+			},
+			"uuid": "f56c4312-48ec-11e9-8646-d663bd873d93",
+			"value": "Test Hospitals Value"
+		},
+		{
+			"description": "Rush University Medical Center is an academic medical center located in Chicago, Illinois, with a patient capacity of 664. It includes hospital facilities for adults and children. The hospital also includes the Johnston R. Bowman Health Center. It is affiliated with Rush University.",
+			"meta": {
+				"refs": [
+					"https://www.rush.edu/"
+				]
+			},
+			"uuid": "effb6954-4b2f-11e9-8646-d663bd873d93",
+			"value": "Rush University Hospital"
+		},
+		{
+			"description": "Sparrow Hospital is a 733-bed teaching hospital located in Lansing, Michigan that provides care for the greater Mid-Michigan region. The hospital is a subsidiary of Sparrow Health System, and is affiliated with the Colleges of Human Medicine and Osteopathic Medicine at nearby Michigan State University.",
+			"meta": {
+				"refs": [
+					"http://www.sparrow.org/"
+				]
+			},
+			"uuid": "21ab220a-4b30-11e9-8646-d663bd873d93",
+			"value": "Sparrow Hospital"
+		},
+		{
+			"description": "Mary Free Bed Rehabilitation Hospital is a 167-bed acute care inpatient rehabilitation hospital for children and adults who have experienced a brain injury, spinal cord injury, stroke, amputation, or other injury or illness requiring physical rehabilitation.",
+			"meta": {
+				"refs": [
+					"https://www.maryfreebed.com/"
+				]
+			},
+			"uuid": "46f5a076-4b30-11e9-8646-d663bd873d93",
+			"value": "Mary Free Bed Rehabilitation Hospital"
+		},
+		{
+			"description": "Northwestern Memorial Hospital is a nationally ranked academic medical center hospital located in downtown Chicago, Illinois. It is the primary teaching hospital for Northwestern University's Feinberg School of Medicine.",
+			"meta": {
+				"refs": [
+					"https://www.nm.org/"
+				]
+			},
+			"uuid": "b0e4b0d0-4b30-11e9-8646-d663bd873d93",
+			"value": "Northwestern Memorial Hospital"
+		},
+		{
+			"description": "The Oklahoma Heart Hospital is an all-digital heart hospital specializing in cardiovascular, pulmonary and pain management healthcare.",
+			"meta": {
+				"refs": [
+					"https://www.okheart.com/"
+				]
+			},
+			"uuid": "d68e01ce-4b30-11e9-8646-d663bd873d93",
+			"value": "Oklahoma Heart Hospital"
+		},
+		{
+			"description": "Located in Concord Massachusetts, Emerson is a full-service, non-profit community hospital.",
+			"meta": {
+				"refs": [
+					"https://www.emersonhospital.org/"
+				]
+			},
+			"uuid": "3ecca6b4-4b31-11e9-8646-d663bd873d93",
+			"value": "Emerson Hospital"
+		},
+		{
+			"description": "Navicent Health, a part of Central Georgia Health System, is the second-largest hospital in Georgia and the only designated Level I Trauma Center in the region.",
+			"meta": {
+				"refs": [
+					"https://www.navicenthealth.org/"
+				]
+			},
+			"uuid": "f9a40154-50d0-11e9-8647-d663bd873d93",
+			"value": "Navicent Health"
+		},
+		{
+			"description": "British Columbia, Canada",
+			"meta": {
+				"refs": [
+					"https://www.islandhealth.ca/our-locations/hospitals-health-centre-locations/nanaimo-regional-general-hospital"
+				]
+			},
+			"uuid": "46c8190a-5240-11e9-8647-d663bd873d93",
+			"value": "Nanaimo Regional General Hospital"
+		},
+		{
+			"description": "Hospital located in Kentucky.",
+			"meta": {
+				"refs": [
+					"https://www.hmh.net/patient-visitor/hardin-memorial-hospital-location/"
+				]
+			},
+			"uuid": "3e486dc4-5bfb-11e9-8647-d663bd873d93",
+			"value": "Hardin Memorial Hospital"
+		},
+		{
+			"description": "Services the Cleavland Ohio region.",
+			"meta": {
+				"refs": [
+					"https://www.uhhospitals.org/rainbow"
+				]
+			},
+			"uuid": "3e487076-5bfb-11e9-8647-d663bd873d93",
+			"value": "University Hospitals Rainbow Babies & Children’s Hospital"
+		},
+		{
+			"description": "At Weslaco Regional Rehabilitation Hospital, we provide intensive rehabilitation services to people recovering from disabling diseases or injuries.",
+			"meta": {
+				"refs": [
+					"https://www.ernesthealth.com/gallery-item/weslaco-regional-rehabilitation-hospital/"
+				]
+			},
+			"uuid": "3e487242-5bfb-11e9-8647-d663bd873d93",
+			"value": "Weslaco Regional Rehabilitation Hospital"
+		},
+		{
+			"description": "North Ottawa Community Hospital NOCH is an 81-bed acute care hospital located in Grand Haven, Michigan. Like other progressive institutions, our profile changes to meet the needs of our patients and the challenges of our industry. We are a community health care system with a variety of inpatient, outpatient and support services. Affiliate organizations strengthen our seamless delivery of care, by transforming us into a health care delivery system.",
+			"meta": {
+				"refs": [
+					"http://www.noch.org/main.aspx?id=104"
+				]
+			},
+			"uuid": "55ee5f8e-63cf-11e9-a923-1681be663d3e",
+			"value": "North Ottawa Community Health System"
+		},
+		{
+			"description": "Northern Light Acadia Hospital is a psychiatric hospital in Bangor, Maine. We provide inpatient and outpatient behavioral care for children, teens, and adults while specializing in the treatment of mental illness and substance abuse.",
+			"meta": {
+				"refs": [
+					"https://northernlighthealth.org/Acadia-Hospital"
+				]
+			},
+			"uuid": "c1332f4e-65e7-11e9-a923-1681be663d3e",
+			"value": "Northern Light Acadia Hospital"
+		},
+		{
+			"description": "Saint Boniface Hospital is Manitoba's second-largest hospital, located in the Saint Boniface neighbourhood of Winnipeg. It was founded by the Sisters of Charity of Montreal in 1871, and was the first hospital in Western Canada. The hospital was incorporated in 1960, and as of 2003 has 554 beds and 78 bassinets.",
+			"meta": {
+				"refs": [
+					"http://www.sbgh.mb.ca/"
+				]
+			},
+			"uuid": "b0b13734-681b-11e9-a923-1681be663d3e",
+			"value": "St. Boniface Hospital"
+		},
+		{
+			"description": "Madison Parish Hospital is a small rural health care provider in Northeast Louisiana, just west of the Mississippi River.",
+			"meta": {
+				"refs": [
+					"https://www.madisonparishhospital.com/"
+				]
+			},
+			"uuid": "bf130382-7105-11e9-a923-1681be663d3e",
+			"value": "Madison Parish Hospital"
+		},
+		{
+			"description": "Cork University Hospital, abbreviated as CUH, is a university teaching hospital in Ireland. It is operated by the Health Service Executive. The hospital is located in Wilton in the south-western suburbs of Cork. CUH officially opened in November 1978, and was known then as Cork Regional Hospital.",
+			"meta": {
+				"refs": [
+					"http://www.cuh.hse.ie/"
+				]
+			},
+			"uuid": "bf130652-7105-11e9-a923-1681be663d3e",
+			"value": "Cork University Hospital"
+		},
+		{
+			"description": "Sparta Community Hospital is a full-service acute care facility, Medicare and Medicaid licensed and certified, providing quality health care close to home.",
+			"meta": {
+				"refs": [
+					"https://www.spartahospital.com/"
+				]
+			},
+			"uuid": "10197914-7bd8-11e9-8f9e-2a86e4085a59",
+			"value": "Sparta Community Hospital"
+		},
+		{
+			"description": "General hospital located in Ellwood City, PA 16117",
+			"meta": {
+				"refs": [
+					"https://www.facebook.com/ellwoodcitymedicalcenter/"
+				]
+			},
+			"uuid": "6452ff44-8d41-11e9-bc42-526af7764f64",
+			"value": "Ellwood City Medical Center"
+		},
+		{
+			"description": "Letterkenny University Hospital is a general hospital at Letterkenny, County Donegal in Ireland. One of Ireland's busiest, the campus is divided by a main road heading on towards the North/West of Donegal on the N56 road. A teaching hospital, it maintains links with NUI Galway, LYIT and the Royal College of Surgeons.",
+			"meta": {
+				"refs": [
+					"https://www.hse.ie/eng/services/list/3/acutehospitals/hospitals/luh/"
+				]
+			},
+			"uuid": "967fe192-95ef-11e9-bc42-526af7764f64",
+			"value": "Letterkenny General Hospital"
+		},
+		{
+			"description": "Red Deer Regional Hospital Centre is a medical facility located in Red Deer, Alberta. Alberta Health Services is responsible for the operations of the hospital.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Red_Deer_Regional_Hospital"
+				]
+			},
+			"uuid": "967fe426-95ef-11e9-bc42-526af7764f64",
+			"value": "Red Deer Regional Hospital Centre"
+		},
+		{
+			"description": "Estes Park Health is an independent, community hospital that provides services from the beginning of life to the end of life.",
+			"meta": {
+				"refs": [
+					"https://eph.org/"
+				]
+			},
+			"uuid": "967fe570-95ef-11e9-bc42-526af7764f64",
+			"value": "Estes Park Health"
+		},
+		{
+			"description": "The Royal Brisbane and Women’s Hospital (RBWH) is Queensland’s largest hospital and provides a wide range of clinical services in the heart of Brisbane. RBWH employs more than 6,000 multidisciplinary staff that together provides life-saving treatment to over half a million people each year.",
+			"meta": {
+				"refs": [
+					"https://metronorth.health.qld.gov.au/rbwh/"
+				]
+			},
+			"uuid": "abf2cac0-a5d1-11e9-a2a3-2a2ae2dbcce4",
+			"value": "The Royal Brisbane and Women’s Hospital (RBWH)"
+		},
+		{
+			"description": "St. Conal's Hospital was a psychiatric hospital located in Letterkenny, County Donegal, Ireland.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/St._Conal%27s_Hospital"
+				]
+			},
+			"uuid": "abf2cd22-a5d1-11e9-a2a3-2a2ae2dbcce4",
+			"value": "St. Conal's Hospital"
+		},
+		{
+			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
+			"meta": {
+				"refs": [
+					"https://hgh.ca/"
+				]
+			},
+			"uuid": "604f113c-4b31-11e9-8646-d663bd873d93",
+			"value": "Hawkesbury General Hospital"
+		}
+	],
+	"version": 12
+}

@@ -1,0 +1,90 @@
+{
+	"category": "NAICS-561",
+	"description": "Industries in the Administrative and Support Services subsector group establishments engaged in activities that support the day-to-day operations of other organizations. The processes employed in this sector (e.g., general management, personnel administration, clerical activities, cleaning activities) are often integral parts of the activities of establishments found in all sectors of the economy. The establishments classified in this subsector have specialization in one or more of these activities and can, therefore, provide services to clients in a variety of industries and, in some cases, to households. The individual industries of this subsector are defined on the basis of the particular process that they are engaged in and the particular services they provide.",
+	"name": "NAICS-561",
+	"source": "BLS Industries at a Glance",
+	"type": "OSRS-NAICS-561",
+	"uuid": "fb32e1b0-477b-11e9-b210-d663bd873d93",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag561.htm"
+				]
+			},
+			"uuid": "78ee7538-477c-11e9-b210-d663bd873d93",
+			"value": "Test Administrative and Support Services Value"
+		},
+		{
+			"description": "Wolverine’s core business is to provide solutions that support strategic growth. Our clients utilize our deep knowledge and experience in business-critical communications to connect with their target market – whether business-to-business or business-to-consumer. We advise on the most effective ways to inform their audience – so they will act. We call this conversion. Conversion is the process of target identification, conversation and retention. We simplify processes to create efficient exchanges between our client and their target. We do this by supporting their communications strategy to create, maintain, or expand the consumer relationship.",
+			"meta": {
+				"refs": [
+					"http://www.wolverinemail.com/"
+				]
+			},
+			"uuid": "ff480ba0-4b1c-11e9-8646-d663bd873d93",
+			"value": "Wolverine Solutions Group"
+		},
+		{
+			"description": "MiraMed partners with hospitals, health networks, physician practices and related industry service organizations to provide a broad portfolio of customizable solutions to uncover and capitalize on hidden financial opportunities, improve productivity and ultimately increase profits.",
+			"meta": {
+				"refs": [
+					"https://www.miramedgs.com/"
+				]
+			},
+			"uuid": "ff480ea2-4b1c-11e9-8646-d663bd873d93",
+			"value": "MiraMed Global Services"
+		},
+		{
+			"description": "MiraMed Revenue Group or MRG is a multinational corporation that specializes in accounts receivable management (ARM), business process outsourcing (BPO), and third-party debt collection. Miramed received consumer complaints alleging violations of the Fair Debt Collection Practices Act (FDCPA), including the use of false or misleading language and threatening to take actions that cannot legally be taken.",
+			"meta": {
+				"refs": [
+					"https://www.lemberglaw.com/miramed-revenue-group-mrg-collections-complaints-calls/"
+				]
+			},
+			"uuid": "ff481136-4b1c-11e9-8646-d663bd873d93",
+			"value": "Miramed Revenue Group"
+		},
+		{
+			"description": "We create and deliver solutions to self-insured plans that reduce prescription program expenses and lower drug costs, while providing convenience to patients and improving health outcomes.",
+			"meta": {
+				"refs": [
+					"https://directscripts.com/"
+				]
+			},
+			"uuid": "ff481384-4b1c-11e9-8646-d663bd873d93",
+			"value": "Direct Scripts"
+		},
+		{
+			"description": "Organization that helps high schools automate and organize the AP, PSAT/NMSQT and IB exam registration processes since 2007. Our services allow students to register for their high school's tests using an online form customized for their school.",
+			"meta": {
+				"refs": [
+					"https://www.totalregistration.net/"
+				]
+			},
+			"uuid": "20a8d74a-7b4a-11e9-8f9e-2a86e4085a59",
+			"value": "Total Registration"
+		},
+		{
+			"description": "Medico, Inc. is a business associate that provides services such as medical billing, medical transcription, medical coding and compliance audits to HIPAA-covered entities. Their medical billing service is advertised as processing 100,000 claims processed monthly for 400+ active healthcare providers and 100+ practices.",
+			"meta": {
+				"refs": [
+					"https://medicoinc.com/"
+				]
+			},
+			"uuid": "5cbcc9aa-abbd-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Medico, Inc."
+		},
+		{
+			"description": "One of the United States’ largest insurance brokers, with over two-dozen specialty practices, Risk Strategies’ experts deliver a smarter approach to risk and insurance centered on achieving your goals in business and in life.",
+			"meta": {
+				"refs": [
+					"https://www.risk-strategies.com/about"
+				]
+			},
+			"uuid": "ff481514-4b1c-11e9-8646-d663bd873d93",
+			"value": "Re-Solutions"
+		}
+	],
+	"version": 3
+}

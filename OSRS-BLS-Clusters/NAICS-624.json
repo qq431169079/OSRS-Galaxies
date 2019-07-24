@@ -1,0 +1,31 @@
+{
+  "category": "NAICS-624",
+  "description": "Industries in the Social Assistance subsector provide a wide variety of social assistance services directly to their clients. These services do not include residential or accommodation services, except on a short stay basis.",
+  "name": "NAICS-624",
+  "source": "BLS Industries at a Glance",
+  "type": "OSRS-NAICS-624",
+  "uuid": "996ade00-4849-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag624.htm"
+        ]
+      },
+      "uuid": "4e829f70-48ff-11e9-8646-d663bd873d93",
+      "value": "Test Social Assistance Value"
+    },
+	{
+      "description": "The Singapore Red Cross began on 30 September 1949 as part of the British Red Cross Society. On 6 April 1973, the Singapore Red Cross was officially incorporated by the Parliament of Singapore. It was appointed as the National Blood Donor Recruiter by the Health Sciences Authority in 2001.",
+      "meta": {
+        "refs": [
+          "https://www.redcross.sg/"
+        ]
+      },
+      "uuid": "4c00f6da-7bda-11e9-8f9e-2a86e4085a59",
+      "value": "Singapore Red Cross"
+    }
+	  ],
+	"version": 2
+}

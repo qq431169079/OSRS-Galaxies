@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-316",
+  "description": "Establishments in the Leather and Allied Product Manufacturing subsector transform hides into leather by tanning or curing and fabricating the leather into products for final consumption. It also includes the manufacture of similar products from other materials, including products (except apparel) made from leather substitutes, such as rubber, plastics, or textiles. Rubber footwear, textile luggage, and plastics purses or wallets are examples of leather substitute products included in this group. The products made from leather substitutes are included in this subsector because they are made in similar ways leather products are made (e.g., luggage). They are made in the same establishments, so it is not practical to separate them.",
+  "name": "NAICS-316",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-316",
+  "uuid": "17e7585c-4828-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag316.htm"
+        ]
+      },
+      "uuid": "fc0b3380-48ed-11e9-8646-d663bd873d93",
+      "value": "Test Leather and Allied Product Manufacturing Value"
+    }
+	  ],
+	"version": 1
+}

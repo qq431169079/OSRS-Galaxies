@@ -1,0 +1,41 @@
+{
+  "category": "NAICS-481",
+  "description": "Industries in the Air Transportation subsector provide air transportation of passengers and/or cargo using aircraft, such as airplanes and helicopters. The subsector distinguishes scheduled from nonscheduled air transportation. Scheduled air carriers fly regular routes on regular schedules and operate even if flights are only partially loaded. Nonscheduled carriers often operate during nonpeak time slots at busy airports. These establishments have more flexibility with respect to choice of airport, hours of operation, load factors, and similar operational characteristics. Nonscheduled carriers provide chartered air transportation of passengers, cargo, or specialty flying services. Specialty flying services establishments use general-purpose aircraft to provide a variety of specialized flying services.",
+  "name": "NAICS-481",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-481",
+  "uuid": "9e2bab6c-47f0-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag481.htm"
+        ]
+      },
+      "uuid": "4f915796-48bc-11e9-8646-d663bd873d93",
+      "value": "Test Air Transportation Value"
+    },
+	{
+      "description": "The Louisville Regional Airport Authority (LRAA) is an autonomous municipal corporation established by KY state statute that is responsible for owning, operating and developing Louisville International Airport (SDF) and Bowman Field (LOU). Much like a private corporation, the Authority is self-funded and derives operating revenue from a variety of user fees. The Authority does not receive local or state funding for the routine operations of either airport. The forerunner of the Louisville Regional Airport Authority was established in 1928 by the Commonwealth of Kentucky’s General Assembly and is believed to be the first airport to use the authority-type governance in the United States.",
+      "meta": {
+        "refs": [
+          "https://www.flylouisville.com/about/regional-airport-authority/"
+        ]
+      },
+      "uuid": "728ae5f6-7e35-11e9-8f9e-2a86e4085a59",
+      "value": "Louisville Regional Airport Authority"
+    },
+	{
+      "description": "Cleveland Hopkins International Airport is a public airport located in Cleveland, Ohio, nine miles southwest of the downtown area and adjacent to the Glenn Research Center, one of NASA's ten major field centers.",
+      "meta": {
+        "refs": [
+          "https://www.clevelandairport.com/"
+        ]
+      },
+      "uuid": "8f8073a8-6cef-11e9-a923-1681be663d3e",
+      "value": "Cleveland Hopkins International Airport"
+    }
+	  ],
+	"version": 3
+}

@@ -1,0 +1,61 @@
+{
+  "category": "NAICS-711",
+  "description": "Industries in the Performing Arts, Spectator Sports, and Related Industries subsector group establishments that produce or organize and promote live presentations involving the performances of actors and actresses, singers, dancers, musical groups and artists, athletes, and other entertainers, including independent (i.e., freelance) entertainers and the establishments that manage their careers. The classification recognizes four basic processes: (1) producing (i.e., presenting) events; (2) organizing, managing, and/or promoting events; (3) managing and representing entertainers; and (4) providing the artistic, creative and technical skills necessary to the production of these live events. Also, this subsector contains four industries for performing arts companies. Each is defined on the basis of the particular skills of the entertainers involved in the presentations.",
+  "name": "NAICS-711",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-711",
+  "uuid": "e1b6d780-483b-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag711.htm"
+        ]
+      },
+      "uuid": "e2f2b054-48f6-11e9-8646-d663bd873d93",
+      "value": "Test Performing Arts, Spectator Sports, and Related Industries Value"
+    },
+	{
+      "description": "The Atlanta Hawks are an American professional basketball team based in Atlanta, Georgia. The Hawks compete in the National Basketball Association as a member of the league's Eastern Conference Southeast Division. The team plays its home games at State Farm Arena.",
+      "meta": {
+        "refs": [
+          "https://www.nba.com/hawks/"
+        ]
+      },
+      "uuid": "67554f1a-6cf0-11e9-a923-1681be663d3e",
+      "value": "Atlanta Hawks"
+    },	
+	{
+      "description": "Welcome to the Yellowknife Fastball League website – your source for all things YK Fastball.  Click the links above for schedules, stats, articles, and much more.",
+      "meta": {
+        "refs": [
+          "https://ykfastball.ca/"
+        ]
+      },
+      "uuid": "fe9f93a8-7105-11e9-a923-1681be663d3e",
+      "value": "Yellowknife Minor Fastball Association"
+    },
+	{
+      "description": "Owner organization of the basketball team Indiana Pacers.",
+      "meta": {
+        "refs": [
+          "https://www.nba.com/pacers/"
+        ]
+      },
+      "uuid": "12d390b2-7e36-11e9-8f9e-2a86e4085a59",
+      "value": "Pacers Basketball, LLC"
+    },
+	{
+      "description": "Woodruff Arts Center is a visual and performing arts center located in Atlanta, Georgia. The center houses three not-for-profit arts divisions on one campus. Opened in 1968, the Woodruff Arts Center is home to the Alliance Theatre, the Atlanta Symphony Orchestra, and the High Museum of Art.",
+      "meta": {
+        "refs": [
+          "http://www.woodruffcenter.org/"
+        ]
+      },
+      "uuid": "d4a24308-6b55-11e9-a923-1681be663d3e",
+      "value": "The Woodruff Arts Center"
+    }
+	  ],
+	"version": 5
+}

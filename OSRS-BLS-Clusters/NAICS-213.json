@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-213",
+  "description": "Industries in the Support Activities for Mining subsector group establishments primarily providing support services, on a contract or fee basis, required for the mining and quarrying of minerals and for the extraction of oil and gas. Establishments performing exploration (except geophysical surveying and mapping) for minerals, on a contract or fee basis, are included in this subsector. Exploration includes traditional prospecting methods, such as taking core samples and making geological observations at prospective sites. The activities performed on a contract or fee basis by establishments in the Support Activities for Mining subsector are also often performed in-house by mining operators.",
+  "name": "NAICS-213",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-213",
+  "uuid": "b8bd8334-484e-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag213.htm"
+        ]
+      },
+      "uuid": "ab295826-4900-11e9-8646-d663bd873d93",
+      "value": "Test Support Activities for Mining Value"
+    }
+	  ],
+	"version": 1
+}

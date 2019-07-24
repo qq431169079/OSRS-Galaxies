@@ -1,0 +1,31 @@
+{
+  "category": "NAICS-315",
+  "description": "Industries in the Apparel Manufacturing subsector group establishments with two distinct manufacturing processes: (1) cut and sew (i.e., purchasing fabric and cutting and sewing to make a garment), and (2) the manufacture of garments in establishments that first knit fabric and then cut and sew the fabric into a garment. The Apparel Manufacturing subsector includes a diverse range of establishments manufacturing full lines of ready-to-wear apparel and custom apparel: apparel contractors, performing cutting or sewing operations on materials owned by others; jobbers performing entrepreneurial functions involved in apparel manufacture; and tailors, manufacturing custom garments for individual clients are all included. Knitting, when done alone, is classified in the Textile Mills subsector, but when knitting is combined with the production of complete garments, the activity is classified in Apparel Manufacturing.",
+  "name": "NAICS-315",
+  "source": "BLS Industries at a Glance",
+  "type": "OSRS-NAICS-315",
+  "uuid": "b232871e-47f2-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag315.htm"
+        ]
+      },
+      "uuid": "a0d516d2-48bd-11e9-8646-d663bd873d93",
+      "value": "Test Apparel Manufacturing Value"
+    },
+	{
+      "description": "Uniqlo Co., Ltd. is a Japanese casual wear designer, manufacturer and retailer. The company is a wholly owned subsidiary of Fast Retailing Co., Ltd. The company operates in Japan and several other countries.",
+      "meta": {
+        "refs": [
+          "https://www.uniqlo.com/"
+        ]
+      },
+      "uuid": "a75306e4-7b4a-11e9-8f9e-2a86e4085a59",
+      "value": "Uniqlo Co., Ltd."
+    }
+	  ],
+	"version": 2
+}

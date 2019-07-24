@@ -1,0 +1,40 @@
+{
+	"category": "NAICS-238",
+	"description": "The Specialty Trade Contractors subsector comprises establishments whose primary activity is performing specific activities (e.g., pouring concrete, site preparation, plumbing, painting, and electrical work) involved in building construction or other activities that are similar for all types of construction, but that are not responsible for the entire project. The work performed may include new work, additions, alterations, maintenance, and repairs. The production work performed by establishments in this subsector is usually subcontracted from establishments of the general contractor type or operative builders, but especially in remodeling and repair construction, work also may be done directly for the owner of the property. Specialty trade contractors usually perform most of their work at the construction site, although they may have shops where they perform prefabrication and other work. Establishments primarily engaged in preparing sites for new construction are also included in this subsector.",
+	"name": "NAICS-238",
+	"source": "BLS Industries at a Glance",
+	"type": "labyrinth-NAICS-238",
+	"uuid": "e45e2610-4849-11e9-8646-d663bd873d93",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag238.htm"
+				]
+			},
+			"uuid": "ad4fb7a4-48ff-11e9-8646-d663bd873d93",
+			"value": "Test Specialty Trade Contractors Value"
+		},
+		{
+			"description": "The Porr Group is a publicly listed construction company with its headquarters in Vienna. It is the biggest Austrian building contractor in domestic building industry. Globally, Porr is on the second position among Austrian building contractors. Porr provides services in all areas of the construction industry.",
+			"meta": {
+				"refs": [
+					"https://porr-group.com/en/group/"
+				]
+			},
+			"uuid": "5b005d02-7107-11e9-a923-1681be663d3e",
+			"value": "Porr"
+		},
+		{
+			"description": "Schneider Electric SE is a multinational corporation based in France. The company is headquartered in Rueil-Malmaison and is also based at the World Trade Center of Grenoble. As of 2019, the company has 137,000 employees and operates in over 100 countries.",
+			"meta": {
+				"refs": [
+					"https://www.schneider-electric.us/en/"
+				]
+			},
+			"uuid": "b2f8c418-4b41-11e9-8646-d663bd873d93",
+			"value": "Schneider Electric"
+		}
+	],
+	"version": 1
+}

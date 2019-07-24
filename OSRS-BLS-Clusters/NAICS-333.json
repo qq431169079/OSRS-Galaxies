@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-333",
+  "description": "Industries in the Machinery Manufacturing subsector create end products that apply mechanical force, for example, the application of gears and levers, to perform work. Some important processes for the manufacture of machinery are forging, stamping, bending, forming, and machining that are used to shape individual pieces of metal. Processes, such as welding and assembling are used to join separate parts together. Although these processes are similar to those used in metal fabricating establishments, machinery manufacturing is different because it typically employs multiple metal forming processes in manufacturing the various parts of the machine. Moreover, complex assembly operations are an inherent part of the production process.",
+  "name": "NAICS-333",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-333",
+  "uuid": "58219b48-4829-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag333.htm"
+        ]
+      },
+      "uuid": "ab6f1684-48ee-11e9-8646-d663bd873d93",
+      "value": "Test Machinery Manufacturing Value"
+    }
+	  ],
+	"version": 1
+}

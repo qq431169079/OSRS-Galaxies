@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-483",
+  "description": "Industries in the Water Transportation subsector provide water transportation of passengers and cargo using watercraft, such as ships, barges, and boats. The subsector is composed of two industry groups: (1) one for deep sea, coastal, and Great Lakes; and (2) one for inland water transportation. This split typically reflects the difference in equipment used.",
+  "name": "NAICS-483",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-483",
+  "uuid": "8763d572-4853-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag483.htm"
+        ]
+      },
+      "uuid": "c55c7c92-4904-11e9-8646-d663bd873d93",
+      "value": "Test Water Transportation Value"
+    }
+	  ],
+	"version": 1
+}

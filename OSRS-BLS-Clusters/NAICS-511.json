@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-511",
+  "description": "Industries in the Publishing Industries (except Internet) subsector group establishments engaged in the publishing of newspapers, magazines, other periodicals, and books, as well as directory and mailing list and software publishing. In general, these establishments, which are known as publishers, issue copies of works for which they usually possess copyright. Works may be in one or more formats including traditional print form, CD-ROM, or proprietary electronic networks. Publishers may publish works originally created by others for which they have obtained the rights and/or works that they have created in-house. Software publishing is included here because the activity, creation of a copyrighted product and bringing it to market, is equivalent to the creation process for other types of intellectual products.",
+  "name": "NAICS-511",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-511",
+  "uuid": "a1e748c0-483f-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag511.htm"
+        ]
+      },
+      "uuid": "496d30c2-48fa-11e9-8646-d663bd873d93",
+      "value": "Test Publishing Industries (except Internet) Value"
+    }
+	  ],
+	"version": 1
+}

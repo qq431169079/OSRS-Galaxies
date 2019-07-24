@@ -1,0 +1,50 @@
+{
+	"category": "NAICS-515",
+	"description": "Industries in the Broadcasting (except Internet) subsector include establishments that create content or acquire the right to distribute content and subsequently broadcast the content. The industry groups (Radio and Television Broadcasting and Cable and Other Subscription Programming) are based on differences in the methods of communication and the nature of services provided. The Radio and Television Broadcasting industry group includes establishments that operate broadcasting studios and facilities for over the air or satellite delivery of radio and television programs of entertainment, news, talk, and the like. These establishments are often engaged in the production and purchase of programs and generating revenues from the sale of air time to advertisers and from donations, subsidies, and/or the sale of programs. The Cable and Other Subscription Programming industry group includes establishments operating studios and facilities for the broadcasting of programs that are typically narrowcast in nature (limited format, such as news, sports, education, and youth-oriented programming) on a subscription or fee basis.",
+	"name": "NAICS-515",
+	"source": "BLS Industries at a Glance",
+	"type": "labyrinth-NAICS-515",
+	"uuid": "3aeb9b58-47f4-11e9-b210-d663bd873d93",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag515.htm"
+				]
+			},
+			"uuid": "3df8a6c6-48bf-11e9-8646-d663bd873d93",
+			"value": "Test Broadcasting (except Internet) Value"
+		},
+		{
+			"description": "Member-sponsored, Non-commercial FM community radio station serving the Tampa Bay area since 1979 with diverse programming, news and public affairs.",
+			"meta": {
+				"refs": [
+					"https://www.wmnf.org/"
+				]
+			},
+			"uuid": "bbb52ec0-abbd-11e9-a2a3-2a2ae2dbcce4",
+			"value": "WMNF 88.5-FM"
+		},
+		{
+			"description": "KHSU-FM is an NPR-member radio station, licensed to Arcata, California, United States. The station is currently owned by Humboldt State University. KHSU also holds licenses for additional stations running Radio Bilingüe and BBC World Service.",
+			"meta": {
+				"refs": [
+					"https://www.khsu.org/"
+				]
+			},
+			"uuid": "3df8a6c6-48bf-11e9-8646-d663bd873d93",
+			"value": "KHSU"
+		},
+		{
+			"description": "Discovery Channel is an American pay television television network and flagship channel owned by Discovery, Inc., a publicly traded company run by CEO David Zaslav.",
+			"meta": {
+				"refs": [
+					"https://www.discovery.com/"
+				]
+			},
+			"uuid": "5621cc80-4b1e-11e9-8646-d663bd873d93",
+			"value": "Discovery Channel"
+		}
+	],
+	"version": 3
+}

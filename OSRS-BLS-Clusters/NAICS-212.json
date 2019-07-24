@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-212",
+  "description": "Industries in the Mining (except Oil and Gas) subsector primarily engage in mining, mine site development, and beneficiating (i.e., preparing) metallic minerals and nonmetallic minerals, including coal. The term mining is used in the broad sense to include ore extraction, quarrying, and beneficiating (e.g., crushing, screening, washing, sizing, concentrating, and flotation), customarily done at the mine site.",
+  "name": "NAICS-212",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-212",
+  "uuid": "5bb28dec-482b-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag212.htm"
+        ]
+      },
+      "uuid": "71aa51be-48f0-11e9-8646-d663bd873d93",
+      "value": "Test Mining (except Oil and Gas) Value"
+    }
+	  ],
+	"version": 1
+}

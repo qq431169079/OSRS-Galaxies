@@ -1,0 +1,60 @@
+{
+	"category": "NAICS-623",
+	"description": "Industries in the Nursing and Residential Care Facilities subsector provide residential care combined with either nursing, supervisory, or other types of care as required by the residents. In this subsector, the facilities are a significant part of the production process and the care provided is a mix of health and social services with the health services being largely some level of nursing services.",
+	"name": "NAICS-623",
+	"source": "BLS Industries at a Glance",
+	"type": "OSRS-NAICS-623",
+	"uuid": "54898aa4-4838-11e9-8646-d663bd873d93",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag623.htm"
+				]
+			},
+			"uuid": "011cded0-48f5-11e9-8646-d663bd873d93",
+			"value": "Test Nursing and Residential Care Facilities Value"
+		},
+		{
+			"description": "Provides assited living and medical care in the states of New York, North Carolina, and South Carolina.",
+			"meta": {
+				"refs": [
+					"https://www.depaul.org/"
+				]
+			},
+			"uuid": "5aea4fd8-5a0c-11e9-8647-d663bd873d93",
+			"value": "DePaul"
+		},
+		{
+			"description": "American Baptist Homes of the Midwest (ABHM) - Providing quality housing, From Independent Living to Assisted Care for seniors and those with special needs.",
+			"meta": {
+				"refs": [
+					"https://www.abhomes.net/"
+				]
+			},
+			"uuid": "ed57b6ec-7bd8-11e9-8f9e-2a86e4085a59",
+			"value": "American Baptist Homes of the Midwest"
+		},
+		{
+			"description": "Home health carefacility near Chicago Il. that is now closed. ",
+			"meta": {
+				"refs": [
+					"No URL Available"
+				]
+			},
+			"uuid": "20932014-a5d2-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Medical Professional Home Healthcare Center"
+		},
+		{
+			"description": "Facility the provides assited living for seniors located in Seattle Washington, USA.",
+			"meta": {
+				"refs": [
+					"https://ballardseniorcenter.org/"
+				]
+			},
+			"uuid": "ce3f339e-4b35-11e9-8646-d663bd873d93",
+			"value": "Ballard Northwest Senior Center"
+		}
+	],
+	"version": 5
+}

@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-451",
+  "description": "Industries in the Sporting Goods, Hobby, Book, and Music Stores subsector are engaged in retailing and providing expertise on use of sporting equipment or other specific leisure activities, such as needlework and musical instruments. Book stores are also included in this subsector.",
+  "name": "NAICS-451",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-451",
+  "uuid": "3f0fea44-484a-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag451.htm"
+        ]
+      },
+      "uuid": "0b84f5c8-4900-11e9-8646-d663bd873d93",
+      "value": "Test Sporting Goods, Hobby, Book, and Music Stores Value"
+    }
+	  ],
+	"version": 1
+}

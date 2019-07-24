@@ -1,0 +1,610 @@
+{
+	"category": "NAICS-62",
+	"description": "The Health Care and Social Assistance sector comprises establishments providing health care and social assistance for individuals. The sector includes both health care and social assistance because it is sometimes difficult to distinguish between the boundaries of these two activities. The industries in this sector are arranged on a continuum starting with those establishments providing medical care exclusively, continuing with those providing health care and social assistance, and finally finishing with those providing only social assistance. The services provided by establishments in this sector are delivered by trained professionals. All industries in the sector share this commonality of process, namely, labor inputs of health practitioners or social workers with the requisite expertise. Many of the industries in the sector are defined based on the educational degree held by the practitioners included in the industry.",
+	"name": "NAICS-62",
+	"source": "BLS Industries at a Glance",
+	"type": "OSRS-NAICS-62",
+	"uuid": "3198aa24-4825-11e9-8646-d663bd873d93",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag62.htm"
+				]
+			},
+			"uuid": "07cd4d90-48ec-11e9-8646-d663bd873d93",
+			"value": "Test Health Care and Social Assistance Value"
+		},
+		{
+			"description": "Family medical practice located in Greenville, South Carolina USA.",
+			"meta": {
+				"refs": [
+					"http://milestonefamilymedicine.com/"
+				]
+			},
+			"uuid": "http://milestonefamilymedicine.com/",
+			"value": "Milestone Family Medicine"
+		},
+		{
+			"description": "Columbia Surgical Specialists of Spokane is a specialist servie provider within the healthcare industry.",
+			"meta": {
+				"refs": [
+					"https://columbiasurgicalspecialists.com/"
+				]
+			},
+			"uuid": "19ac703e-4b2d-11e9-8646-d663bd873d93",
+			"value": "Columbia Surgical Specialists of Spokane"
+		},
+		{
+			"description": "Maffi Clinics includes 5 clinics offering cutting-edge surgical procedures, aesthetic injection, laser and skin care treatments.",
+			"meta": {
+				"refs": [
+					"https://mafficlinics.com/"
+				]
+			},
+			"uuid": "466348a0-4b2d-11e9-8646-d663bd873d93",
+			"value": "Maffi Clinics"
+		},
+		{
+			"description": "Covenant Health is the region's top-performing healthcare network with nine hospitals and 1500 affiliated physicians throughout East Tennessee.",
+			"meta": {
+				"refs": [
+					"https://www.covenanthealth.com/"
+				]
+			},
+			"uuid": "78dca9c0-4b2d-11e9-8646-d663bd873d93",
+			"value": "Covenant Health"
+		},
+		{
+			"description": "McLaren Health Care Corporation is an integrated, managed care health care organization in the Lower Peninsula of Michigan. McLaren operates 14 hospitals, ambulatory surgery centers, imaging centers, a primary and specialty care physician network, commercial and Medicaid HMOs, home health and hospice providers, retail medical equipment showrooms, pharmacy services, and a wholly owned medical malpractice insurance company. McLaren also operates Michigan's largest network of cancer centers and providers, anchored by the Barbara Ann Karmanos Institute. Its headquarters is in Grand Blanc, Michigan with operations facilities in Michigan and Indiana.",
+			"meta": {
+				"refs": [
+					"https://www.mclaren.org/main/home.aspx"
+				]
+			},
+			"uuid": "b782dbc2-4b2d-11e9-8646-d663bd873d93",
+			"value": "McLaren Health"
+		},
+		{
+			"description": "An organization that delivers radiology treatments to the home directly.",
+			"meta": {
+				"refs": [
+					"https://www.portableservice.com/"
+				]
+			},
+			"uuid": "10e962d8-4ff4-11e9-8647-d663bd873d93",
+			"value": "Home Health Radiology Services LLC"
+		},
+		{
+			"description": "Frederick Regional Health System maintains a focus on delivering quality care. FRHS includes Monocacy Health Partners, a network of providers offering primary care, family medicine and a wide range of specialty services. MHP partners very closely with Frederick Memorial Hospital since both are part of the Frederick Regional Health System. Because they are all connected, our physicians and clinicians can easily work together to provide the best possible treatment plan and follow up care for all of our patients.",
+			"meta": {
+				"refs": [
+					"https://www.fmh.org/"
+				]
+			},
+			"uuid": "89a2522a-50d0-11e9-8647-d663bd873d93",
+			"value": "Frederick Regional Health System"
+		},
+		{
+			"description": "Facility that delivers substance abuse treatment.",
+			"meta": {
+				"refs": [
+					"https://www.databreaches.net/counselor-for-north-haven-substance-abuse-center-stole-patient-identify-for-cable-internet-police/"
+				]
+			},
+			"uuid": "89a25518-50d0-11e9-8647-d663bd873d93",
+			"value": "North Haven Substance Abuse Center"
+		},
+		{
+			"description": "HDC is a community mental health center that serves residents in four counties in northeastern Minnesota.",
+			"meta": {
+				"refs": [
+					"https://www.humandevelopmentcenter.org/"
+				]
+			},
+			"uuid": "89a2568a-50d0-11e9-8647-d663bd873d93",
+			"value": "The Human Development Center"
+		},
+		{
+			"description": "Verity Medical Foundation is a statewide collaboration of physicians and other healthcare providers dedicated to delivering high quality, compassionate, patient-centered care to individuals and families throughout California.",
+			"meta": {
+				"refs": [
+					"https://medfoundation.verity.org/"
+				]
+			},
+			"uuid": "89a257e8-50d0-11e9-8647-d663bd873d93",
+			"value": "Verity Medical Foundation"
+		},
+		{
+			"description": "Southern Hills Eye Care specializes in primary eye care.",
+			"meta": {
+				"refs": [
+					"https://www.southernhillseyecare.com/"
+				]
+			},
+			"uuid": "28f203aa-5a0b-11e9-8647-d663bd873d93",
+			"value": "Southern Hills Eye Care"
+		},
+		{
+			"description": "We are a growing Community Mental Health Clinic that connects with more than 40,000 clients across 17 counties in Missouri. Our provider base of more than 150 clinicians offer a full continuum of care through our integrated network. We create individualized care plans and our staff collaborates with families, schools, healthcare systems and other networks to provide the appropriate care for each situation.",
+			"meta": {
+				"refs": [
+					"https://www.burrellcenter.com/"
+				]
+			},
+			"uuid": "28f2065c-5a0b-11e9-8647-d663bd873d93",
+			"value": "Burrell Behavioral Health"
+		},
+		{
+			"description": "Apart of the Brookside Surgery Center",
+			"meta": {
+				"refs": [
+					"https://www.yellowpages.com/battle-creek-mi/mip/brookside-ent-hearing-services-453067781"
+				]
+			},
+			"uuid": "98a5e0c2-5bfa-11e9-8647-d663bd873d93",
+			"value": "Brookside ENT and Hearing Center"
+		},
+		{
+			"description": "Baystate Health is a not-for-profit integrated health system headquartered in Springfield, Massachusetts, serving Western Massachusetts and the Knowledge Corridor Region of Massachusetts and Connecticut. The system has 4 hospitals, over 80 medical practices, and 25 reference laboratories.",
+			"meta": {
+				"refs": [
+					"https://www.baystatehealth.org/"
+				]
+			},
+			"uuid": "98a5e5a4-5bfa-11e9-8647-d663bd873d93",
+			"value": "Baystate Health"
+		},
+		{
+			"description": "Palmetto Health is the largest and most comprehensive integrated health care system in the South Carolina Midlands region.",
+			"meta": {
+				"refs": [
+					"https://www.palmettohealth.org/"
+				]
+			},
+			"uuid": "98a5e72a-5bfa-11e9-8647-d663bd873d93",
+			"value": "Palmetto Health"
+		},
+		{
+			"description": "Women's Health CT is dedicated to the best healthcare for women. Find an OBGYN or gynecologist near you in CT, search practices and physicians, and more.",
+			"meta": {
+				"refs": [
+					"https://www.invitrosciences.com/"
+				]
+			},
+			"uuid": "98a5e86a-5bfa-11e9-8647-d663bd873d93",
+			"value": "Women's Health CT"
+		},
+		{
+			"description": "Welcome to Clearway Pain Solutions Institute, where we relieve pain, restore physical function and empower our patients to renew themselves.",
+			"meta": {
+				"refs": [
+					"https://clearwaypain.com/"
+				]
+			},
+			"uuid": "a1311758-63ce-11e9-a923-1681be663d3e",
+			"value": "Clearway Pain Solutions Institute"
+		},
+		{
+			"description": "Questcare Partners is Dallas and Fort Worth-based physician-owned as well as operated medical practice providing quality services in multiple specialties of medicine.",
+			"meta": {
+				"refs": [
+					"https://questcare.com/"
+				]
+			},
+			"uuid": "a1311a0a-63ce-11e9-a923-1681be663d3e",
+			"value": "Questcare Medical Services"
+		},
+		{
+			"description": "RS Medical manufactures non-opioid, pain relieving INF interferential therapy devices that penetrate deep into soft tissue for long-lasting pain relief.",
+			"meta": {
+				"refs": [
+					"https://www.rsmedical.com/"
+				]
+			},
+			"uuid": "a1311b5e-63ce-11e9-a923-1681be663d3e",
+			"value": "RS Medical"
+		},
+		{
+			"description": "Private non-profit corporation. Health Recovery Services offers mediacation assisted treatment to those who need help with alcohol and drug addiction.",
+			"meta": {
+				"refs": [
+					"https://www.hrs.org/"
+				]
+			},
+			"uuid": "077f0c72-63cf-11e9-a923-1681be663d3e",
+			"value": "Health Recovery Services"
+		},
+		{
+			"description": "Pasquotank–Camden EMS is a Paramedic level EMS organization serving both Pasquotank and Camden counties located in Northeastern NC. Pasquotank-Camden County EMS operates out of one centralized station located in Elizabeth City, NC and three satellite stations located in the more rural areas of each county.",
+			"meta": {
+				"refs": [
+					"https://www.pasquotankcamdenems.com/about-us"
+				]
+			},
+			"uuid": "077f0f4c-63cf-11e9-a923-1681be663d3e",
+			"value": "Pasquotank-Camden Emergency Medical Service"
+		},
+		{
+			"description": "Riverplace Counseling Centers provide primary chemical dependency therapy programs and related services in Minnesota, USA.",
+			"meta": {
+				"refs": [
+					"http://www.riverplacecenter.com/"
+				]
+			},
+			"uuid": "cae75fca-65e6-11e9-a923-1681be663d3e",
+			"value": "Riverplace Counseling Centers"
+		},
+		{
+			"description": "Rehabilitation center for drug and alcohol abuse located in Pennsylvania, USA.",
+			"meta": {
+				"refs": [
+					"https://www.stepstorecovery.com/about-steps-to-recovery/drug-alcohol-rehab-staff/"
+				]
+			},
+			"uuid": "cae764e8-65e6-11e9-a923-1681be663d3e",
+			"value": "Steps to Recovery"
+		},
+		{
+			"description": "EmCare Holdings Inc., or EmCare, is an American provider of physician practice management services for emergency departments, inpatient physician services or hospitals, acute care surgery, trauma and general surgery, women's and children's services, radiology and teleradiology programs as well as anesthesiology services.",
+			"meta": {
+				"refs": [
+					"https://www.emcare.com/"
+				]
+			},
+			"uuid": "cae7665a-65e6-11e9-a923-1681be663d3e",
+			"value": "EmCare Holdings Inc."
+		},
+		{
+			"description": "Metrocare Services providees behavioral health, primary care, pharmacy, housing and supportive services.",
+			"meta": {
+				"refs": [
+					"https://www.metrocareservices.org/"
+				]
+			},
+			"uuid": "cae76790-65e6-11e9-a923-1681be663d3e",
+			"value": "Metrocare Services"
+		},
+		{
+			"description": "Centrelake Imaging is a full-service, all digital radiology network in Southern California. Our practice was founded in 2006 in Ontario, California by a team of experienced medical practitioners focused on delivering high quality and affordable diagnostic imaging services.",
+			"meta": {
+				"refs": [
+					"https://centrelakeimaging.com/"
+				]
+			},
+			"uuid": "cae768c6-65e6-11e9-a923-1681be663d3e",
+			"value": "Centrelake Medical Group Inc."
+		},
+		{
+			"description": "CarePartners brings together four services – rehabilitation, home health, adult care and hospice – to offer our patients a full continuum of post-acute care, or care after a serious illness or injury. When it comes to our patients, CarePartners is committed to delivering exceptional, personalized care.",
+			"meta": {
+				"refs": [
+					"https://missionhealth.org/member-hospitals/carepartners/"
+				]
+			},
+			"uuid": "892aad8a-6b54-11e9-a923-1681be663d3e",
+			"value": "CarePartners"
+		},
+		{
+			"description": "Allegheny Children’s Initiative provides behavioral and mental health oriented services to children and adolescents between the ages of 2-21 in Allegheny County.",
+			"meta": {
+				"refs": [
+					"https://www.pfq.org/allegheny-childrens-initiative-inc"
+				]
+			},
+			"uuid": "892ab014-6b54-11e9-a923-1681be663d3e",
+			"value": "Allegheny Children’s Initiative"
+		},
+		{
+			"description": "At Citizen Care CCI, we have been committed to providing services and supports to individuals with intellectual and developmental disabilities for more than four decades. In 1974, CCI was founded as an Intermediate Care Facility, and Robinson Developmental Center. By the end of the 1975, 132 people had transferred from Polk State Center and were living and receiving services at CCI. The Agency reflects a person centered philosophy in which people receiving services are gainfully employed, active in their communities, are treated with dignity and respect, they have choices and CCI helps them achieve their goals and dreams.",
+			"meta": {
+				"refs": [
+					"https://www.pfq.org/citizen-care-inc"
+				]
+			},
+			"uuid": "892ab24e-6b54-11e9-a923-1681be663d3e",
+			"value": "Citizen Care"
+		},
+		{
+			"description": "With 40 years of experience, Exceptional Adventures provides top-notch vacation opportunities, events and monthly activities for adolescents and adults with intellectual and physical disabilities.",
+			"meta": {
+				"refs": [
+					"https://www.pfq.org/exceptional-adventures"
+				]
+			},
+			"uuid": "892ab960-6b54-11e9-a923-1681be663d3e",
+			"value": "Exceptional Adventures"
+		},
+		{
+			"description": "Milestone Centers' mission is to provide quality, life-enhancing services that promote wellness and the development of human potential to persons with intellectual and developmental disabilities and or behavioral health challenges.",
+			"meta": {
+				"refs": [
+					"https://www.pfq.org/milestone-centers-inc"
+				]
+			},
+			"uuid": "892abb04-6b54-11e9-a923-1681be663d3e",
+			"value": "Milestone Centers"
+		},
+		{
+			"description": "The Partners For Quality Foundation strives to advance, promote and support the mission of the agency. Partners For Quality receives operating funds through various sources, private gifts, grants and special events help the agency go above and beyond basic needs.",
+			"meta": {
+				"refs": [
+					"https://www.pfq.org/partners-quality-foundation"
+				]
+			},
+			"uuid": "892abd02-6b54-11e9-a923-1681be663d3e",
+			"value": "Partners For Quality Foundation"
+		},
+		{
+			"description": "Hong Kong based government supported dental clinic.",
+			"meta": {
+				"refs": [
+					"https://tel.directory.gov.hk/0258000401_ENG.html"
+				]
+			},
+			"uuid": "565f041c-7105-11e9-a923-1681be663d3e",
+			"value": "Li Po Chun Dental Clinic"
+		},
+		{
+			"description": "Provides quality medical, dental, pediatric and behavioral health services to all members of our community.  Founded in 1994 as a Santa Barbara based non-profit, our community clinic has served the Central-Coast’s healthcare needs for over twenty years.  Our patient-centered medical home model organizes primary care in a manner that emphasizes care coordination and communication between the patient and provider and outside specialists.  We cultivate more engaging patient relationships and achieve better health outcomes by putting patients’ needs first.  Our doctors are leading the way in providing higher quality care at lower costs, and improving overall experience in primary healthcare.",
+			"meta": {
+				"refs": [
+					"http://www.aihscorp.org/"
+				]
+			},
+			"uuid": "565f06ba-7105-11e9-a923-1681be663d3e",
+			"value": "American Indian Health & Services, Inc."
+		},
+		{
+			"description": "Spectrum Health Lakeland is a not-for-profit, community-owned health system, nationally recognized for delivering exemplary patient experiences and clinical outcomes.",
+			"meta": {
+				"refs": [
+					"https://www.spectrumhealth.org/lakeland"
+				]
+			},
+			"uuid": "eb3ace92-7bd5-11e9-8f9e-2a86e4085a59",
+			"value": "Spectrum Health Lakeland"
+		},
+		{
+			"description": "Tahoe Forest Hospital offers 24 hour emergency care, an ambulatory surgery center, intensive care, orthopedics and sports medicine, a medical and surgical unit, women and family center, home health and hospice programs, a health clinic, cancer center, long term care center, children’s center, a health and sports performance center, as well as a variety of community health outreach programs.",
+			"meta": {
+				"refs": [
+					"https://www.tfhd.com/"
+				]
+			},
+			"uuid": "eb3ad14e-7bd5-11e9-8f9e-2a86e4085a59",
+			"value": "Tahoe Forest Health District"
+		},
+		{
+			"description": "At Sauk Prairie Healthcare and Hospital, located in Prairie du Sac, WI, our mission is to provide extraordinary healthcare from the heart.",
+			"meta": {
+				"refs": [
+					"https://www.saukprairiehealthcare.org/"
+				]
+			},
+			"uuid": "eb3ad5c2-7bd5-11e9-8f9e-2a86e4085a59",
+			"value": "Sauk Prairie Healthcare, Inc."
+		},
+		{
+			"description": "Cancer Treatment Centers of America, headquartered in Boca Raton, Florida, is a national, for-profit network of five comprehensive cancer care and research centers and three out patient care centers that serves cancer patients throughout the United States. CTCA was originally headquartered in Schaumburg, Illinois.",
+			"meta": {
+				"refs": [
+					"https://www.cancercenter.com/"
+				]
+			},
+			"uuid": "eb3ad72a-7bd5-11e9-8f9e-2a86e4085a59",
+			"value": "Cancer Treatment Centers of America"
+		},
+		{
+			"description": "Southeastern Health is a non-profit organization and is accredited by DNV-GL Healthcare. The medical center is licensed for 452 beds and offers a combination of acute care, intensive care and psychiatric services to more than 14,000 inpatients and 78,000 emergency patients annually. The Medical Center is a comprehensive health care system which offers a wide array of health care services through its affiliated divisions. Additional information about Southeastern Health can be found by visiting www.srmc.org and on Facebook at www.facebook.com/sehealth.",
+			"meta": {
+				"refs": [
+					"http://www.srmc.org/"
+				]
+			},
+			"uuid": "eb3ad86a-7bd5-11e9-8f9e-2a86e4085a59",
+			"value": "Southeastern Regional Medical Center"
+		},
+		{
+			"description": "Established in 1984, Equitas Health is a regional not-for-profit community-based healthcare system and federally qualified community health center look-alike. Its expanded mission has made it one of the nation’s largest HIV/AIDS, lesbian, gay, bisexual, transgender, and queer/questioning (LGBTQ) healthcare organizations. With 17 offices in 11 cities, it serves more than 67,000 individuals in Ohio, Kentucky, and West Virginia each year through its diverse healthcare and social service delivery system focused around primary and specialized medical care, retail pharmacy, dental, behavioral health, HIV/STI prevention, advocacy, and community health initiatives.",
+			"meta": {
+				"refs": [
+					"https://equitashealth.com/"
+				]
+			},
+			"uuid": "bbd44be6-7bd6-11e9-8f9e-2a86e4085a59",
+			"value": "Equitas Health, Inc."
+		},
+		{
+			"description": "Memorial Hermann Health System is the largest not-for-profit health system in southeast Texas and consists of 16 hospitals, 8 Cancer Centers, 3 Heart & Vascular Institutes, and 27 sports medicine and rehabilitation centers, in addition to other outpatient and rehabilitation centers.",
+			"meta": {
+				"refs": [
+					"http://www.memorialhermann.org/"
+				]
+			},
+			"uuid": "bbd44eb6-7bd6-11e9-8f9e-2a86e4085a59",
+			"value": "Memorial Hermann Health System"
+		},
+		{
+			"description": "Accredited by The Joint Commission’s Health Facilities Accreditation Program and is approved by the New York State Department of Health.",
+			"meta": {
+				"refs": [
+					"https://ehs.org/"
+				]
+			},
+			"uuid": "bbd4500a-7bd6-11e9-8f9e-2a86e4085a59",
+			"value": "Episcopal Health Services Inc."
+		},
+		{
+			"description": "During the last 40 years UMC, a public hospital for the citizens of Lubbock County, has become a health system we can be proud of and a great investment for Lubbock County taxpayers. Together with UMC Physicians, UMC has seen an increase in market share, demand for service, and growth in reputation. Even during difficult economic times, sound financial planning has allowed the system to thrive.",
+			"meta": {
+				"refs": [
+					"https://www.umchealthsystem.com/"
+				]
+			},
+			"uuid": "bbd451ae-7bd6-11e9-8f9e-2a86e4085a59",
+			"value": "UMC Health System"
+		},
+		{
+			"description": "Branch of UMC Health Sysetm.",
+			"meta": {
+				"refs": [
+					"https://www.umchealthsystem.com/medical-services/gastroenterology/locations-contact/umc-southwest-gastroenterology"
+				]
+			},
+			"uuid": "bbd452f8-7bd6-11e9-8f9e-2a86e4085a59",
+			"value": "UMC Southwest Gastroenterology"
+		},
+		{
+			"description": "The Southeastern Council on Alcoholism and Drug Dependence, Inc. (SCADD) is an organization dedicated to helping people and their families with alcohol and substance abuse problems. SCADD was founded in 1966 by three men — Attorney Morgan K. McGuire, Dr. Joseph A. Ceha and Reverend Orin E. Dice who shared a vision of a community program organized, staffed, operated and funded, in part, by the people of Southeastern Connecticut.",
+			"meta": {
+				"refs": [
+					"http://www.scadd.org/"
+				]
+			},
+			"uuid": "7c81f0e6-7bd7-11e9-8f9e-2a86e4085a59",
+			"value": "The Southeastern Council on Alcoholism and Drug Dependence, Inc."
+		},
+		{
+			"description": "TriHealth is a unified health system based in Cincinnati, Ohio, United States. It was originally formed in 1995 to bring together physicians, Bethesda and Good Samaritan Hospitals and the community.",
+			"meta": {
+				"refs": [
+					"https://www.trihealth.com/"
+				]
+			},
+			"uuid": "adfb32b0-8224-11e9-bc42-526af7764f64",
+			"value": "TriHealth"
+		},
+		{
+			"description": "The Nova Scotia Health Authority is a provincial health authority serving Nova Scotia, Canada. It is the largest employer in the province, with more than 23,000 employees, 2,500 physicians and 7,000 volunteers working from 45 different facilities. Its largest hospital is the QEII Health Sciences Centre in Halifax.",
+			"meta": {
+				"refs": [
+					"http://www.nshealth.ca/"
+				]
+			},
+			"uuid": "17c671ba-8d41-11e9-bc42-526af7764f64",
+			"value": "The Nova Scotia Health Authority"
+		},
+		{
+			"description": "Olean Medical Group LLP has been serving our community for more than 70 years and is the largest medical group in Western New York outside of Buffalo. Our family practice has six locations, with our central location at 535 Main Street in Olean, NY which includes support services to better meet our patients' needs. Our satellite offices are located in Cuba, Ellicottville, Franklinville and Salamanca, NY, all within 12 - 28 miles of our main office.",
+			"meta": {
+				"refs": [
+					"https://oleanmedicalgroup.com/"
+				]
+			},
+			"uuid": "bdcadb18-95ee-11e9-bc42-526af7764f64",
+			"value": "Olean Medical Group"
+		},
+		{
+			"description": "Our mission at Capitol Cardiology Associates is to provide our patients with the highest standard of cardiovascular care through our compassion, medical expertise, and commitment to excellence. Our prime goal is to benefit the community, by providing the full spectrum of cardiac services that modern technology has to offer.",
+			"meta": {
+				"refs": [
+					"https://www.capitolcardiology.com/"
+				]
+			},
+			"uuid": "bdcadeb0-95ee-11e9-bc42-526af7764f64",
+			"value": "Capitol Cardiology Associates"
+		},
+		{
+			"description": "Southern Maryland Medical Group provides professional treatment for all phases of family medical care from pediatrics to geriatrics. They can be relied upon to perform general diagnostic tests such as throat cultures and blood work as well as school and pre-employment physicals and routine medical checkups. Referrals to other medical specialties are always made when necessary.",
+			"meta": {
+				"refs": [
+					"http://smmgmd.com/"
+				]
+			},
+			"uuid": "bdcae004-95ee-11e9-bc42-526af7764f64",
+			"value": "Southern Maryland Medical Group"
+		},
+		{
+			"description": "We specialize in disorders of the genitourinary tract in both male and female patients. Our group offers current minimally invasive and advanced technologies to our patients with over 80 years of combined experience. We are proud to serve Mahoning and Trumbull counties plus surrounding areas.",
+			"meta": {
+				"refs": [
+					"http://www.neourology.com/"
+				]
+			},
+			"uuid": "bdcae1e4-95ee-11e9-bc42-526af7764f64",
+			"value": "N.E.O. Urology"
+		},
+		{
+			"description": "Creighton University Campus Pharmacy at 2412 Cuming St.",
+			"meta": {
+				"refs": [
+					"https://spahp.creighton.edu/clinical-services/creighton-university-campus-pharmacy"
+				]
+			},
+			"uuid": "bdcae324-95ee-11e9-bc42-526af7764f64",
+			"value": "Creighton University Campus Pharmacy"
+		},
+		{
+			"description": "Franciscan Health is a 14-hospital health system which includes clinics, home health services and doctors serving Indiana and Illinois.",
+			"meta": {
+				"refs": [
+					"https://www.franciscanhealth.org/"
+				]
+			},
+			"uuid": "21372192-a5d1-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Franciscan Health"
+		},
+		{
+			"description": "Summa Health is a nonprofit integrated healthcare delivery system in Northeast Ohio, United States. The Greater Akron Chamber documents Summa Health as the largest employer in Summit County with more than 7,000 employees. Summa provides comprehensive emergency, acute, critical, outpatient and long-term/home care.",
+			"meta": {
+				"refs": [
+					"https://www.summahealth.org/"
+				]
+			},
+			"uuid": "21372408-a5d1-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Summa Health"
+		},
+		{
+			"description": "Alive Hospice provides loving care to people with life-threatening illnesses, support to their families and service to the community in a spirit of enriching lives.",
+			"meta": {
+				"refs": [
+					"https://www.alivehospice.org/"
+				]
+			},
+			"uuid": "21372570-a5d1-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Alive Hospice"
+		},
+		{
+			"description": "We provide comprehensive, integrated primary health care services for all to improve the health and wellbeing of our patients and the Maine communities we serve.",
+			"meta": {
+				"refs": [
+					"https://pchc.com/"
+				]
+			},
+			"uuid": "f9186452-abbe-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Penobscot Community Health Center"
+		},
+		{
+			"description": "At Wise Health System, we are committed to leading the growth and development of health care services in our area and providing quality, specialized care for you and your family. Our affiliation with Baylor Scott & White Health allows Wise Health System to access resources from one of the most highly regarded health care systems in the world today, maximizing the delivery of health care in our region. With more than 1,900 employees and growing, our health care system continues to be the largest employer in Wise County. Wise Health System is a 501(c)(3) not-for-profit organization.",
+			"meta": {
+				"refs": [
+					"https://www.wisehealthsystem.com/about/"
+				]
+			},
+			"uuid": "f91866b4-abbe-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Wise Health System"
+		},
+		{
+			"description": "South Texas Dermatology is a unique practice offering advanced technology for general dermatology, mohs surgery, skin rejuvenation and cosmetic procedures. Located in Corpus Christi, Texas we are serving patients throughout South Texas. Our team of skin experts is lead by Dr. Wayne Fagan, Dr. Nathan Davis and Dr. Richard DeVillez.",
+			"meta": {
+				"refs": [
+					"http://www.southtxderm.com/"
+				]
+			},
+			"uuid": "6068e55e-aca6-11e9-a2a3-2a2ae2dbcce4",
+			"value": "South Texas Dermatopathology, PLLC"
+		},
+		{
+			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
+			"meta": {
+				"refs": [
+					"http://www.singhealth.com.sg/"
+				]
+			},
+			"uuid": "4d0fdf64-4b2e-11e9-8646-d663bd873d93",
+			"value": "SingHealth"
+		}
+	],
+	"version": 16
+}

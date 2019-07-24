@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-721",
+  "description": "The Accommodation and Food Services sector comprises establishments providing customers with lodging and/or preparing meals, snacks, and beverages for immediate consumption. The sector includes both accommodation and food services establishments because the two activities are often combined at the same establishment.",
+  "name": "NAICS-72",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-72",
+  "uuid": "0cb57c6a-477a-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag72.htm"
+        ]
+      },
+      "uuid": "310fc584-477a-11e9-b210-d663bd873d93",
+      "value": "Test Acommodation and Food Service Value"
+    }
+	  ],
+	"version": 1
+}

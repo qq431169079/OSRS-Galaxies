@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-486",
+  "description": "Industries in the Pipeline Transportation subsector use transmission pipelines to transport products, such as crude oil, natural gas, refined petroleum products, and slurry. Industries are identified based on the products transported (i.e., pipeline transportation of crude oil, natural gas, refined petroleum products, and other products). The Pipeline Transportation of Natural Gas industry includes the storage of natural gas because the storage is usually done by the pipeline establishment and because a pipeline is inherently a network in which all the nodes are interdependent.",
+  "name": "NAICS-486",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-486",
+  "uuid": "e4bd27da-483c-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag486.htm"
+        ]
+      },
+      "uuid": "e7aaeaca-48f7-11e9-8646-d663bd873d93",
+      "value": "Test Pipeline Transportation Value"
+    }
+	  ],
+	"version": 1
+}

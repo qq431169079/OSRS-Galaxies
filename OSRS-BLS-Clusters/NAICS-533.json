@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-533",
+  "description": "Industries in the Lessors of Nonfinancial Intangible Assets (except Copyrighted Works) subsector include establishments that are primarily engaged in assigning rights to assets, such as patents, trademarks, brand names, and/or franchise agreements for which a royalty payment or licensing fee is paid to the asset holder. Establishments in this subsector own the patents, trademarks, and/or franchise agreements that they allow others to use or reproduce for a fee and may or may not have created those assets.",
+  "name": "NAICS-533",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-533",
+  "uuid": "8230969c-4828-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag533.htm"
+        ]
+      },
+      "uuid": "49588480-48ee-11e9-8646-d663bd873d93",
+      "value": "Test Lessors of Nonfinancial Intangible Assets (except Copyrighted Works) Value"
+    }
+	  ],
+	"version": 1
+}

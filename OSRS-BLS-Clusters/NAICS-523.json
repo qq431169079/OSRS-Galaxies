@@ -1,0 +1,30 @@
+{
+	"category": "NAICS-523",
+	"description": "Industries in the Securities, Commodity Contracts, and Other Financial Investments and Related Activities subsector group establishments that are primarily engaged in one of the following: (1) underwriting securities issues and/or making markets for securities and commodities; (2) acting as agents (i.e., brokers) between buyers and sellers of securities and commodities; (3) providing securities and commodity exchange services; and (4) providing other services, such as managing portfolios of assets; providing investment advice; and trust, fiduciary, and custody services.",
+	"name": "NAICS-523",
+	"source": "BLS Industries at a Glance",
+	"type": "labyrinth-NAICS-523",
+	"uuid": "56e1609a-4849-11e9-8646-d663bd873d93",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag523.htm"
+				]
+			},
+			"uuid": "03fc2656-48ff-11e9-8646-d663bd873d93",
+			"value": "Test Securities, Commodity Contracts, and Other Financial Investments and Related Activities Value"
+		},
+		{
+			"description": "The Dow Jones Industrial Average, or simply the Dow, is a stock market index that indicates the value of 30 large, publicly owned companies based in the United States, and how they have traded in the stock market during various periods of time.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average"
+				]
+			},
+			"uuid": "01b145a4-4b41-11e9-8646-d663bd873d93",
+			"value": "Dow Jones"
+		}
+	],
+	"version": 1
+}

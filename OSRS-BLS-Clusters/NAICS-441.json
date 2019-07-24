@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-441",
+  "description": "Industries in the Motor Vehicle and Parts Dealers subsector retail motor vehicles and parts from fixed point-of-sale locations. Establishments in this subsector typically operate from a showroom and/or an open lot where the vehicles are on display. The display of vehicles and the related parts require little by way of display equipment. The personnel generally include both the sales and sales support staff familiar with the requirements for registering and financing a vehicle as well as a staff of parts experts and mechanics trained to provide repair and maintenance services for the vehicles. Specific industries have been included in this subsector to identify the type of vehicle being retailed.",
+  "name": "NAICS-441",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-441",
+  "uuid": "c135e024-4835-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag441.htm"
+        ]
+      },
+      "uuid": "7009daa8-48f2-11e9-8646-d663bd873d93",
+      "value": "Test Motor Vehicle and Parts Dealers Value"
+    }
+	  ],
+	"version": 1
+}

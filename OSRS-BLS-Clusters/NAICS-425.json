@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-425",
+  "description": "Industries in the Wholesale Electronic Markets and Agents and Brokers subsector arrange for the sale of goods owned by others, generally on a fee or commission basis. They act on behalf of the buyers and sellers of goods. This subsector contains agents and brokers as well as business to business electronic markets that facilitate wholesale trade.",
+  "name": "NAICS-425",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-425",
+  "uuid": "d5748676-4853-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag425.htm"
+        ]
+      },
+      "uuid": "0f73fe7c-4905-11e9-8646-d663bd873d93",
+      "value": "Test Wholesale Electronic Markets and Agents and Brokers Value"
+    }
+	  ],
+	"version": 1
+}

@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-521",
+  "description": "The Monetary Authorities-Central Bank subsector groups establishments that engage in performing central banking functions, such as issuing currency, managing the Nation's money supply and international reserves, holding deposits that represent the reserves of other banks and other central banks, and acting as a fiscal agent for the central government.",
+  "name": "NAICS-521",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-521",
+  "uuid": "cd413ea8-482c-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag521.htm"
+        ]
+      },
+      "uuid": "ba17f9be-48f1-11e9-8646-d663bd873d93",
+      "value": "Test Monetary Authorities - Central Bank Value"
+    }
+	  ],
+	"version": 1
+}

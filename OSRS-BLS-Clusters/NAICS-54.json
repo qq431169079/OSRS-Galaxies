@@ -1,0 +1,841 @@
+{
+	"category": "NAICS-54",
+	"description": "The Professional, Scientific, and Technical Services sector comprises establishments that specialize in performing professional, scientific, and technical activities for others. These activities require a high degree of expertise and training. The establishments in this sector specialize according to expertise and provide these services to clients in a variety of industries and, in some cases, to households. Activities performed include: legal advice and representation; accounting, bookkeeping, and payroll services; architectural, engineering, and specialized design services; computer services; consulting services; research services; advertising services; photographic services; translation and interpretation services; veterinary services; and other professional, scientific, and technical services.",
+	"name": "NAICS-54",
+	"source": "BLS Industries at a Glance",
+	"type": "OSRS-NAICS-54",
+	"uuid": "4fb9f7a0-483f-11e9-8646-d663bd873d93",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag54.htm"
+				]
+			},
+			"uuid": "e7b298ae-48f9-11e9-8646-d663bd873d93",
+			"value": "Test Professional, Scientific, and Technical Services Value"
+		},
+		{
+			"description": "Elasticsearch is a search engine based on the Lucene library. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Elasticsearch is developed in Java.",
+			"meta": {
+				"refs": [
+					"https://www.elastic.co/"
+				]
+			},
+			"uuid": "2f0d5bf4-4b38-11e9-8646-d663bd873d93",
+			"value": "ElasticSearch"
+		},
+		{
+			"description": "Coinhive is a cryptocurrency mining service that relies on a small chunk of computer code designed to be installed on Web sites. The code uses some or all of the computing power of any browser that visits the site in question, enlisting the machine in a bid to mine bits of the Monero cryptocurrency.",
+			"meta": {
+				"refs": [
+					"https://krebsonsecurity.com/2018/03/who-and-what-is-coinhive/"
+				]
+			},
+			"uuid": "f42daf6a-4b38-11e9-8646-d663bd873d93",
+			"value": "Coinhive"
+		},
+		{
+			"description": "HackingTeam is a Milan-based information technology company that sells offensive intrusion and surveillance capabilities to governments, law enforcement agencies and corporations.",
+			"meta": {
+				"refs": [
+					"http://www.hackingteam.it/"
+				]
+			},
+			"uuid": "22ca7fba-4b39-11e9-8646-d663bd873d93",
+			"value": "Hacking Team"
+		},
+		{
+			"description": "Automation Anywhere is a developer of robotic process automation software. The company's product, Automation Anywhere Enterprise, caters to enterprises looking to deploy a digital workforce composed of software bots that complete business processes end-to-end.",
+			"meta": {
+				"refs": [
+					"https://www.automationanywhere.com/"
+				]
+			},
+			"uuid": "741bb2a8-4b39-11e9-8646-d663bd873d93",
+			"value": "Automation Anywhere"
+		},
+		{
+			"description": "Citrix Systems, Inc. is an American multinational software company that provides server, application and desktop virtualization, networking, software as a service, and cloud computing technologies.",
+			"meta": {
+				"refs": [
+					"https://www.citrix.com/"
+				]
+			},
+			"uuid": "a580b186-4b39-11e9-8646-d663bd873d93",
+			"value": "Citrix"
+		},
+		{
+			"description": "Computer & Network Security",
+			"meta": {
+				"refs": [
+					"https://badpackets.net/"
+				]
+			},
+			"uuid": "0f881844-4b3a-11e9-8646-d663bd873d93",
+			"value": "Bad Packets LLC"
+		},
+		{
+			"description": "Drupal is a free and open-source content management framework written in PHP and distributed under the GNU General Public License. Drupal provides a back-end framework for at least 2.3% of all web sites worldwide – ranging from personal blogs to corporate, political, and government sites.",
+			"meta": {
+				"refs": [
+					"https://www.drupal.org/"
+				]
+			},
+			"uuid": "50eb035a-4b3a-11e9-8646-d663bd873d93",
+			"value": "Drupal"
+		},
+		{
+			"description": "BambooHR is an American technology company that provides human resources software as a service. Founded in 2008 by Ben Peterson and Ryan Sanders, the company is based in Lindon, Utah. BambooHR's services include an applicant tracking system and an employee benefits tracker.",
+			"meta": {
+				"refs": [
+					"https://www.bamboohr.com/"
+				]
+			},
+			"uuid": "84319fa8-4b3a-11e9-8646-d663bd873d93",
+			"value": "BambooHR"
+		},
+		{
+			"description": "Very little information is known about this organization at this time.",
+			"meta": {
+				"refs": [
+					"https://krebsonsecurity.com/tag/badges2go-ug/"
+				]
+			},
+			"uuid": "b85e5a28-4b3a-11e9-8646-d663bd873d93",
+			"value": "Badges2Go UG"
+		},
+		{
+			"description": "Very little information is known about this organization at this time.",
+			"meta": {
+				"refs": [
+					"https://krebsonsecurity.com/2019/02/crytpo-mining-service-coinhive-to-call-it-quits/"
+				]
+			},
+			"uuid": "2bf3db66-4b3b-11e9-8646-d663bd873d93",
+			"value": "Blockchain Future"
+		},
+		{
+			"description": "Facebook, Inc. is an American online social media and social networking service company. It is based in Menlo Park, California. It was founded by Mark Zuckerberg, along with fellow Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes.",
+			"meta": {
+				"refs": [
+					"https://www.facebook.com/"
+				]
+			},
+			"uuid": "667d3de0-4b3b-11e9-8646-d663bd873d93",
+			"value": "Facebook"
+		},
+		{
+			"description": "Amadeus builds the critical solutions that help airlines and airports, hotels and railways, search engines, travel agencies, tour operators and other travel players to run their operations and improve the travel experience.",
+			"meta": {
+				"refs": [
+					"https://amadeus.com/en"
+				]
+			},
+			"uuid": "fe0c255e-4b3b-11e9-8646-d663bd873d93",
+			"value": "Amadeus"
+		},
+		{
+			"description": "Edelman is an American public relations and marketing consultancy firm, founded by and named after Daniel Edelman. It is currently run by his son Richard Edelman.",
+			"meta": {
+				"refs": [
+					"https://www.edelman.com/"
+				]
+			},
+			"uuid": "3d70d2e4-4b3c-11e9-8646-d663bd873d93",
+			"value": "Edelman"
+		},
+		{
+			"description": "PointCare is a breakthrough coverage management platform.",
+			"meta": {
+				"refs": [
+					"https://www.pointcare.com/"
+				]
+			},
+			"uuid": "6d388de6-4b3c-11e9-8646-d663bd873d93",
+			"value": "PointCare"
+		},
+		{
+			"description": "ZOLL Medical Corporation, an Asahi Kasei Group Company, develops and markets medical devices and software solutions.",
+			"meta": {
+				"refs": [
+					"https://www.zoll.com/"
+				]
+			},
+			"uuid": "1f6cd6a8-4ff6-11e9-8647-d663bd873d93",
+			"value": "ZOLL Medical Corporation"
+		},
+		{
+			"description": "Professional Tax & Accounting, AL. provides tax and accounting services to the local community",
+			"meta": {
+				"refs": [
+					"https://www.facebook.com/Professional-Tax-and-Accounting-223728064396/"
+				]
+			},
+			"uuid": "1f6cdd92-4ff6-11e9-8647-d663bd873d93",
+			"value": "Professional Tax & Accounting, AL"
+		},
+		{
+			"description": "Elsevier is a Dutch information and analytics company and one of the world's major providers of scientific, technical, and medical information. It was established in 1880 as a publishing company. It is a part of the RELX Group, known until 2015 as Reed Elsevier.",
+			"meta": {
+				"refs": [
+					"https://www.elsevier.com/"
+				]
+			},
+			"uuid": "1f6cdf36-4ff6-11e9-8647-d663bd873d93",
+			"value": "Elsevier"
+		},
+		{
+			"description": "Affordable EHR software for ambulatory medical practices.",
+			"meta": {
+				"refs": [
+					"http://www.meditab.com/"
+				]
+			},
+			"uuid": "1f6ce094-4ff6-11e9-8647-d663bd873d93",
+			"value": "Meditab"
+		},
+		{
+			"description": "Lex Machina, Inc. is an IP litigation research company and division of LexisNexis that develops legal analytics data and software. The company started as a project at Stanford University within the university's law school and computer science department before launching as a startup in Menlo Park, California.",
+			"meta": {
+				"refs": [
+					"https://lexmachina.com/"
+				]
+			},
+			"uuid": "1f6ce1e8-4ff6-11e9-8647-d663bd873d93",
+			"value": "Lex Machina, Inc."
+		},
+		{
+			"description": "Provides legal outsourcing services to law firms and legal departments, including litigation support, transaction support, intellectual property rights.",
+			"meta": {
+				"refs": [
+					"https://www.lexvisio.com/legal-services/lexsphere-pvt-ltd"
+				]
+			},
+			"uuid": "1f6ce328-4ff6-11e9-8647-d663bd873d93",
+			"value": "LexSphere"
+		},
+		{
+			"description": "Secur Solutions Group (SSG) is a technology company with solutions in smart, card issuance, identity security and digital engagement.",
+			"meta": {
+				"refs": [
+					"https://www.rsaconference.com/events/ap16/exhibitors-sponsors/exhibitor-list/2640/secur-solutions-group-pte-ltd"
+				]
+			},
+			"uuid": "1f6ce6c0-4ff6-11e9-8647-d663bd873d93",
+			"value": "Secur Solutions Group Pte Ltd"
+		},
+		{
+			"description": "Bithumb, the best & most reliable blockchain platform to buy, sell, exchange and trade cryptocurrency.",
+			"meta": {
+				"refs": [
+					"https://en.bithumb.com/"
+				]
+			},
+			"uuid": "bdbff248-5a0c-11e9-8647-d663bd873d93",
+			"value": "Bithumb"
+		},
+		{
+			"description": "Cryptocurrency exchange.",
+			"meta": {
+				"refs": [
+					"https://dragonex.io/en-us/"
+				]
+			},
+			"uuid": "0e1dca18-5241-11e9-8647-d663bd873d93",
+			"value": "DragonEx"
+		},
+		{
+			"description": "Our grassroots advocacy system is perfect for organizations with small non-technical staff, but is also flexible enough to meet the needs of the most sophisticated operations. Set up and launch campaigns in as little as 5 to 10 minutes. With our streamlined interface, your supporters are alerted to the issue, matched to their correct elected officials, and guided through the message sending process in just seconds.",
+			"meta": {
+				"refs": [
+					"https://info.votervoice.net/what-we-do/"
+				]
+			},
+			"uuid": "4caa648e-5bfc-11e9-8647-d663bd873d93",
+			"value": "VoterVoice"
+		},
+		{
+			"description": "Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports and sells computer software, consumer electronics, personal computers, and related services.",
+			"meta": {
+				"refs": [
+					"https://www.microsoft.com/en-us/default.aspx/"
+				]
+			},
+			"uuid": "35d60dae-63d0-11e9-a923-1681be663d3e",
+			"value": "Microsoft Corporation"
+		},
+		{
+			"description": "Wipro Limited is an Indian multinational corporation that provides information technology, consulting and business process services. It is headquartered in Bengaluru, Karnataka, India. In 2013, Wipro separated its non-IT businesses into separate companies.",
+			"meta": {
+				"refs": [
+					"https://www.wipro.com/en-US/"
+				]
+			},
+			"uuid": "35d61024-63d0-11e9-a923-1681be663d3e",
+			"value": "Wipro Ltd."
+		},
+		{
+			"description": "LD Evans, CPA, provides tax, consulting, and accounting services to a variety of clients and assorted industries throughout California.",
+			"meta": {
+				"refs": [
+					"http://www.ldevanscpa.com/"
+				]
+			},
+			"uuid": "7c545262-65e8-11e9-a923-1681be663d3e",
+			"value": "LD Evans, CPA"
+		},
+		{
+			"description": "LinkedIn is a business and employment-oriented service that operates via websites and mobile apps. Founded on December 28, 2002, and launched on May 5, 2003, it is mainly used for professional networking, including employers posting jobs and job seekers posting their CVs.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/"
+				]
+			},
+			"uuid": "7c545780-65e8-11e9-a923-1681be663d3e",
+			"value": "LinkedIn"
+		},
+		{
+			"description": "Doctors Management Service has provided a service-oriented medical billing option to the healthcare industry for 25 years in a unique Client's First​ method. Regardless of practice size, we custom tailor your account to what your practice needs. We service sole practitioners with less than 1,000 encounters per year and we service groups with a patient volume over 100,000 per year. There is no account too large or small. Each client receives the individual attention they need, to meet the essential goals of their practice.",
+			"meta": {
+				"refs": [
+					"https://doctorsmanagementservice.org/"
+				]
+			},
+			"uuid": "56d21958-681c-11e9-a923-1681be663d3e",
+			"value": "Doctors’ Management Service, Inc."
+		},
+		{
+			"description": "BC Pension Corporation is one of the largest pension plan administrative agents in Canada. Created in 2000, the corporation provides pension administration services on behalf of BC's College, Municipal, Public Service, Teachers and WorkSafeBC pension plans, providing client service to five boards of trustees and their plan members and employers.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/BC_Pension_Corporation",
+					"https://www.pensionsbc.ca/"
+				]
+			},
+			"uuid": "350317cc-6b56-11e9-a923-1681be663d3e",
+			"value": "BC Pension Corporation"
+		},
+		{
+			"description": "Email vendor",
+			"meta": {
+				"refs": [
+					"Verifications.io"
+				]
+			},
+			"uuid": "35031a56-6b56-11e9-a923-1681be663d3e",
+			"value": "Verifications.io"
+		},
+		{
+			"description": "Founded in 2002 as a health care value-added intermediary providing clearinghouse services, today Inmediata provides a full suite of software and business process outsourcing solutions for health plans, hospitals, IPAs, and independent physicians. Inmediata leverages its claim adjudication, clearinghouse, practice management, electronic health record and health information exchange services to support administrative simplification and population health.",
+			"meta": {
+				"refs": [
+					"https://www.inmediata.com"
+				]
+			},
+			"uuid": "35031c5e-6b56-11e9-a923-1681be663d3e",
+			"value": "Inmediata Health Group, Corp."
+		},
+		{
+			"description": "Docker Hub is the world's easiest way to create, manage, and deliver your teams' container applications. Sign up for Docker Hub Browse Popular Images. Docker Hub is the world's largest. library and community for container images.",
+			"meta": {
+				"refs": [
+					"https://hub.docker.com/"
+				]
+			},
+			"uuid": "35031da8-6b56-11e9-a923-1681be663d3e",
+			"value": "Docker Hub"
+		},
+		{
+			"description": "Our emergency medical travel services pick up where traditional insurance leaves off. Global leaders in emergency medical evacuation membership services.",
+			"meta": {
+				"refs": [
+					"https://www.skymed.com/"
+				]
+			},
+			"uuid": "b30b12dc-6cf0-11e9-a923-1681be663d3e",
+			"value": "SkyMed"
+		},
+		{
+			"description": "Charles River Laboratories, Inc., is an American corporation specializing in a variety of pre-clinical and clinical laboratory services for the pharmaceutical, medical device and biotechnology industries.",
+			"meta": {
+				"refs": [
+					"https://www.criver.com/"
+				]
+			},
+			"uuid": "b30b158e-6cf0-11e9-a923-1681be663d3e",
+			"value": "Charles River Laboratories International, Inc."
+		},
+		{
+			"description": "Since 2003, Ladders has been a leader in the professional-level job search. We've become experts in career management - having conducted many studies on the sociology and culture of the executive job space, including the famous Ladders Eye-Tracking Study. Ladders has also published many books and articles on career-related subjects, and has reviewed over 1.5 million resumes.",
+			"meta": {
+				"refs": [
+					"https://recruit.theladders.com/"
+				]
+			},
+			"uuid": "f4de87ba-7106-11e9-a923-1681be663d3e",
+			"value": "Ladders"
+		},
+		{
+			"description": "GitHub is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features.",
+			"meta": {
+				"refs": [
+					"https://github.com"
+				]
+			},
+			"uuid": "f4de8b02-7106-11e9-a923-1681be663d3e",
+			"value": "GitHub"
+		},
+		{
+			"description": "Bitbucket is a web-based version control repository hosting service owned by Atlassian, for source code and development projects that use either Mercurial or Git revision control systems. Bitbucket offers both commercial plans and free accounts.",
+			"meta": {
+				"refs": [
+					"https://bitbucket.org/"
+				]
+			},
+			"uuid": "f4de8c60-7106-11e9-a923-1681be663d3e",
+			"value": "Bitbucket"
+		},
+		{
+			"description": "GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features, using an open-source license, developed by GitLab Inc.",
+			"meta": {
+				"refs": [
+					"https://about.gitlab.com/"
+				]
+			},
+			"uuid": "f4de8e18-7106-11e9-a923-1681be663d3e3",
+			"value": "GitLab"
+		},
+		{
+			"description": "Binance is a global cryptocurrency exchange that provides a platform for trading more than 100 cryptocurrencies. Since early 2018, Binance is considered as the biggest cryptocurrency exchange in the world in terms of trading volume.",
+			"meta": {
+				"refs": [
+					"https://www.binance.com/en"
+				]
+			},
+			"uuid": "456d991e-7bd9-11e9-8f9e-2a86e4085a59",
+			"value": "Binance"
+		},
+		{
+			"description": "OS inc. is your trusted partner in revenue cycle management. Our efficientC claims management system (SaaS) provides a single solution for denial elimination.",
+			"meta": {
+				"refs": [
+					"https://www.os-healthcare.com/"
+				]
+			},
+			"uuid": "456d9bc6-7bd9-11e9-8f9e-2a86e4085a59",
+			"value": "OS inc."
+		},
+		{
+			"description": "Bloodworks Northwest is a blood bank and medical research institute headquartered in Seattle, Washington that serves 90 hospitals in western Washington and Oregon. It has formerly been known as the Puget Sound Blood Center and King County Central Blood Bank.",
+			"meta": {
+				"refs": [
+					"https://www.bloodworksnw.org/"
+				]
+			},
+			"uuid": "456d9d60-7bd9-11e9-8f9e-2a86e4085a59",
+			"value": "Bloodworks Northwest"
+		},
+		{
+			"description": "Founded in 1977, AMCA is the leading recovery agency for patient collections. We are one of the Nation’s top high volume lower balance agencies managing over $1BN in annual receivables for a diverse client base. Our employees are trained to provide the highest level of service while delivering the highest recovery rates to our clients.",
+			"meta": {
+				"refs": [
+					"http://www.amcaonline.com/"
+				]
+			},
+			"uuid": "456d9eaa-7bd9-11e9-8f9e-2a86e4085a59",
+			"value": "American Medical Collection Agency (AMCA)"
+		},
+		{
+			"description": "Ifficient generates high quality exclusive opt-in leads on a pay-for-performance basis. We make acquisition marketing easy by empowering advertisers to acquire new consumers via highly targeted online & mobile advertising campaigns.",
+			"meta": {
+				"refs": [
+					"http://www.ifficient.com/"
+				]
+			},
+			"uuid": "456da24c-7bd9-11e9-8f9e-2a86e4085a59",
+			"value": "Ifficient"
+		},
+		{
+			"description": "Condé Nast Inc. is an American mass media company founded in 1909 by Condé Montrose Nast, based at One World Trade Center and owned by Advance Publications.",
+			"meta": {
+				"refs": [
+					"https://www.condenast.com/"
+				]
+			},
+			"uuid": "456da3b4-7bd9-11e9-8f9e-2a86e4085a59",
+			"value": "Condé Nast"
+		},
+		{
+			"description": "Stack Overflow is a question and answer site for professional and enthusiast programmers. It is a privately held website, the flagship site of the Stack Exchange Network, created in 2008 by Jeff Atwood and Joel Spolsky. It features questions and answers on a wide range of topics in computer programming.",
+			"meta": {
+				"refs": [
+					"https://stackoverflow.com/"
+				]
+			},
+			"uuid": "66bf934c-7e36-11e9-8f9e-2a86e4085a59",
+			"value": "Stack Overflow"
+		},
+		{
+			"description": "HCL Technologies Limited is an Indian multinational information technology service and consulting company headquartered in Noida, Uttar Pradesh. It is a subsidiary of HCL Enterprise.",
+			"meta": {
+				"refs": [
+					"https://www.hcltech.com/"
+				]
+			},
+			"uuid": "66bf98e2-7e36-11e9-8f9e-2a86e4085a59",
+			"value": "HCL Technologies"
+		},
+		{
+			"description": "Instagram is a photo and video-sharing social networking service owned by Facebook, Inc. It was created by Kevin Systrom and Mike Krieger, and launched in October 2010 exclusively on iOS.",
+			"meta": {
+				"refs": [
+					"https://www.instagram.com/?hl=en"
+				]
+			},
+			"uuid": "66bf9b3a-7e36-11e9-8f9e-2a86e4085a59",
+			"value": "Instagram"
+		},
+		{
+			"description": "Computacenter plc is a European company that provides computer services to public- and private-sector customers. It is a UK company based in Hatfield, Hertfordshire. The company is listed on the London Stock Exchange and is a constituent of the FTSE 250 Index.",
+			"meta": {
+				"refs": [
+					"https://www.computacenter.com/"
+				]
+			},
+			"uuid": "62fdcf38-8225-11e9-bc42-526af7764f64",
+			"value": "Computacenter"
+		},
+		{
+			"description": "Retail travel agencies. Meet the demands of a more informed, tech-savvy customer base with Amadeus industry-leading retail travel agency solutions, helping you unlock new market opportunities, safeguard competitive positioning and maximize revenue.",
+			"meta": {
+				"refs": [
+					"https://amadeus.com/en/industries/retail-travel-agencies"
+				]
+			},
+			"uuid": "62fdd3e8-8225-11e9-bc42-526af7764f64",
+			"value": "Amadeus Travel Agency"
+		},
+		{
+			"description": "Canva is a graphic-design tool website, founded in 2012. It uses a drag-and-drop format and provides access to over a million photographs, graphics, and fonts. It is used by non-designers as well as professionals. The tools can be used for both web and print media design and graphics.",
+			"meta": {
+				"refs": [
+					"https://www.canva.com/"
+				]
+			},
+			"uuid": "62fdd55a-8225-11e9-bc42-526af7764f64",
+			"value": "Canva"
+		},
+		{
+			"description": "Snapchat is a multimedia messaging app used globally, created by Evan Spiegel, Bobby Murphy, and Reggie Brown, former students at Stanford University, and developed by Snap Inc., originally Snapchat Inc.",
+			"meta": {
+				"refs": [
+					"https://www.snapchat.com/"
+				]
+			},
+			"uuid": "62fdd690-8225-11e9-bc42-526af7764f64",
+			"value": "Snapchat"
+		},
+		{
+			"description": "For over 35 years, Perceptics has been the leader in license plate readers, license plate recognition systems and vehicle identification products.",
+			"meta": {
+				"refs": [
+					"https://www.perceptics.com/"
+				]
+			},
+			"uuid": "62fdd7b2-8225-11e9-bc42-526af7764f64",
+			"value": "Perceptics LLC"
+		},
+		{
+			"description": "JCrush is a free, location-based dating app for Jewish singles.",
+			"meta": {
+				"refs": [
+					"http://jcrush.com/"
+				]
+			},
+			"uuid": "1202349c-8d43-11e9-bc42-526af7764f64",
+			"value": "JCrush"
+		},
+		{
+			"description": "Laboratory Corporation of America Holdings, more commonly known as LabCorp, is an American S&P 500 company headquartered in Burlington, North Carolina. It operates one of the largest clinical laboratory networks in the world, with a United States network of 36 primary laboratories.",
+			"meta": {
+				"refs": [
+					"https://www.labcorp.com/"
+				]
+			},
+			"uuid": "1202394c-8d43-11e9-bc42-526af7764f64",
+			"value": "LabCorp"
+		},
+		{
+			"description": "Quest Diagnostics Incorporated is an American clinical laboratory founded in 1967 as Metropolitan Pathology Laboratory, Inc. It became an independent corporation with the Quest name on December 31, 1996. As a Fortune 500 company, Quest operates in the United States, United Kingdom, Mexico, and Brazil.",
+			"meta": {
+				"refs": [
+					"https://www.questdiagnostics.com/"
+				]
+			},
+			"uuid": "12023ab4-8d43-11e9-bc42-526af7764f64",
+			"value": "Quest Diagnostics"
+		},
+		{
+			"description": "PayID is an opt-in account addressing scheme that aims to make sharing account details easier, in place of the existing BSB and account number addressing. Currently, phone numbers, email addresses, and ABNs can be used. The BSB and account number addressing scheme will continue to be used in parallel. PayID is planned to be supported by most major financial institutions throughout Australia.",
+			"meta": {
+				"refs": [
+					"https://payid.com.au/"
+				]
+			},
+			"uuid": "12023be0-8d43-11e9-bc42-526af7764f64",
+			"value": "PayID"
+		},
+		{
+			"description": "Tech Data Corporation is an American multinational distribution company specializing in IT products and services headquartered in Clearwater, Florida.",
+			"meta": {
+				"refs": [
+					"https://www.techdata.com/"
+				]
+			},
+			"uuid": "12023d0c-8d43-11e9-bc42-526af7764f64",
+			"value": "Tech Data Corporation"
+		},
+		{
+			"description": "Evite is a social-planning website for creating, sending, and managing online invitations. Evite was launched in 1998. The website is a free, advertisement-supported service. Evite was co-founded by Al Lieb and Selina Tobaccowala. It was acquired in 2001 by conglomerate IAC/InterActiveCorp.",
+			"meta": {
+				"refs": [
+					"https://www.evite.com/"
+				]
+			},
+			"uuid": "43f0b8c4-95f0-11e9-bc42-526af7764f64",
+			"value": "Evite"
+		},
+		{
+			"description": "dba ResiDex Software",
+			"meta": {
+				"refs": [
+					"https://www.leadingagemn.org/directory_bp/step3?CID=9957"
+				]
+			},
+			"uuid": "43f0bb6c-95f0-11e9-bc42-526af7764f64",
+			"value": "Tenx Systems, LLC"
+		},
+		{
+			"description": "ResiDex Software is the innovative, integrated, and user-friendly software solution for your Assisted Living center, Group Home, or Adult Day Services location.",
+			"meta": {
+				"refs": [
+					"https://www.residexsoftware.com/"
+				]
+			},
+			"uuid": "43f0bcb6-95f0-11e9-bc42-526af7764f64",
+			"value": "ResiDex Software"
+		},
+		{
+			"description": "Order food online with EatStreet. Online food ordering service provider.",
+			"meta": {
+				"refs": [
+					"https://eatstreet.com/"
+				]
+			},
+			"uuid": "43f0be82-95f0-11e9-bc42-526af7764f64",
+			"value": "Eatstreet"
+		},
+		{
+			"description": "Talanton AI is a Talant Aggregator. Capture high-quality prospective candidates in one place through our simple search process.",
+			"meta": {
+				"refs": [
+					"http://talanton.ai/"
+				]
+			},
+			"uuid": "43f0bfc2-95f0-11e9-bc42-526af7764f64",
+			"value": "Talanton.ai"
+		},
+		{
+			"description": "X Social Media is a Florida-based ad firm that largely uses Facebook to advertise various campaigns for its law firm customers.",
+			"meta": {
+				"refs": [
+					"https://www.xsocialmedia.com/"
+				]
+			},
+			"uuid": "43f0c0e4-95f0-11e9-bc42-526af7764f64",
+			"value": "X Social Media"
+		},
+		{
+			"description": "Venmo is a mobile payment service owned by PayPal. Venmo account holders can transfer funds to others via a mobile phone app; both the sender and receiver have to live in the U.S. Venmo is a type of payment rail. It handled $12 billion in transactions in the first quarter of 2018.",
+			"meta": {
+				"refs": [
+					"https://venmo.com/"
+				]
+			},
+			"uuid": "43f0c422-95f0-11e9-bc42-526af7764f64",
+			"value": "Venmo"
+		},
+		{
+			"description": "WeTransfer is a cloud-based computer file transfer service. The company was founded in Amsterdam by Bas Beerens and Nalden. The core service is free, with more features available for premium accounts.",
+			"meta": {
+				"refs": [
+					"https://wetransfer.com/"
+				]
+			},
+			"uuid": "43f0c56c-95f0-11e9-bc42-526af7764f64",
+			"value": "WeTransfer"
+		},
+		{
+			"description": "Data integration and big data management solutions from Attunity including real-time enterprise data solutions.",
+			"meta": {
+				"refs": [
+					"https://www.attunity.com/"
+				]
+			},
+			"uuid": "ba2ac128-a5d2-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Attunity"
+		},
+		{
+			"description": "PCM, Inc. is a direct marketing company that offers technology products and services. The company is based in El Segundo, California. PCM started in 1987 as a direct market catalog via telemarketing, the Internet, direct marketing, print catalogs, and three retail showrooms.",
+			"meta": {
+				"refs": [
+					"http://www.pcm.com/"
+				]
+			},
+			"uuid": "ba2ac3da-a5d2-11e9-a2a3-2a2ae2dbcce4",
+			"value": "PCM, Inc."
+		},
+		{
+			"description": "With strength on IoT, AI and cloud computing technologies, ORVIBO provides more secure, energy-saving & comfortable smart home solutions for customers worldwide. ORVIBO provides smart solutions for house, office, apartment hotel. ORVIBO is the pioneer & veteran of IoT technology in China since 2011.",
+			"meta": {
+				"refs": [
+					"https://www.orvibo.com/"
+				]
+			},
+			"uuid": "ba2ac7ae-a5d2-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Orvibo"
+		},
+		{
+			"description": "Incorporated in the year 2000, Magnasoft is a leader in the arena of digital geospatial information and services.We provide superlative data processing techniques to capture and display voluminous geospatial data in a comprehensible form.",
+			"meta": {
+				"refs": [
+					"https://www.magnasoft.com/who-we-are/"
+				]
+			},
+			"uuid": "ba2ac902-a5d2-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Magnasoft Consulting India"
+		},
+		{
+			"description": "Eurofins is an international group of laboratories headquartered in Brussels, providing testing and support services to the pharmaceutical, food, environmental, agriscience and consumer products industries and to governments.",
+			"meta": {
+				"refs": [
+					"https://www.eurofins.com/"
+				]
+			},
+			"uuid": "ba2aca2e-a5d2-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Eurofins Scientific"
+		},
+		{
+			"description": "Zhaopin National Job Network is a national authority to find a job working platform to provide true and accurate information for your National Jobs, every day millions of high-paying jobs jobs for you to choose, finding work Zhaopin.",
+			"meta": {
+				"refs": [
+					"https://www.zhaopin.com/"
+				]
+			},
+			"uuid": "ba2acb5a-a5d2-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Zhaopin National Job Network"
+		},
+		{
+			"description": "Japan based cryptocurrency vendor.",
+			"meta": {
+				"refs": [
+					"https://www.bitpoint.co.jp/"
+				]
+			},
+			"uuid": "b029cbee-abc0-11e9-a2a3-2a2ae2dbcce4",
+			"value": "BITPoint"
+		},
+		{
+			"description": "Clinical Pathology Laboratories, Inc. (CPL) has served the medical community for more than 70 years and continues to offer the highest quality laboratory services dedicated to the individual needs of practitioners and their patients. More than 1,900 employees work at our 100,000 square foot main laboratory facility and at our regional laboratory operations located across the Southwest.",
+			"meta": {
+				"refs": [
+					"https://www.cpllabs.com/"
+				]
+			},
+			"uuid": "b029ce50-abc0-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Clinical Pathology Laboratories, Inc. (CPL)"
+		},
+		{
+			"description": "AavGo is hotel management software that provides excellent engagement and communication between guest & hotel staff.",
+			"meta": {
+				"refs": [
+					"https://aavgo.com/"
+				]
+			},
+			"uuid": "b029cfae-abc0-11e9-a2a3-2a2ae2dbcce4",
+			"value": "AavGo"
+		},
+		{
+			"description": "Discord is a proprietary freeware VoIP application and digital distribution platform—designed initially for the video gaming community—that specializes in text, image, video and audio communication between users in a chat channel. Discord runs on Windows, macOS, Android, iOS, Linux, and in web browsers.",
+			"meta": {
+				"refs": [
+					"https://discordapp.com/"
+				]
+			},
+			"uuid": "d9f03dc8-aca6-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Discord"
+		},
+		{
+			"description": "Seacoast Pathology, located in Exeter, NH, provides the highest quality, customized pathology laboratory services throughout New England. Since 1981, Seacoast Pathology has supported these physicians and their staffs with expert diagnoses, innovative technologies, and excellent service.",
+			"meta": {
+				"refs": [
+					"http://www.seacoastpathology.com/"
+				]
+			},
+			"uuid": "d9f0402a-aca6-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Seacoast Pathology, Inc."
+		},
+		{
+			"description": "Aurora Diagnostics Laboratory of Dermatopathology (ARDX LDP), located in Woodbury, NY, provides the highest quality, customized dermatopathology laboratory services to dermatologists, general practice physicians, family practice physicians, and podiatrists. Since 1972, ARDX LDP has supported these physicians and their staffs with expert diagnoses, innovative technologies, and excellent service.",
+			"meta": {
+				"refs": [
+					"http://www.labofderm.com/"
+				]
+			},
+			"uuid": "d9f0417e-aca6-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Laboratory of Dermatopathology ADX, LLC "
+		},
+		{
+			"description": "American Esoteric Laboratories (AEL) is a regional provider of esoteric and clinical laboratory services, focused to provide the unique turnaround time and quality demands for testing services for health care providers. Our laboratory offers an extended test menu of both routine and esoteric testing. AEL uses advanced information technology solutions to automate and streamline electronic assay ordering and result reporting for its customers.",
+			"meta": {
+				"refs": [
+					"https://www.ael.com/"
+				]
+			},
+			"uuid": "d9f042be-aca6-11e9-a2a3-2a2ae2dbcce4",
+			"value": "American Esoteric Laboratories"
+		},
+		{
+			"description": "CBLPath, Inc. is a leading provider of sub-specialized anatomic pathology and molecular diagnostic laboratory services. We are committed to partnering with our physician-clients to provide the best possible patient care. Founded in 1988 as Cytopath Biopsy Lab, our landmark laboratory quickly established a reputation for providing definitive diagnoses coupled with extraordinary customer service.",
+			"meta": {
+				"refs": [
+					"https://www.cblpath.com/"
+				]
+			},
+			"uuid": "d9f043ea-aca6-11e9-a2a3-2a2ae2dbcce4",
+			"value": "CBLPath, Inc."
+		},
+		{
+			"description": "Natera is a genetic testing company that operates a CLIA-certified laboratory in San Carlos, California.",
+			"meta": {
+				"refs": [
+					"https://www.natera.com/"
+				]
+			},
+			"uuid": "d9f0469c-aca6-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Natera, Inc."
+		},
+		{
+			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
+			"meta": {
+				"refs": [
+					"https://www.tritech.com/"
+				]
+			},
+			"uuid": "9f8b5d32-4b3c-11e9-8646-d663bd873d93",
+			"value": "TriTech"
+		}
+	],
+	"version": 18
+}

@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-532",
+  "description": "Industries in the Rental and Leasing Services subsector include establishments that provide a wide array of tangible goods, such as automobiles, computers, consumer goods, and industrial machinery and equipment, to customers in return for a periodic rental or lease payment. The subsector includes two main types of establishments: (1) those that are engaged in renting consumer goods and equipment and (2) those that are engaged in leasing machinery and equipment often used for business operations.",
+  "name": "NAICS-532",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-532",
+  "uuid": "fe59c558-4847-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag532.htm"
+        ]
+      },
+      "uuid": "0b789476-48fc-11e9-8646-d663bd873d93",
+      "value": "Test Rental and Leasing Services Value"
+    }
+	  ],
+	"version": 1
+}

@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-423",
+  "description": "Industries in the Merchant Wholesalers, Durable Goods subsector sell capital or durable goods to other businesses. Merchant wholesalers generally take title to the goods that they sell; in other words, they buy and sell goods on their own account. Durable goods are new or used items generally with a normal life expectancy of three years or more. Durable goods merchant wholesale trade establishments are engaged in wholesaling products, such as motor vehicles, furniture, construction materials, machinery and equipment (including household-type appliances), metals and minerals (except petroleum), sporting goods, toys and hobby goods, recyclable materials, and parts.",
+  "name": "NAICS-423",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-423",
+  "uuid": "7f687fcc-482a-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag423.htm"
+        ]
+      },
+      "uuid": "9956f326-48ef-11e9-8646-d663bd873d93",
+      "value": "Test Merchant Wholesalers, Durable Goods Value"
+    }
+	  ],
+	"version": 1
+}

@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-485",
+  "description": "Industries in the Transit and Ground Passenger Transportation subsector include a variety of passenger transportation activities, such as urban transit systems; chartered bus, school bus, and interurban bus transportation; and taxis. These activities are distinguished based primarily on such production process factors as vehicle types, routes, and schedules.",
+  "name": "NAICS-485",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-485",
+  "uuid": "4106e21a-4851-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag485.htm"
+        ]
+      },
+      "uuid": "362f02c6-4902-11e9-8646-d663bd873d93",
+      "value": "Test Transit and Ground Passenger Transportation Value"
+    }
+	  ],
+	"version": 1
+}

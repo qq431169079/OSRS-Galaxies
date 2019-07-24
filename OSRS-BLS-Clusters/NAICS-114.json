@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-114",
+  "description": "Industries in the Fishing, Hunting, and Trapping subsector harvest fish and other wild animals from their natural habitats and are dependent upon a continued supply of the natural resource. The harvesting of fish is the predominant economic activity of this subsector and it usually requires specialized vessels that, by the nature of their size, configuration and equipment, are not suitable for any other type of production, such as transportation.",
+  "name": "NAICS-114",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-114",
+  "uuid": "48390316-4800-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag114.htm"
+        ]
+      },
+      "uuid": "e98ee860-48c4-11e9-8646-d663bd873d93",
+      "value": "Test Fishing, Hunting and Trapping Value"
+    }
+	  ],
+	"version": 1
+}

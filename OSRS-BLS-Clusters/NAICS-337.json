@@ -1,0 +1,31 @@
+{
+  "category": "NAICS-337",
+  "description": "Industries in the Furniture and Related Product Manufacturing subsector make furniture and related articles, such as mattresses, window blinds, cabinets, and fixtures. The processes used in the manufacture of furniture include the cutting, bending, molding, laminating, and assembly of such materials as wood, metal, glass, plastics, and rattan. However, the production process for furniture is not solely bending metal, cutting and shaping wood, or extruding and molding plastics. Design and fashion trends play an important part in the production of furniture. The integrated design of the article for both esthetic and functional qualities is also a major part of the process of manufacturing furniture. Design services may be performed by the furniture establishment's work force or may be purchased from industrial designers.",
+  "name": "NAICS-337",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-337",
+  "uuid": "ff9009fe-4802-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag337.htm"
+        ]
+      },
+      "uuid": "3e13e456-48c7-11e9-8646-d663bd873d93",
+      "value": "Test Furniture and Related Product Manufacturing Value"
+    },
+	{
+      "description": "Since 1963, Klaussner Home Furnishings has been the leading solutions provider to the furniture industry. Our mission is simple to provide value driven product, constant innovation, speed to market and total customer satisfaction. Through strategic acquisitions, domestic and overseas partnerships and state of the art inventory control and manufacturing as well as shipping options, Klaussner has created a vertically integrated furniture powerhouse with one of the fastest delivery times in the industry. Asheboro, North Carolina is home for 10 manufacturing plants, one warehouse and one distribution facility as well as the company’s corporate headquarters.",
+      "meta": {
+        "refs": [
+          "https://www.klaussner.com/"
+        ]
+      },
+      "uuid": "1c766fee-65e6-11e9-a923-1681be663d3e",
+      "value": "Klaussner Furniture Industries, Inc."
+    }
+	  ],
+	"version": 2
+}

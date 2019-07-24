@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-111",
+  "description": "Industries in the Crop Production subsector grow crops mainly for food and fiber. The subsector comprises establishments, such as farms, orchards, groves, greenhouses, and nurseries, primarily engaged in growing crops, plants, vines, or trees and their seeds.",
+  "name": "NAICS-111",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-111",
+  "uuid": "4c1caff8-47f8-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag111.htm"
+        ]
+      },
+      "uuid": "3b4ac6d6-48c2-11e9-8646-d663bd873d93",
+      "value": "Test Crop Production"
+    }
+	  ],
+	"version": 1
+}

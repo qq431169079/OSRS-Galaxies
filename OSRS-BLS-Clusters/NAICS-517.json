@@ -1,0 +1,60 @@
+{
+	"category": "NAICS-517",
+	"description": "Industries in the Telecommunications subsector group establishments that provide telecommunications and the services related to that activity (e.g., telephony, including Voice over Internet Protocol (VoIP); cable and satellite television distribution services; Internet access; telecommunications reselling services). The Telecommunications subsector is primarily engaged in operating, and/or providing access to facilities for the transmission of voice, data, text, sound, and video. Transmission facilities may be based on a single technology or a combination of technologies.",
+	"name": "NAICS-517",
+	"source": "BLS Industries at a Glance",
+	"type": "OSRS-NAICS-517",
+	"uuid": "70d51acc-484f-11e9-8646-d663bd873d93",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag517.htm"
+				]
+			},
+			"uuid": "44c85108-4901-11e9-8646-d663bd873d93",
+			"value": "Test Telecommunications Value"
+		},
+		{
+			"description": "Internet service provider in Tallahassee, Florida",
+			"meta": {
+				"refs": [
+					"https://www.ntifl.com/"
+				]
+			},
+			"uuid": "3a6f3dbe-4b42-11e9-8646-d663bd873d93",
+			"value": "Network Tallahassee"
+		},
+		{
+			"description": "Freedom Mobile Inc. is a Canadian wireless telecommunications provider owned by Shaw Communications. With 1,516,256 active subscribers in urban areas of Ontario, British Columbia and Alberta, it is Canada's fourth largest mobile network operator with 4.5% market share.",
+			"meta": {
+				"refs": [
+					"https://www.freedommobile.ca/"
+				]
+			},
+			"uuid": "85605f6a-7bda-11e9-8f9e-2a86e4085a59",
+			"value": "Freedom Mobile Inc."
+		},
+		{
+			"description": "Sprint Corporation is an American telecommunications company that provides wireless services and is an internet service provider, based in Overland Park, Kansas. It is the fourth-largest mobile network operator in the United States and serves 54 million customers as of October 2017.",
+			"meta": {
+				"refs": [
+					"https://www.sprint.com/"
+				]
+			},
+			"uuid": "a628acc2-abc1-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Sprint Corporation"
+		},
+		{
+			"description": "Dalil is the biggest phone directory in Saudi Arabia.  With more than 5 million downloads, Dalil is the 13th most popular communications app in the Kingdom. For context, this is where Viber and Telegram rank in the US. 96% of its users are in Saudi Arabia; the remainder are in Egypt and other Arab countries.",
+			"meta": {
+				"refs": [
+					"https://daleeli.com/en"
+				]
+			},
+			"uuid": "15566256-4b46-11e9-8646-d663bd873d93",
+			"value": "Dalil"
+		}
+	],
+	"version": 3
+}

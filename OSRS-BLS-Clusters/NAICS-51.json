@@ -1,0 +1,41 @@
+{
+  "category": "NAICS-51",
+  "description": "The Information sector comprises establishments engaged in the following processes: (a) producing and distributing information and cultural products, (b) providing the means to transmit or distribute these products as well as data or communications, and (c) processing data. The main components of this sector are the publishing industries, including software publishing, and both traditional publishing and publishing exclusively on the Internet; the motion picture and sound recording industries; the broadcasting industries, including traditional broadcasting and those broadcasting exclusively over the Internet; the telecommunications industries; Web search portals, data processing industries, and the information services industries. The Information sector groups three types of establishments: (1) those engaged in producing and distributing information and cultural products; (2) those that provide the means to transmit or distribute these products as well as data or communications; and (3) those that process data.",
+  "name": "NAICS-51",
+  "source": "BLS Industries at a Glance",
+  "type": "OSRS-NAICS-51",
+  "uuid": "f454c150-4826-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag51.htm"
+        ]
+      },
+      "uuid": "4bcf4aec-48ed-11e9-8646-d663bd873d93",
+      "value": "Test Information Value"
+    },
+	{
+      "description": "Wolters Kluwer N.V. is a global information services company. The company is headquartered in Alphen aan den Rijn, Netherlands. Wolters Kluwer in its current form was founded in 1987 with a merger between Kluwer Publishers and Wolters Samsom.",
+      "meta": {
+        "refs": [
+          "https://wolterskluwer.com/"
+        ]
+      },
+      "uuid": "57def9ae-7bd8-11e9-8f9e-2a86e4085a59",
+      "value": "Wolters Kluwer"
+    },
+	{
+      "description": "Justdial is a company that provides local search for different services in India over voice calls and the Internet. Justdial was founded in 1996 by VSS Mani who has since been the Managing Director and Chief Executive Officer of the company. The company headquarters are located in Mumbai, India.",
+      "meta": {
+        "refs": [
+          "https://www.justdial.com/"
+        ]
+      },
+      "uuid": "11244d80-65e8-11e9-a923-1681be663d3e",
+      "value": "JustDial"
+    }
+	  ],
+	"version": 3
+}

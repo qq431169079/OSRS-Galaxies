@@ -1,0 +1,31 @@
+{
+  "category": "NAICS-21",
+  "description": "The Mining sector comprises establishments that extract naturally occurring mineral solids, such as coal and ores; liquid minerals, such as crude petroleum; and gases, such as natural gas. The term mining is used in the broad sense to include quarrying, well operations, beneficiating (e.g., crushing, screening, washing, and flotation), and other preparation customarily performed at the mine site, or as a part of mining activity.",
+  "name": "NAICS-21",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-21",
+  "uuid": "b865df08-482b-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag21.htm"
+        ]
+      },
+      "uuid": "c021fb9e-48f0-11e9-8646-d663bd873d93",
+      "value": "Test Mining, Quarrying, and Oil and Gas Extraction Value"
+    },
+	{
+      "description": "PetroBangla is a government-owned national oil company of Bangladesh. It explores, produces, transports, manages and sells oil, natural gas and other mineral resources.",
+      "meta": {
+        "refs": [
+          "https://www.petrobangla.org.bd/"
+        ]
+      },
+      "uuid": "b2cd7e0a-5bfb-11e9-8647-d663bd873d93",
+      "value": "Petrobangla"
+    }
+	  ],
+	"version": 2
+}

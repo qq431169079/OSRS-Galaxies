@@ -1,0 +1,41 @@
+{
+  "category": "NAICS-22",
+  "description": "The Utilities sector comprises establishments engaged in the provision of the following utility services: electric power, natural gas, steam supply, water supply, and sewage removal. Within this sector, the specific activities associated with the utility services provided vary by utility: electric power includes generation, transmission, and distribution; natural gas includes distribution; steam supply includes provision and/or distribution; water supply includes treatment and distribution; and sewage removal includes collection, treatment, and disposal of waste through sewer systems and sewage treatment facilities.",
+  "name": "NAICS-22",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-22",
+  "uuid": "66bedebc-4852-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag22.htm"
+        ]
+      },
+      "uuid": "634b22a2-4903-11e9-8646-d663bd873d93",
+      "value": "Test Utilities Value"
+    },
+	{
+      "description": "Telangana State Power Generation Corporation Limited is a power generating organization of Telangana. It has ceased to do power trading and has retained with powers of controlling system operations of Power Generation after formation of Telangana state.",
+      "meta": {
+        "refs": [
+          "https://www.tssouthernpower.com/"
+        ]
+      },
+      "uuid": "a8180054-7107-11e9-a923-1681be663d3e",
+      "value": "Telangana State Power Generation Corporation Limited"
+    },
+	{
+      "description": "Andhra Pradesh Power Generation Corporation Limited is power generating organization in Andhra Pradesh. It undertakes operation and maintenance of the power plants and also setting up new power projects alongside upgrading the project's capacity.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Andhra_Pradesh_Power_Generation_Corporation"
+        ]
+      },
+      "uuid": "a81802f2-7107-11e9-a923-1681be663d3e",
+      "value": "Andhra Pradesh Power Generation Corporation Limited"
+    }
+	  ],
+	"version": 2
+}

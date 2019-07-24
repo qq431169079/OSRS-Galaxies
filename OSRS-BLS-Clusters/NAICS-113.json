@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-113",
+  "description": "Industries in the Forestry and Logging subsector grow and harvest timber on a long production cycle (i.e., of 10 years or more). Long production cycles use different production processes than short production cycles, which require more horticultural interventions prior to harvest, resulting in processes more similar to those found in the Crop Production subsector. Consequently, Christmas tree production and other production involving production cycles of less than 10 years, are classified in the Crop Production subsector.",
+  "name": "NAICS-113",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-113",
+  "uuid": "d4ccb7cc-4801-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag113.htm"
+        ]
+      },
+      "uuid": "38e85940-48c6-11e9-8646-d663bd873d93",
+      "value": "Test Forestry and Logging Value"
+    }
+	  ],
+	"version": 1
+}

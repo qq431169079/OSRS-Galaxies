@@ -1,0 +1,31 @@
+{
+  "category": "NAICS-325",
+  "description": "The Chemical Manufacturing subsector is based on the transformation of organic and inorganic raw materials by a chemical process and the formulation of products. This subsector distinguishes the production of basic chemicals that comprise the first industry group from the production of intermediate and end products produced by further processing of basic chemicals that make up the remaining industry groups.",
+  "name": "NAICS-325",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-325",
+  "uuid": "f27f8fb8-47f4-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag325.htm"
+        ]
+      },
+      "uuid": "e205eb8e-48bf-11e9-8646-d663bd873d93",
+      "value": "Test Chemical Manufacturing Value"
+    },
+	{
+      "description": "Bayer AG is a German multinational pharmaceutical and life sciences company and one of the largest pharmaceutical companies in the world.",
+      "meta": {
+        "refs": [
+          "https://www.bayer.com/"
+        ]
+      },
+      "uuid": "eaeaac24-5bf9-11e9-8647-d663bd873d93",
+      "value": "Bayer"
+    }
+	  ],
+	"version": 2
+}

@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-53",
+  "description": "The Real Estate and Rental and Leasing sector comprises establishments primarily engaged in renting, leasing, or otherwise allowing the use of tangible or intangible assets, and establishments providing related services. The major portion of this sector comprises establishments that rent, lease, or otherwise allow the use of their own assets by others. The assets may be tangible, as is the case of real estate and equipment, or intangible, as is the case with patents and trademarks. This sector also includes establishments primarily engaged in managing real estate for others, selling, renting and/or buying real estate for others, and appraising real estate. These activities are closely related to this sector's main activity, and it was felt that from a production basis they would best be included here. In addition, a substantial proportion of property management is self-performed by lessors. The main components of this sector are the real estate lessors industries (including equity real estate investment trusts (REITs)); equipment lessors industries (including motor vehicles, computers, and consumer goods); and lessors of nonfinancial intangible assets (except copyrighted works).",
+  "name": "NAICS-53",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-53",
+  "uuid": "30b6d546-4847-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag53.htm"
+        ]
+      },
+      "uuid": "4fec31f4-48fb-11e9-8646-d663bd873d93",
+      "value": "Test Real Estate and Rental and Leasing Value"
+    }
+	  ],
+	"version": 1
+}

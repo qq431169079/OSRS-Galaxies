@@ -1,0 +1,31 @@
+{
+  "category": "NAICS-488",
+  "description": "Industries in the Support Activities for Transportation subsector provide services which support transportation. These services may be provided to transportation carrier establishments or to the general public. This subsector includes a wide array of establishments, including air traffic control services, marine cargo handling, and motor vehicle towing.",
+  "name": "NAICS-488",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-488",
+  "uuid": "1f0d6852-484f-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag488.htm"
+        ]
+      },
+      "uuid": "f6ce826a-4900-11e9-8646-d663bd873d93",
+      "value": "Test Support Activities for Transportation Value"
+    },
+	{
+      "description": "Tommy Hilfiger, formerly known as Tommy Hilfiger Corporation and Tommy Hilfiger Inc., is an American premium clothing company, manufacturing apparel, footwear, accessories, fragrances and home furnishings.",
+      "meta": {
+        "refs": [
+          "https://japan.tommy.com/"
+        ]
+      },
+      "uuid": "d1391200-6cef-11e9-a923-1681be663d3e",
+      "value": "Tommy Hilfiger Japan"
+    }
+	  ],
+	"version": 1
+}

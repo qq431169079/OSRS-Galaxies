@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-322",
+  "description": "Industries in the Paper Manufacturing subsector make pulp, paper, or converted paper products. The manufacturing of these products is grouped together because they constitute a series of vertically connected processes. More than one is often carried out in a single establishment. There are essentially three activities. The manufacturing of pulp involves separating the cellulose fibers from other impurities in wood or used paper. The manufacturing of paper involves matting these fibers into a sheet. Converted paper products are made from paper and other materials by various cutting and shaping techniques and include coating and laminating activities.",
+  "name": "NAICS-322",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-322",
+  "uuid": "92134646-483b-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag322.htm"
+        ]
+      },
+      "uuid": "9bced2ac-48f6-11e9-8646-d663bd873d93",
+      "value": "Test Paper Manufacturing Value"
+    }
+	  ],
+	"version": 1
+}

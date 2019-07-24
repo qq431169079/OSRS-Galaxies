@@ -1,0 +1,100 @@
+{
+	"category": "NAICS-524",
+	"description": "Industries in the Insurance Carriers and Related Activities subsector group establishments that are primarily engaged in one of the following: (1) underwriting (assuming the risk, assigning premiums, and so forth) annuities and insurance policies or (2) facilitating such underwriting by selling insurance policies, and by providing other insurance and employee-benefit related services.",
+	"name": "NAICS-524",
+	"source": "BLS Industries at a Glance",
+	"type": "OSRS-NAICS-524",
+	"uuid": "49df5540-4827-11e9-8646-d663bd873d93",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag524.htm"
+				]
+			},
+			"uuid": "bf9e8c1c-48ed-11e9-8646-d663bd873d93",
+			"value": "Test Insurance Carriers and Related Activities Value"
+		},
+		{
+			"description": "Affordable Michigan health insurance plans for individuals, families, employer groups and Medicare and Medicaid members.",
+			"meta": {
+				"refs": [
+					"https://www.hap.org/"
+				]
+			},
+			"uuid": "ce9a7ef4-4b33-11e9-8646-d663bd873d93",
+			"value": "Health Alliance Plan"
+		},
+		{
+			"description": "AIA Singapore provides insurance products for both individuals and businesses.",
+			"meta": {
+				"refs": [
+					"https://www.aia.com.sg/en/index.html"
+				]
+			},
+			"uuid": "039aa250-4b34-11e9-8646-d663bd873d93",
+			"value": "AIA Singapore Pte. Ltd"
+		},
+		{
+			"description": "Our capabilities include a full range of risk management and insurance services for businesses of all types. While a significant number of our clients are located in New Orleans and the surrounding region, we have and are working with clients located around the country. Our membership in Intersure, a consortium of the best entrepreneurial and technical minds in the insurance industry, facilitates our ability to provide superb country-wide, and indeed worldwide, services to our clients.",
+			"meta": {
+				"refs": [
+					"https://www.hmia.com/about-us"
+				]
+			},
+			"uuid": "8b448ef4-4ff4-11e9-8647-d663bd873d93",
+			"value": "Hartwig Moss Insurance Agency"
+		},
+		{
+			"description": "A unique partnership formed between dental professionals and benefit providers with a shared commitment to promoting the affordable and quality dental care that everyone deserves. We are different than other dental benefit carriers.",
+			"meta": {
+				"refs": [
+					"https://www.superiordental.com/"
+				]
+			},
+			"uuid": "3d5a4f5c-50d1-11e9-8647-d663bd873d93",
+			"value": "Superior Dental Care Inc"
+		},
+		{
+			"description": "Blue Cross of Idaho provides health insurance, dental insurance, and medicare advantage coverage to the residents of Idaho.",
+			"meta": {
+				"refs": [
+					"https://bcidaho.com/"
+				]
+			},
+			"uuid": "bc5db076-63cf-11e9-a923-1681be663d3e",
+			"value": "Blue Cross of Idaho Health Service, Inc."
+		},
+		{
+			"description": "Delta Dental of Illinois provides dental benefit programs to ensure groups, individuals, and families receive oral health services they need.",
+			"meta": {
+				"refs": [
+					"https://www.deltadentalil.com/"
+				]
+			},
+			"uuid": "fff965a0-681b-11e9-a923-1681be663d3e",
+			"value": "Delta Dental of Illinois"
+		},
+		{
+			"description": "Headquartered in Buffalo, New York, we are a not-for-profit health plan that continually aims to provide our community with innovative health-related products and services, which enable affordable access to quality health care.",
+			"meta": {
+				"refs": [
+					"https://www.independenthealth.com/"
+				]
+			},
+			"uuid": "a4cbfa14-7bd8-11e9-8f9e-2a86e4085a59",
+			"value": "Independent Health"
+		},
+		{
+			"description": "A leading specialty risk management consultancy and insurance brokerage.",
+			"meta": {
+				"refs": [
+					"https://www.risk-strategies.com/"
+				]
+			},
+			"uuid": "3b56b15c-4b34-11e9-8646-d663bd873d93",
+			"value": "RSC Insurance Brokerage"
+		}
+	],
+	"version": 6
+}

@@ -1,0 +1,41 @@
+{
+  "category": "NAICS-71",
+  "description": "The Arts, Entertainment, and Recreation sector includes a wide range of establishments that operate facilities or provide services to meet varied cultural, entertainment, and recreational interests of their patrons. This sector comprises (1) establishments that are involved in producing, promoting, or participating in live performances, events, or exhibits intended for public viewing; (2) establishments that preserve and exhibit objects and sites of historical, cultural, or educational interest; and (3) establishments that operate facilities or provide services that enable patrons to participate in recreational activities or pursue amusement, hobby, and leisure-time interests. Some establishments that provide cultural, entertainment, or recreational facilities and services are classified in other sectors.",
+  "name": "NAICS-71",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-71",
+  "uuid": "20ef7d42-47f3-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag71.htm"
+        ]
+      },
+      "uuid": "f68e21ae-48bd-11e9-8646-d663bd873d93",
+      "value": "Test Arts, Entertainment, and Recreation Value"
+    },
+	{
+      "description": "Merrill Community Arts Center is home to Woodbury Community Theatre, East Metro Symphony, Artists of Woodbury, SOS for Youth, and other local arts groups.",
+      "meta": {
+        "refs": [
+          "https://merrillartscenter.org/"
+        ]
+      },
+      "uuid": "4b187556-a5c7-11e9-a2a3-2a2ae2dbcce4",
+      "value": "Merrill Community Arts Center"
+    },
+	{
+      "description": "The Shubert Organization is a theatrical producing organization and a major owner of theatres based in Manhattan, New York City. It was founded by the three Shubert brothers in the late 19th century. They steadily expanded, owning many theaters in New York and across the country.",
+      "meta": {
+        "refs": [
+          "http://shubert.nyc/"
+        ]
+      },
+      "uuid": "ec836bc0-8223-11e9-bc42-526af7764f64",
+      "value": "The Shubert Organization"
+    }
+	  ],
+	"version": 3
+}

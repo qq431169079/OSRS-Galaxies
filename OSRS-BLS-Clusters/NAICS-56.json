@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-56",
+  "description": "The Administrative and Support and Waste Management and Remediation Services sector comprises establishments performing routine support activities for the day-to-day operations of other organizations. These essential activities are often undertaken in-house by establishments in many sectors of the economy. The establishments in this sector specialize in one or more of these support activities and provide these services to clients in a variety of industries and, in some cases, to households. Activities performed include: office administration, hiring and placing of personnel, document preparation and similar clerical services, solicitation, collection, security and surveillance services, cleaning, and waste disposal services.",
+  "name": "NAICS-56",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-56",
+  "uuid": "53576d48-47ef-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag56.htm"
+        ]
+      },
+      "uuid": "dd82c03c-48ba-11e9-8646-d663bd873d93",
+      "value": "Test Administrative and Support and Waste Management and Remediation Services Value"
+    }
+	  ],
+	"version": 1
+}

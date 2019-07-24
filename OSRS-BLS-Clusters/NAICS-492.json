@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-492",
+  "description": "Industries in the Couriers and Messengers subsector provide intercity and/or local delivery of parcels and documents (including express delivery services) without operating under a universal service obligation. These articles can be described as those that may be handled by one person without using special equipment. This allows the collection, pick-up, and delivery operations to be done with limited labor costs and minimal equipment. Sorting and transportation activities, where necessary, are generally mechanized. The restriction to small parcels partly distinguishes these establishments from those in the transportation industries. The complete network of courier services establishments also distinguishes these transportation services from local messenger and delivery establishments in this subsector. This includes the establishments that perform intercity transportation as well as establishments that, under contract to them, perform local pick-up and delivery. Messengers, which usually deliver within a metropolitan or single urban area, may use bicycle, foot, small truck, or van.",
+  "name": "NAICS-492",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-492",
+  "uuid": "8fa3311c-47f7-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag492.htm"
+        ]
+      },
+      "uuid": "894266c4-48c1-11e9-8646-d663bd873d93",
+      "value": "Test Couriers and Messengers Value"
+    }
+	  ],
+	"version": 1
+}

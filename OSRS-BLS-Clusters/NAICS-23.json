@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-23",
+  "description": "The construction sector comprises establishments primarily engaged in the construction of buildings or engineering projects (e.g., highways and utility systems). Establishments primarily engaged in the preparation of sites for new construction and establishments primarily engaged in subdividing land for sale as building sites also are included in this sector. Construction work done may include new work, additions, alterations, or maintenance and repairs. Activities of these establishments generally are managed at a fixed place of business, but they usually perform construction activities at multiple project sites. Production responsibilities for establishments in this sector are usually specified in (1) contracts with the owners of construction projects (prime contracts) or (2) contracts with other construction establishments (subcontracts).",
+  "name": "NAICS-23",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-23",
+  "uuid": "7ca733f2-47f6-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag23.htm"
+        ]
+      },
+      "uuid": "ead20472-48c0-11e9-8646-d663bd873d93",
+      "value": "Test Construction Value"
+    }
+	  ],
+	"version": 1
+}

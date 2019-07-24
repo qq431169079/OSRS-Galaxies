@@ -1,0 +1,41 @@
+{
+  "category": "NAICS-442",
+  "description": "Industries in the Furniture and Home Furnishings Stores subsector retail new furniture and home furnishings from fixed point-of-sale locations. Establishments in this subsector usually operate from showrooms and have substantial areas for the presentation of their products. Many offer interior decorating services in addition to the sale of products.",
+  "name": "NAICS-442",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-442",
+  "uuid": "abb3db62-4802-11e9-b210-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag442.htm"
+        ]
+      },
+      "uuid": "d49bbc1a-48c6-11e9-8646-d663bd873d93",
+      "value": "Test Furniture and Home Furnishings Stores Value"
+    },
+	{
+      "description": "My Pillow, Inc. is a pillow manufacturing company based in Chaska, Minnesota, United States. The company was founded in 2004 by Michael J. Lindell, who invented and patented MyPillow, an open-cell, poly-foam pillow design. My Pillow has sold over 41 million pillows, due mostly to My Pillow’s TV infomercials.",
+      "meta": {
+        "refs": [
+          "https://www.mypillow.com/"
+        ]
+      },
+      "uuid": "49cf997e-4ff3-11e9-8647-d663bd873d93",
+      "value": "MyPillow"
+    },
+	{
+      "description": "Amerisleep is a retailer and producer of mattresses.",
+      "meta": {
+        "refs": [
+          "https://www.amerisleep.com/"
+        ]
+      },
+      "uuid": "acfdad10-4ff3-11e9-8647-d663bd873d93",
+      "value": "Amerisleep"
+    }
+	  ],
+	"version": 2
+}

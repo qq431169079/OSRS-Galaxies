@@ -1,0 +1,31 @@
+{
+  "category": "NAICS-336",
+  "description": "Industries in the Transportation Equipment Manufacturing subsector produce equipment for transporting people and goods. Transportation equipment is a type of machinery. An entire subsector is devoted to this activity because of the significance of its economic size in all three North American countries. ^~Establishments in this subsector utilize production processes similar to those of other machinery manufacturing establishments - bending, forming, welding, machining, and assembling metal or plastic parts into components and finished products. However, the assembly of components and subassemblies and their further assembly into finished vehicles tends to be a more common production process in this subsector than in the Machinery Manufacturing subsector.",
+  "name": "NAICS-336",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-336",
+  "uuid": "87c509a2-4851-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag336.htm"
+        ]
+      },
+      "uuid": "81d9c206-4902-11e9-8646-d663bd873d93",
+      "value": "Test Transportation Equipment Manufacturing Value"
+    },
+	{
+      "description": "ASCO Industries is a world leader in the design and manufacture of high lift devices, assemblies and major functional components for the aerospace industry.",
+      "meta": {
+        "refs": [
+          "http://www.asco.be/"
+        ]
+      },
+      "uuid": "f6d62ba8-95f1-11e9-bc42-526af7764f64",
+      "value": "ASCO Industries"
+    }
+	  ],
+	"version": 2
+}

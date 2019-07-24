@@ -1,0 +1,110 @@
+{
+	"category": "NAICS-52",
+	"description": "The Finance and Insurance sector comprises establishments primarily engaged in financial transactions (transactions involving the creation, liquidation, or change in ownership of financial assets) and/or in facilitating financial transactions. Three principal types of activities are identified: 1. Raising funds by taking deposits and/or issuing securities and, in the process, incurring liabilities. Establishments engaged in this activity use raised funds to acquire financial assets by making loans and/or purchasing securities. Putting themselves at risk, they channel funds from lenders to borrowers and transform or repackage the funds with respect to maturity, scale, and risk. This activity is known as financial intermediation. 2. Pooling of risk by underwriting insurance and annuities. Establishments engaged in this activity collect fees, insurance premiums, or annuity considerations; build up reserves; invest those reserves; and make contractual payments. Fees are based on the expected incidence of the insured risk and the expected return on investment. 3. Providing specialized services facilitating or supporting financial intermediation, insurance, and employee benefit programs. In addition, monetary authorities charged with monetary control are included in this sector.",
+	"name": "NAICS-52",
+	"source": "BLS Industries at a Glance",
+	"type": "OSRS-NAICS-52",
+	"uuid": "ed40c9ee-47ff-11e9-b210-d663bd873d93",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag52.htm"
+				]
+			},
+			"uuid": "8467c15a-48c4-11e9-8646-d663bd873d93",
+			"value": "Test Finance and Insurance Value"
+		},
+		{
+			"description": "The ING Group is a Dutch multinational banking and financial services corporation headquartered in Amsterdam. Its primary businesses are retail banking, direct banking, commercial banking, investment banking, asset management, and insurance services. ING is an abbreviation for Internationale Nederlanden Groep.",
+			"meta": {
+				"refs": [
+					"https://www.ing.com/Home.htm"
+				]
+			},
+			"uuid": "7879b744-4b22-11e9-8646-d663bd873d93",
+			"value": "ING Bank"
+		},
+		{
+			"description": "FirstBank, sometimes referred to as 1STBank, is a Colorado-based and privately held bank and financial services company that owns over 115 FirstBank locations in three states in the Southwestern U.S. - Colorado, Arizona, and California.",
+			"meta": {
+				"refs": [
+					"https://www.efirstbank.com/"
+				]
+			},
+			"uuid": "26396d9c-7bd5-11e9-8f9e-2a86e4085a59",
+			"value": "FirstBank Holding Co"
+		},
+		{
+			"description": "First American Financial Corporation is a United States financial services company and is a leading provider of title insurance and settlement services to the real estate and mortgage industries.",
+			"meta": {
+				"refs": [
+					"http://www.firstam.com/index.html"
+				]
+			},
+			"uuid": "5d2fff78-8224-11e9-bc42-526af7764f64",
+			"value": "First American Financial Corporation"
+		},
+		{
+			"description": "GateHub is a platform for the Internet of Value, built on XRP Ledger protocol. It allows everyone to send, receive, trade and manage any type of assets.",
+			"meta": {
+				"refs": [
+					"https://gatehub.net/"
+				]
+			},
+			"uuid": "2bcac306-8d40-11e9-bc42-526af7764f64",
+			"value": "GateHub"
+		},
+		{
+			"description": "Westpac Banking Corporation, commonly known as Westpac, is an Australian bank and financial-services provider headquartered at Westpac Place in Sydney. ",
+			"meta": {
+				"refs": [
+					"https://www.westpac.com.au/"
+				]
+			},
+			"uuid": "2bcac734-8d40-11e9-bc42-526af7764f64",
+			"value": "Westpac Banking Corporation"
+		},
+		{
+			"description": "The Desjardins Group is a Canadian cooperative that is the largest federation of credit unions in North America, and is counted among the Worlds Strongest Banks according to the Banker magazine. It was founded in 1900 in Levis, Quebec by Alphonse Desjardins.",
+			"meta": {
+				"refs": [
+					"https://www.desjardins.com/ca/index.jsp"
+				]
+			},
+			"uuid": "30dc2162-95ee-11e9-bc42-526af7764f64",
+			"value": "Desjardins Group"
+		},
+		{
+			"description": "Dominion National offers Select dental plans (same as a DHMO), PPO plans, ePPO plans and dual-choice coverage. In addition, Dominion National also provides full administrative support for strategic partnerships, health plans and Third Party Administrators (TPAs). Dominion National selection of vision plans offers coverage for a wide range of budgets.",
+			"meta": {
+				"refs": [
+					"https://www.dominionnational.com/"
+				]
+			},
+			"uuid": "30dc23f6-95ee-11e9-bc42-526af7764f64",
+			"value": "Dominion National"
+		},
+		{
+			"description": "Philadelphia Federal Credit Union is a credit union headquartered in Philadelphia. It is chartered and regulated under the National Credit Union Administration. PFCU is the sixth largest credit union in Philadelphia. PFCU has more than $900 million USD in assets, and over 112,000 members.",
+			"meta": {
+				"refs": [
+					"https://www.pfcu.com/"
+				]
+			},
+			"uuid": "b6e41c86-a5cc-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Philadelphia Federal Credit Union"
+		},
+		{
+			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
+			"meta": {
+				"refs": [
+					"https://www.meezanbank.com/"
+				]
+			},
+			"uuid": "913656ca-4b22-11e9-8646-d663bd873d93",
+			"value": "Meezan Bank"
+		}
+	],
+	"version": 6
+}
