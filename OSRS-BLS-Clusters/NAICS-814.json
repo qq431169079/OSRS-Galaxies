@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-814",
+  "description": "Industries in the Private Households subsector include private households that engage in employing workers on or about the premises in activities primarily concerned with the operation of the household. These private households may employ individuals, such as cooks, maids, butlers, and outside workers, such as gardeners, caretakers, and other maintenance workers.",
+  "name": "NAICS-814",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-814",
+  "uuid": "00711714-483f-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag814.htm"
+        ]
+      },
+      "uuid": "9ed99a4c-48f9-11e9-8646-d663bd873d93",
+      "value": "Test Private Households Value"
+    }
+	  ],
+	"version": 1
+}

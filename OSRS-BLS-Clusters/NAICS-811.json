@@ -1,0 +1,21 @@
+{
+  "category": "NAICS-811",
+  "description": "Industries in the Repair and Maintenance subsector restore machinery, equipment, and other products to working order. These establishments also typically provide general or routine maintenance (i.e., servicing) on such products to ensure they work efficiently and to prevent breakdown and unnecessary repairs.",
+  "name": "NAICS-811",
+  "source": "BLS Industries at a Glance",
+  "type": "labyrinth-NAICS-811",
+  "uuid": "54a4f32e-4848-11e9-8646-d663bd873d93",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag811.htm"
+        ]
+      },
+      "uuid": "5e6a2794-48fc-11e9-8646-d663bd873d93",
+      "value": "Test Repair and Maintenance Value"
+    }
+	  ],
+	"version": 1
+}

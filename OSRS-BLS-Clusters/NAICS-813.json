@@ -1,0 +1,139 @@
+{
+	"category": "NAICS-813",
+	"description": "Industries in the Religious, Grantmaking, Civic, Professional, and Similar Organizations subsector group establishments that organize and promote religious activities; support various causes through grantmaking; advocate various social and political causes; and promote and defend the interests of their members.",
+	"name": "NAICS-813",
+	"source": "BLS Industries at a Glance",
+	"type": "labyrinth-NAICS-813",
+	"uuid": "99cae6e4-4847-11e9-8646-d663bd873d93",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://www.bls.gov/iag/tgs/iag813.htm"
+				]
+			},
+			"uuid": "a93dbac0-48fb-11e9-8646-d663bd873d93",
+			"value": "Test Religious, Grantmaking, Civic, Professional, and Similar Organizations Value"
+		},
+		{
+			"description": "Opportunity International is a 501 nonprofit organization that is working to end global poverty by creating and sustaining jobs. Through a network of 47 program and support partners, Opportunity provides small business loans, savings, insurance and training to more than 14 million people in the developing world.",
+			"meta": {
+				"refs": [
+					"https://opportunity.org/"
+				]
+			},
+			"uuid": "4f9be668-4b3f-11e9-8646-d663bd873d93",
+			"value": "Opportunity International"
+		},
+		{
+			"description": "Our direct basic cremation service without a ceremony includes transfer of deceased, transportation to the crematory and refrigeration no mileage charges or daily refrigeration fees. This service also includes the standard responsibilities of a funeral director and staff. Plus, if the bereaved live in Pennsylvania, we come to the home or any place of convenience of the next of kin, after death, to do any paperwork, so they do not have to travel to us.",
+			"meta": {
+				"refs": [
+					"https://www.cremationsocietyofpa.com/"
+				]
+			},
+			"uuid": "6ea34c14-5241-11e9-8647-d663bd873d93",
+			"value": "Cremation Society of Pennsylvania, Inc."
+		},
+		{
+			"description": "Housing provider that offers safe, affordable rental accommodations to families and individuals in a multi-cultural setting.",
+			"meta": {
+				"refs": [
+					"https://easternontario.cioc.ca/record/OCR3954"
+				],
+				"synonyms": [
+					"OCISO Hilda",
+					"OCISO Presland",
+					"OCISONPH",
+					"Unity Hilda",
+					"Unity Housing",
+					"Unity Presland",
+					"OCISO Non Profit Housing Corporation"
+	       ]
+			},
+			"uuid": "c2987ed8-5bfc-11e9-8647-d663bd873d93",
+			"value": "Unity Non Profit Housing Corporation Ottawa"
+		},
+		{
+			"description": "Amnesty International is a London-based non-governmental organization focused on human rights. The organization says it has more than seven million members and supporters around the world.",
+			"meta": {
+				"refs": [
+					"https://www.amnesty.org/en/"
+				]
+			},
+			"uuid": "282dcc44-6cf1-11e9-a923-1681be663d3e",
+			"value": "Amnesty International"
+		},
+		{
+			"description": "Catholic Parish in Brunswick, Ohio.",
+			"meta": {
+				"refs": [
+					"https://stambrose.us/"
+				]
+			},
+			"uuid": "282dc974-6cf1-11e9-a923-1681be663d3e",
+			"value": "Saint Ambrose Catholic Parish"
+		},
+		{
+			"description": "People Inc. is a non-profit organization in Western New York. People Inc. provides a variety of services to seniors, families and individuals with developmental disabilities including residential, employment, community outreach, health care, and recreation programs.",
+			"meta": {
+				"refs": [
+					"https://www.people-inc.org/"
+				]
+			},
+			"uuid": "13e4c38c-8d44-11e9-bc42-526af7764f64",
+			"value": "People Inc."
+		},
+		{
+			"description": "Supported by United Way of King County, Washington. We provide relief to families and individuals living within the boundaries of the Auburn School District.",
+			"meta": {
+				"refs": [
+					"http://www.theauburnfoodbank.org/"
+				]
+			},
+			"uuid": "13e4c62a-8d44-11e9-bc42-526af7764f64",
+			"value": "The Auburn Food Bank"
+		},
+		{
+			"description": "Father Bill’s & MainSpring (FBMS), a registered 501(c)3 charitable organization, has been a leading innovator of ending homelessness. Our mission is to end and prevent homelessness in Southern Massachusetts with programs that provide emergency and permanent housing and help people obtain skills, jobs, housing, and services. We help people who are struggling with homelessness, or are at risk of homelessness, to achieve self-sufficiency.",
+			"meta": {
+				"refs": [
+					"https://helpfbms.org/"
+				]
+			},
+			"uuid": "81dc44bc-a5d3-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Father Bill's & MainSpring"
+		},
+		{
+			"description": "St John Ambulance is the name of a number of affiliated organisations in different countries which teach and provide first aid and emergency medical services, and are primarily staffed by volunteers. The associations are overseen by the international Order of St John and its priories.",
+			"meta": {
+				"refs": [
+					"https://www.sja.ca/"
+				]
+			},
+			"uuid": "81dc4732-a5d3-11e9-a2a3-2a2ae2dbcce4",
+			"value": "St John Ambulance"
+		},
+		{
+			"description": "Independent Age is an older peoples charity based in the UK. It has offices in London, Newcastle and Glasgow, and staff and volunteers based in a number of other UK locations. It is a registered charity in England & Wales and in Scotland.",
+			"meta": {
+				"refs": [
+					"https://www.independentage.org/"
+				]
+			},
+			"uuid": "499e9750-abc1-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Independent Age"
+		},
+		{
+			"description": "UNITED TISSUE NETWORK IS A NONPROFIT 501C3, AATB ACCREDITED, WHOLE-BODY DONATION COMPANY.",
+			"meta": {
+				"refs": [
+					"https://unitedtissue.org/"
+				]
+			},
+			"uuid": "8b6c327e-4b3f-11e9-8646-d663bd873d93",
+			"value": "United Tissue Network"
+		}
+	],
+	"version": 7
+}

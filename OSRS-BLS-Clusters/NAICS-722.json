@@ -1,0 +1,121 @@
+{
+  "category": "NAICS-722",
+  "description": "Industries in the Food Services and Drinking Places subsector prepare meals, snacks, and beverages to customer order for immediate on-premises and off-premises consumption. There is a wide range of establishments in these industries. Some provide food and drink only; while others provide various combinations of seating space, waiter/waitress services and incidental amenities, such as limited entertainment. The industries in the subsector are grouped based on the type and level of services provided. The industry groups are full-service restaurants; limited-service eating places; special food services, such as food service contractors, caterers, and mobile food services; and drinking places.",
+  "name": "NAICS-722",
+  "source": "BLS Industries at a Glance",
+  "type": "OSRS-NAICS-722",
+  "uuid": "299f4766-4801-11e9-b210-d663bd873d93",
+  "values": [
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.bls.gov/iag/tgs/iag722.htm"
+        ]
+      },
+      "uuid": "98951050-48c5-11e9-8646-d663bd873d93",
+      "value": "Test Food Services and Drinking Places Value"
+    },
+	{
+      "description": "Buca di Beppo is an American restaurant chain specializing in Italian-American food. The name roughly translates as Joe's Hole from Italian buca, which literally means hole or pit, can be a dialectal word in Tuscany for basement or cellar, and Beppo is a rare spelling of the nickname of Giuseppe.",
+      "meta": {
+        "refs": [
+          "https://www.bucadibeppo.com/"
+        ]
+      },
+      "uuid": "fa879d28-5a09-11e9-8647-d663bd873d93",
+      "value": "Buca di Beppo"
+    },
+	{
+      "description": "Earl of Sandwich is a restaurant franchise based in Orlando, Florida, United States. It was founded by The Rt Hon. The 11th Earl of Sandwich, his younger son Hon. Orlando Montagu, and businessman Robert Earl, founder of Planet Hollywood.",
+      "meta": {
+        "refs": [
+          "https://earlofsandwichusa.com/"
+        ]
+      },
+      "uuid": "fa87a14c-5a09-11e9-8647-d663bd873d93",
+      "value": "Earl of Sandwich"
+    },
+	{
+      "description": "Planet Hollywood International Inc. is a theme restaurant inspired by the popular portrayal of Hollywood. The company is owned by Earl Enterprises corporation. Earl Enterprise was founded by Robert Earl.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Planet_Hollywood"
+        ]
+      },
+      "uuid": "fa87a336-5a09-11e9-8647-d663bd873d93",
+      "value": "Planet Hollywood"
+    },
+	{
+      "description": "Chow down on all-natural chicken and sauces bursting with Guy Fieri's signature flare at Chicken Guy!, a quick-service restaurant.",
+      "meta": {
+        "refs": [
+          "https://chickenguy.com/"
+        ]
+      },
+      "uuid": "fa87a7f0-5a09-11e9-8647-d663bd873d93",
+      "value": "Chicken Guy!"
+    },
+	{
+      "description": "Sleek, contemporary watering hole with an extensive menu of mixed drinks & modern bar bites.",
+      "meta": {
+        "refs": [
+          "https://www.earlenterprise.com/"
+        ]
+      },
+      "uuid": "fa87a96c-5a09-11e9-8647-d663bd873d93",
+      "value": "Mixology 101"
+    },
+	{
+      "description": "What makes Choicelunch different than other school lunch programs? Simple. We empower kids to make healthy choices. That’s why our model lets kids pick their own sides and drinks with every meal. Our entire staff is devoted to listening to kids input and refining our menus accordingly. For a growing number of schools and parents, that’s what makes Choicelunch the lunch of choice.",
+      "meta": {
+        "refs": [
+          "https://www.choicelunch.com/"
+        ]
+      },
+      "uuid": "9dee93d4-7104-11e9-a923-1681be663d3e",
+      "value": "Choicelunch"
+    },
+	{
+      "description": "The LunchMaster’s mission is to make a significant and positive contribution to the well-being and learning ability of each student by providing healthy, delicious school meals.",
+      "meta": {
+        "refs": [
+          "https://www.thelunchmaster.com/"
+        ]
+      },
+      "uuid": "9deea72a-7104-11e9-a923-1681be663d3e",
+      "value": "The LunchMaster"
+    },
+	{
+      "description": "Burger King is an American global chain of hamburger fast food restaurants. Headquartered in the unincorporated area of Miami-Dade County, Florida, the company was founded in 1953 as Insta-Burger King, a Jacksonville, Florida–based restaurant chain.",
+      "meta": {
+        "refs": [
+          "https://www.bk.com/"
+        ]
+      },
+      "uuid": "904c9d9e-7bd5-11e9-8f9e-2a86e4085a59",
+      "value": "Burger King"
+    },
+	{
+      "description": "Checkers Drive-In Restaurants, Inc., is one of the largest chains of double drive-thru restaurants in the United States. The company operates Checkers and Rally(s) restaurants in 28 states and the District of Columbia. They specialize in hamburgers, hot dogs, french fries, and milkshakes.",
+      "meta": {
+        "refs": [
+          "https://www.checkers.com/"
+        ]
+      },
+      "uuid": "bd2f2076-8d40-11e9-bc42-526af7764f64",
+      "value": "Checkers Drive-In Restaurants, Inc."
+    },
+	{
+      "description": "Overnight haunt pairs Mexican & Southwestern chow with margaritas & tequila in relaxed surroundings.",
+      "meta": {
+        "refs": [
+          "http://tequilataquerialv.com/"
+        ]
+      },
+      "uuid": "fa87abc4-5a09-11e9-8647-d663bd873d93",
+      "value": "Tequila Taqueria"
+    }
+	  ],
+	"version": 5
+}
