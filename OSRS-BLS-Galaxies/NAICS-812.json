@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Personal and Laundry Services subsector group establishments that provide personal and laundry services to individuals, households, and businesses. Services performed include: personal care services; death care services; laundry and drycleaning services; and a wide range of other personal services, such as pet care (except veterinary) services, photofinishing services, temporary parking services, and dating services.",
+  "name": "NAICS-812",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-812",
+  "uuid": "353f9950-483c-11e9-8646-d663bd873d93",
+  "version": 1
+}

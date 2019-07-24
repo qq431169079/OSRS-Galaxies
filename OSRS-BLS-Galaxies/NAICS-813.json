@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Religious, Grantmaking, Civic, Professional, and Similar Organizations subsector group establishments that organize and promote religious activities; support various causes through grantmaking; advocate various social and political causes; and promote and defend the interests of their members.",
+  "name": "NAICS-813",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-813",
+  "uuid": "99cae6e4-4847-11e9-8646-d663bd873d93",
+  "version": 7
+}

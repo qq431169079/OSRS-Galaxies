@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Food Services and Drinking Places subsector prepare meals, snacks, and beverages to customer order for immediate on-premises and off-premises consumption. There is a wide range of establishments in these industries. Some provide food and drink only; while others provide various combinations of seating space, waiter/waitress services and incidental amenities, such as limited entertainment. The industries in the subsector are grouped based on the type and level of services provided. The industry groups are full-service restaurants; limited-service eating places; special food services, such as food service contractors, caterers, and mobile food services; and drinking places.",
+  "name": "NAICS-722",
+  "namespace": "misp",
+  "type": "OSRS-NAICS-722",
+  "uuid": "299f4766-4801-11e9-b210-d663bd873d93",
+  "version": 5
+}

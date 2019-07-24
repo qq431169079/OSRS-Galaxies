@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Repair and Maintenance subsector restore machinery, equipment, and other products to working order. These establishments also typically provide general or routine maintenance (i.e., servicing) on such products to ensure they work efficiently and to prevent breakdown and unnecessary repairs.",
+  "name": "NAICS-811",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-811",
+  "uuid": "54a4f32e-4848-11e9-8646-d663bd873d93",
+  "version": 1
+}

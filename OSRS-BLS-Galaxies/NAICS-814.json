@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Private Households subsector include private households that engage in employing workers on or about the premises in activities primarily concerned with the operation of the household. These private households may employ individuals, such as cooks, maids, butlers, and outside workers, such as gardeners, caretakers, and other maintenance workers.",
+  "name": "NAICS-814",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-814",
+  "uuid": "00711714-483f-11e9-8646-d663bd873d93",
+  "version": 1
+}

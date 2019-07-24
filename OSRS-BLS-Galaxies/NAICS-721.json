@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Accommodation subsector provide lodging or short-term accommodations for travelers, vacationers, and others. There is a wide range of establishments in these industries. Some provide lodging only; while others provide meals, laundry services, and recreational facilities, as well as lodging. Lodging establishments are classified in this subsector even if the provision of complementary services generates more revenue. The types of complementary services provided vary from establishment to establishment.",
+  "name": "NAICS-721",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-721",
+  "uuid": "772dfc54-4764-11e9-b210-d663bd873d93",
+  "version": 1
+}

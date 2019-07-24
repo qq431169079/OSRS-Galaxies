@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Amusement, Gambling, and Recreation Industries subsector (1) operate facilities where patrons can primarily engage in sports, recreation, amusement, or gambling activities and/or (2) provide other amusement and recreation services, such as supplying and servicing amusement devices in places of business operated by others; operating sports teams, clubs, or leagues engaged in playing games for recreational purposes; and guiding tours without using transportation equipment.",
+  "name": "NAICS-713",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-713",
+  "uuid": "7c23a622-47f1-11e9-b210-d663bd873d93",
+  "version": 1
+}

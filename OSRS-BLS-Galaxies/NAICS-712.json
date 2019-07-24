@@ -1,0 +1,8 @@
+{
+  "description": "Industries in the Museums, Historical Sites, and Similar Institutions subsector engage in the preservation and exhibition of objects, sites, and natural wonders of historical, cultural, and/or educational value.",
+  "name": "NAICS-712",
+  "namespace": "misp",
+  "type": "labyrinth-NAICS-712",
+  "uuid": "0ca07330-4836-11e9-8646-d663bd873d93",
+  "version": 2
+}
