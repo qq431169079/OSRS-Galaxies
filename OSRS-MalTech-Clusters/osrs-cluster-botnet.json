@@ -57,7 +57,7 @@
       "value": "Neobot"
     },
 	{
-      "description": "Yowai detected by Trend Micro as BACKDOOR.LINUX.YOWAI.A has a configuration table that’s similar to those of other Mirai variants. Its configuration table can be decrypted with the same procedures, and adds the ThinkPHP exploit with other known vulnerabilities in its list of infection entry vectors. Yowai listens on port 6 to receive commands from the command and control server. After it infects a router, it uses dictionary attack in an attempt to infect other devices. The affected router now becomes part of a botnet that enables its operator to use the affected devices for launching DDoS attacks.",
+      "description": "Yowai detected by Trend Micro as BACKDOOR.LINUX.YOWAI.A has a configuration table thatâ€™s similar to those of other Mirai variants. Its configuration table can be decrypted with the same procedures, and adds the ThinkPHP exploit with other known vulnerabilities in its list of infection entry vectors. Yowai listens on port 6 to receive commands from the command and control server. After it infects a router, it uses dictionary attack in an attempt to infect other devices. The affected router now becomes part of a botnet that enables its operator to use the affected devices for launching DDoS attacks.",
       "meta": {
         "refs": [
           "https://blog.trendmicro.com/trendlabs-security-intelligence/thinkphp-vulnerability-abused-by-botnets-hakai-and-yowai/3/"
@@ -119,7 +119,7 @@
       "value": "AveMaria"
     },
 	{
-      "description": "A variant of the Mirai botnet. It uses protocols for encrypted commands while scanning for other vulnerable hosts on the network. One similarity it does share with other Mirai variants is that XOR was used to encrypt a part of its configuration data and the list of telnet/SSH credentials used for the malware�s brute-force capabilities.",
+      "description": "A variant of the Mirai botnet. It uses protocols for encrypted commands while scanning for other vulnerable hosts on the network. One similarity it does share with other Mirai variants is that XOR was used to encrypt a part of its configuration data and the list of telnet/SSH credentials used for the malware’s brute-force capabilities.",
       "meta": {
         "refs": [
           "https://blog.trendmicro.com/trendlabs-security-intelligence/new-miori-variant-uses-unique-protocol-to-communicate-with-cc/?"
@@ -127,6 +127,16 @@
       },
       "uuid": "cba3e362-aa5a-11e9-a2a3-2a2ae2dbcce4",
       "value": "Miori"
+    },
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Botnet"
+        ]
+      },
+      "uuid": "1cf1124a-497f-11e9-8646-d663bd873d93",
+      "value": "Test Botnet Value"
     },
 	{
       "description": "GoLang Botnet",
