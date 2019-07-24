@@ -1,0 +1,8 @@
+{
+  "description": "This galaxy is for the application of HITRUST Threat Catalog entries to MISP events.",
+  "name": "HITRUST Threat Catalog",
+  "namespace": "HITRUST",
+  "type": "hitrust",
+  "uuid": "1871cce4-7348-11e9-a923-1681be663d3e",
+  "version": 1
+}
