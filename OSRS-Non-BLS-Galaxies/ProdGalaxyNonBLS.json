@@ -1,0 +1,8 @@
+{
+  "description": "This galaxy is for the indexing of of non-BLS entities and organizations (i.e. FBI).",
+  "name": "OSRS Non-BLS Index",
+  "namespace": "misp",
+  "type": "osrs-non-bls",
+  "uuid": "3edfdebe-7985-11e9-8f9e-2a86e4085a59",
+  "version": 12
+}
