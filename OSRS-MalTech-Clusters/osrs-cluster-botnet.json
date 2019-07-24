@@ -1,0 +1,143 @@
+{
+  "category": "osrs-botnet",
+  "description": "This galaxy is for the indexing of botnets.",
+  "name": "OSRS Botnet",
+  "source": "Open Sources",
+  "type": "osrs-botnet",
+  "uuid": "b97e99c2-773b-11e9-8248-2a86e4085a59",
+  "values": [
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Botnet"
+        ]
+      },
+      "uuid": "1cf1124a-497f-11e9-8646-d663bd873d93",
+      "value": "Test Botnet Value"
+    },
+	{
+      "description": "PBot is a versatile IRC bot written in Perl using Net::IRC.",
+      "meta": {
+        "refs": [
+          "https://sourceforge.net/p/pbot2/wiki/Home/"
+        ]
+      },
+      "uuid": "4a55bdd8-49bd-11e9-8646-d663bd873d93",
+      "value": "pBot"
+    },
+	{
+      "description": "Android banking trojan",
+      "meta": {
+        "refs": [
+          "https://twitter.com/LukasStefanko/status/1102937833071935491"
+        ]
+      },
+      "uuid": "c5b51a32-50ca-11e9-8647-d663bd873d93",
+      "value": "CometBot"
+    },
+	{
+      "description": "Based on Marcher malware family",
+      "meta": {
+        "refs": [
+          "https://www.threatfabric.com/blogs/anubis_2_malware_and_afterlife.html"
+        ]
+      },
+      "uuid": "c5b51d52-50ca-11e9-8647-d663bd873d93",
+      "value": "Bubabot"
+    },
+	{
+      "description": "Based on Marcher malware family",
+      "meta": {
+        "refs": [
+          "https://www.threatfabric.com/blogs/anubis_2_malware_and_afterlife.html"
+        ]
+      },
+      "uuid": "c5b521e4-50ca-11e9-8647-d663bd873d93",
+      "value": "Neobot"
+    },
+	{
+      "description": "Yowai detected by Trend Micro as BACKDOOR.LINUX.YOWAI.A has a configuration table thatâ€™s similar to those of other Mirai variants. Its configuration table can be decrypted with the same procedures, and adds the ThinkPHP exploit with other known vulnerabilities in its list of infection entry vectors. Yowai listens on port 6 to receive commands from the command and control server. After it infects a router, it uses dictionary attack in an attempt to infect other devices. The affected router now becomes part of a botnet that enables its operator to use the affected devices for launching DDoS attacks.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/thinkphp-vulnerability-abused-by-botnets-hakai-and-yowai/3/"
+        ]
+      },
+      "uuid": "5c7c88ec-63ae-11e9-a923-1681be663d3e",
+      "value": "Yowai"
+    },
+	{
+      "description": "AESDDoS botnet malware variant detected by Trend Micro as Backdoor.Linux.AESDDOS.J exploiting a server-side template injection vulnerability CVE-2019-3396 in the Widget Connector macro in Atlassian Confluence Server, a collaboration software program used by DevOps professionals.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/aesddos-botnet-malware-exploits-cve-2019-3396-to-perform-remote-code-execution-ddos-attacks-and-cryptocurrency-mining/"
+        ]
+      },
+      "uuid": "98c0fae4-6cf6-11e9-a923-1681be663d3e",
+      "value": "AESDDoS.J"
+    },
+	{
+      "description": "Attacks other coinminer botnets. Utilizes blockchain DNS services. Behaves like Satori botnet. Also used to take over security camera systems.",
+      "meta": {
+        "refs": [
+          "https://blog.netlab.360.com/the-new-developments-of-the-fbot-en/",
+		  "https://blog.netlab.360.com/threat-alert-a-new-worm-fbot-cleaning-adbminer-is-using-a-blockchain-based-dns-en/"
+        ]
+      },
+      "uuid": "da9f43f8-70fc-11e9-a923-1681be663d3e",
+      "value": "FBot"
+    },
+	{
+      "description": "The core of the artifact is the integration of different botnet source codes, as it is also well documented by reading the now deleted Instagram profile of the 13 years old scriptbots/unholdable, who implemented this Botnet . STD attack, Tsunami, Christmas DDoS attacks were adapted from Kaiten botnet, along with more flood combination taken from Qbot/Lizkebab/Torlus/Gafgyt variants: multiple attack methods integrating multiple source code in the same artifact and provided a As-a-Service to other teens or threat actors and sold offhandedly on Instagram. From Mirai source code the Cayosin was taken the table scheme to hide strings used by the botnet to hack the login credential of the vulnerable telnet accounts for known IOT devices, along with other Mirai botnet functionalities. Obviously, the coder was not updating much feature of the C2 which explains how the base protocol of the botnet is still made by Qbot/Torlus basis.",
+      "meta": {
+        "refs": [
+          "https://securityaffairs.co/wordpress/80858/cyber-crime/cayosin-botnet-mmd.html",
+		  "https://imgur.com/a/4YxuSfV"
+        ]
+      },
+      "uuid": "da9f46c8-70fc-11e9-a923-1681be663d3e",
+      "value": "CAYOSIN"
+    },
+	{
+      "description": "The bot first emerged in November 2018. According to Trend Micro, the malware is the work of the Outlaw group, a rough translation derived from haiduc, a Romanian phrase which has been bequeathed to the main hacking tool the group uses.",
+      "meta": {
+        "refs": [
+          "https://www.zdnet.com/article/outlaws-shellbot-infects-servers-for-monero-mining/"
+        ]
+      },
+      "uuid": "da9f4826-70fc-11e9-a923-1681be663d3e",
+      "value": "Outlaw Shellbot"
+    },
+	{
+      "description": "AveMaria is a new botnet, whose first version we found in September 2018, right after the arrests of the FIN7 members. We have medium confidence that this botnet falls under the FIN7 umbrella. In fact, AveMaria is a classic infostealer bot that collects all possible credentials from various types of software (browsers, email clients, messengers, etc.), and can act as a keylogger.",
+      "meta": {
+        "refs": [
+          "https://securelist.com/fin7-5-the-infamous-cybercrime-rig-fin7-continues-its-activities/90703/"
+        ]
+      },
+      "uuid": "bad5e52c-7b38-11e9-8f9e-2a86e4085a59",
+      "value": "AveMaria"
+    },
+	{
+      "description": "A variant of the Mirai botnet. It uses protocols for encrypted commands while scanning for other vulnerable hosts on the network. One similarity it does share with other Mirai variants is that XOR was used to encrypt a part of its configuration data and the list of telnet/SSH credentials used for the malware’s brute-force capabilities.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/new-miori-variant-uses-unique-protocol-to-communicate-with-cc/?"
+        ]
+      },
+      "uuid": "cba3e362-aa5a-11e9-a2a3-2a2ae2dbcce4",
+      "value": "Miori"
+    },
+	{
+      "description": "GoLang Botnet",
+      "meta": {
+        "refs": [
+          "https://blog.yoroi.company/research/gobrut-a-new-golang-botnet/"
+        ]
+      },
+      "uuid": "a1bcb5a4-49bd-11e9-8646-d663bd873d93",
+      "value": "GoBrut"
+    }
+	  ],
+	"version": 3
+}

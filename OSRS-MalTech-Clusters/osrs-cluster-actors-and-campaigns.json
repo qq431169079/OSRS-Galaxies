@@ -1,0 +1,425 @@
+{
+  "category": "osrs-actors-and-campaigns",
+  "description": "This galaxy is for the indexing of threat actors and campaigns.",
+  "name": "OSRS Actors and Campaigns",
+  "source": "Open Sources",
+  "type": "osrs-actors-and-campaigns",
+  "uuid": "68dc7e2c-776c-11e9-8f9e-2a86e4085a59",
+  "values": [
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Threat_actor"
+        ]
+      },
+      "uuid": "5f0d02e4-497d-11e9-8646-d663bd873d93",
+      "value": "Test OSRS Actors and Campaigns Value"
+    },
+	{
+      "description": "Resecurityâ€™s research indicates that the attack on Parliament is a part of a multi-year cyberespionage campaign orchestrated by a nation-state actor whom we are calling IRIDIUM. This actor targets sensitive government, diplomatic, and military resources in the countries comprising the Five Eyes intelligence alliance (which includes Australia, Canada, New Zealand, the United Kingdom and the United States)",
+      "meta": {
+        "refs": [
+          "https://malpedia.caad.fkie.fraunhofer.de/actor/iridium",
+	  "https://resecurity.com/blog/parliament_races/",
+	  "https://www.nbcnews.com/politics/national-security/iranian-backed-hackers-stole-data-major-u-s-government-contractor-n980986",
+	  "https://www.zdnet.com/article/citrix-discloses-security-breach-of-internal-network/"
+        ]
+      },
+      "uuid": "13f29ed6-4987-11e9-8646-d663bd873d93",
+      "value": "Iridium"
+    },
+	{
+      "description": "Leviathan is an espionage actor targeting organizations and high-value targets in defense and government. Active since at least 2014, this actor has long-standing interest in maritime industries, naval defense contractors, and associated research institutions in the United States and Western Europe.",
+      "meta": {
+        "refs": [
+          "https://malpedia.caad.fkie.fraunhofer.de/actor/leviathan"
+        ],
+       "synonyms": [
+	  "TEMP.Periscope",
+	  "TEMP.Jumper",
+	  "APT 40",
+	  "APT40"
+	       ]
+    },
+      "uuid": "d14b8b14-4987-11e9-8646-d663bd873d93",
+      "value": "Leviathan"
+    },
+	{
+      "description": "Symantec researchers have discovered that this attack group, which we call Whitefly, has been operating since at least 2017, has targeted organizations based mostly in Singapore across a wide variety of sectors, and is primarily interested in stealing large amounts of sensitive information.",
+      "meta": {
+        "refs": [
+          "https://www.symantec.com/blogs/threat-intelligence/whitefly-espionage-singapore"
+        ]
+      },
+      "uuid": "61503b56-4988-11e9-8646-d663bd873d93",
+      "value": "Whitefly"
+    },
+	{
+      "description": "An Iran-linked APT known as Chafer has been spotted targeting various entities based in Iran with an enhanced version of a custom malware that takes a very unique approach to communication by using the Microsoft Background Intelligent Transfer Service (BITS) mechanism over HTTP.",
+      "meta": {
+        "refs": [
+          "https://malpedia.caad.fkie.fraunhofer.de/actor/sandcat"
+        ]
+      },
+      "uuid": "8e1937c4-4ff9-11e9-8647-d663bd873d93",
+      "value": "Chafer"
+    },  
+	{
+      "description": "#OpJerusalem2019, an operation that was conducted to deliver the JCry ransomware. #OpJerusalem2019 is recently launched a cyber attack against the Israeli Government and the private websites including Coca-Cola, ToysRUs, McDonalds. In result, An anonymous hacker group compromised hundreds of websites and destroyed nearly 1 million Israeli based webpages that belong to some of the leading brands. Attackers goal was “erasing Israel from the Internet” in protest against the Israeli government’s conduct in the Israel-Palestine conflict.",
+      "meta": {
+        "refs": [
+          "https://securityaffairs.co/wordpress/82030/hacking/opjerusalem-2019-jcry-ransomware.html",
+		  "https://gbhackers.com/jcry-ransomware/"
+        ]
+      },
+      "uuid": "7cdd55aa-4ffc-11e9-8647-d663bd873d93",
+      "value": "OpJerusalem2019"
+    },  
+	{
+      "description": "The campaign is named after a GitHub account that provided partial source codes of a malware. An analysis revealed that the malware is a backdoor written in Python. A peculiar Italian-origin malware campaign has been discovered by security researchers. It appears that this campaign has been active since 2016, and came to light only this year. First analyzed by TG Soft and then by Yoroi-Zlab, the attacker group is speculated to be Italian since many file names and scripts were in the Italian language, as well as C2 servers being from Italy. It was also observed that the Pistacchietto campaign targeted both mobile and desktop systems.",
+      "meta": {
+        "refs": [
+          "https://cyware.com/news/operation-pistacchietto-a-new-italian-malware-campaign-5a32edd6",
+		  "https://securityaffairs.co/wordpress/82066/cyber-crime/op-pistacchietto-hacking-campaign.html"
+        ]
+      },
+      "uuid": "d21e5eba-4ffc-11e9-8647-d663bd873d93",
+      "value": "Operation Pistacchietto"
+    },  
+	{
+      "description": "Name of the threat actor who developed the first version of the Anubis banking malware",
+      "meta": {
+        "refs": [
+          "https://www.threatfabric.com/blogs/anubis_2_malware_and_afterlife.html",
+		  "https://securityaffairs.co/wordpress/82874/malware/anubis-ii-malware.html"
+        ]
+      },
+      "uuid": "18ab94b4-50c6-11e9-8647-d663bd873d93",
+      "value": "maza-in"
+    },  
+	{
+      "description": "Operation ShadowHammer, a newly discovered supply chain attack that leveraged ASUS Live Update software.",
+      "meta": {
+        "refs": [
+          "https://securelist.com/operation-shadowhammer/89992/"
+        ]
+      },
+      "uuid": "18ab97e8-50c6-11e9-8647-d663bd873d93",
+      "value": "Operation ShadowHammer"
+    },  
+	{
+      "description": "A credential harvesting campaign that mostly targets South Asian governments.",
+      "meta": {
+        "refs": [
+          "https://www.netscout.com/blog/asert/lucky-elephant-campaign-masquerading"
+        ]
+      },
+      "uuid": "18ab9978-50c6-11e9-8647-d663bd873d93",
+      "value": "LUCKY ELEPHANT"
+    },
+	{
+      "description": "Developer of Unnam3d R@nsomware.",
+      "meta": {
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/unnam3d-ransomware-locks-files-in-protected-archives-demands-gift-cards/"
+        ]
+      },
+      "uuid": "bf457bdc-5242-11e9-8647-d663bd873d93",
+      "value": "Unnam3d"
+    },  
+	{
+      "description": "A coordinated operation conducted by law enforcement agencies from Europe, Canada, and the United States targeted vendors and buyers of illegal goods on dark web marketplaces.",
+      "meta": {
+        "refs": [
+          "https://securityaffairs.co/wordpress/82974/deep-web/operation-sabotor-dark-web.html"
+        ]
+      },
+      "uuid": "854da9c6-5243-11e9-8647-d663bd873d93",
+      "value": "Operation SaboTor"
+    },  
+	{
+      "description": "Actor taking credit for the attack on the Bangladesh Oil, Gas and Mineral Corporation Petrobangla",
+      "meta": {
+        "refs": [
+          "https://www.databreaches.net/petrobangla-website-hacked-again/"
+        ],
+		"synonyms": [
+		"b33"
+	       ]
+      },
+      "uuid": "1b25ef20-63ac-11e9-a923-1681be663d3e",
+      "value": "N33LOB33"
+    },
+	{
+      "description": "The Yanbian Gang, a Chinese cybercriminal group infamous for stealing money from account holders of South Korean banks.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/a-look-into-the-connection-between-xloader-and-fakespy-and-their-possible-ties-with-the-yanbian-gang/"
+        ]
+      },
+      "uuid": "91c90dce-63ac-11e9-a923-1681be663d3e",
+      "value": "Yanbian Gang"
+    },
+	{
+      "description": "The Luhansk People's Republic, also known as Lugansk People's Republic, usually abbreviated as LPR or LNR, is a landlocked proto-state in the Donbass region, in eastern Ukraine. Along with the Donetsk People's Republic DPR, the LPR declared independence from Ukraine in the aftermath of the 2014 Ukrainian revolution. An armed conflict with Ukraine followed its declaration of independence, during which the LPR and DPR received military and humanitarian assistance from Russia. This conflict is still ongoing as of April 2019. LPR remains unrecognized by any UN member state, including Russia—although Russia recognizes documents issued by the LPR government, such as identity documents, diplomas, birth and marriage certificates and vehicle registration plates.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Luhansk_People%27s_Republic"
+        ]
+      },
+      "uuid": "8dca093e-63ad-11e9-a923-1681be663d3e",
+      "value": "Luhansk People's Republic"
+    },
+	{
+      "description": "A malicious threat actor leveraging a Google Chrome browser exploit to deliver malvertisements to iOS users. Dubbed eGobbler by researchers at Confiant, the threat actor from April 6-10 ran a massive operation consisting of eight individual campaigns and more than 30 fake creatives. Each mini-campaign lasted around two days and had its own unique targeting, although most affected publishers were based in the U.S.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Threat_actor",
+		  "https://blog.confiant.com/massive-egobbler-malvertising-campaign-leverages-chrome-vulnerability-to-target-ios-users-a534b95a037f",
+		  "https://www.scmagazine.com/home/security-news/high-volume-egobbler-malvertising-campaign-exploits-zero-day-chrome-bug/"
+        ]
+      },
+      "uuid": "6f2d332c-65ea-11e9-a923-1681be663d3e",
+      "value": "eGobbler"
+    },
+	{
+      "description": "Unit 42 refers to the activity described in this blog as the Aggah Campaign based on the actor’s alias hagga, which was used to split data sent to the RevengeRAT C2 server and was the name of one of the Pastebin accounts used to host the RevengeRAT payloads.",
+      "meta": {
+        "refs": [
+          "https://unit42.paloaltonetworks.com/aggah-campaign-bit-ly-blogspot-and-pastebin-used-for-c2-in-large-scale-campaign/"
+        ]
+      },
+      "uuid": "b2efb4ea-681a-11e9-a923-1681be663d3e",
+      "value": "Aggah Campaign"
+    },
+	{
+      "description": "Beapy is a cryptojacking campaign impacting enterprises that uses the EternalBlue exploit and stolen and hardcoded credentials to spread rapidly across networks.",
+      "meta": {
+        "refs": [
+          "https://securityaffairs.co/wordpress/84512/malware/beapy-miner-eternalblue-doublepulsar.html"
+        ]
+      },
+      "uuid": "d787e28e-6cf5-11e9-a923-1681be663d3e",
+      "value": "Beapy"
+    },
+	{
+      "description": "Group claiming responsibility for the hack of CarePartners",
+      "meta": {
+        "refs": [
+          "https://www.databreaches.net/team_orangeworm-issues-new-threats-to-carepartners/",
+		  "https://www.databreaches.net/team-orangeworm-claims-to-be-dumping-carepartners-data-from-2018-breach/"
+        ]
+      },
+      "uuid": "d787e50e-6cf5-11e9-a923-1681be663d3e",
+      "value": "Team_Orangeworm"
+    },
+	{
+      "description": "Threat actor attributed to attacks against multiple campus store websites on April 14, during which the sites were injected with a malicious skimming script (detected by Trend Micro as Trojan.JS.MIRRORTHEIF.AA) at their payment checkout pages. The skimming script can scrape credit card information, as well as personal details entered on the payment page. The stolen information is consequently sent to a remote server. After looking into this attack, we learned that the attackers compromised PrismWeb, which is an e-commerce platform designed for college stores by company PrismRBS, a subsidiary of Nebraska Book Company.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/mirrorthief-group-uses-magecart-skimming-attack-to-hit-hundreds-of-campus-online-stores-in-us-and-canada/"
+        ]
+      },
+      "uuid": "f2ed752c-7b35-11e9-8f9e-2a86e4085a59",
+      "value": "MirrorThief"
+    },
+	{
+      "description": "Threat actor attributed to targeted attacks against officials within government finance authorities and representatives in several embassies in Europe. The attack, which starts with a malicious attachment disguised as a top secret US document, weaponizes TeamViewer, the popular remote access and desktop sharing software, to gain full control of the infected computer.",
+      "meta": {
+        "refs": [
+          "https://research.checkpoint.com/finteam-trojanized-teamviewer-against-government-targets/"
+        ]
+      },
+      "uuid": "f2ed77a2-7b35-11e9-8f9e-2a86e4085a59",
+      "value": "FINTEAM"
+    },
+	{
+      "description": "Operates like FIN7. At the end of 2018, while searching for new FIN7 campaigns via telemetry, we discovered a set of activity that we temporarily called CopyPaste from a previously unknown APT. Interestingly, this actor targeted financial entities and companies in one African country, which lead us to think that CopyPaste was associated with cybermercenaries or a training center.",
+      "meta": {
+        "refs": [
+          "https://securelist.com/fin7-5-the-infamous-cybercrime-rig-fin7-continues-its-activities/90703/"
+        ]
+      },
+      "uuid": "f2ed78ec-7b35-11e9-8f9e-2a86e4085a59",
+      "value": "CopyPaste"
+    },
+	{
+      "description": "Fxmsp is a high-profile Russian and English speaking hacking collective. They specialize in breaching highly secure protected networks to access private corporate and government information. They have a long-standing reputation for selling sensitive information from high-profile global government and corporate entities.",
+      "meta": {
+        "refs": [
+          "https://www.advanced-intel.com/blog/top-tier-russian-hacking-collective-claims-breaches-of-three-major-anti-virus-companies"
+        ]
+      },
+      "uuid": "f2ed7a22-7b35-11e9-8f9e-2a86e4085a59",
+      "value": "Fxmsp"
+    },
+	{
+      "description": "Threat actor that targets unsecured MongoDB databases and deletes them after compromise.",
+      "meta": {
+        "refs": [
+          "https://securityaffairs.co/wordpress/85766/hacking/unistellar-wiped-12000-mongodb.html"
+        ]
+      },
+      "uuid": "b3491f38-7e33-11e9-8f9e-2a86e4085a59",
+      "value": "Unistellar"
+    },
+	{
+      "description": "Campaign discovered by Cisco Talos with suspected links to the threat actor MuddyWater.  Targets primarily included Turkey-based entities. TTP includes use of Powershell and weaponized documents.",
+      "meta": {
+        "refs": [
+          "https://blog.talosintelligence.com/2019/05/recent-muddywater-associated-blackwater.html"
+        ]
+      },
+      "uuid": "70711584-7e34-11e9-8f9e-2a86e4085a59",
+      "value": "BlackWater Campaign"
+    },
+	{
+      "description": "GnosticPlayers has been responsible for some of the largest data dumps recorded.  Along with the Australian company Canva they have also been responsible for the following...Pizap (Photo editor) — 60 million, Jobandtalent (Online job portal) — 11 million, Gfycat (GIF hosting service) — 8 million, Storybird (Online publishing platform) — 4 million, Legendas.tv (Movie streaming site) — 3.8 million, Onebip (Mobile payment service) — 2.6 million, Classpass (Fitness and Yoga center) — 1.5 million, and Streeteasy (Real estate) — 990,000 (1 million).",
+      "meta": {
+        "refs": [
+          "https://www.databreaches.net/australian-tech-unicorn-canva-suffers-security-breach/",
+		  "https://securityaffairs.co/wordpress/81340/breaking-news/gnosticplayers-data-breaches.html",
+		  "https://www.scmagazine.com/home/security-news/a-hacker-dubbed-gnosticplayers-and-is-known-for-selling-personal-information-recently-posted-26-42-million-stolen-user-records-for-sale-on-the-dark-web/"
+        ]
+      },
+      "uuid": "6f0221ce-8222-11e9-bc42-526af7764f64",
+      "value": "GnosticPlayers"
+    },
+	{
+      "description": "Boris Bullet-Dodger is the threat actor claiming responsibility for the hack of Perceptics. Perceptics is a leader in license plate readers (LPRs), license plate recognition systems and vehicle identification products. The company was hacked and attackers stole data and offered business plans, financial documents, and personal information for free on the dark web.",
+      "meta": {
+        "refs": [
+          "https://securityaffairs.co/wordpress/86177/data-breach/perceptics-hacked.html"
+        ]
+      },
+      "uuid": "6f022638-8222-11e9-bc42-526af7764f64",
+      "value": "Boris Bullet-Dodger"
+    },
+	{
+      "description": "Achilles is an English-speaking threat actor primarily operating on various English-language underground hacking forums as well as through secure messengers. Achilles specializes in obtaining accesses to high-value corporate internal networks. Achilles victims are primarily private sector entities; however, the actor also targeted public domains, government-affiliated companies, and international organizations. Targeted verticals include defense, energy, tourism, finance, real estate, and information technology. Achilles was likely operating under the alias the.Joker on a now-defunct top-tier English-language darkweb forum KickAss as they made an identical offer using both aliases. The actor may be potentially affiliated with an Iranian cybercrime domain; however, this association may only be supported by secondary evidence.",
+      "meta": {
+        "refs": [
+          "https://www.advanced-intel.com/blog/achilles-hacker-behind-attacks-on-military-shipbuilders-unicef-international-corporations"
+        ],
+		"synonyms": [
+		"the.Joker"
+	       ]
+      },
+      "uuid": "ff0dc692-8d3a-11e9-bc42-526af7764f64",
+      "value": "Achilles"
+    },
+	{
+      "description": "Nansh0u is a China-based campaign which aimed to infect Windows MS-SQL and phpMyAdmin servers worldwide. Breached machines include over 50,000 servers belonging to companies in the healthcare, telecommunications, media and IT sectors. Once compromised, the targeted servers were infected with malicious payloads. These, in turn, dropped a crypto-miner and installed a sophisticated kernel-mode rootkit to prevent the malware from being terminated.",
+      "meta": {
+        "refs": [
+          "https://www.guardicore.com/2019/05/nansh0u-campaign-hackers-arsenal-grows-stronger/"
+        ]
+      },
+      "uuid": "ca38e996-8d3b-11e9-bc42-526af7764f64",
+      "value": "Nansh0u Campaign"
+    },
+	{
+      "description": "Frankenstein — the name refers to the actor(s) ability to piece together several unrelated components — leveraged four different open-source techniques to build the tools used during the campaign. The campaign used components of (1) An article to detect when your sample is being run in a VM, (2) A GitHub project that leverages MSbuild to execute a PowerShell command, (3) A component of GitHub project called Fruityc2 to build a stager, and (4) A GitHub project called PowerShell Empire for their agents. The actor(s) preference for open-source solutions appears to be part of a broader trend in which adversaries are increasingly using publicly available solutions, possibly to improve operational security.",
+      "meta": {
+        "refs": [
+          "https://blog.talosintelligence.com/2019/06/frankenstein-campaign.html"
+        ]
+      },
+      "uuid": "ca38ec02-8d3b-11e9-bc42-526af7764f64",
+      "value": "Frankenstien Campaign"
+    },
+	{
+      "description": "The Outlaw Hacking Group is typically responsible for DDoS attacks against organizations. They also offer DDoS as a service to the online gaming community.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/outlaw-hacking-groups-botnet-observed-spreading-miner-perl-based-backdoor/"
+        ]
+      },
+      "uuid": "191bc262-95e9-11e9-bc42-526af7764f64",
+      "value": "Outlaw Hacking Group"
+    },
+	{
+      "description": "A cyberespionage campaign targeting Middle Eastern countries. Name based on the malware’s code in the package named golf. The malware involved, is notable for its wide range of cyberespionage capabilities. Malicious codes are embedded in apps that the operators repackaged from legitimate applications. Monitoring the command and control (C&C) servers used by Bouncing Golf, observed more than 660 Android devices infected with GolfSpy. Much of the information being stolen appear to be military-related.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/mobile-cyberespionage-campaign-bouncing-golf-affects-middle-east/"
+        ]
+      },
+      "uuid": "25eeae3e-a5b9-11e9-a2a3-2a2ae2dbcce4",
+      "value": "Bouncing Golf"
+    },
+	{
+      "description": "Through the use of mobile applications, those behind the attack use fake decoy content to entice their victims to download such applications, which are in fact loaded with spyware, to then collect sensitive information about them. Interestingly, these targets include Kurdish and Turkish natives and ISIS supporters. Most interesting of all, though, is that all these targets are actually Iranians citizens.",
+      "meta": {
+        "refs": [
+          "https://research.checkpoint.com/domestic-kitten-an-iranian-surveillance-operation/"
+        ]
+      },
+      "uuid": "25eeb0aa-a5b9-11e9-a2a3-2a2ae2dbcce4",
+      "value": "Domestic Kitten"
+    },
+	{
+      "description": "A campaign targeting dozens of mobile Android devices belonging to Israeli citizens.",
+      "meta": {
+        "refs": [
+          "https://securelist.com/fanning-the-flames-viceleaker-operation/90877/"
+        ]
+      },
+      "uuid": "25eeb1fe-a5b9-11e9-a2a3-2a2ae2dbcce4",
+      "value": "ViceLeaker"
+    },
+	{
+      "description": "The author of the 16Shop phishing kit. This actor was involved in the Indonesian hacking group “Indonesian Cyber Army.” Several websites were defaced by this group and tagged by DevilScreaM in 2012. DevilScreaM also created the site Newbie-Security.or.id, an Indonesian site of hacking tools frequented by members of the Indonesian Cyber Army. DevilScreaM stopped defacing websites and created an anti-malware product, ScreaMAV, for the Indonesian market. This white hat activity did not last. In mid-2013 they began defacing sites again and posting exploits on 0day.today mostly around WordPress vulnerabilities. DevilScreaM’s GitHub page contains various tools, including a PHP remote shell used on compromised websites as well as commits on the z1miner Monero (XMR) miner tool. in late 2017 DevilScreaM created the 16Shop phishing kit and set up a Facebook group to sell licenses and support. In November 2018. this private group had over 200 members. We checked the group in mid-June 2019 and it now has over 300 members and over 200 posts. Despite the questionable content, the group not only persists unchanged on social media, but continues to grow.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Threat_actor"
+        ]
+      },
+      "uuid": "ab286df0-a5ba-11e9-a2a3-2a2ae2dbcce4",
+      "value": "DevilScreaM"
+    },
+	{
+      "description": "INDRIK SPIDER is a sophisticated eCrime group that has been operating Dridex since June 2014. In 2015 and 2016, Dridex was one of the most prolific eCrime banking trojans on the market and, since 2014, those efforts are thought to have netted INDRIK SPIDER millions of dollars in criminal profits. Throughout its years of operation, Dridex has received multiple updates with new modules developed and new anti-analysis features added to the malware. In August 2017, a new ransomware variant identified as BitPaymer was reported to have ransomed the U.K.’s National Health Service (NHS), with a high ransom demand of 53 BTC (approximately $200,000 USD). The targeting of an organization rather than individuals, and the high ransom demands, made BitPaymer stand out from other contemporary ransomware at the time. Though the encryption and ransom functionality of BitPaymer was not technically sophisticated, the malware contained multiple anti-analysis features that overlapped with Dridex. Later technical analysis of BitPaymer indicated that it had been developed by INDRIK SPIDER, suggesting the group had expanded its criminal operation to include ransomware as a monetization strategy.",
+      "meta": {
+        "refs": [
+          "https://www.crowdstrike.com/blog/doppelpaymer-ransomware-and-dridex-2/",
+		  "https://malpedia.caad.fkie.fraunhofer.de/actor/indrik_spider"
+        ]
+      },
+      "uuid": "77a7ed24-aa57-11e9-a2a3-2a2ae2dbcce4",
+      "value": "INDIRK SPIDER"
+    },
+	{
+      "description": "SWEED has been active for at least three years — and a user with that name has been active on various forums, IRC channels and Discord servers since at least 2015. Currently, SWEED is actively targeting small and medium-sized companies around the world. Based on the TTPs used by this group, SWEED should be considered a relatively amateur actor. They use well-known vulnerabilities, commodity stealers and RATs (Pony, Formbook, UnknownRAT, Agent Tesla, etc.) and appear to rely on kits readily available on hacking forums. SWEED consistently leverages packing and crypting in order to minimize detection by anti-malware solutions. We assess that SWEED also does not have effective operational security, as they used several of the same online accounts for about five years, allowing for the discovery of a lot of their information, operations and associates.",
+      "meta": {
+        "refs": [
+          "https://blog.talosintelligence.com/2019/07/sweed-agent-tesla.html"
+        ]
+      },
+      "uuid": "77a7efc2-aa57-11e9-a2a3-2a2ae2dbcce4",
+      "value": "SWEED"
+    },
+	{
+      "description": "Threat actor attributed to the hacking of a technology contractor, SyTech, used by the Russian Federal Security Service (FSB).  It was reported that the actor was able to exfiltrate over 7 terabytes of data regarding secret projects being worked on by the company.",
+      "meta": {
+        "refs": [
+          "https://securityaffairs.co/wordpress/88657/intelligence/fsb-contractor-sytech-hacked.html"
+        ]
+      },
+      "uuid": "3ca06d92-aca4-11e9-a2a3-2a2ae2dbcce4",
+      "value": "0v1ru$"
+    },
+	{
+      "description": "SandCat, on the other hand, is a group that was discovered more recently by Kaspersky. One of the Windows vulnerabilities patched by Microsoft in December had been exploited by both FruityArmor and SandCat in attacks targeting the Middle East and Africa. SandCat has been using FinFisher/FinSpy spyware and CHAINSHOT, a piece of malware analyzed earlier this year by Palo Alto Networks. The group has also used the CVE-2018-8589 and CVE-2018-8611 Windows vulnerabilities in its attacks, both of which had a zero-day status when Microsoft released fixes.",
+      "meta": {
+        "refs": [
+          "https://malpedia.caad.fkie.fraunhofer.de/actor/sandcat"
+        ]
+      },
+      "uuid": "957119a0-4988-11e9-8646-d663bd873d93",
+      "value": "SandCat"
+    }  
+	  ],
+	"version": 9
+}

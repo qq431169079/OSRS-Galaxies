@@ -1,0 +1,217 @@
+{
+  "category": "osrs-ransomware",
+  "description": "This galaxy is for the indexing of ransomware.",
+  "name": "OSRS Ransomware",
+  "source": "Open Sources",
+  "type": "osrs-ransomware",
+  "uuid": "761020a6-7741-11e9-8f9e-2a86e4085a59",
+  "values": [
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Ransomware"
+        ]
+      },
+      "uuid": "25911dc2-4980-11e9-8646-d663bd873d93",
+      "value": "Test Ransomware Value"
+    },
+	{
+      "description": "The ransomware was involved in the attacks observed by the Qihoo 360 Threat Intelligence Center in the wild, threat actors used an archive named vk_4221345.rar that delivers JNEC.a when its contents are extracted with a vulnerable version of WinRAR. The vulnerability, tracked as CVE-2018-20250, was discovered by experts at Check Point in February, it could allow an attacker to gain control of the target system. The flaw is an “Absolute Path Traversal” issue in the library that could be exploited to execute arbitrary code by using a specially-crafted file archive. The JNEC.a ransomware also drops a ransom note (JNEC.README.TXT) on the infected computer to provide instructions on how to make the payment. JNEC.a is written in .NET, when the archive is decompressed it shows a corrupted image of a girl that triggers an error and shows an incomplete picture, meanwhile the ransomware is already delivered to the computer.",
+      "meta": {
+        "refs": [
+          "https://securityaffairs.co/wordpress/82606/malware/jnec-a-ransomware-winrar.html"
+        ]
+      },
+      "uuid": "a01b5854-4ffd-11e9-8647-d663bd873d93",
+      "value": "JNEC.a"
+    },
+	{
+      "description": "It is a battle with no holds barred between T-Series and PewDiePie, their fans are spreading the PewDiePie ransomware to force users to subscribe to PewDiePie Youtube channel. The story I’m going to tell you is another chapter of the battle between the most followed Youtuber T-Series and PewDiePie. T-Series is an Indian music company, while PewDiePie a Youtuber whom fans are accused to use any means to increase the number of subscribers to its channel.",
+      "meta": {
+        "refs": [
+          "https://securityaffairs.co/wordpress/82843/malware/pewdiepie-ransomware.html",
+		  "https://blog.trendmicro.com/trendlabs-security-intelligence/upnp-enabled-connected-devices-in-home-unpatched-known-vulnerabilities/"
+        ]
+      },
+      "uuid": "26330b8e-50cc-11e9-8647-d663bd873d93",
+      "value": "PewDiePie"
+    },
+	{
+      "description": "A new ransomware called Unnam3d R@nsomware is being distributed via email that will move a victim's files into password protected RAR archives.  The ransomware then demands a 50 dollar Amazon gift card code in order to get the archive password.",
+      "meta": {
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/unnam3d-ransomware-locks-files-in-protected-archives-demands-gift-cards/"
+        ]
+      },
+      "uuid": "6eda029c-5244-11e9-8647-d663bd873d93",
+      "value": "Unnam3d R@nsomware"
+    },
+	{
+      "description": "The Anatova ransomware is a 64bits application with the compile date of January 1st, 2019. The file size of this particular hash is 307kb, but it can change due to the amount of resources used in the sample. If we remove all these resources, the size is 32kb; a very small program with a powerful mechanism inside.",
+      "meta": {
+        "refs": [
+          "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/happy-new-year-2019-anatova-is-here/"
+        ]
+      },
+      "uuid": "44e38612-63af-11e9-a923-1681be663d3e",
+      "value": "Anatova"
+    },
+	{
+      "description": "Win.Ransomware.Generickdz is often a generic detection name for a Windows trojan. This particular signature detects malware in the Ursnif family. Ursnif is used to steal sensitive information from an infected host and can also act as a malware downloader.",
+      "meta": {
+        "refs": [
+          "https://blog.talosintelligence.com/2019/02/threat-roundup-0125-0201.html"
+        ]
+      },
+      "uuid": "6c81deea-681d-11e9-a923-1681be663d3e",
+      "value": "Generickdz"
+    },
+	{
+      "description": "Ransomware. This is a trojan horse virus that may steal information from the affected machine and download potentially malicious files that spread via removable drives.",
+      "meta": {
+        "refs": [
+          "https://blog.talosintelligence.com/2018/12/threat-roundup-1130-1207.html"
+        ]
+      },
+      "uuid": "f5d01c28-6cf7-11e9-a923-1681be663d3e",
+      "value": "Imps"
+    },
+	{
+      "description": "Attackers are actively exploiting a recently disclosed vulnerability in Oracle WebLogic to install a new variant of ransomware called Sodinokibi. Sodinokibi attempts to encrypt data in a user's directory and delete shadow copy backups to make data recovery more difficult. Oracle first patched the issue on April 26, outside of their normal patch cycle, and assigned it CVE-2019-2725.",
+      "meta": {
+        "refs": [
+          "https://blog.talosintelligence.com/2019/04/sodinokibi-ransomware-exploits-weblogic.html"
+        ]
+      },
+      "uuid": "f5d01ef8-6cf7-11e9-a923-1681be663d3e",
+      "value": "Sodinokibi"
+    },
+	{
+      "description": "The ransomware only targets files on a single system and does not spread through network shares. The ransomware itself does not have any network spreading capabilities. Additionally, the ransomware requires previously obtained administrative priviliges per system. RobbinHood also requires that a public RSA key already be present on the targeted computer in order to begin encryption of the files. Before it begins encryption, RobbinHood malware shuts down all connections to shared network directories with a net use command.  The ransomware then runs through 181 Windows service shutdown commands—including the disabling of multiple malware-protection tools, backup agents, and email, database, and Internet Information Server (IIS) administrative services.",
+      "meta": {
+        "refs": [
+          "https://arstechnica.com/information-technology/2019/05/baltimore-city-government-hit-by-robbinhood-ransomware/",
+		  "https://securityboulevard.com/2019/04/robbinhood-ransomware-demands-grow-10k-per-day-after-fourth-day/"
+        ]
+      },
+      "uuid": "be815d62-7e37-11e9-8f9e-2a86e4085a59",
+      "value": "RobbinHood Ransomware"
+    },
+	{
+      "description": "B0r0nt0K ransomware infects both Linux and Windows servers. The ransom encrypts all files and renames them by appending .rontok extension to the file names. When the B0r0nt0K ransomware encrypts a file it will base64 the encrypted data.",
+      "meta": {
+        "refs": [
+          "https://securityaffairs.co/wordpress/81627/malware/b0r0nt0k-ransomware.html"
+        ]
+      },
+      "uuid": "be815fec-7e37-11e9-8f9e-2a86e4085a59",
+      "value": "B0r0nt0K"
+    },
+	{
+      "description": "Cr1ptT0r ransomware is built for embedded systems targets network attached storage (NAS) equipment exposed to the internet to encrypt data available on it. The malware drops two plain text files on the infected devices. One is the ransom note called _FILES_ENCRYPTED_README.txt, which gives information to the victim on how to get more details about what happened and how to reach the ransomware operators to pay the ransom in exchange for the file decryption key. The other text file has the name _cr1ptt0r_support.txt and stores the address of a website in the Tor network. This is a support URL that victims can provide if they are at a loss about what to do; it enables a remote shell on an infected device if it is online. The Cr1ptT0r group member added that the URLs and IP addresses are not logged, so there is no correlation between data and the victim.",
+      "meta": {
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/cr1ptt0r-ransomware-infects-d-link-nas-devices-targets-embedded-systems/"
+        ]
+      },
+      "uuid": "be81614a-7e37-11e9-8f9e-2a86e4085a59",
+      "value": "Cr1ptT0r"
+    },
+	{
+      "description": "MegaCortex employs leverages both automated and manual components, and appears to involve a high amount of automation to infect a greater number of victims. In attacks, the attackers used a common red-team attack tool script to invoke a meterpreter reverse shell in the victim’s environment. From the reverse shell, the infection chain uses PowerShell scripts, batch files from remote servers, and commands that only trigger the malware to drop encrypted secondary executable payloads that had been embedded in the initial dropped malware on specified machines.",
+      "meta": {
+        "refs": [
+          "https://news.sophos.com/en-us/2019/05/03/megacortex-ransomware-wants-to-be-the-one/"
+        ]
+      },
+      "uuid": "be816280-7e37-11e9-8f9e-2a86e4085a59",
+      "value": "MegaCortex"
+    },
+	{
+      "description": "It is a Delphi binary that sometimes comes packed. It was mainly distributed during February and March of 2019. It implements the expected behavior of ransomware, discovering local drives and network shares and encrypting files found on these devices. It doesn’t require an internet connection to encrypt its victims’ files, since it doesn’t communicate with a server to send the encryption keys. Instead, it appends a token at the end of the ransom message and demands that the victims communicate with the operators via email or Bitmessage.",
+      "meta": {
+        "refs": [
+          "https://www.welivesecurity.com/2019/04/30/buhtrap-backdoor-ransomware-advertising-platform/"
+        ]
+      },
+      "uuid": "be8163ac-7e37-11e9-8f9e-2a86e4085a59",
+      "value": "Filecoder.Buhtrap"
+    },
+	{
+      "description": "Sometimes delievered by the RIG exploit kit, the Buran ransomware will skip all files that have certain extensions, reside under certain folders, or have certain file names. When encrypting files, the ransomware will append the victim's unique ID as an extension to the encrypted file. For example, if a victim has an ID of 173C0FE5-3871-B991-E67D-24FEBA3FC981, then a file named 4.jpg would be encrypted and renamed to 4.jpg.173C0FE5-3871-B991-E67D-24FEBA3FC981.",
+      "meta": {
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/the-rig-exploit-kit-is-now-pushing-the-buran-ransomware/"
+        ]
+      },
+      "uuid": "1f1b7f06-8d4a-11e9-bc42-526af7764f64",
+      "value": "Buran Ransomware"
+    },
+	{
+      "description": "A variant of the Maze Ransomware, otherwise known as the ChaCha Ransomware, has been spotted being distributed by the Fallout exploit kit. An interesting feature of this ransomware is that it says the ransom amount will be different depending on whether the victim is a home computer, server, or workstation. The Maze Ransomware utilizes RSA and ChaCha20 encryption as part of the encryption process. It generates an RSA pair on run, so the private of that is likely protected by a master RSA key, and the public is used to encrypt the ChaCha keys for individual files. When executed, the ransomware will scan for files to encrypt and append different extensions to the files.",
+      "meta": {
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/maze-ransomware-says-computer-type-determines-ransom-amount/"
+        ],
+		"synonyms": [
+		"ChaCha Ransomware"
+	       ]
+      },
+      "uuid": "1f1b817c-8d4a-11e9-bc42-526af7764f64",
+      "value": "Maze Ransomware"
+    },
+	{
+      "description": "Ransomware sometimes delievered via the GreenFlash Sundown exploit kit.",
+      "meta": {
+        "refs": [
+          "https://blog.malwarebytes.com/threat-analysis/2019/06/greenflash-sundown-exploit-kit-expands-via-large-malvertising-campaign/"
+        ]
+      },
+      "uuid": "4ef18ede-a5bc-11e9-a2a3-2a2ae2dbcce4",
+      "value": "SEON Ransomware"
+    },
+	{
+      "description": "Despite its evocative nickname, the functionalities of this malware are pretty straight forward, not very different from those belonging to many other ransomware families, but digging into its internals we also found elements suggesting its operators could be able to run large scale campaigns.",
+      "meta": {
+        "refs": [
+          "https://blog.yoroi.company/research/loocipher-the-new-infernal-ransomware/"
+        ]
+      },
+      "uuid": "4ef19136-a5bc-11e9-a2a3-2a2ae2dbcce4",
+      "value": "LooCipher"
+    },
+	{
+      "description": "We have named the ransomware QNAPCrypt, as this is the name the authors have appeared to label the malware. QNAP is a well-known vendor for selling NAS servers, which the malware was intended to infect and encrypt the containing files for ransom. NAS servers normally store large amounts of important data and files, which make them a valuable target for attackers and especially a viable target for ransomware campaigns.",
+      "meta": {
+        "refs": [
+          "https://www.intezer.com/blog-seizing-15-active-ransomware-campaigns-targeting-linux-file-storage-servers/"
+        ]
+      },
+      "uuid": "4ef1951e-a5bc-11e9-a2a3-2a2ae2dbcce4",
+      "value": "QNAPCrypt"
+    },
+	{
+      "description": "The first known victims of DoppelPaymer were targeted in June 2019. Earlier builds are missing many of the new features found in later variants, so it is not clear if they were deployed to victims or if they were simply built for testing. So far there have been eight distinct variant builds and three confirmed victims with ransom amounts of 2 BTC, 40 BTC and 100 BTC. Based on the USD to BTC exchange rate these ransom amounts vary from approximately $25,000 to over $1,200,000. The ransom note used by DoppelPaymer is similar to those used by the original BitPaymer in 2018. The note does not include the ransom amount; however, it does contain a URL for a TOR-based payment portal, and instead of using the keyword KEY to identify the encrypted key.",
+      "meta": {
+        "refs": [
+          "https://www.crowdstrike.com/blog/doppelpaymer-ransomware-and-dridex-2/"
+        ]
+      },
+      "uuid": "3bc4d6ba-abc3-11e9-a2a3-2a2ae2dbcce4",
+      "value": "DoppelPaymer Ransomware"
+    },
+	{
+      "description": "Jcry is written in Go language via #OpJerusalem2019 campaign that attack Windows users to encrypt the file and demand the ransom.",
+      "meta": {
+        "refs": [
+          "https://malpedia.caad.fkie.fraunhofer.de/details/win.jcry",
+	  "https://gbhackers.com/jcry-ransomware/"
+        ]
+      },
+      "uuid": "94934c54-49bc-11e9-8646-d663bd873d93",
+      "value": "jCry"
+    }
+	],
+	"version": 6
+}

@@ -1,0 +1,221 @@
+{
+  "category": "osrs-backdoor",
+  "description": "This galaxy is for the indexing of files classified as backdoors.",
+  "name": "OSRS Backdoor",
+  "source": "Open Sources",
+  "type": "osrs-backdoor",
+  "uuid": "d21d8fb2-774d-11e9-8248-2a86e4085a59",
+  "values": [
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Backdoor_(computing)"
+        ]
+      },
+      "uuid": "721e74fc-497e-11e9-8646-d663bd873d93",
+      "value": "Test Backdoor Value"
+    },
+	{
+      "description": "A multiprotocol backdoor called DNSbot, which is used to exchange commands and push data to and from compromised machines. Primarily, it operates over DNS traffic, but can also switch to encrypted channels such as HTTPS or SSL.",
+      "meta": {
+        "refs": [
+          "https://www.flashpoint-intel.com/blog/fin7-revisited-inside-astra-panel-and-sqlrat-malware/"
+        ]
+      },
+      "uuid": "60f65740-50cb-11e9-8647-d663bd873d93",
+      "value": "DNSbot"
+    },
+	{
+      "description": "The SpeakUp backdoor leverages known vulnerabilities in six different Linux distros, it is also able to infect Mac systems. The Trojan spread by exploiting remote code execution flaw and for the initial infection hackers leverage recently disclosed flaw in ThinkPHP (CVE-2018-20062).",
+      "meta": {
+        "refs": [
+          "https://securityaffairs.co/wordpress/80706/malware/speakup-backdoor.html"
+        ]
+      },
+      "uuid": "13248946-70de-11e9-a923-1681be663d3e",
+      "value": "SpeakUp"
+    },
+	{
+      "description": "This backdoor, dubbed LightNeuron, has been specifically targeting Microsoft Exchange mail servers since at least 2014. Although no samples were available for analysis, code artefacts in the Windows version lead us to believe that a Linux variant exists.",
+      "meta": {
+        "refs": [
+          "https://www.welivesecurity.com/2019/05/07/turla-lightneuron-email-too-far/"
+        ]
+      },
+      "uuid": "b76f3d80-7b37-11e9-9fe7-2a86e4085a59",
+      "value": "LightNeuron"
+    },
+	{
+      "description": "Used in POS malware attacks, ShellTea has several capabilities. Among them are (1) ability to execute PowerShell commands, (2) evasion through hashing algorithms, (3) code injection, (4) virtual as well as sandbox detection, (5) system process discovery, and (6) HTTPS support for C2. It has been used by the threat actors FIN6, FIN7, and FIN8.",
+      "meta": {
+        "refs": [
+          "http://blog.morphisec.com/security-alert-fin8-is-back"
+        ]
+      },
+      "uuid": "6f0ce944-8d3d-11e9-bc42-526af7764f64",
+      "value": "ShellTea"
+    },
+	{
+      "description": "A multi-stage PowerShell-based backdoor called POWERSTATS v3. The spear-phishing email that contains a document embedded with a malicious macro drops a VBE file encoded with Microsoft Script Encoder. The VBE file, which holds a base64-encoded block of data containing obfuscated PowerShell script, will then execute. This block of data will be decoded and saved to the %PUBLIC% directory under various names ending with image file extensions such as .jpeg and .png. The PowerShell code will then use custom string obfuscation and useless code blocks to make it difficult to analyze.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/muddywater-resurfaces-uses-multi-stage-backdoor-powerstats-v3-and-new-post-exploitation-tools/"
+        ]
+      },
+      "uuid": "dcb0144e-95e9-11e9-bc42-526af7764f64",
+      "value": "POWERSTATS v3"
+    },
+	{
+      "description": "DELPHSTATS, a backdoor written in the Delphi programming language, emerged. DELPHSTATS queries the C&C server for a .dat file before executing it via the Powershell.exe process. Like SHARPSTATS, DELPHSTATS employs custom PowerShell script with code similarities to the one embedded into the former.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/muddywater-resurfaces-uses-multi-stage-backdoor-powerstats-v3-and-new-post-exploitation-tools/"
+        ]
+      },
+      "uuid": "dcb016ce-95e9-11e9-bc42-526af7764f64",
+      "value": "DELPHSTATS"
+    },
+	{
+      "description": "SHARPSTATS, a .NET-written backdoor that supports DOWNLOAD, UPLOAD, and RUN functions.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/muddywater-resurfaces-uses-multi-stage-backdoor-powerstats-v3-and-new-post-exploitation-tools/"
+        ]
+      },
+      "uuid": "dcb01822-95e9-11e9-bc42-526af7764f64",
+      "value": "SHARPSTATS"
+    },
+	{
+      "description": "Neptun is installed on Microsoft Exchange servers and is designed to passively listen for commands from the attackers. This passive listening capability makes the malware more difficult to detect. Neptun is also able to download additional tools, upload stolen files, and execute shell commands.",
+      "meta": {
+        "refs": [
+          "https://www.symantec.com/blogs/threat-intelligence/waterbug-espionage-governments"
+        ]
+      },
+      "uuid": "a75614fe-a590-11e9-a2a3-2a2ae2dbcce4",
+      "value": "Neptun"
+    },
+	{
+      "description": "Meterpreter is an advanced, dynamically extensible payload that uses in-memory DLL injection stagers and is extended over the network at runtime. It communicates over the stager socket and provides a comprehensive client-side Ruby API.",
+      "meta": {
+        "refs": [
+          "https://www.symantec.com/blogs/threat-intelligence/waterbug-espionage-governments"
+        ]
+      },
+      "uuid": "a7561756-a590-11e9-a2a3-2a2ae2dbcce4",
+      "value": "Meterpreter"
+    },
+	{
+      "description": "The backdoor will modify the registry for the Windows Media Player to store its C&C configuration. It also reconfigures the Microsoft Sysinternals registry to prevent pop-ups when running the PsExec tool. The backdoor has the capability to download and upload files, execute shell commands, and update its configuration.",
+      "meta": {
+        "refs": [
+          "https://www.symantec.com/blogs/threat-intelligence/waterbug-espionage-governments"
+        ]
+      },
+      "uuid": "a75618aa-a590-11e9-a2a3-2a2ae2dbcce4",
+      "value": "photobased.dll"
+    },
+	{
+      "description": "This backdoor can receive commands through the RPC protocol. Its capabilities include: Executing commands through cmd.exe with the output redirected into a temporary file. Reading the command output contained in the temporary file. Reading or writing arbitrary files.",
+      "meta": {
+        "refs": [
+          "https://www.symantec.com/blogs/threat-intelligence/waterbug-espionage-governments"
+        ]
+      },
+      "uuid": "afdeb6e6-a5b6-11e9-a2a3-2a2ae2dbcce4",
+      "value": "securlsa.chk"
+    },
+	{
+      "description": "Allows a user to run PowerShell scripts without executing powershell.exe, therefore the user may bypass detection aimed at identifying malicious PowerShell usage.",
+      "meta": {
+        "refs": [
+          "https://www.symantec.com/blogs/threat-intelligence/waterbug-espionage-governments"
+        ]
+      },
+      "uuid": "a7561c06-a590-11e9-a2a3-2a2ae2dbcce4",
+      "value": "PowerShellRunner"
+    },
+	{
+      "description": "Pluox can spread itself over a local network via an exploit, provide access to the attacked network, and install miners and other malicious software on victim computers. What’s more, the backdoor is modular, which means that its functionality can be expanded with the aid of plugins, as required.",
+      "meta": {
+        "refs": [
+          "https://securelist.com/plurox-modular-backdoor/91213/"
+        ]
+      },
+      "uuid": "a7561e04-a590-11e9-a2a3-2a2ae2dbcce4",
+      "value": "Plurox"
+    },
+	{
+      "description": "FlowerPippi collects some of the user’s information, which it sends to the C&C server. When collecting information, FlowerPippi generates the victim ID from the system’s MAC address using the FNV-1a hash algorithm.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/latest-spam-campaigns-from-ta505-now-using-new-malware-tools-gelup-and-flowerpippi/"
+        ]
+      },
+      "uuid": "a7561f44-a590-11e9-a2a3-2a2ae2dbcce4",
+      "value": "FlowerPippi"
+    },
+	{
+      "description": "Godlua Backdoor has a redundant communication mechanism for C2 connection, a combination of hardcoded dns name, Pastebin.com, GitHub.com as well as DNS TXT are used to store the C2 address, which is not something we see often. At the same time, it uses HTTPS to download Lua byte-code files, and uses DNS over HTTPS to get the C2 name to ensure secure communication between the bots, the Web Server and the C2.",
+      "meta": {
+        "refs": [
+          "https://blog.netlab.360.com/an-analysis-of-godlua-backdoor-en/"
+        ]
+      },
+      "uuid": "a7562070-a590-11e9-a2a3-2a2ae2dbcce4",
+      "value": "GodLua"
+    },
+	{
+      "description": "The malware installs two instances of itself on the system. The second instance (watchdog) monitors whether the first instance is still active and reinstalls it if it has been removed from the system. The malware employs antivirus bypass techniques (it allocates large chunks of memory and delays execution of the malicious payload to prevent antivirus engines from emulating the code due to resource constraints). The malware can detect selected security and analytical tools, such as debuggers. If detected, it terminates itself. The malware terminates itself if IP information of the victim suggests one of several blacklisted organizations (e.g. Amazon, BitDefender, Cisco, ESET). It uses external legitimate websites for querying IP information and searches for hardcoded strings in this information (e.g. cloud, Cisco, Microsoft), rather than using API functions. The malware terminates itself if its file name consists of 32 hexadecimal characters, which prevents the payload from being executed in some automated sandboxes.",
+      "meta": {
+        "refs": [
+          "https://www.welivesecurity.com/2019/07/08/south-korean-users-backdoor-torrents/"
+        ]
+      },
+      "uuid": "a7562192-a590-11e9-a2a3-2a2ae2dbcce4",
+      "value": "GoBot2"
+    },
+	{
+      "description": "Variant of the GoBot2 backdoor specifically modified for Asian targets.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Backdoor_(computing)"
+        ]
+      },
+      "uuid": "a75622be-a590-11e9-a2a3-2a2ae2dbcce4",
+      "value": "GoBotKR"
+    },
+	{
+      "description": "Empire is a post-exploitation framework that includes a pure-PowerShell2.0 Windows agent, and a pure Python 2.6/2.7 Linux/OS X agent. It is the merge of the previous PowerShell Empire and Python EmPyre projects. The framework offers cryptologically-secure communications and a flexible architecture. On the PowerShell side, Empire implements the ability to run PowerShell agents without needing powershell.exe, rapidly deployable post-exploitation modules ranging from key loggers to Mimikatz, and adaptable communications to evade network detection, all wrapped up in a usability-focused framework. PowerShell Empire premiered at BSidesLV in 2015 and Python EmPyre premeiered at HackMiami 2016.",
+      "meta": {
+        "refs": [
+          "https://github.com/EmpireProject/Empire"
+        ]
+      },
+      "uuid": "a75623e0-a590-11e9-a2a3-2a2ae2dbcce4",
+      "value": "Empire Backdoor"
+    },
+	{
+      "description": "TONEDEAF is a backdoor that communicates with Command and Control servers using HTTP or DNS. Supported commands include system information collection, file upload, file download, and arbitrary shell command execution. Although this backdoor was coded to be able to communicate with DNS requests to the hard-coded Command and Control server, c[.]cdn-edge-akamai[.]com, it was not configured to use this functionality. Figure 5 provides a snippet of the assembly CALL instruction of dns_exfil. The creator likely made this as a means for future DNS exfiltration as a plan B.",
+      "meta": {
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html"
+        ]
+      },
+      "uuid": "a9405db0-aa59-11e9-a2a3-2a2ae2dbcce4",
+      "value": "TONEDEAF"
+    },
+	{
+      "description": "The backdoor dubbed SLUB by the Trend Micro Cyber Safety Solutions Team who detected it in the wild is part of a multi-stage infection process designed by capable threat actors who programmed it in C++. SLUB uses statically-linked curl, boost, and JsonCpp libraries for performing HTTP request, extracting commands from gist snippets, and parsing Slack channel communication.",
+      "meta": {
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/new-slub-backdoor-uses-slack-github-as-communication-channels/"
+        ]
+      },
+      "uuid": "8ff2195c-4ffa-11e9-8647-d663bd873d93",
+      "value": "SLUB"
+    }
+	  ],
+	"version": 6
+}

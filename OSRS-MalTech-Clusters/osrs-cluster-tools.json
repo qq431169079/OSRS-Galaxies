@@ -1,0 +1,1856 @@
+{
+	"category": "osrs-tools",
+	"description": "This galaxy is for the indexing of tools (i.e. different malware).",
+	"name": "OSRS Tools",
+	"source": "Open Sources",
+	"type": "osrs-tools",
+	"uuid": "11b5ebfc-7711-11e9-8f9e-2a86e4085a59",
+	"values": [{
+			"description": "Test place holder",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Malware"
+				]
+			},
+			"uuid": "c9ae753a-4980-11e9-8646-d663bd873d93",
+			"value": "Test Tools Value"
+		},
+		{
+			"description": "Unit 42 has observed Chafer activity since 2016, however, Chafer has been active since at least 2015. This new secondary payload is Python-based and compiled into executable form using the PyInstaller utility. This is the first instance where Unit 42 has identified a Python-based payload used by these operators. We’ve also identified code overlap with OilRig’s Clayside VBScript but at this time track Chafer and OilRig as separate threat groups. We have named this payload MechaFlounder for tracking purposes and discuss details below.r",
+			"meta": {
+				"refs": [
+					"https://unit42.paloaltonetworks.com/new-python-based-payload-mechaflounder-used-by-chafer/"
+				]
+			},
+			"uuid": "4101eb58-499a-11e9-8646-d663bd873d93",
+			"value": "MechaFlounder"
+		},
+		{
+			"description": "As a result of PirateMatryoshka’s efforts, the victim computer is flooded with unwanted programs that pester the user and waste system resources. On a separate note, the owners of file partner programs often do not track the programs offered in their downloaders. Our research shows that one in five files offered by partner installers is malicious — among those we encountered pBot, Razy, and others.",
+			"meta": {
+				"refs": [
+					"https://securelist.com/piratebay-malware/89740/"
+				]
+			},
+			"uuid": "b5664d18-499a-11e9-8646-d663bd873d93",
+			"value": "PirateMatryoshka"
+		},
+		{
+			"description": "Trojan.Vcrodat is a Trojan horse that may perform malicious activities on the compromised computer. ",
+			"meta": {
+				"refs": [
+					"https://www.symantec.com/security-center/writeup/2019-013008-4820-99"
+				]
+			},
+			"uuid": "ff6e9b54-499a-11e9-8646-d663bd873d93",
+			"value": "Vcrodat"
+		},
+		{
+			"description": "Trojan.Nibatad is a Trojan horse that decrypts, loads, and launches potentially malicious files on the compromised computer.",
+			"meta": {
+				"refs": [
+					"https://www.symantec.com/security-center/writeup/2018-080818-0255-99"
+				]
+			},
+			"uuid": "35e772b4-499b-11e9-8646-d663bd873d93",
+			"value": "Nibatad"
+		},
+		{
+			"description": "Here the dropped payload installs itself in the Startup folder, by first dumping a bash script in %TEMP%, which is then deployed under the Startup folder. The sample is not packed, and looking inside, we can find artifacts indicating that it was written in Golang version 1.9. We detect this file as Trojan.StealthWorker.GO.",
+			"meta": {
+				"refs": [
+					"https://blog.malwarebytes.com/threat-analysis/2019/02/new-golang-brute-forcer-discovered-amid-rise-e-commerce-attacks/"
+				]
+			},
+			"uuid": "a4fa4b2c-499b-11e9-8646-d663bd873d93",
+			"value": "StealthWorker"
+		},
+		{
+			"description": "Point-of-sale malware is popular among attackers, as it usually leads to them obtaining credit card numbers and immediately use that information for financial gain. This type of malware is generally deployed on retailers' websites and retail point-of-sale locations with the goal of tracking customers' payment information. If they successfully obtain credit card details, they can use either the proceeds from the sale of that information or use the credit card data directly to obtain additional exploits and resources for other malware. Point-of-sale terminals are often forgotten about in terms of segregation and can represent a soft target for attackers. Cisco Talos recently discovered a new PoS malware that the attackers are selling on a crimeware forum. Our researchers also discovered the associated payloads with the malware, its infrastructure and control panel. We assess with high confidence that this is not the first malware developed by this actor. A few years ago, they were also pushing the DiamondFox L!NK botnet. Known as GlitchPOS, this malware is also being distributed on alternative websites at a higher price than the original.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/03/glitchpos-new-pos-malware-for-sale.html"
+				]
+			},
+			"uuid": "f137bb14-499b-11e9-8646-d663bd873d93",
+			"value": "GlitchPOS"
+		},
+		{
+			"description": "Once set up in the system, Trojan.Belonard replaces the list of available game servers in the game client and creates proxies on the infected computer to spread the Trojan. As a rule, proxy servers show a lower ping, so other players will see them at the top of the list. By selecting one of them, a player gets redirected to a malicious server where their computer become infected with Trojan.Belonard.",
+			"meta": {
+				"refs": [
+					"https://malpedia.caad.fkie.fraunhofer.de/details/win.belonard"
+				]
+			},
+			"uuid": "4ca263e6-499c-11e9-8646-d663bd873d93",
+			"value": "Belonard"
+		},
+		{
+			"description": "Used to make the initial compromise",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "84bb52e8-49b4-11e9-8646-d663bd873d93",
+			"value": "DEATHCLOCK"
+		},
+		{
+			"description": "Used to make the initial compromise",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "b3edaf98-49b4-11e9-8646-d663bd873d93",
+			"value": "FINDLOCK"
+		},
+		{
+			"description": "Used to make the initial compromise",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "e0351ba4-49b4-11e9-8646-d663bd873d93",
+			"value": "TRANSPORTER"
+		},
+		{
+			"description": "Used to make the initial compromise",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "11e6cc38-49b5-11e9-8646-d663bd873d93",
+			"value": "WASHBOARD"
+		},
+		{
+			"description": "Used to establish a foothold",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "3f7693a4-49b5-11e9-8646-d663bd873d93",
+			"value": "ESKC2"
+		},
+		{
+			"description": "Used to establish a foothold",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "636c0f0a-49b5-11e9-8646-d663bd873d93",
+			"value": "EVILTECH"
+		},
+		{
+			"description": "Used to establish a foothold",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "82d49510-49b5-11e9-8646-d663bd873d93",
+			"value": "FRESHAIR"
+		},
+		{
+			"description": "Used to establish a foothold",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "a8a24f26-49b5-11e9-8646-d663bd873d93",
+			"value": "BEACON"
+		},
+		{
+			"description": "Used to escalate privilege",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "cd0790ce-49b5-11e9-8646-d663bd873d93",
+			"value": "DADBOD"
+		},
+		{
+			"description": "Used to escalate privilege",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "e5d7f8aa-49b5-11e9-8646-d663bd873d93",
+			"value": "TWONICKS"
+		},
+		{
+			"description": "Used to escalate privilege",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "fb59af5c-49b5-11e9-8646-d663bd873d93",
+			"value": "BADSIGN"
+		},
+		{
+			"description": "Used to escalate privilege",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "13b099a8-49b6-11e9-8646-d663bd873d93",
+			"value": "COOKIEFISH"
+		},
+		{
+			"description": "Used to escalate privilege",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "28c495ce-49b6-11e9-8646-d663bd873d93",
+			"value": "GREENPIG"
+		},
+		{
+			"description": "Used to escalate privilege",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "47d1a222-49b6-11e9-8646-d663bd873d93",
+			"value": "QUARKS PWDUMP"
+		},
+		{
+			"description": "Used to escalate privilege",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "62747654-49b6-11e9-8646-d663bd873d93",
+			"value": "WAVEKEY"
+		},
+		{
+			"description": "Used to escalate privilege",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "73aef570-49b6-11e9-8646-d663bd873d93",
+			"value": "COATHOOK"
+		},
+		{
+			"description": "Used to for internal reconnaissance",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "98712d2e-49b6-11e9-8646-d663bd873d93",
+			"value": "MOVIETIME"
+		},
+		{
+			"description": "Used to for internal reconnaissance",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "a694877a-49b6-11e9-8646-d663bd873d93",
+			"value": "WILDELK"
+		},
+		{
+			"description": "Used to for internal reconnaissance",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "b9aeb52e-49b6-11e9-8646-d663bd873d93",
+			"value": "WIDETONE"
+		},
+		{
+			"description": "Used to for internal reconnaissance",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "caed9ee0-49b6-11e9-8646-d663bd873d93",
+			"value": "MURKYSHELL"
+		},
+		{
+			"description": "Used to for complete actions on objective",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "f0e6e62e-49b6-11e9-8646-d663bd873d93",
+			"value": "LUNCHMONEY"
+		},
+		{
+			"description": "Used to for complete actions on objective",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "01ad4b56-49b7-11e9-8646-d663bd873d93",
+			"value": "PAPERPUSH"
+		},
+		{
+			"description": "Used to for complete actions on objective",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "11341348-49b7-11e9-8646-d663bd873d93",
+			"value": "TRAFFIX"
+		},
+		{
+			"description": "Used to for complete actions on objective",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "254ef47e-49b7-11e9-8646-d663bd873d93",
+			"value": "XTHIEF"
+		},
+		{
+			"description": "Used to for maintain presence on system",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "6205b826-49b7-11e9-8646-d663bd873d93",
+			"value": "GRILLMARK"
+		},
+		{
+			"description": "Used to for maintain presence on system",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "73ba64ae-49b7-11e9-8646-d663bd873d93",
+			"value": "FIELDGOAL"
+		},
+		{
+			"description": "Used to for maintain presence on system",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "82e3d906-49b7-11e9-8646-d663bd873d93",
+			"value": "JUMPKICK"
+		},
+		{
+			"description": "Used to for maintain move lateraly on a network of systems",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "b9514bc2-49b7-11e9-8646-d663bd873d93",
+			"value": "REDMAGE"
+		},
+		{
+			"description": "Used to for maintain move lateraly on a network of systems",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "d0825ec6-49b7-11e9-8646-d663bd873d93",
+			"value": "DISHCLOTH"
+		},
+		{
+			"description": "Used to for maintain move lateraly on a network of systems",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "e0a36c78-49b7-11e9-8646-d663bd873d93",
+			"value": "RELAYRACE"
+		},
+		{
+			"description": "Used to for maintain move lateraly on a network of systems",
+			"meta": {
+				"refs": [
+					"https://investors.fireeye.com/static-files/0606e1f2-9560-41e8-898f-c27ea7ab4bab"
+				]
+			},
+			"uuid": "07d41afe-49b8-11e9-8646-d663bd873d93",
+			"value": "ABPTTS"
+		},
+		{
+			"description": "SysUpdate is a multi-stage malware used exclusively by BRONZE UNION. It has been delivered by multiple methods. In one instance observed by CTU researchers, it was downloaded by a malicious Word document using the Dynamic Data Exchange (DDE) embedded command method. In another incident, the threat actor manually deployed SysUpdate via previously stolen credentials after gaining access to the environment. In a third case, it was delivered via a redirect from a strategic web compromise (SWC). Regardless of the delivery method, the payload is a WinRAR self-extracting (SFX) file that installs the SysUpdate stage 1 payload.",
+			"meta": {
+				"refs": [
+					"https://www.secureworks.com/research/a-peek-into-bronze-unions-toolbox"
+				]
+			},
+			"uuid": "67e05de0-49b8-11e9-8646-d663bd873d93",
+			"value": "SysUpdate"
+		},
+		{
+			"description": "The XMRig CPU Miner is a legitimate cryptocurrency mining program that is used to mine for cryptocurrency using a computer's CPU. Unfortunately, this progrma is also commonly used by malware developers to mine coins on an infected computer without the owner's permission.",
+			"meta": {
+				"refs": [
+					"https://www.bleepingcomputer.com/virus-removal/remove-xmrig-cpu-miner-process"
+				]
+			},
+			"uuid": "c7a88428-49b8-11e9-8646-d663bd873d93",
+			"value": "Xmrig CPU Miner"
+		},
+		{
+			"description": "Recently, 360 Total Security team intercepted a new worm PsMiner written in Go, which uses CVE-2018-1273, CVE-2017-10271, CVE-2015-1427, CVE-2014-3120 and other high-risk vulnerabilities，and also the system weak password to spread, using the vulnerability intrusion set with ElasticSearch, Hadoop, Redis, Spring, Weblogic, ThinkPHP and SqlServer server machines, after the invasion using the victim machine to dig the Monroe currency.",
+			"meta": {
+				"refs": [
+					"https://blog.360totalsecurity.com/en/new-mining-worm-psminer-uses-multiple-high-risk-vulnerabilities-to-spread/"
+				]
+			},
+			"uuid": "07a5c220-49b9-11e9-8646-d663bd873d93",
+			"value": "PsMiner"
+		},
+		{
+			"description": "Point-of-sale malware previously only privately sold has been used in breaches of small- and medium-sized businesses in the restaurant and entertainment industries. The malware, known as DMSniff, also uses a domain generation algorithm (DGA) to create lists of command-and-control domains on the fly. This technique is valuable to an attacker because if domains are taken down by law enforcement, technology companies, or hosting providers, the malware can still communicate and receive commands or share stolen data.",
+			"meta": {
+				"refs": [
+					"https://www.flashpoint-intel.com/blog/dmsniff-pos-malware-actively-leveraged-target-medium-sized-businesses/"
+				]
+			},
+			"uuid": "5e3bc274-49b9-11e9-8646-d663bd873d93",
+			"value": "DMSniff"
+		},
+		{
+			"description": "Powload’s staying power in the threat landscape shows how far it has come. In fact, the uptick of macro malware in the first half of 2018 was due to Powload, which was distributed via spam emails. Powload was also one of the most pervasive threats in the North American region in 2018, using various techniques to deliver payloads such as the information-stealing Emotet, Bebloh, and Ursnif. Our Powload detections and the number of related cases/incidents and unique samples we analyzed in 2018 also markedly increased compared to 2017. Powload’s evolving techniques, on the other hand, show how far it’ll go. While its use of spam email as a distribution method could be its constant, it has employed different ways of delivering payloads, from bypassing mitigations like a document’s preview mode to using fileless techniques and hijacking email accounts.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/from-fileless-techniques-to-using-steganography-examining-powloads-evolution/"
+				]
+			},
+			"uuid": "b49925a8-49b9-11e9-8646-d663bd873d93",
+			"value": "Powload"
+		},
+		{
+			"description": "Malware that drops files and executes SQL scripts on the host system.",
+			"meta": {
+				"refs": [
+					"https://www.flashpoint-intel.com/blog/fin7-revisited-inside-astra-panel-and-sqlrat-malware/"
+				]
+			},
+			"uuid": "3e882452-50cd-11e9-8647-d663bd873d93",
+			"value": "SQLRat"
+		},
+		{
+			"description": "An open source Meterpreter stager—but the actors have the option to store and execute any binary loaded into the table.",
+			"meta": {
+				"refs": [
+					"https://www.flashpoint-intel.com/blog/fin7-revisited-inside-astra-panel-and-sqlrat-malware/"
+				]
+			},
+			"uuid": "3e882736-50cd-11e9-8647-d663bd873d93",
+			"value": "TinyMet"
+		},
+		{
+			"description": "Stager that is usually found being used in conjunction with TinyMet.",
+			"meta": {
+				"refs": [
+					"https://www.flashpoint-intel.com/blog/fin7-revisited-inside-astra-panel-and-sqlrat-malware/"
+				]
+			},
+			"uuid": "3e8828b2-50cd-11e9-8647-d663bd873d93",
+			"value": "TinyPS"
+		},
+		{
+			"description": "Anubis II is the Android banking Trojan created and advertised by an actor with the nickname maza-in. This malware family goes beyond the well-known overlay attacks by combining advanced features such as screen streaming, remote file browsing, sound recording, keylogging and even a network proxy, making it an efficient banking malware but also a potential spying tool. Effectively, Anubis can be considered one of the most used Android banking Trojans since late 2017.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Malware"
+				]
+			},
+			"uuid": "3e882d80-50cd-11e9-8647-d663bd873d93",
+			"value": "Anubis II"
+		},
+		{
+			"description": "A new version of the AZORult malware family call AZORult++. The presence of lines containing a path to debugging files likely indicates that the malware is still in development, since developers usually try to remove such code as soon as feasible.",
+			"meta": {
+				"refs": [
+					"https://securelist.com/azorult-analysis-history/89922/"
+				]
+			},
+			"uuid": "3e882ef2-50cd-11e9-8647-d663bd873d93",
+			"value": "AZORult++"
+		},
+		{
+			"description": "Banking trojan based on the Marcher malware family.",
+			"meta": {
+				"refs": [
+					"https://www.threatfabric.com/blogs/anubis_2_malware_and_afterlife.html"
+				]
+			},
+			"uuid": "3e88303c-50cd-11e9-8647-d663bd873d93",
+			"value": "Gustuff"
+		},
+		{
+			"description": "Remote access tool that hides it's activity within the registry.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/fileless-banking-trojan-targeting-brazilian-banks-downloads-possible-botnet-capability-info-stealers/"
+				]
+			},
+			"uuid": "8c22ec88-5bc2-11e9-8647-d663bd873d93",
+			"value": "RADMIN"
+		},
+		{
+			"description": "Trojan often seen with Trojan THBAIAI.  It is used to infiltrate Microsoft Outlook for stored email address.  Once found sends them to a C2 server.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/fileless-banking-trojan-targeting-brazilian-banks-downloads-possible-botnet-capability-info-stealers/"
+				]
+			},
+			"uuid": "8c22ef3a-5bc2-11e9-8647-d663bd873d93",
+			"value": "BANRAP"
+		},
+		{
+			"description": "Trojan used to download PowerShell codes.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/fileless-banking-trojan-targeting-brazilian-banks-downloads-possible-botnet-capability-info-stealers/"
+				]
+			},
+			"uuid": "8c22f098-5bc2-11e9-8647-d663bd873d93",
+			"value": "THBAIAI"
+		},
+		{
+			"description": "This is a malicious tool used to exploit Visual Basic 5.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/03/threat-roundup-for-feb-22-to-march-1.html"
+				]
+			},
+			"uuid": "957a8db2-5bc3-11e9-8647-d663bd873d93",
+			"value": "Vbtrojan"
+		},
+		{
+			"description": "This malware persists with SYSTEM privileges by installing itself as a new service called localNETService.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/03/threat-roundup-for-feb-22-to-march-1.html"
+				]
+			},
+			"uuid": "957a9046-5bc3-11e9-8647-d663bd873d93",
+			"value": "Ekstak"
+		},
+		{
+			"description": "Redaman is banking malware first noted in 2015 that targets recipients who conduct transactions using Russian financial institutions. First reported as the RTM banking Trojan, vendors like Symantec and Microsoft described an updated version of this malware as Redaman in 2017. We have found versions of Redaman in Russian language mass-distribution campaigns during the last four months of 2018. This blog tracks recent developments from an ongoing campaign of malicious spam malspam currently distributing this banking malware from September through December of 2018.",
+			"meta": {
+				"refs": [
+					"https://unit42.paloaltonetworks.com/russian-language-malspam-pushing-redaman-banking-malware/"
+				]
+			},
+			"uuid": "4b0cc2da-5bc4-11e9-8647-d663bd873d93",
+			"value": "Redaman"
+		},
+		{
+			"description": "Brushaloader is an evolving threat that is being actively developed and refined over time as attackers identify areas of improvement and add additional functionality. We have identified multiple iterations of this threat since mid-2018. Most of the malware distribution activity that we observe associated with Brushaloader leverages malicious email campaigns targeting specific geographic regions to distribute various malware payloads, primarily Danabot.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/02/combing-through-brushaloader.html"
+				]
+			},
+			"uuid": "b1066082-5bc4-11e9-8647-d663bd873d93",
+			"value": "Brushaloader"
+		},
+		{
+			"description": "FakeSpy uses SMS as an entry point to deliver an information stealer.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/a-look-into-the-connection-between-xloader-and-fakespy-and-their-possible-ties-with-the-yanbian-gang/",
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/fakespy-android-information-stealing-malware-targets-japanese-and-korean-speaking-users/",
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/new-version-of-xloader-that-disguises-as-android-apps-and-an-ios-profile-holds-new-links-to-fakespy/"
+				]
+			},
+			"uuid": "7a19d878-5bc5-11e9-8647-d663bd873d93",
+			"value": "FakeSpy"
+		},
+		{
+			"description": "‘TajMahal’ is a previously unknown and technically sophisticated APT framework discovered by Kaspersky Lab in the autumn of 2018. This full-blown spying framework consists of two packages named ‘Tokyo’ and ‘Yokohama’. It includes backdoors, loaders, orchestrators, C2 communicators, audio recorders, keyloggers, screen and webcam grabbers, documents and cryptography key stealers, and even its own file indexer for the victim’s machine. We discovered up to 80 malicious modules stored in its encrypted Virtual File System, one of the highest numbers of plugins we’ve ever seen for an APT toolset.",
+			"meta": {
+				"refs": [
+					"https://securelist.com/project-tajmahal/90240/"
+				]
+			},
+			"uuid": "745c7a3e-5bc6-11e9-8647-d663bd873d93",
+			"value": "Project TajMahal"
+		},
+		{
+			"description": "Recently, AT&T Alien Labs identified a new malware family that is actively scanning for exposed web services and default passwords. Based on our findings we are calling it Xwo - taken from its primary module name. It is likely related to the previously reported malware families Xbash and MongoLock.",
+			"meta": {
+				"refs": [
+					"https://www.alienvault.com/blogs/labs-research/xwo-a-python-based-bot-scanner"
+				]
+			},
+			"uuid": "745c7d22-5bc6-11e9-8647-d663bd873d93",
+			"value": "Xwo"
+		},
+			{
+			"description": "LimeRAT is a powerful Remote Administration Tool publicly available to any internet user, it is an open-source project freely available on Github. Comparing its source code to the decompiled sample we were able to confirm there is a high compatibility between the payload and this open-source remote administration tool.",
+			"meta": {
+				"refs": [
+					"https://blog.yoroi.company/research/limerat-spreads-in-the-wild/"
+				]
+			},
+			"uuid": "aa782434-639f-11e9-a923-1681be663d3e",
+			"value": "LimeRAT"
+		},
+		{
+			"description": "The malware’s detected by Trend Micro as Trojan.PS1.LUDICROUZ.A primary propagation technique involves trying a list of weak credentials to log into other computers connected to the network. Instead of directly sending itself into all the systems connected, the remote command changes the firewall and port forwarding settings of the infected machines, setting up a scheduled task to download and execute an updated copy of the malware.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/miner-malware-spreads-beyond-china-uses-multiple-propagation-methods-including-eternalblue-powershell-abuse/"
+				]
+			},
+			"uuid": "38a12170-63a0-11e9-a923-1681be663d3e",
+			"value": "LUDICROUZ"
+		},
+		{
+			"description": "Detected by Trend Micro as TrojanSpy.Win32.BEAHNY.THCACAI is a dropped Trojan — a copy of itself in a larger file size, likely to evade sandboxes — that collects system information from the host - Computer Name, Machine’s GUID, MAC Address, OS Version, Graphics Memory Information, and System Time.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/miner-malware-spreads-beyond-china-uses-multiple-propagation-methods-including-eternalblue-powershell-abuse/"
+				]
+			},
+			"uuid": "38a1242c-63a0-11e9-a923-1681be663d3e",
+			"value": "BEAHNY"
+		},
+		{
+			"description": "An obfuscated PowerShell script detected by Trend Micro as Trojan.PS1.PCASTLE.B. The downloaded PowerShell is a dropper, responsible for downloading and executing the malware’s components, most of which are copies of itself.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/miner-malware-spreads-beyond-china-uses-multiple-propagation-methods-including-eternalblue-powershell-abuse/"
+				]
+			},
+			"uuid": "38a12698-63a0-11e9-a923-1681be663d3e",
+			"value": "PCASTLE"
+		},
+		{
+			"description": "Detected by Trend Micro as HackTool.Win32.Impacket.AI is used to gain remote access to other machines.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/miner-malware-spreads-beyond-china-uses-multiple-propagation-methods-including-eternalblue-powershell-abuse/"
+				]
+			},
+			"uuid": "38a127d8-63a0-11e9-a923-1681be663d3e",
+			"value": "Impacket"
+		},
+		{
+			"description": "A rootkit that extracts cookies and steals login credentials from Google Chrome, Chromium, Mozilla Firefox, Opera, Microsoft Edge, Internet Explorer, Baidu Browser and Yandex Browser. Steal a user’s payment accounts from his Facebook, Amazon and Airbnb webpages. Send friend requests to other accounts, from the user’s Facebook account. Send phishing messages to the victim’s Facebook friends containing malicious APKs used to infect Android users as well. Steal login credentials for the user’s account on Steam. Inject JavaScript adware in Internet Explorer. Install Chrome or Opera extensions to inject JavaScript adware on these browsers as well. Exfiltrate browsing history. Silently display ads or muted YouTube videos to users via Chrome. We found some droppers that can install Chrome if it is not already on the victim’s computer. Subscribe users to YouTube video channels. Download and execute any payload.",
+			"meta": {
+				"refs": [
+					"https://labs.bitdefender.com/2019/04/inside-scranos-a-cross-platform-rootkit-enabled-spyware-operation/"
+				]
+			},
+			"uuid": "a7fc1010-63a1-11e9-a923-1681be663d3e",
+			"value": "Scranos"
+		},
+		{
+			"description": "RATVERMIN is a .NET backdoor that FireEye Threat Intelligence started tracking in March 2018. It has also been reported in public reports and blog posts.",
+			"meta": {
+				"refs": [
+					"https://www.fireeye.com/blog/threat-research/2019/04/spear-phishing-campaign-targets-ukraine-government.html",
+					"https://unit42.paloaltonetworks.com/unit42-vermin-quasar-rat-custom-malware-used-ukraine/"
+				]
+			},
+			"uuid": "e3e2111a-63a1-11e9-a923-1681be663d3e",
+			"value": "RATVERMIN"
+		},
+		{
+			"description": "Dropper. This threat attempts to spread via removable drives and spam email. It uses legitimate SMTP servers to send spam from its victims.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2018/09/threat-roundup-0914-0921.html"
+				]
+			},
+			"uuid": "5dcfd322-63a2-11e9-a923-1681be663d3e",
+			"value": "Genkryptik"
+		},
+		{
+			"description": "Malware. Nastjencro uses PowerShell to download and execute additional malware. ",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2018/09/threat-roundup-0914-0921.html"
+				]
+			},
+			"uuid": "5dcfd61a-63a2-11e9-a923-1681be663d3e",
+			"value": "Nastjencro"
+		},
+		{
+			"description": "Downloader. Pederr uses malicious PowerShell scripts to download and execute a malicious executable. It has been seen installing banking malware such as Emotet.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2018/09/threat-roundup-0914-0921.html"
+				]
+			},
+			"uuid": "5dcfd76e-63a2-11e9-a923-1681be663d3e",
+			"value": "Pederr"
+		},
+		{
+			"description": "Driverpack leverages 7zip to install malware on the system in the form of an HTA file HTML, which leverages javascript to perform malicious actions on the system.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/03/threat-roundup-for-mar-01-to-mar-08.html"
+				]
+			},
+			"uuid": "31dab766-6468-11e9-a923-1681be663d3e",
+			"value": "Bypassuac"
+		},
+		{
+			"description": "SoftPulse is an adware that installs malicious software, leverages anti-virtual machine techniques and may access potentially sensitive information from local browsers.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/02/threat-roundup-0201-0208.html"
+				]
+			},
+			"uuid": "52f2daf0-6472-11e9-a923-1681be663d3e",
+			"value": "Softpulse"
+		},
+		{
+			"description": "PUA.Win.Trojan.00519ead is the denomination of a set of malicious adware samples that could leverage the AppInit DLL technique to achieve persistence and perform several DNS queries.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/02/threat-roundup-0201-0208.html"
+				]
+			},
+			"uuid": "52f2dd7a-6472-11e9-a923-1681be663d3e",
+			"value": "00519ead"
+		},
+		{
+			"description": "This cluster includes .NET adware samples capable of code injection, opening a port to listen for incoming connections, disabling system restore, modifying files inside system directories, contacting blacklisted domains, modifying the registry and, in some cases, even copying itself to USB drives.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/02/threat-roundup-0201-0208.html"
+				]
+			},
+			"uuid": "52f2e176-6472-11e9-a923-1681be663d3e",
+			"value": "Sanctionedmedia"
+		},
+		{
+			"description": "Variants of Valyria are malicious Microsoft Office files that contain embedded VBA macros used to distribute other malware. ",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/01/threat-roundup-0118-0125.html"
+				]
+			},
+			"uuid": "73db1768-64a5-11e9-a923-1681be663d3e",
+			"value": "Valyria"
+		},
+		
+		{
+			"description": "Ursu is a generic malware that has numerous functions. It contacts a C2 server and performs code injection in the address space of legitimate processes. It is able to achieve persistence and collect confidential data. It is spread via email.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/01/threat-roundup-0118-0125.html"
+				]
+			},
+			"uuid": "73db1a24-64a5-11e9-a923-1681be663d3e",
+			"value": "Ursu"
+		},
+		{
+			"description": "Icloader is a generic malware that largely behaves like adware. The samples are packed and have evasive checks to hinder the analysis and conceal the real activities. This family can inject code in the address space of other processes and upload files to a remote server.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/02/threat-roundup-for-feb-15-to-feb-22.html"
+				]
+			},
+			"uuid": "9368208c-64a8-11e9-a923-1681be663d3e",
+			"value": "Icloader"
+		},
+		{
+			"description": "Eyooun downloads and installs additional malicious and non-malicious programs onto the system.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/04/threat-roundup-0405-0412.html"
+				]
+			},
+			"uuid": "cc6b3a32-65ec-11e9-a923-1681be663d3e",
+			"value": "Eyooun"
+		},
+		{
+			"description": "Sagent launches PowerShell through macros in Microsoft Office documents. The PowerShell then downloads unwanted software from remote websites.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/04/threat-roundup-0405-0412.html"
+				]
+			},
+			"uuid": "cc6b3d70-65ec-11e9-a923-1681be663d3e",
+			"value": "Sagent"
+		},
+		{
+			"description": "Scar will download and execute files to the system while attempting to spread to other machines by copying itself to removable media.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/04/threat-roundup-0405-0412.html"
+				]
+			},
+			"uuid": "cc6b42de-65ec-11e9-a923-1681be663d3e",
+			"value": "Scar"
+		},
+		{
+			"description": "Aspxor botnet has the capabilities to send spam, download and execute other samples. This botnet is known for collecting credentials from infected computers.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/04/threat-roundup-0405-0412.html"
+				]
+			},
+			"uuid": "cc6b446e-65ec-11e9-a923-1681be663d3e",
+			"value": "Aspxor"
+		},
+		{
+			"description": "This generic family will attempt to deceive the infected computer's users into receiving a payment or getting personal data.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/04/threat-roundup-0405-0412.html"
+				]
+			},
+			"uuid": "cc6b45c2-65ec-11e9-a923-1681be663d3e",
+			"value": "Vbkeylog"
+		},
+		{
+			"description": "Winwebsec installs itself to a compromised system as a anti-malware software with desktop links and various persistence techniques Windows service, Registry Run key, etc. This family is known for using fake alerts for malware found on the system to deceive users into buying services before the malware can be removed.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/04/threat-roundup-0405-0412.html"
+				]
+			},
+			"uuid": "cc6b46ee-65ec-11e9-a923-1681be663d3e",
+			"value": "Winwebsec"
+		},
+		{
+			"description": "This malware is able to download and upload files, inject malicious code and install additional malware.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/04/threat-roundup-0405-0412.html"
+				]
+			},
+			"uuid": "cc6b4810-65ec-11e9-a923-1681be663d3e",
+			"value": "Tovkater"
+		},
+		{
+			"description": "Expiro is a known file infector and information stealer that hinders analysis with anti-debugging and anti-analysis tricks.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/04/threat-roundup-0329-0405.html"
+				]
+			},
+			"uuid": "6eb2f668-65ed-11e9-a923-1681be663d3e",
+			"value": "Expiro"
+		},
+		{
+			"description": "DealPly is an adware program that installs an add-on for web browsers and displays malicious ads.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/03/threat-roundup-0322-0329.html"
+				]
+			},
+			"uuid": "a5d68218-65ed-11e9-a923-1681be663d3e",
+			"value": "Dealply"
+		},
+		{
+			"description": "Triusor is a highly polymorphic malware family. All the binaries are packed and obfuscated to hinder the static analysis. The malware contains code that complicates the dynamic analysis. Once it is executed, the samples perform code injection.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/03/threat-roundup-0322-0329.html"
+				]
+			},
+			"uuid": "cceb4a0a-65ed-11e9-a923-1681be663d3e",
+			"value": "Triusor"
+		},
+		{
+			"description": "Lunam is a trojan that contains Autorun-worm functionality. It injects into the Windows system to change permissions. It also disables anti-virus security suites or the Windows firewall and changes browser settings.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/03/threat-roundup-0322-0329.html"
+				]
+			},
+			"uuid": "cceb4cbc-65ed-11e9-a923-1681be663d3e",
+			"value": "Lunam"
+		},
+		{
+			"description": "Trojan malware variants used by the North Korean government. This malware variant has been identified as HOPLIGHT. The U.S. Government refers to malicious cyber activity by the North Korean government as HIDDEN COBRA. The HOPLIGHT Trojan implements the following functions - Read, Write, and Move Files. Enumerate System Drives. Create and Terminate Processes. Inject into Running Processes. Create, Start and Stop Services. Modify Registry Settings. Connect to a Remote Host. Upload and Download Files.",
+			"meta": {
+				"refs": [
+					"https://securityaffairs.co/wordpress/83686/apt/hoplight-trojan-hidden-cobra.html",
+					"https://www.us-cert.gov/ncas/analysis-reports/AR19-100A"
+				]
+			},
+			"uuid": "c9ae753a-4980-11e9-8646-d663bd873d93",
+			"value": "HOPLIGHT"
+		},
+		{
+			"description": "The webmask project is an APT34 distinction since implementing their DNS attack core. APT34 is well-known to widely use DNS Hijacking in order to redirect victims to attackers websites.",
+			"meta": {
+				"refs": [
+					"https://marcoramilli.com/2019/04/23/apt34-webmask-project/"
+				]
+			},
+			"uuid": "e2dcf30a-6795-11e9-a923-1681be663d3e",
+			"value": "Webmask"
+		},
+		{
+			"description": "The malware is lightweight compared to other malware due to its small size and allows remote code execution from the C2 server. There is no obfuscation and the code can be easily disassembled. The malware is a Windows service named MSExchangeClient",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/04/dnspionage-brings-out-karkoff.html"
+				]
+			},
+			"uuid": "3d8ddefe-6796-11e9-a923-1681be663d3e",
+			"value": "Karkoff"
+		},
+		{
+			"description": "This generic malware cluster is packed with Kryptik. It persists through the registry and modifies system settings to enable other actions on the targeted machine.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/04/threat-roundup-0412-0419.html"
+				]
+			},
+			"uuid": "ca48953c-6796-11e9-8255-1681be663d3e",
+			"value": "Dvee"
+		},
+		{
+			"description": "This family is written in .NET and is highly malicious. Once executed, these samples drop files in Windows directories, modify other applications and spawn several children. These binaries also change the internet settings and the certificates of the victim's machine as observed in the Windows registry activity.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/02/threat-roundup-0208-0215.html"
+				]
+			},
+			"uuid": "f41257e0-6796-11e9-a923-1681be663d3e",
+			"value": "Ribaj"
+		},
+		{
+			"description": "These binaries are able to detect virtual machines and instrumented environments. They can also complicate the analysis with anti-disassembly and anti-debugging techniques. This family can install additional software and upload information to a remote server.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/02/threat-roundup-0208-0215.html"
+				]
+			},
+			"uuid": "f4125a56-6796-11e9-a923-1681be663d3e",
+			"value": "Cgok"
+		},
+		{
+			"description": "This family is highly malicious and executes other binaries. These samples contact remote servers, upload information collected on the victim's machine and have persistence.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/02/threat-roundup-0208-0215.html"
+				]
+			},
+			"uuid": "f4125ba0-6796-11e9-a923-1681be663d3e",
+			"value": "Noon"
+		},
+		{
+			"description": "The Tspy trojan is used to steal sensitive information, such as banking credentials, and installs a remote-access backdoor.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2018/09/threat-roundup-0921-0928.html"
+				]
+			},
+			"uuid": "6c80ee4e-6797-11e9-a923-1681be663d3e",
+			"value": "TSpy"
+		},
+		{
+			"description": "This dropper attempts to access the Firefox Password Manager local database, uses a temporary batch file to perform additional malicious activities and uploads files to remote servers. Additionally, it might inject code, read INI files or use Visual Basic scripts.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2018/10/threat-roundup-0928-1005.html"
+				]
+			},
+			"uuid": "6c80f128-6797-11e9-a923-1681be663d3e",
+			"value": "Fqdq"
+		},
+		{
+			"description": "These malicious Word documents contain embedded VBA macros, spawn new processes, drops files and remove Office resiliency keys.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2018/10/threat-roundup-0928-1005.html"
+				]
+			},
+			"uuid": "6c80f38a-6797-11e9-a923-1681be663d3e",
+			"value": "Emooodldr"
+		},
+		{
+			"description": "DGBV is malware written in Delphi and is packed with Inno Setup, a free software installation system. Once deployed, DGBV collects sensitive information from the infected host and sends it to a C2, including browser password databases.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2018/10/threat-roundup-1005-1012.html"
+				]
+			},
+			"uuid": "a8ffc91e-6885-11e9-a923-1681be663d3e",
+			"value": "Dgbv"
+		},
+		{
+			"description": "Demp drops DLL files that are later injected into the explorer process. It is also capable of accepting commands from a command and control (C2) server and exfiltrating system information.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2018/10/threat-roundup-1005-1012.html"
+				]
+			},
+			"uuid": "a8ffcb9e-6885-11e9-a923-1681be663d3e",
+			"value": "Demp"
+		},
+		{
+			"description": "Doc.Malware.00536d-6731394-0 is a malicious Word document that drops malware. It attempts to download and run a second-stage executable from a number of known malicious domains and IP addresses.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2018/10/threat-roundup-1019-1026.html"
+				]
+			},
+			"uuid": "ee3775ea-6885-11e9-a923-1681be663d3e",
+			"value": "00536d"
+		},
+		{
+			"description": "This is an obfuscated Microsoft Office macro downloader that attempts to download a malicious payload executable. The sample was unable to download the next stage, so no further analysis is available.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2018/10/threat-roundup-1019-1026.html"
+				]
+			},
+			"uuid": "ee377888-6885-11e9-a923-1681be663d3e",
+			"value": "Stratos"
+		},
+		{
+			"description": "This cluster provides generic detection for the Dridex banking trojan that's downloaded onto a target's machine.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2018/10/threat-roundup-1019-1026.html"
+				]
+			},
+			"uuid": "ee3779e6-6885-11e9-a923-1681be663d3e",
+			"value": "Xcnfe"
+		},
+		{
+			"description": "This is an Excel-based downloader that uses PowerShell to retrieve the next stage of the malware executable. Microsoft Office displays a warning to the user before the payload actually gets activated.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2018/11/threat-roundup-1019-1102.html"
+				]
+			},
+			"uuid": "5d5161e8-6886-11e9-a923-1681be663d3e",
+			"value": "Cwsp"
+		},
+		{
+			"description": "A hijacker could use this malware to change the user's browser's home page, redirect the user to suspicious websites, and then lead them to advertisements and commercial content that generates pay-per-click revenue for its developers.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2018/11/threat-roundup-1019-1102.html"
+				]
+			},
+			"uuid": "5d5164ae-6886-11e9-a923-1681be663d3e",
+			"value": "Explorerhijack"
+		},
+		{
+			"description": "Sivis is a type of trojan that is usually downloaded from the internet and installed by unsuspecting users. This trojan variant also includes sandbox evasion logic. It has the ability to move numerous files to the Recycle Bin.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2018/11/threat-roundup-1019-1102.html"
+				]
+			},
+			"uuid": "5d51660c-6886-11e9-a923-1681be663d3e",
+			"value": "Sivis"
+		},
+		{
+			"description": "Autorunner is in the Esfury family. Esfury is a type of worm that commonly spreads via removable drives or platforms with user interaction (e.g. emails, instant messages, web pages). When executed, Esfury modifies multiple registry keys in order to execute when certain Windows applications are opened, including security products, registry editor and task manager. Esfury may also contact a remote server to download and execute arbitrary files.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2018/11/threat-roundup-1102-1109.html"
+				]
+			},
+			"uuid": "a94c9f54-6886-11e9-a923-1681be663d3e",
+			"value": "Autoruner"
+		},
+		{
+			"description": "Win.Worm.Brontok is an email worm that can copy itself onto USB drives. It can change system configuration to weaken its security settings, conduct distributed denial-of-service attacks, and perform other malicious actions on the infected systems.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2018/11/threat-roundup-1102-1109.html"
+				]
+			},
+			"uuid": "a94ca314-6886-11e9-a923-1681be663d3e",
+			"value": "Brontok"
+		},
+		{
+			"description": "Donoff is a payload delivery Office document that leverages the Windows Command shell to launch PowerShell to download and execute an executable. ",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2018/11/threat-roundup-1123-1130.html"
+				]
+			},
+			"uuid": "e749bc24-6886-11e9-a923-1681be663d3e",
+			"value": "Donoff"
+		},
+		{
+			"description": "This malware has the ability to harvest stored credentials, keystrokes, screenshots, network activity, and more from computers where the software is installed.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2018/12/threat-roundup-1130-1207.html"
+				]
+			},
+			"uuid": "2301cfcc-6887-11e9-a923-1681be663d3e",
+			"value": "Passwordstealera"
+		},
+		{
+			"description": "Johnnie, also known as Mikey, is a malware family that focuses on persistence and is known for its plugin architecture.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/01/threat-roundup-0111-0118.html"
+				]
+			},
+			"uuid": "7911d09c-6887-11e9-a923-1681be663d3e",
+			"value": "Johnnie"
+		},
+		{
+			"description": "This cluster came with spam emails containing zipped JavaScript attachments. Once the user runs the file, these malicious JavaScript attachments use PowerShell and BITSAdmin to download and install the Gandcrab ransomware.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/01/threat-roundup-0111-0118.html"
+				]
+			},
+			"uuid": "7911d362-6887-11e9-a923-1681be663d3e",
+			"value": "Powershell Malware"
+		},
+		{
+			"description": "Lydra will monitor user activity to steal sensitive information like passwords and setups various persist mechanisms to ensure execution at startup.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/04/threat-roundup-0419-to-0426.html"
+				]
+			},
+			"uuid": "59988ab4-6cf9-11e9-a923-1681be663d3e",
+			"value": "Lydra"
+		},
+		{
+			"description": "Malicious malware targeting coin wallets",
+			"meta": {
+				"refs": [
+					"https://blog.malwarebytes.com/cybercrime/2019/04/electrum-bitcoin-wallets-under-siege/"
+				],
+				"synonyms": [
+					"OSX.ElectrumStealer"
+				]
+			},
+			"uuid": "ceda8fa2-6cf9-11e9-a923-1681be663d3e",
+			"value": "Electrum.Stealer"
+		},
+		{
+			"description": "A shell command was remotely executed to download and execute a malicious shell script Trojan.SH.LODEX.J, which in turn downloaded another shell script Trojan.SH.DOGOLOAD.J that finally installed the AESDDoS botnet malware on the affected system.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/aesddos-botnet-malware-exploits-cve-2019-3396-to-perform-remote-code-execution-ddos-attacks-and-cryptocurrency-mining/"
+				]
+			},
+			"uuid": "246e319e-6cfa-11e9-a923-1681be663d3e",
+			"value": "LODEX.J"
+		},
+		{
+			"description": "A shell command was remotely executed to download and execute a malicious shell script Trojan.SH.LODEX.J, which in turn downloaded another shell script Trojan.SH.DOGOLOAD.J that finally installed the AESDDoS botnet malware on the affected system.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/aesddos-botnet-malware-exploits-cve-2019-3396-to-perform-remote-code-execution-ddos-attacks-and-cryptocurrency-mining/"
+				]
+			},
+			"uuid": "246e39e6-6cfa-11e9-a923-1681be663d3e",
+			"value": "DOGOLOAD.J"
+		},
+		{
+			"description": "Distributed via malicious spam campaigns primarily targeting central European countries with a particular focus on Germany and Italy. JasperLoader employs a multi-stage infection process that features several obfuscation techniques that make analysis more difficult. It appears that this loader was designed with resiliency and flexibility in mind, as evidenced in later stages of the infection process.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/04/jasperloader-targets-italy.html"
+				]
+			},
+			"uuid": "7ca0edb6-6cfa-11e9-a923-1681be663d3e",
+			"value": "JasperLoader"
+		},
+		{
+			"description": "Beapy W32.Beapy is a file-based coinminer that uses email as an initial infection vector. This campaign demonstrates that while cryptojacking has declined in popularity with cyber criminals since its peak at the start of 2018, it is still a focus for some of them, with enterprises now their primary target.",
+			"meta": {
+				"refs": [
+					"https://www.symantec.com/blogs/threat-intelligence/beapy-cryptojacking-worm-china"
+				]
+			},
+			"uuid": "bc074f36-6cfa-11e9-a923-1681be663d3e",
+			"value": "Beapy"
+		},
+		{
+			"description": "The Astaroth Trojan spam campaign is a Trojan most recently used to steal passwords and personal information from individuals in Brazil. The Astaroth Trojan disguises its payload as JPEG, GIF, and extensionless files to avoid detection. The campaign exploits legitimate operating system processes as well as security vendor products from companies like Avast and GAS Tecnologia to gain information about the target machine and steal password information, as well as keystate information and clipboard usage.",
+			"meta": {
+				"refs": [
+					"https://www.cybereason.com/blog/information-stealing-malware-targeting-brazil-full-research",
+					"https://www.cybereason.com/blog/information-stealing-malware-targeting-brazil"
+				]
+			},
+			"uuid": "6d27b138-7111-11e9-a923-1681be663d3e",
+			"value": "Astaroth"
+		},
+		{
+			"description": "ExileRAT is a simple RAT platform capable of getting information on the system (computer name, username, listing drives, network adapter, process name), getting/pushing files and executing/terminating processes.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/02/exilerat-shares-c2-with-luckycat.html"
+				]
+			},
+			"uuid": "6d27b3e0-7111-11e9-a923-1681be663d3e",
+			"value": "ExileRAT"
+		},
+		{
+			"description": "This Rootkit arrives on a system as a file dropped by other malware or as a file downloaded unknowingly by users when visiting malicious sites.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/linux-coin-miner-copied-scripts-from-korkerds-removes-all-other-malware-and-miners/"
+				]
+			},
+			"uuid": "6d27b52a-7111-11e9-a923-1681be663d3e",
+			"value": "KORKERDS"
+		},
+		{
+			"description": "Muncy is the name dubbed by SI-LAB that analyzed this threat. Now, the malware is targeting user’s worldwide and has been spread via phishing campaigns. Malicious actors are using SMTP servers leveraging bad server’s configuration. Email spoofing technique is used to impersonate the giant DHL; a popular distribution firm; sending a shipment notification to the user’s email inbox.",
+			"meta": {
+				"refs": [
+					"https://seguranca-informatica.pt/si-lab-the-muncy-malware-is-on-the-rise/#.XG1s9uhKiUl"
+				]
+			},
+			"uuid": "6d27b66a-7111-11e9-a923-1681be663d3e",
+			"value": "Muncy"
+		},
+		{
+			"description": "Automation of all kinds is there to help people with their routine work, make it faster and simpler. Although ATM fraud is a very peculiar sort of work, some cybercriminals spend a lot of effort to automate it. In March 2018, we came across a fairly simple but effective piece of malware named WinPot. It was created to make ATMs by a popular ATM vendor to automatically dispense all cash from their most valuable cassettes. We called it ATMPot.",
+			"meta": {
+				"refs": [
+					"https://securelist.com/atm-robber-winpot/89611/"
+				]
+			},
+			"uuid": "6d27b7a0-7111-11e9-a923-1681be663d3e",
+			"value": "WinPot"
+		},
+		{
+			"description": "Malware. Uiwix uses ETERNALBLUE and DOUBLEPULSAR to install ransomware on the infected system. Encrypted file names include UIWIX as part of the file extension. Unlike the well-known WannaCry ransomware, Uiwix doesn't worm itself. It only installs itself on the system.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/05/threat-roundup-0426-to-0503.html"
+				]
+			},
+			"uuid": "6d27bb60-7111-11e9-a923-1681be663d3e",
+			"value": "Shadowbrokers Tool"
+		},
+		{
+			"description": "Kerberods (detected as Trojan.Linux.KERBERDS.A), is a custom-packed binary that installs itself via cron jobs.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/cve-2019-3396-redux-confluence-vulnerability-exploited-to-deliver-cryptocurrency-miner-with-rootkit/"
+				]
+			},
+			"uuid": "6d27bcbe-7111-11e9-a923-1681be663d3e",
+			"value": "Kerberods"
+		},
+		{
+			"description": "Its role is to monitor the content of the clipboard, looking for cryptocurrency addresses. If a targeted cryptocurrency address is found, it is replaced by an address presumably belonging to the malware operator. Examined samples are not packed, nor obfuscated. The only mechanism used to hide its behavior is string encryption. The operators’ cryptocurrency addresses are encrypted using RC4. Various cryptocurrencies are targeted such as Bitcoin, Bitcoin cash, Dogecoin, Ethereum and Ripple.",
+			"meta": {
+				"refs": [
+					"https://www.welivesecurity.com/2019/04/30/buhtrap-backdoor-ransomware-advertising-platform/"
+				]
+			},
+			"uuid": "f25b4988-7e3a-11e9-8f9e-2a86e4085a59",
+			"value": "ClipBanker"
+		},
+		{
+			"description": "RTM is a banking trojan written in Delphi that targets remote banking systems.",
+			"meta": {
+				"refs": [
+					"https://www.welivesecurity.com/2019/04/30/buhtrap-backdoor-ransomware-advertising-platform/"
+				]
+			},
+			"uuid": "f25b4c4e-7e3a-11e9-8f9e-2a86e4085a59",
+			"value": "RTM"
+		},
+		{
+			"description": "Android component to the Buhtrap backdoor found on GitHub.  Identified by ESET as Anubis.",
+			"meta": {
+				"refs": [
+					"https://www.welivesecurity.com/2019/04/30/buhtrap-backdoor-ransomware-advertising-platform/"
+				],
+				"synonyms": [
+					"Anubis"
+				]
+			},
+			"uuid": "f25b50a4-7e3a-11e9-8f9e-2a86e4085a59",
+			"value": "Spy.Banker"
+		},
+		{
+			"description": "ClipBanker.IH is a .NET Windows executable which was distributed in March 2019. Most of the versions examined were packed with ConfuserEx v1.0.0. As with the ClipBanker variant, this component also hijacks the clipboard. It targets a wide range of cryptocurrencies as well as Steam trade offers. Furthermore, it uses the IP Logger service to exfiltrate Bitcoin’s WIF private key.",
+			"meta": {
+				"refs": [
+					"https://www.welivesecurity.com/2019/04/30/buhtrap-backdoor-ransomware-advertising-platform/"
+				]
+			},
+			"uuid": "f25b51ee-7e3a-11e9-8f9e-2a86e4085a59",
+			"value": "ClipBanker.IH"
+		},
+		{
+			"description": "DarkKomet is a freeware remote access trojan that was released by an independent software developer. It provides the same functionality you would expect from a remote access tool: keylogging, webcam access, microphone access, remote desktop, URL download, program execution, etc.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/05/threat-roundup-0503-0510.html"
+				]
+			},
+			"uuid": "f25b5324-7e3a-11e9-8f9e-2a86e4085a59",
+			"value": "Darkkomet"
+		},
+		{
+			"description": "Kryptik is oftentimes a generic detection name for a Windows trojan. Some of the malicious activities that could be performed by these samples, without the user's knowledge, include collecting system information, downloading/uploading files and dropping additional samples.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/05/threat-roundup-0503-0510.html"
+				]
+			},
+			"uuid": "f25b545a-7e3a-11e9-8f9e-2a86e4085a59",
+			"value": "Kryptik"
+		},
+		{
+			"description": "Win.Malware.Python is a generic name given to malware written in Python and, typically, compiled into a Windows executable using tools like PyInstaller. There are a vast array of supporting libraries, proof-of-concept exploit tools, and example code that makes developing malware in Python easier than with lower-level languages. Examples of functionality commonly seen in this type of malware include the ability to spread laterally by exploiting EternalBlue PoC scripts and file encryption performed by ransomware.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/05/threat-roundup-0503-0510.html"
+				]
+			},
+			"uuid": "f25b5586-7e3a-11e9-8f9e-2a86e4085a59",
+			"value": "Python Malware"
+		},
+		{
+			"description": "The FruityC2 agent script, is an open-source framework on GitHub, used to further enumerate the host machine. Recently observed used during the BlackWater campaign.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/05/recent-muddywater-associated-blackwater.html"
+				]
+			},
+			"uuid": "f25b56a8-7e3a-11e9-8f9e-2a86e4085a59",
+			"value": "FruityC2"
+		},
+		{
+			"description": "Zegost, also known as Zusy, uses man-in-the-middle attacks to steal banking information. When executed, it injects itself into legitimate Windows processes such as explorer.exe and winver.exe. When the user accesses a banking website, it displays a form to trick the user into submitting personal information.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/05/threat-roundup-0517-0524.html"
+				]
+			},
+			"uuid": "5b1d7994-8d4c-11e9-bc42-526af7764f64",
+			"value": "Zegost"
+		},
+		{
+			"description": "Unlike common Linux malware, HiddenWasp is not focused on crypto-mining or DDoS activity. It is a trojan purely used for targeted remote control. Evidence shows in high probability that the malware is used in targeted attacks for victims who are already under the attacker’s control, or have gone through a heavy reconnaissance. HiddenWasp authors have adopted a large amount of code from various publicly available open-source malware, such as Mirai and the Azazel rootkit. In addition, there are some similarities between this malware and other Chinese malware families, however the attribution is made with low confidence.",
+			"meta": {
+				"refs": [
+					"https://www.intezer.com/blog-hiddenwasp-malware-targeting-linux-systems/"
+				]
+			},
+			"uuid": "92985ca4-8d4c-11e9-bc42-526af7764f64",
+			"value": "HiddenWasp"
+		},
+		{
+			"description": "Azazel is a userland rootkit based off of the original LD_PRELOAD technique from Jynx rootkit. It is more robust and has additional features, and focuses heavily around anti-debugging and anti detection.",
+			"meta": {
+				"refs": [
+					"https://www.intezer.com/blog-hiddenwasp-malware-targeting-linux-systems/",
+					"https://github.com/chokepoint/azazel"
+				]
+			},
+			"uuid": "92985f56-8d4c-11e9-bc42-526af7764f64",
+			"value": "Azazel"
+		},
+		{
+			"description": "Secondary portion of the HiddenWasp malware tool.",
+			"meta": {
+				"refs": [
+					"https://www.intezer.com/blog-hiddenwasp-malware-targeting-linux-systems/"
+				]
+			},
+			"uuid": "929860aa-8d4c-11e9-bc42-526af7764f64",
+			"value": "Elknot"
+		},
+		{
+			"description": "Linux rootkit adapted for 2.6 and 3.x",
+			"meta": {
+				"refs": [
+					"https://www.intezer.com/blog-hiddenwasp-malware-targeting-linux-systems/",
+					"https://github.com/yaoyumeng/adore-ng"
+				]
+			},
+			"uuid": "929861d6-8d4c-11e9-bc42-526af7764f64",
+			"value": "Adore-ng"
+		},
+		{
+			"description": "Jason is a graphic tool implemented to perform Microsoft exchange account brute-force in order to harvest the highest possible emails and accounts information. Distributed in a ZIP container, the interface is quite intuitive. The Microsoft exchange address and its version shall be provided (even if in the code a DNS-domain discovery mode function is available). Three brute-force methods can be selected; (1) EWS (Exchange Web Service), (2) OAB (Offline Address Book) or both (All). Username and password list can be selected (included in the distributed ZIP file) and threads number should be provided in order to optimize the attack balance.",
+			"meta": {
+				"refs": [
+					"https://marcoramilli.com/2019/06/06/apt34-jason-project/"
+				]
+			},
+			"uuid": "662a1e76-8d4e-11e9-bc42-526af7764f64",
+			"value": "Jason"
+		},
+		{
+			"description": "MSBuild is a signed Microsoft binary, meaning that it can bypass application whitelisting controls on the host when being used to execute arbitrary code.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/06/frankenstein-campaign.html"
+				]
+			},
+			"uuid": "d34749ac-8d4e-11e9-bc42-526af7764f64",
+			"value": "MSBuild"
+		},
+		{
+			"description": "BlackSquid is a malware family that targets web servers, network drives, and removable drives using multiple web server exploits and dictionary attacks. Named BlackSquid after the registries created and main component file names, is particularly dangerous for several reasons. It employs anti-virtualization, anti-debugging, and anti-sandboxing methods to determine whether to continue with installation or not. It also has wormlike behavior for lateral propagation. And it uses some of the most notorious exploits today; EternalBlue; DoublePulsar; the exploits for CVE-2014-6287, CVE-2017-12615, and CVE-2017-8464; and three ThinkPHP exploits for multiple versions.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/blacksquid-slithers-into-servers-and-drives-with-8-notorious-exploits-to-drop-xmrig-miner/"
+				]
+			},
+			"uuid": "628f29cc-8d4f-11e9-bc42-526af7764f64",
+			"value": "BlackSquid"
+		},
+		{
+			"description": "PowerShell is executed using reflectively loaded ReflectivePicker from the Empire project – it loads CLR by using CorBindToRuntime that is loaded dynamically within the shellcode.",
+			"meta": {
+				"refs": [
+					"http://blog.morphisec.com/security-alert-fin8-is-back",
+					"https://github.com/EmpireProject/Empire"
+				]
+			},
+			"uuid": "628f2f26-8d4f-11e9-bc42-526af7764f64",
+			"value": "ReflectivePicker"
+		},
+		{
+			"description": "A Monero coin-mining binary, Darwin (detected as PUA.Linux.XMRMiner.AA). As with all cryptocurrency miners, it uses the resources of the host system to mine cryptocurrency (Monero in this instance) without the owner’s knowledge. An interesting characteristic of the attack is that it uses a cryptocurrency miner that it is being built from scratch instead of an existing one.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/infected-cryptocurrency-mining-containers-target-docker-hosts-with-exposed-apis-use-shodan-to-find-additional-victims/"
+				]
+			},
+			"uuid": "d1ded68e-95eb-11e9-bc42-526af7764f64",
+			"value": "Darwin"
+		},
+		{
+			"description": "A script (ubu.sh, detected as PUA.Linux.XMRMiner.AA.component) checks hosts with publicly exposed APIs. It then uses Docker commands (POST /containers/create) to remotely create the malicious container. This script also starts an SSH daemon inside the container for remote communication.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/infected-cryptocurrency-mining-containers-target-docker-hosts-with-exposed-apis-use-shodan-to-find-additional-victims/"
+				]
+			},
+			"uuid": "d1ded904-95eb-11e9-bc42-526af7764f64",
+			"value": "XMRMiner (ubu.sh)"
+		},
+		{
+			"description": "Vools (Trojan.Win32.VOOLS.SMAL01), which is an EternalBlue-based backdoor that is used to deliver cryptocurrency miners and other malware. Also, a number of other tools in the infected systems, mainly the password dumping tool Mimikatz and Equation group tools. The final payload deployed on compromised systems is a cryptocurrency miner.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/advanced-targeted-attack-tools-used-to-distribute-cryptocurrency-miners/"
+				]
+			},
+			"uuid": "d1deda4e-95eb-11e9-bc42-526af7764f64",
+			"value": "VOOL"
+		},
+		{
+			"description": "A control panel for delivering malware like Mimikatz or Powruner.",
+			"meta": {
+				"refs": [
+					"https://www.symantec.com/blogs/threat-intelligence/waterbug-espionage-governments"
+				]
+			},
+			"uuid": "f947a71e-a5bd-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Poison Frog"
+		},
+		{
+			"description": "MAC OS cryptocurrency miner. Bird Miner runs via Linux emulation.",
+			"meta": {
+				"refs": [
+					"https://blog.malwarebytes.com/mac/2019/06/new-mac-cryptominer-malwarebytes-detects-as-bird-miner-runs-by-emulating-linux/"
+				]
+			},
+			"uuid": "57215ce0-a5be-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Bird Miner"
+		},
+		{
+			"description": "Crax, a script associated with Bird Miner, is tasked with ensuring that the malware isn’t being snooped on by pesky security researchers. The first thing it does is check to see if Activity Monitor is running and, if it is, unload the other processes. If Activity Monitor isn’t running, the malware then goes through a series of CPU usage checks. If the results show that it’s pegging the CPU at more than 85 percent, it again unloads everything.",
+			"meta": {
+				"refs": [
+					"https://blog.malwarebytes.com/mac/2019/06/new-mac-cryptominer-malwarebytes-detects-as-bird-miner-runs-by-emulating-linux/"
+				]
+			},
+			"uuid": "57216172-a5be-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Crax"
+		},
+		{
+			"description": "This script, associated with Bird Miner, checks for Activity Monitor and bails out if it’s running, indicating that someone is watching for unusual processor activity. If it’s not open, then it launches an executable named Nigel, and passes a path to another file, Poaceae, as a parameter.",
+			"meta": {
+				"refs": [
+					"https://blog.malwarebytes.com/mac/2019/06/new-mac-cryptominer-malwarebytes-detects-as-bird-miner-runs-by-emulating-linux/"
+				]
+			},
+			"uuid": "572162e4-a5be-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Krugerite"
+		},
+		{
+			"description": "The Nigel file, a script associated with Bird Miner, is an old version of a piece of open-source software named Qemu.",
+			"meta": {
+				"refs": [
+					"https://blog.malwarebytes.com/mac/2019/06/new-mac-cryptominer-malwarebytes-detects-as-bird-miner-runs-by-emulating-linux/"
+				]
+			},
+			"uuid": "5721641a-a5be-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Nigel"
+		},
+		{
+			"description": "Qemu is an open-source emulator, somewhat like a command-line-only VirtualBox, that is capable of running Linux executables on non-Linux systems.",
+			"meta": {
+				"refs": [
+					"https://blog.malwarebytes.com/mac/2019/06/new-mac-cryptominer-malwarebytes-detects-as-bird-miner-runs-by-emulating-linux/"
+				]
+			},
+			"uuid": "57216550-a5be-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Qemu"
+		},
+		{
+			"description": "GolfSpy is notable for its wide range of cyberespionage capabilities. Malicious codes are embedded in apps that the operators repackaged from legitimate applications. Monitoring the command and control (C&C) servers used by Bouncing Golf. Much of the information being stolen appear to be military-related.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/mobile-cyberespionage-campaign-bouncing-golf-affects-middle-east/"
+				]
+			},
+			"uuid": "f8b261de-a5bf-11e9-a2a3-2a2ae2dbcce4",
+			"value": "GolfSpy"
+		},
+		{
+			"description": "Qjwmonkey is adware that modifies the system and browser settings to display advertisements to the user.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/06/threat-roundup-0607-0614.html"
+				]
+			},
+			"uuid": "f8b2674c-a5bf-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Qjwmonkey"
+		},
+		{
+			"description": "Yobrowser is adware that typically masquerades as cracked versions of legitimate software.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/06/threat-roundup-0607-0614.html"
+				]
+			},
+			"uuid": "f8b268be-a5bf-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Yobrowser"
+		},
+		{
+			"description": "A new variant of Houdini Worm targeting commercial banking customers with campaigns containing either URLs, .zip, or .mht files. This new variant is named WSH Remote Access Tool (RAT) by the malware’s author and was released on June 2, 2019. Within five days, WSH RAT was observed being actively distributed via phishing.",
+			"meta": {
+				"refs": [
+					"https://cofense.com/houdini-worm-transformed-new-phishing-attack/"
+				]
+			},
+			"uuid": "3f1b477e-a5c2-11e9-a2a3-2a2ae2dbcce4",
+			"value": "WSH RAT"
+		},
+		{
+			"description": "SQUELL is a dropper component that executes a miner or scanner; or both. SQUELL also performs several other actions. It tries to infect other systems through SSH. It disables security tools and clears command history and logs. It also kills previously ongoing cryptocurrency mining activities (if there were any) by blocking network traffic, and killing their processes. For persistence, it installs itself as a service in the system. It also sets up a cron job that will download and execute the latest version of the malware from Pastebin.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/golang-based-spreader-used-in-a-cryptocurrency-mining-malware-campaign/"
+				]
+			},
+			"uuid": "3f1b4a08-a5c2-11e9-a2a3-2a2ae2dbcce4",
+			"value": "SQUELL"
+		},
+		{
+			"description": "Ratsnif is a suite of Remote Access Trojans (RATs). It has been observed being leveraged by the OceanLotus APT group. The trojans, under active development since 2016, combine capabilities like packet sniffing, gateway/device ARP poisoning, DNS poisoning, HTTP injection, and MAC spoofing.",
+			"meta": {
+				"refs": [
+					"https://threatvector.cylance.com/en_us/home/threat-spotlight-ratsnif-new-network-vermin-from-oceanlotus.html"
+				]
+			},
+			"uuid": "3f1b4da0-a5c2-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Ratsnif"
+		},
+		{
+			"description": "Malware used during Operation ViceLeaker, identified by Kaskpersky and Bitdefender researchers.  Mobile ViceLeaker is delivered as embeded code within the original code of an application. It is designed to exfiltrate any accessible information on an Android device.",
+			"meta": {
+				"refs": [
+					"https://securelist.com/fanning-the-flames-viceleaker-operation/90877/"
+				]
+			},
+			"uuid": "ae7fb8ba-a5c3-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Mobile ViceLeaker"
+		},
+		{
+			"description": "Gelup abuses user account control (UAC) bypass and works as a loader for other threats. The tool also uses the packer of FlawedAmmyy, a remote access trojan, from previous campaigns.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/latest-spam-campaigns-from-ta505-now-using-new-malware-tools-gelup-and-flowerpippi/"
+				]
+			},
+			"uuid": "ae7fbe00-a5c3-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Gelup"
+		},
+		{
+			"description": "EmailStealer is an information stealer which steals simple mail transfer protocol (SMTP) credentials and email addresses in the victim’s machine.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/latest-spam-campaigns-from-ta505-now-using-new-malware-tools-gelup-and-flowerpippi/"
+				]
+			},
+			"uuid": "ae7fbf7c-a5c3-11e9-a2a3-2a2ae2dbcce4",
+			"value": "EmailStealer"
+		},
+		{
+			"description": "A software for downloading and running PowerShell cde with .NET dependencies without needing a code interpreter. It can be found on GitHub.",
+			"meta": {
+				"refs": [
+					"http://blog.ptsecurity.com/2019/07/ironpython-darkly-how-we-uncovered.html"
+				]
+			},
+			"uuid": "06501bd8-a5c5-11e9-a2a3-2a2ae2dbcce4",
+			"value": "SharpPick"
+		},
+		{
+			"description": "Created by Marcello Salvati, SILENTRINITY is a framework written in python that allows for flexibility as well as post-exploitation PowerShell command.",
+			"meta": {
+				"refs": [
+					"http://blog.ptsecurity.com/2019/07/ironpython-darkly-how-we-uncovered.html"
+				]
+			},
+			"uuid": "06501f66-a5c5-11e9-a2a3-2a2ae2dbcce4",
+			"value": "SILENTTRINITY"
+		},
+		{
+			"description": "IronPython is an implementation of the Python programming language targeting the .NET Framework and Mono. Jim Hugunin created the project and actively contributed to it up until Version 1.0 which was released on September 5, 2006. IronPython 2.0 was released on December 10, 2008.",
+			"meta": {
+				"refs": [
+					"http://blog.ptsecurity.com/2019/07/ironpython-darkly-how-we-uncovered.html"
+				]
+			},
+			"uuid": "06502182-a5c5-11e9-a2a3-2a2ae2dbcce4",
+			"value": "IronPython"
+		},
+		{
+			"description": "A phishing exploit kit that was created by the threat actor DevilScreaM.",
+			"meta": {
+				"refs": [
+					"https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/16shop-now-targets-amazon/"
+				]
+			},
+			"uuid": "c3e9d04e-a5c5-11e9-a2a3-2a2ae2dbcce4",
+			"value": "16Shop"
+		},
+		{
+			"description": "Agent Smith has three primary phases in its attack flow. In the first phase, the attacker lures users to download a dropper application from an app store such as 9Apps. These droppers are usually disguised as free games, utility applications or adult entertainment applications, yet contain an encrypted malicious payload. The dropper application then checks if any popular applications, such apps include WhatsApp, MXplayer, ShareIt and more from the attacker’s pre-determined list, are installed on the device. If any targeted application is found, Agent Smith will then attack those innocent applications at a later stage. In the second phase, after the dropper gains a foothold on victim device, it automatically decrypts the malicious payload into its original form – an APK (Android installation file) file which serves as the core part of Agent Smiths attack. The dropper then abuses several known system vulnerabilities to install the core malware without any user interaction at all. In the third phase, the core malware conducts attacks against each installed application on device which appears on its target list. The core malware quietly extracts a given innocent application’s APK file, patches it with extra malicious modules and finally abuses a further set of system vulnerabilities to silently swap the innocent version with a malicious one.",
+			"meta": {
+				"refs": [
+					"https://blog.checkpoint.com/2019/07/10/agent-smith-android-malware-mobile-phone-hack-virus-google/"
+				]
+			},
+			"uuid": "479d47be-abc4-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Agent Smith"
+		},
+		{
+			"description": "Operators use legitimate software installers infected with the Topinambour dropper. These could be tools to circumvent internet censorship, such as Softether VPN 4.12 and psiphon3, or Microsoft Office activators. The dropper contains a tiny .NET shell that will wait for Windows shell commands from the operators. Using this and SMB shares on rented virtual private servers (VPS), the operators spread the next-stage modules using just net use and copy Windows shell commands. Lateral movements within the target infrastructure show how familiar the operators are with the IPv6 protocol. Along with IPv4 they use the newer version for shell commands and LAN addresses. The purpose of all this infrastructure and modules in JavaScript, .NET and PowerShell is to build a fileless module chain on the victim computer consisting of an initial small runner and several Windows system registry values containing the encrypted remote administration tool. The tool does all that a typical Trojan needs to accomplish: upload, download and execute files, fingerprint target systems. The PowerShell version of the Trojan also has the ability to get screenshots.",
+			"meta": {
+				"refs": [
+					"https://securelist.com/turla-renews-its-arsenal-with-topinambour/91687/"
+				]
+			},
+			"uuid": "a611a948-abc4-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Topinambour"
+		},
+		{
+			"description": "This malware reads the C2 IP and port from the registry where it was saved by the previous stager. It processes the following commands from its C2 that are received encrypted over HTTP.",
+			"meta": {
+				"refs": [
+					"https://securelist.com/turla-renews-its-arsenal-with-topinambour/91687/"
+				]
+			},
+			"uuid": "a611ac0e-abc4-11e9-a2a3-2a2ae2dbcce4",
+			"value": ".NET RocketMan Trojan"
+		},
+		{
+			"description": "This Trojan contains around 450 strings and uses TimesNewRoman as the RC4 initial vector to encrypt C2 communications. This module beacons to its hardcoded C2 with the string MiamiBeach using an HTTP POST. The Trojan is quite similar to the .NET RocketMan Trojan and can handle the same commands; additionally, it includes the screen command to take a screenshot.",
+			"meta": {
+				"refs": [
+					"https://securelist.com/turla-renews-its-arsenal-with-topinambour/91687/"
+				]
+			},
+			"uuid": "a611ad80-abc4-11e9-a2a3-2a2ae2dbcce4",
+			"value": "PowerShell MiamiBeach Trojan"
+		},
+		{
+			"description": "The infection starts with an email sent to a target. The sender of the email is usually spoofed. The attached RTF file contains one line of text and a link. The text relates to the email subject. The link to the malware uses the URL shortener cort.as, which belongs to the El País newspaper. Clicking on the link redirects the victim to a file on a file-sharing service. The file is a delivery document that contains macros. The second stage payload is written in Visual Basic 6, and has an interesting feature — a C&C URL address acquired from the disposable email service YOPmail. The malware connects to a mailbox, reads the only available email message, parses it, and then extracts the subject of the email. The C&C server URL is between the ¡ characters (upside-down exclamation sign), a character used in the Spanish language. This is the first time we noticed disposable email services being abused this way.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/spam-campaign-targets-colombian-entities-with-custom-proyecto-rat-email-service-yopmail-for-cc/"
+				]
+			},
+			"uuid": "b0ce3b34-abc5-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Proyecto RAT"
+		},
+		{
+			"description": "Warzone RAT supports keylogger, web browser, and Outlook password-stealing features in addition to standard RAT functions.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/spam-campaign-targets-colombian-entities-with-custom-proyecto-rat-email-service-yopmail-for-cc/"
+				]
+			},
+			"uuid": "b0ce3db4-abc5-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Warzone RAT"
+		},
+		{
+			"description": "This implant is delivered in the form of a self-extracting archive shell script created with makeself. makeself.sh is a small shell script that generates a self-extractable compressed tar archive from a directory. The resulting file appears as a shell script (many of those have a .run suffix), and can be launched as is. The archive will then uncompress itself to a temporary directory and an optional arbitrary command will be executed (for example an installation script). This is pretty similar to archives generated with WinZip Self-Extractor in the Windows world. The archive contains four files - 1. gnome-shell-ext – the spy agent executable 2. gnome-shell-ext.sh – checks if gnome-shell-ext is already running and if not, executes it 3. rtp.dat – configuration file for gnome-shell-ext 4. setup.sh – the setup script that is run by makeself after unpacking. The setup script installs the agent to ~/.cache/gnome-software/gnome-shell-extensions/, in an attempt to masquerade itself as a Gnome shell extension. Gnome shell extensions allow tweaking the Gnome desktop and add functionalities. They are the desktop equivalent to browser extensions. Persistence is achieved by registering gnome-shell-ext.sh to run every minute in crontab. Finally, the script executes gnome-shell-ext.sh, which in turn launches the main executable gnome-shell-ext.",
+			"meta": {
+				"refs": [
+					"https://www.intezer.com/blog-evilgnome-rare-malware-spying-on-linux-desktop-users/"
+				]
+			},
+			"uuid": "0796ff54-abc7-11e9-a2a3-2a2ae2dbcce4",
+			"value": "EvilGnome"
+		},
+		{
+			"description": "Captures audio from the user’s microphone and uploads to C2.",
+			"meta": {
+				"refs": [
+					"https://www.intezer.com/blog-evilgnome-rare-malware-spying-on-linux-desktop-users/"
+				]
+			},
+			"uuid": "07970314-abc7-11e9-a2a3-2a2ae2dbcce4",
+			"value": "ShooterSound"
+		},
+		{
+			"description": "Captures screenshots and uploads to C2.",
+			"meta": {
+				"refs": [
+					"https://www.intezer.com/blog-evilgnome-rare-malware-spying-on-linux-desktop-users/"
+				]
+			},
+			"uuid": "0797054e-abc7-11e9-a2a3-2a2ae2dbcce4",
+			"value": "ShooterImage"
+		},
+		{
+			"description": "Scans the file system for newly created files and uploads them to C2.",
+			"meta": {
+				"refs": [
+					"https://www.intezer.com/blog-evilgnome-rare-malware-spying-on-linux-desktop-users/"
+				]
+			},
+			"uuid": "079706ac-abc7-11e9-a2a3-2a2ae2dbcce4",
+			"value": "ShooterFile"
+		},
+		{
+			"description": "Receives new commands from C2.",
+			"meta": {
+				"refs": [
+					"https://www.intezer.com/blog-evilgnome-rare-malware-spying-on-linux-desktop-users/"
+				]
+			},
+			"uuid": "079708fa-abc7-11e9-a2a3-2a2ae2dbcce4",
+			"value": "ShooterPing"
+		},
+		{
+			"description": "Unimplemented and unused, most likely an unfinished keylogging module.",
+			"meta": {
+				"refs": [
+					"https://www.intezer.com/blog-evilgnome-rare-malware-spying-on-linux-desktop-users/"
+				]
+			},
+			"uuid": "07970a30-abc7-11e9-a2a3-2a2ae2dbcce4",
+			"value": "ShooterKey"
+		},
+		{
+			"description": "A DNS-changer that comes with an adware bundler. This DNS-changers blocks access to security-related sites, so the adware victims can’t download and install security software to get rid of the malware.",
+			"meta": {
+				"refs": [
+					"https://blog.malwarebytes.com/trojans/2019/07/extenbro-a-new-dns-changer-trojan-protecting-adware/"
+				]
+			},
+			"uuid": "255a9e28-abc8-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Extenbro"
+		},
+		{
+			"description": "Process Faker used to hide malware within bogus processes.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/old-tools-for-new-money-url-spreading-shellbot-and-xmrig-using-17-year-old-xhide/"
+				]
+			},
+			"uuid": "255aa0d0-abc8-11e9-a2a3-2a2ae2dbcce4",
+			"value": "XHide"
+		},
+		{
+			"description": "A legitimate open-source administrative utility used to monitor system processes and debug software.",
+			"meta": {
+				"refs": [
+					"https://www.crowdstrike.com/blog/doppelpaymer-ransomware-and-dridex-2/",
+					"https://processhacker.sourceforge.io/"
+				]
+			},
+			"uuid": "255aa22e-abc8-11e9-a2a3-2a2ae2dbcce4",
+			"value": "ProcessHacker"
+		},
+		{
+			"description": "PICKPOCKET is a credential theft tool that dumps the user's website login credentials from Chrome, Firefox, and Internet Explorer to a file. This tool was previously observed during a Mandiant incident response in 2018 and, to date, solely utilized by APT34.",
+			"meta": {
+				"refs": [
+					"https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html"
+				]
+			},
+			"uuid": "09c4f2f2-abc9-11e9-a2a3-2a2ae2dbcce4",
+			"value": "PICKPOCKET"
+		},
+		{
+			"description": " The primary function of LONGWATCH is a keylogger that outputs keystrokes to a log.txt file in the Windows temp folder.",
+			"meta": {
+				"refs": [
+					"https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html"
+				]
+			},
+			"uuid": "09c4f590-abc9-11e9-a2a3-2a2ae2dbcce4",
+			"value": "LONGWATCH"
+		},
+		{
+			"description": "VALUEVAULT is a Golang compiled version of the Windows Vault Password Dumper browser credential theft tool from Massimiliano Montoro, the developer of Cain & Abel. VALUEVAULT maintains the same functionality as the original tool by allowing the operator to extract and view the credentials stored in the Windows Vault. Additionally, VALUEVAULT will call Windows PowerShell to extract browser history in order to match browser passwords with visited sites. Upon execution, VALUEVAULT creates a SQLITE database file in the AppData Roaming directory under the context of the user account it was executed by. This file is named fsociety.dat and VALUEVAULT will write the dumped passwords to this in SQL format. This functionality is not in the original version of the Windows Vault Password Dumper.",
+			"meta": {
+				"refs": [
+					"https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html"
+				]
+			},
+			"uuid": "09c4f6f8-abc9-11e9-a2a3-2a2ae2dbcce4",
+			"value": "VALUEVALUT"
+		},
+		{
+			"description": "Nheqminer is a great implementation of equihash mining, mainly used on NiceHas but forked many times and todays is getting used for several spare projects as well. Nheqminer is a specific miner for Zcash value based on common PCs. You might want to checkout more here. Exploring memory snapshots during its execution can be easy to figure out the miner runs over Zcash.Flypool server mining for the following wallet address.",
+			"meta": {
+				"refs": [
+					"https://marcoramilli.com/2019/02/28/ransomware-trojan-and-miner-together-against-pik-group/"
+				]
+			},
+			"uuid": "fb05e100-49bb-11e9-8646-d663bd873d93",
+			"value": "Nheqminer"
+		}
+	],
+	"version": 17
+}
