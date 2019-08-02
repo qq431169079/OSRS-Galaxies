@@ -829,6 +829,106 @@
 			"value": "Federal Security Service (FSB)"
 		},
 		{
+			"description": "The Tennessee Student Assistance Corporation (TSAC) administers over 20 different state student financial aid programs, including the HOPE scholarship, Tennessee Promise, Tennessee Reconnect, Tennessee Student Assistance Award, and the Dual Enrollment grant.  To increase awareness and participation in the financial aid programs, the agency conducts financial aid outreach and training to students and staff at every high school and postsecondary institution in the state.  Staff also consult with postsecondary financial aid offices to improve program effectiveness and efficiencies.  TSAC is administered by an 18-member board of directors. Administrative offices are located in Nashville at 404 James Robertson Parkway in Suite 1510.   TSAC was created by the Tennessee General Assembly in 1974 as a non-profit corporation with the merging of the Tennessee Educational Loan Corporation and the Tennessee Tuition Grant Program. Between 1974 and 2016, TSAC served as Tennessee's designated federal student loan guaranty agency.",
+			"meta": {
+				"refs": [
+					"https://www.tn.gov/thec.html"
+				]
+			},
+			"uuid": "9148c9b8-b553-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Tennessee Higher Education Commission"
+		},
+		{
+			"description": "Vigo County is a county located along the western border of the U.S. state of Indiana. According to the 2010 census, the population was 107,848. The county seat is Terre Haute. Vigo County is included in the Terre Haute, Indiana, Metropolitan Statistical Area.",
+			"meta": {
+				"refs": [
+					"https://www.vigocounty.in.gov/"
+				]
+			},
+			"uuid": "9148cc10-b553-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Vigo County"
+		},
+		{
+			"description": "Johannesburg, South Africa(s) biggest city and capital of Gauteng province, began as a 19th-century gold-mining settlement. Its sprawling Soweto township was once home to Nelson Mandela and Desmond Tutu. Mandela(s) former residence is now the Mandela House museum. Other Soweto museums that recount the struggle to end segregation include the somber Apartheid Museum and Constitution Hill, a former prison complex.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Johannesburg"
+				]
+			},
+			"uuid": "9148ce90-b553-11e9-a2a3-2a2ae2dbcce4",
+			"value": "City of Johannesburg"
+		},
+		{
+			"description": "The Los Angeles Police Department, officially the City of Los Angeles Police Department, is the police department of Los Angeles, California.",
+			"meta": {
+				"refs": [
+					"http://www.lapdonline.org/"
+				]
+			},
+			"uuid": "9148cfda-b553-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Los Angeles Police Department (LAPD)"
+		},
+		{
+			"description": "Concord is a city in Cabarrus County, in the U.S. state of North Carolina. As of the 2010 census, the city had a population of 79,066, with an estimated population in 2018 of 94,546. It is the county seat and the largest city in Cabarrus County.",
+			"meta": {
+				"refs": [
+					"https://www.concordnc.gov/"
+				]
+			},
+			"uuid": "9148d110-b553-11e9-a2a3-2a2ae2dbcce4",
+			"value": "The City of Concord"
+		},
+		{
+			"description": "Anson County is a county located in the U.S. state of North Carolina. As of the 2010 census, the population was 26,948. Its county seat is Wadesboro.",
+			"meta": {
+				"refs": [
+					"http://www.co.anson.nc.us/"
+				]
+			},
+			"uuid": "82b42414-b554-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Anson County"
+		},
+		{
+			"description": "Sherrif department in Lincoln N.C.",
+			"meta": {
+				"refs": [
+					"http://www.lincolnsheriff.org/"
+				]
+			},
+			"uuid": "82b4290a-b554-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Lincoln County Sheriff Office"
+		},
+		{
+			"description": "Glasgow City Council, the local government body of the city of Glasgow, Scotland, became one of the newly created single tier local authorities in 1996, under the Local Government etc.",
+			"meta": {
+				"refs": [
+					"https://www.glasgow.gov.uk/"
+				]
+			},
+			"uuid": "82b42a90-b554-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Glasgow City Council (Glasgow City Chambers)"
+		},
+		{
+			"description": "Where two nations, three states and four counties come together for the good of the children. The Gadsden Independent School District consists of twenty-four educational facilities and two administrative facilities, educating the children of southern Dona Ana County and Southern Otero county of New Mexico. Covering an area of 1400 square miles, the district educates approximately 14,200 students in programs stretching from preschool through the 12th grade. With three preschools, sixteen elementary schools, three middle schools and five high schools, the education of the students of southern New Mexico is our primary goal. Welcome to our district, rich in culture and great in education. We hope that your visit will inspire you. We encourage you to visit our schools and administrative facilities to see education in action.",
+			"meta": {
+				"refs": [
+					"http://www.gisd.k12.nm.us/"
+				]
+			},
+			"uuid": "82b42bc6-b554-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Gadsden Independent School District"
+		},
+		{
+			"description": "Houston County Schools serve approximately 6400 students in Southeastern Alabama. The system consists of two K-12 schools, two K-5 school, one K-6 schools, one 6-8 school, one 6-12, one 7-12 schools, one 9-12 school, a career academy that serves students in grades 9-12 from throughout the county, one Alternative School, and Hope High School which serves At-Risk students in grades 9-12. Houston County Schools employs approximately 725 professional and support personnel with an operating budget of approximately 54 million USD.",
+			"meta": {
+				"refs": [
+					"https://www.hcboe.us/"
+				]
+			},
+			"uuid": "82b42cf2-b554-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Houston County Schools"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
@@ -839,5 +939,5 @@
 			"value": "Canterbury and West Coast District Health Board "
 		}
 		],
-	"version": 12
+	"version": 13
 }
