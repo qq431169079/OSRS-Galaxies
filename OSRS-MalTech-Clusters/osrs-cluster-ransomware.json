@@ -202,16 +202,41 @@
       "value": "DoppelPaymer Ransomware"
     },
 	{
+      "description": "Ransomware that tagets network attached storage devices.",
+      "meta": {
+        "refs": [
+          "https://www.anomali.com/blog/the-ech0raix-ransomware"
+        ]
+      },
+      "uuid": "8921143c-b613-11e9-a2a3-2a2ae2dbcce4",
+      "value": "eCh0raix Ransomware"
+    },
+	{
+      "description": "Originally discovered delivering the Gandcrab ransomware family by Cisco Talos researchers. Not long after its first discovery the Gandcrab site declared it would be ending its service. It is believed that REvil is the newer version of Gandcrab. It was also observed leveraging CVE-2018-8453, a privilege escalation vulnerability on Windows systems.",
+      "meta": {
+        "refs": [
+          "https://krebsonsecurity.com/2019/07/is-revil-the-new-gandcrab-ransomware/",
+		  "https://www.zdnet.com/article/sodinokibi-ransomware-is-now-using-a-former-windows-zero-day/"
+        ],
+		"synonyms": [
+		"Sodin",
+		"Sodinokibi"
+	       ]
+      },
+      "uuid": "892116a8-b613-11e9-a2a3-2a2ae2dbcce4",
+      "value": "REvil"
+    },
+	{
       "description": "Jcry is written in Go language via #OpJerusalem2019 campaign that attack Windows users to encrypt the file and demand the ransom.",
       "meta": {
         "refs": [
-          "https://malpedia.caad.fkie.fraunhofer.de/details/win.jcry",
-	  "https://gbhackers.com/jcry-ransomware/"
+			"https://malpedia.caad.fkie.fraunhofer.de/details/win.jcry",
+			"https://gbhackers.com/jcry-ransomware/"
         ]
       },
       "uuid": "94934c54-49bc-11e9-8646-d663bd873d93",
       "value": "jCry"
     }
 	],
-	"version": 6
+	"version": 7
 }

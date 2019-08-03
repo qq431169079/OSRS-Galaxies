@@ -929,6 +929,46 @@
 			"value": "Houston County Schools"
 		},
 		{
+			"description": "Broken Arrow Public Schools is a public school district in Broken Arrow, Oklahoma. Since its formation in 1904, BAPS has become a dynamic leader in public education. The district resides in an urban-suburban community with nearby agricultural areas and a growing business and industrial base.",
+			"meta": {
+				"refs": [
+					"https://www.baschools.org/"
+				]
+			},
+			"uuid": "9388941c-b60f-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Broken Arrow Public Schools"
+		},
+		{
+			"description": "Established in 1956, the Clark County School District (CCSD) is the number one choice for families and students. We educate 320,000 students – offering a variety of nationally recognized programs, including Magnet Schools, Career and Technical Academies, and Advanced Placement programs. Through these programs – plus our online secondary school and our open enrollment offerings – we offer the best choices to meet individual student needs. As the nation’s fifth-largest school district, we have the ability to provide additional services such as a school police department, adult education courses, and innovative community partnerships with Vegas PBS and The Public Education Foundation. CCSD educates 75 percent of the students in Nevada, and works closely with community partners and business leaders to educate the workers needed to strengthen our economy.",
+			"meta": {
+				"refs": [
+					"https://www.ccsd.net/"
+				]
+			},
+			"uuid": "9388970a-b60f-11e9-a2a3-2a2ae2dbcce4",
+			"value": "The Clark County School District"
+		},
+		{
+			"description": "Public school district in Virginia USA.",
+			"meta": {
+				"refs": [
+					"https://www.shenandoah.k12.va.us/"
+				]
+			},
+			"uuid": "93889c28-b60f-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Shenandoah County Public Schools"
+		},
+		{
+			"description": "Randolph County is a county located in the U.S. state of North Carolina. As of the 2010 census, the population was 141,752. Its county seat is Asheboro.",
+			"meta": {
+				"refs": [
+					"http://www.randolphcountync.gov/"
+				]
+			},
+			"uuid": "93889e44-b60f-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Randolph County"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [

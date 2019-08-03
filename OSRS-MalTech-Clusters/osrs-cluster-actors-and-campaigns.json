@@ -411,6 +411,36 @@
       "value": "0v1ru$"
     },
 	{
+      "description": "Actor claiming responsibility for the Capital One data breach of July 2019.",
+      "meta": {
+        "refs": [
+          "https://securityaffairs.co/wordpress/89114/data-breach/capital-one-data-breach.html"
+        ]
+      },
+      "uuid": "9e9df5d0-b610-11e9-a2a3-2a2ae2dbcce4",
+      "value": "erratic"
+    },
+	{
+      "description": "A hacktivist who claimed the responsibility for defacing several local U.S. government websites. Motivation was political and called for better government support for medical care in the U.S.",
+      "meta": {
+        "refs": [
+          "https://www.databreaches.net/dozens-of-government-websites-defaced-by-vandathegod-hacktivists/"
+        ]
+      },
+      "uuid": "9e9df832-b610-11e9-a2a3-2a2ae2dbcce4",
+      "value": "VandaTheGod"
+    },
+	{
+      "description": "Threat actor group discovered by Group-IB known for conducting fraudulent activities masquerading as legitimate web sites and applications.",
+      "meta": {
+        "refs": [
+          "https://securityaffairs.co/wordpress/89287/cyber-crime/lotsy-group-scam-campaigns.html"
+        ]
+      },
+      "uuid": "9e9df97c-b610-11e9-a2a3-2a2ae2dbcce4",
+      "value": "Lotsy"
+    },
+	{
       "description": "SandCat, on the other hand, is a group that was discovered more recently by Kaspersky. One of the Windows vulnerabilities patched by Microsoft in December had been exploited by both FruityArmor and SandCat in attacks targeting the Middle East and Africa. SandCat has been using FinFisher/FinSpy spyware and CHAINSHOT, a piece of malware analyzed earlier this year by Palo Alto Networks. The group has also used the CVE-2018-8589 and CVE-2018-8611 Windows vulnerabilities in its attacks, both of which had a zero-day status when Microsoft released fixes.",
       "meta": {
         "refs": [
@@ -421,5 +451,5 @@
       "value": "SandCat"
     }  
 	  ],
-	"version": 9
+	"version": 10
 }

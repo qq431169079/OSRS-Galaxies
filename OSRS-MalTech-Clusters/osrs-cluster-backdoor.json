@@ -207,6 +207,26 @@
       "value": "TONEDEAF"
     },
 	{
+      "description": "A backdoor used by the threat actor Ke3chang - and, sometimes used in conjunction with the Okrum backdoor.",
+      "meta": {
+        "refs": [
+          "https://www.welivesecurity.com/wp-content/uploads/2019/07/ESET_Okrum_and_Ketrican.pdf"
+        ]
+      },
+      "uuid": "d620fdc6-b611-11e9-a2a3-2a2ae2dbcce4",
+      "value": "Ketrican"
+    },
+	{
+      "description": "Backdoor that allows for system information discovery, network communication over HTTP, and file access.  Used by the threat actor known as Ke3chang.",
+      "meta": {
+        "refs": [
+          "https://www.welivesecurity.com/wp-content/uploads/2019/07/ESET_Okrum_and_Ketrican.pdf"
+        ]
+      },
+      "uuid": "d6210032-b611-11e9-a2a3-2a2ae2dbcce4",
+      "value": "Okrum"
+    },
+	{
       "description": "The backdoor dubbed SLUB by the Trend Micro Cyber Safety Solutions Team who detected it in the wild is part of a multi-stage infection process designed by capable threat actors who programmed it in C++. SLUB uses statically-linked curl, boost, and JsonCpp libraries for performing HTTP request, extracting commands from gist snippets, and parsing Slack channel communication.",
       "meta": {
         "refs": [
@@ -217,5 +237,5 @@
       "value": "SLUB"
     }
 	  ],
-	"version": 6
+	"version": 7
 }

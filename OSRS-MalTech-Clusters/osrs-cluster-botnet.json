@@ -139,6 +139,16 @@
       "value": "Test Botnet Value"
     },
 	{
+      "description": "A cryptocurrency-mining bonet in operation since late 2018. Capable of leveraging the BlueKeep RDP exploit.",
+      "meta": {
+        "refs": [
+          "https://www.intezer.com/blog-watching-the-watchbog-new-bluekeep-scanner-and-linux-exploits/"
+        ]
+      },
+      "uuid": "d3e6d322-b612-11e9-a2a3-2a2ae2dbcce4",
+      "value": "WatchBog"
+    },
+	{
       "description": "GoLang Botnet",
       "meta": {
         "refs": [
@@ -149,5 +159,5 @@
       "value": "GoBrut"
     }
 	  ],
-	"version": 3
+	"version": 4
 }

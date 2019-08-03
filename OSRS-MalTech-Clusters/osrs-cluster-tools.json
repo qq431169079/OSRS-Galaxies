@@ -1842,6 +1842,36 @@
 			"value": "VALUEVALUT"
 		},
 		{
+			"description": "Crypto mining malware that comes from P2P torrent downloads.",
+			"meta": {
+				"refs": [
+					"https://blog.yoroi.company/research/p2p-worm-spreads-crypto-miners-in-the-wild/"
+				]
+			},
+			"uuid": "d07baa80-b614-11e9-a2a3-2a2ae2dbcce4",
+			"value": "MinerD"
+		},
+		{
+			"description": "Monokle is a new and sophisticated set of custom Android surveillanceware tools developed by the Russia-based company, Special Technology Centre, Ltd, which was sanctioned by the U.S. Government in connection to interference in the 2016 US presidential elections.",
+			"meta": {
+				"refs": [
+					"https://blog.lookout.com/monokle"
+				]
+			},
+			"uuid": "d07bace2-b614-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Monokle"
+		},
+		{
+			"description": "To start, it is a signed, native Microsoft binary that already exists on Windows that can execute code in a variety of ways, and in today’s living off the land culture that attackers love, this makes it a prime application of interest since code execution can be proxied through it.",
+			"meta": {
+				"refs": [
+					"https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/what-is-mshta-how-can-it-be-used-and-how-to-protect-against-it/"
+				]
+			},
+			"uuid": "d07bae36-b614-11e9-a2a3-2a2ae2dbcce4",
+			"value": "mshta.exe"
+		},
+		{
 			"description": "Nheqminer is a great implementation of equihash mining, mainly used on NiceHas but forked many times and todays is getting used for several spare projects as well. Nheqminer is a specific miner for Zcash value based on common PCs. You might want to checkout more here. Exploring memory snapshots during its execution can be easy to figure out the miner runs over Zcash.Flypool server mining for the following wallet address.",
 			"meta": {
 				"refs": [
@@ -1852,5 +1882,5 @@
 			"value": "Nheqminer"
 		}
 	],
-	"version": 17
+	"version": 18
 }
