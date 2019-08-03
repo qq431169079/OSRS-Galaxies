@@ -306,6 +306,56 @@
 			"value": "The University of Alabama"
 		},
 		{
+			"description": "Lancaster University is a collegiate public research university in Lancaster, Lancashire, England. The university was established by Royal Charter in 1964, one of several new universities created in the 1960s.",
+			"meta": {
+				"refs": [
+					"https://www.lancaster.ac.uk/"
+				]
+			},
+			"uuid": "f78337d6-b616-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Lancaster University"
+		},
+		{
+			"description": "The University of Hawaii at Mānoa is a public co-educational research university as well as the flagship campus of the University of Hawaii system.",
+			"meta": {
+				"refs": [
+					"https://www.hawaii.edu/"
+				]
+			},
+			"uuid": "f7833a42-b616-11e9-a2a3-2a2ae2dbcce4",
+			"value": "University of Hawaii at Mānoa"
+		},
+		{
+			"description": "There are 25 million currently unfilled or soon-to-be created mid-skill jobs. Graduation Alliance can help train and prepare students for gainful employment.",
+			"meta": {
+				"refs": [
+					"https://www.graduationalliance.com/"
+				]
+			},
+			"uuid": "f7833b96-b616-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Graduation Alliance Inc."
+		},
+		{
+			"description": "The University of Western Australia is a public research university in the Australian state of Western Australia. The university's main campus is in Perth, the state capital, with a secondary campus in Albany and various other facilities elsewhere.",
+			"meta": {
+				"refs": [
+					"https://www.uwa.edu.au/"
+				]
+			},
+			"uuid": "f7833cd6-b616-11e9-a2a3-2a2ae2dbcce4",
+			"value": "The University of Western Australia"
+		},
+		{
+			"description": "An authorized World School of the International Baccalaureate Organization (IBO), the only elementary school in New Orleans with this designation. The school has built a program of study that is both developmentally appropriate for young children and challenging to their growth as students. Their Primary Years Programme offers a rigorous curriculum that crosses disciplines and aligns with many of the Common Core State Standards for learning. We are a candidate school of the IBO, offering the Middle Years Programme (MYP) and hope to be fully authorized to deliver this program in 2017.",
+			"meta": {
+				"refs": [
+					"https://www.morrisjeffschool.org/"
+				]
+			},
+			"uuid": "f7834028-b616-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Morris Jeff Community School"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [
@@ -316,5 +366,5 @@
 			"value": "Orchard View High School"
 		}
 	],
-	"version": 10
+	"version": 11
 }

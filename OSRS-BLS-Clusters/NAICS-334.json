@@ -47,6 +47,16 @@
 			"value": "SyTech Corporation"
 		},
 		{
+			"description": "Synology Inc. is a Taiwanese corporation that specializes in Network-attached storage appliances. Synology’s line of NAS is known as the DiskStation for desktop models, FlashStation for all-flash models, and RackStation for rack-mount models.",
+			"meta": {
+				"refs": [
+					"https://www.synology.com/"
+				]
+			},
+			"uuid": "85721662-b616-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Synology Inc."
+		},
+		{
 			"description": "Cisco Systems, Inc. is an American multinational technology conglomerate headquartered in San Jose, California, in the center of Silicon Valley. Cisco develops, manufactures and sells networking hardware, telecommunications equipment and other high-technology services and products. Through its numerous acquired subsidiaries, such as OpenDNS, WebEx, Jabber and Jasper, Cisco specializes into specific tech markets, such as Internet of Things (IoT), domain security and energy management.",
 			"meta": {
 				"refs": [
@@ -58,5 +68,5 @@
 			"value": "Cisco"
 		}
 	],
-	"version": 3
+	"version": 4
 }

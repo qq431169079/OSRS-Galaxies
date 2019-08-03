@@ -125,6 +125,16 @@
 			"value": "Independent Age"
 		},
 		{
+			"description": "In the early 1960s, the residents of the Park DuValle Community Health Center began to voice their concern for the lack of medical services provided to this area. At that time, the only health care, other than private physicians, was General Hospital. It was located in the east end of town and public transportation was unavailable after 5 p.m. These primarily medically indigent residents began to work with several civic-minded groups to make their dreams a reality. A coalition of residents, led by the late Vernice Hunter, a community activist, along with the American Friends Service Committee (AFSC), approached the city government about its concerns. Due to these efforts, several buildings in the Cotter Homes subsidized housing area were designated by the city to house the new health care facility. Federal Office of Economic Opportunity funding was secured and in 1968, Dr. Harvey I. Sloane became the center’s first director and provided direction for this most important and sensitive endeavor.",
+			"meta": {
+				"refs": [
+					"http://pdchc.org/pdchc-our-history-page/"
+				]
+			},
+			"uuid": "11ca2690-b61c-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Park Duvalle Community Health Center Inc"
+		},
+		{
 			"description": "UNITED TISSUE NETWORK IS A NONPROFIT 501C3, AATB ACCREDITED, WHOLE-BODY DONATION COMPANY.",
 			"meta": {
 				"refs": [
@@ -135,5 +145,5 @@
 			"value": "United Tissue Network"
 		}
 	],
-	"version": 7
+	"version": 8
 }

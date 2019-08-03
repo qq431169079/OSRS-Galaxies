@@ -827,6 +827,46 @@
 			"value": "Natera, Inc."
 		},
 		{
+			"description": "A cryptocurrency exchange listed in Sweden.",
+			"meta": {
+				"refs": [
+					"https://quickbit.eu/"
+				]
+			},
+			"uuid": "5e129e16-b61b-11e9-a2a3-2a2ae2dbcce4",
+			"value": "QuickBit"
+		},
+		{
+			"description": "Invest in stocks, ETFs, options, and cryptocurrencies, all commission-free, right from your phone or desktop.",
+			"meta": {
+				"refs": [
+					"https://robinhood.com/"
+				]
+			},
+			"uuid": "5e12a0d2-b61b-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Robbinhood"
+		},
+		{
+			"description": "FormGet is used to make communication easy and powerful between you and your customers. FormGet has been organised to manage all your forms from a single place. You can build contact forms, payments forms, lead capture forms or just about any form you can imagine. Earlier the problem with most of the forms was that they only allowed the users to submit their queries and there were no chances of further communication from the other side. Admin were not able to manage all its forms from a single place. And whenever they want to reply to the queries they need to switch back and forth between email accounts for replying back.",
+			"meta": {
+				"refs": [
+					"https://www.formget.com/"
+				]
+			},
+			"uuid": "5e12a316-b61b-11e9-a2a3-2a2ae2dbcce4",
+			"value": "FormGet"
+		},
+		{
+			"description": "Founded in 2001, 1to1help.net is India(s) leading Employee Assistance Program (EAP) provider. We offer Psychological Counselling and comprehensive Wellness solutions that help employees deal with various work-life challenges like stress, anxiety, parenting, relationship issues both pre & post marital, work-life balance, etc. We currently support 300+ clients and cover 1.7 million lives through our team of 250+ counsellors across 55+ locations in India. We also provide services in the areas of Prevention of Sexual Harassment (POSH), Shiftwork Lifestyle Management, Healthy Maternity, Diversity & Inclusion, Diet and Nutrition and other wellness services.",
+			"meta": {
+				"refs": [
+					"https://1to1help.net/"
+				]
+			},
+			"uuid": "5e12a528-b61b-11e9-a2a3-2a2ae2dbcce4",
+			"value": "1to1help"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
@@ -837,5 +877,5 @@
 			"value": "TriTech"
 		}
 	],
-	"version": 18
+	"version": 19
 }

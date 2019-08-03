@@ -96,6 +96,56 @@
 			"value": "Philadelphia Federal Credit Union"
 		},
 		{
+			"description": "National Australia Bank is one of the four largest financial institutions in Australia in terms of market capitalisation, earnings and customers.",
+			"meta": {
+				"refs": [
+					"https://www.nab.com.au/"
+				]
+			},
+			"uuid": "f6113f3c-b617-11e9-a2a3-2a2ae2dbcce4",
+			"value": "National Australia Bank Ltd."
+		},
+		{
+			"description": "Banco Pan, is a Brazilian midsize commercial bank headquartered in São Paulo. The bank main focus is granting consumer loans to individuals of lower to medium income brackets, such as consumer loans, payroll deduction loans, credit cards branded as Visa or MasterCard, insurance products, leasing, and group financial activities.",
+			"meta": {
+				"refs": [
+					"https://www.bancopan.com.br/"
+				]
+			},
+			"uuid": "f6114202-b617-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Banco Pan"
+		},
+		{
+			"description": "The Single lending platform where you can get crypto credits, convert or buy crypto. Leverage crypto assets without selling them!",
+			"meta": {
+				"refs": [
+					"https://www.youhodler.com/"
+				]
+			},
+			"uuid": "f611436a-b617-11e9-a2a3-2a2ae2dbcce4",
+			"value": "YouHodler"
+		},
+		{
+			"description": "Capital One Financial Corporation is a bank holding company specializing in credit cards, auto loans, banking and savings accounts headquartered in McLean, Virginia. Capital One is ranked 10th on the list of largest banks in the United States by assets.",
+			"meta": {
+				"refs": [
+					"https://www.capitalone.com/"
+				]
+			},
+			"uuid": "f61144aa-b617-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Capital One Financial Corporation"
+		},
+		{
+			"description": "Aegon Life Insurance Company is an Indian life insurance provider founded in 2008 with headquarters in Mumbai, offering individual and group insurance online and offline.",
+			"meta": {
+				"refs": [
+					"https://www.aegonlife.com/"
+				]
+			},
+			"uuid": "f6114874-b617-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Aegon Life Insurance Company"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [
@@ -106,5 +156,5 @@
 			"value": "Meezan Bank"
 		}
 	],
-	"version": 6
+	"version": 7
 }

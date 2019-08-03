@@ -26,6 +26,26 @@
 			"value": "Shopify"
 		},
 		{
+			"description": "Sephora is a Paris–based French multinational chain of personal care and beauty stores founded in Limoges in 1969. Featuring nearly 300 brands, along with its own private label, Sephora offers beauty products including cosmetics, skincare, body, fragrance, nail color, beauty tools, and haircare.",
+			"meta": {
+				"refs": [
+					"https://www.sephora.com/"
+				]
+			},
+			"uuid": "79392d4e-b61c-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Sephora"
+		},
+		{
+			"description": "Poshmark is a social commerce marketplace where people in the United States can buy and sell new or used clothing, shoes, and accessories. The company is headquartered in Redwood City, California.",
+			"meta": {
+				"refs": [
+					"https://poshmark.com/"
+				]
+			},
+			"uuid": "7939301e-b61c-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Poshmark"
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [
@@ -36,5 +56,5 @@
 			"value": "Gearbest"
 		}
 	],
-	"version": 2
+	"version": 3
 }

@@ -17,6 +17,16 @@
       "value": "Test Manufacturing Value"
     },
 	{
+      "description": "Honda Motor Company, Ltd. is a Japanese public multinational conglomerate corporation primarily known as a manufacturer of automobiles, motorcycles, and power equipment.",
+      "meta": {
+        "refs": [
+          "https://www.honda.com/"
+        ]
+      },
+      "uuid": "7527a462-b61a-11e9-a2a3-2a2ae2dbcce4",
+      "value": "Honda Motor Company, Ltd."
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [
@@ -27,5 +37,5 @@
       "value": "Toyota"
     }
 	  ],
-	"version": 2
+	"version": 3
 }

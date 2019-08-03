@@ -246,6 +246,36 @@
 			"value": "St. Conal's Hospital"
 		},
 		{
+			"description": "Springhill Medical Center is a 263-bed acute care hospital located in the U.S. city of Mobile, Alabama. It is accredited by The Joint Commission.",
+			"meta": {
+				"refs": [
+					"https://www.springhillmedicalcenter.com/Find-a-Doctor.aspx"
+				]
+			},
+			"uuid": "cdee58d6-b618-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Springhill Medical Center"
+		},
+		{
+			"description": "Hospital located in Bayamon, PR.",
+			"meta": {
+				"refs": [
+					"http://www.bayamon-medical.com/"
+				]
+			},
+			"uuid": "cdee5d18-b618-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Bayamón Medical Center"
+		},
+		{
+			"description": "Puerto Rico Women And Childrens Hospital is a General Acute Care Hospital - Children in Bayamon, Puerto Rico.",
+			"meta": {
+				"refs": [
+					"https://puertoricochildrenshospital.com/"
+				]
+			},
+			"uuid": "cdee5e8a-b618-11e9-a2a3-2a2ae2dbcce4",
+			"value": "Puerto Rico Women And Children’s Hospital"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [
@@ -256,5 +286,5 @@
 			"value": "Hawkesbury General Hospital"
 		}
 	],
-	"version": 12
+	"version": 13
 }

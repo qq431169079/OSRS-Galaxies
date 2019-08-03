@@ -17,6 +17,16 @@
       "value": "Test Primary Metal Manufacturing Value"
     },
 	{
+      "description": "Blastech Mobile has the most advanced plate processing operation currently available in North America. Coupled with our Total Plate Processing facility and our Premium Plate business unit we are able to offer customer procured, hot rolled carbon steel plates directly through our partner SSAB who produce the high quality hot rolled carbon steel plate at their mill on the same site. We also process customers supplied steel plates.",
+      "meta": {
+        "refs": [
+          "http://www.tfwarren.com/companies/blastech-mobile"
+        ]
+      },
+      "uuid": "f275569e-b61a-11e9-a2a3-2a2ae2dbcce4",
+      "value": "Blastech Mobile LLC"
+    },
+	{
       "description": "Norsk Hydro ASA is a Norwegian aluminium and renewable energy company, headquartered in Oslo. It is one of the largest aluminium companies worldwide. It has operations in some 50 countries around the world and is active on all continents.",
       "meta": {
         "refs": [
@@ -27,5 +37,5 @@
       "value": "Norsk Hydro"
     }
 	  ],
-	"version": 2
+	"version": 3
 }
