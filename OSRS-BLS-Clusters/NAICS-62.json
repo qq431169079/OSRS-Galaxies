@@ -596,6 +596,86 @@
 			"value": "South Texas Dermatopathology, PLLC"
 		},
 		{
+			"description": "General and cosmetic dentisry in Maitland, FL.",
+			"meta": {
+				"refs": [
+					"http://www.maitlanddentistry.com/"
+				]
+			},
+			"uuid": "40c1f8ea-bf83-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Maitland Dentistry"
+		},
+		{
+			"description": "Presbyterian Healthcare Services is a private not-for-profit health care system and health care provider in the State of New Mexico. It owns and operates 8 hospitals in 7 New Mexico communities. It also operates Presbyterian Health Plan.",
+			"meta": {
+				"refs": [
+					"https://www.phs.org/Pages/default.aspx"
+				]
+			},
+			"uuid": "40c1fbd8-bf83-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Presbyterian Healthcare Services"
+		},
+		{
+			"description": "Truman Medical Centers (TMC) has all the things you expect from a great health system. With two acute care academic hospital locations, the largest, most comprehensive behavioral health program in the area, a long-term care facility and multiple primary care practices, TMC provides care from birth through your senior years. We are the primary teaching hospital for the University of Missouri-Kansas City School of Medicine, so our doctors are academic specialists who teach tomorrow’s doctors the very latest updates in their respective specialties.",
+			"meta": {
+				"refs": [
+					"https://www.trumed.org/"
+				]
+			},
+			"uuid": "40c1fd54-bf83-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Truman Medical Centers"
+		},
+		{
+			"description": "Renown Health is the largest locally owned not-for-profit healthcare network in Northern Nevada. It has more than 6,500 employees system-wide and is one of Northern Nevada's largest employers.",
+			"meta": {
+				"refs": [
+					"https://www.renown.org/"
+				]
+			},
+			"uuid": "40c1fe94-bf83-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Renown Health"
+		},
+		{
+			"description": "Local drug store in TN.",
+			"meta": {
+				"refs": [
+					"https://www.databreaches.net/ugh-amazon-buckets-with-1-8-million-pharmacy-related-files-and-1-2-million-telemarketing-recordings-about-diabetic-supplies-found-unsecured/"
+				]
+			},
+			"uuid": "40c1ffde-bf83-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Lynchburg Drug Store TN"
+		},
+		{
+			"description": "Local pharmacy in MD.",
+			"meta": {
+				"refs": [
+					"https://www.databreaches.net/ugh-amazon-buckets-with-1-8-million-pharmacy-related-files-and-1-2-million-telemarketing-recordings-about-diabetic-supplies-found-unsecured/"
+				]
+			},
+			"uuid": "fd6c4b44-bf83-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Chesapeake Bay Pharmacy MD"
+		},
+		{
+			"description": "Local drug store in FL.",
+			"meta": {
+				"refs": [
+					"https://www.databreaches.net/ugh-amazon-buckets-with-1-8-million-pharmacy-related-files-and-1-2-million-telemarketing-recordings-about-diabetic-supplies-found-unsecured/"
+				]
+			},
+			"uuid": "fd6c51ca-bf83-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Milton Medical & Drug FL"
+		},
+		{
+			"description": "The NCH Healthcare System is a not-for-profit, multi-facility healthcare system located in Naples, Florida, United States. The anchor of the system is the two hospitals with a total of 681 beds.",
+			"meta": {
+				"refs": [
+					"https://www.nchmd.org/"
+				]
+			},
+			"uuid": "fd6c5346-bf83-11e9-9cb5-2a2ae2dbcce4",
+			"value": "The NCH Healthcare System"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [
@@ -606,5 +686,5 @@
 			"value": "SingHealth"
 		}
 	],
-	"version": 16
+	"version": 17
 }

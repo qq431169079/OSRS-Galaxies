@@ -36,6 +36,16 @@
 			"value": "KHSU"
 		},
 		{
+			"description": "KNEO is a Christian radio station licensed to Neosho, Missouri, serving the Joplin, Missouri area. The station is owned by Sky High Broadcasting Corporation.",
+			"meta": {
+				"refs": [
+					"https://www.kneo.org/"
+				]
+			},
+			"uuid": "61ce6a02-bf81-11e9-9cb5-2a2ae2dbcce4",
+			"value": "KNEO 91.7FM"
+		},
+		{
 			"description": "Discovery Channel is an American pay television television network and flagship channel owned by Discovery, Inc., a publicly traded company run by CEO David Zaslav.",
 			"meta": {
 				"refs": [
@@ -46,5 +56,5 @@
 			"value": "Discovery Channel"
 		}
 	],
-	"version": 3
+	"version": 4
 }

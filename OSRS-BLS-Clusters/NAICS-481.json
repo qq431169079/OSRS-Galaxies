@@ -27,6 +27,26 @@
       "value": "Louisville Regional Airport Authority"
     },
 	{
+      "description": "Air New Zealand Limited is the flag carrier airline of New Zealand. Based in Auckland, the airline operates scheduled passenger flights to 20 domestic and 31 international destinations in 19 countries, primarily around and within the Pacific Rim. The airline has been a member of the Star Alliance since 1999.",
+      "meta": {
+        "refs": [
+          "https://www.airnewzealand.com/"
+        ]
+      },
+      "uuid": "eb0aaa0c-bf80-11e9-9cb5-2a2ae2dbcce4",
+      "value": "Air New Zealand"
+    },
+	{
+      "description": "British Airways is the flag carrier airline of the United Kingdom, headquartered at Waterside, Harmondsworth. It is the second largest airline in the United Kingdom, based on fleet size and passengers carried, behind easyJet. The airline is based in Waterside near its main hub at London Heathrow Airport.",
+      "meta": {
+        "refs": [
+          "https://www.britishairways.com/travel/home/public/en_us"
+        ]
+      },
+      "uuid": "eb0aad0e-bf80-11e9-9cb5-2a2ae2dbcce4",
+      "value": "British Airways"
+    },
+	{
       "description": "Cleveland Hopkins International Airport is a public airport located in Cleveland, Ohio, nine miles southwest of the downtown area and adjacent to the Glenn Research Center, one of NASA's ten major field centers.",
       "meta": {
         "refs": [
@@ -37,5 +57,5 @@
       "value": "Cleveland Hopkins International Airport"
     }
 	  ],
-	"version": 3
+	"version": 4
 }

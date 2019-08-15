@@ -969,6 +969,156 @@
 			"value": "Randolph County"
 		},
 		{
+			"description": "Water Department located in Murfreesboro, TN.",
+			"meta": {
+				"refs": [
+					"https://www.murfreesborotn.gov/994/Water-Resources"
+				]
+			},
+			"uuid": "9f398ab0-bf7d-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Murfreesboro Water Department"
+		},
+		{
+			"description": "Greenville County School District is a public school district in Greenville County, South Carolina. It is the largest school district in the state of South Carolina and the 44th largest in the US. Greenville CSD also takes students from some areas of Spartanburg and Laurens counties.",
+			"meta": {
+				"refs": [
+					"https://www.greenville.k12.sc.us/"
+				]
+			},
+			"uuid": "9f398ed4-bf7d-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Greenville County School District"
+		},
+		{
+			"description": "The DeKalb County School District is a school district headquartered at 1701 Mountain Industrial Boulevard in unincorporated DeKalb County, Georgia, United States, near Stone Mountain and in the Atlanta metropolitan area.",
+			"meta": {
+				"refs": [
+					"https://www.dekalbschoolsga.org/"
+				]
+			},
+			"uuid": "9f399406-bf7d-11e9-9cb5-2a2ae2dbcce4",
+			"value": "DeKalb School District"
+		},
+		{
+			"description": "Revenu Québec is the department of the government of the Province of Quebec, Canada that sees to the collection of income tax and consumption taxes, while ensuring that each person pays a fair share.",
+			"meta": {
+				"refs": [
+					"https://www.revenuquebec.ca/en/"
+				]
+			},
+			"uuid": "9f399564-bf7d-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Revenu Québec"
+		},
+		{
+			"description": "The Northern Territory Police is the police body that has legal jurisdiction over the Northern Territory of Australia. This police service has 1302 gazetted police positions (as at 31 July 2011) made up of 55 senior sergeants, 200 sergeants, 741 constables, 159 auxiliaries, and 84 Aboriginal community police officers. The rest of the positions are members of commissioned rank and 10 inoperative positions (as of 31 July 2011). It also has a civilian staff of 297 across 48 stations.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Northern_Territory_Police"
+				]
+			},
+			"uuid": "9f39969a-bf7d-11e9-9cb5-2a2ae2dbcce4",
+			"value": "The Northern Territory Police"
+		},
+		{
+			"description": "Maplewood is a suburban township in Essex County, New Jersey, United States. As of the 2010 United States Census, the township's population was 23,867, reflecting a decline of 1 person from the 23,868 counted in the 2000 Census, which had in turn increased by 2,216 from the 21,652 counted in the 1990 Census.",
+			"meta": {
+				"refs": [
+					"https://www.twp.maplewood.nj.us/"
+				]
+			},
+			"uuid": "3d295b1a-bf7e-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Township of Maplewood"
+		},
+		{
+			"description": "Over the past 90 years, the Department's work has been conducted in a variety of places: from 1935-39, in the basement of the County Courthouse; during the 40's, in a former church and an old bank building; in a flower shop, a bus depot, and an abandoned barracks. Presently, the Department of Public Social Services has offices located throughout the County in Blythe, Indio, Cathedral City, Rancho Mirage, Banning, Hemet, Perris, Temecula, Lake Elsinore, Norco, Arlington, Moreno Valley, and Riverside.",
+			"meta": {
+				"refs": [
+					"http://dpss.co.riverside.ca.us/"
+				]
+			},
+			"uuid": "3d295d90-bf7e-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Riverside County Department of Public Social Services"
+		},
+		{
+			"description": "The New York City Fire Department Bureau of Emergency Medical Services, also known as the FDNY EMS Command, or FDNY EMS, was established on March 17, 1996, following the merger of the New York City Fire Department and New York City Health and Hospitals Corporation's EMS division.",
+			"meta": {
+				"refs": [
+					"https://www1.nyc.gov/site/fdny/jobs/career-paths/ems.page"
+				]
+			},
+			"uuid": "3d295fde-bf7e-11e9-9cb5-2a2ae2dbcce4",
+			"value": "New York City Fire Department Bureau of EMS"
+		},
+		{
+			"description": "Naples is a city on the Gulf of Mexico in southwest Florida that’s known for high-end shopping and golf courses. The Naples Pier, first erected in 1888, is the city’s symbol, and is a popular fishing and dolphin-spotting destination. It’s flanked by miles of beaches with calm waters and fine white sugar sand, including those at Clam Pass Park and Delnor-Wiggins Pass State Park.",
+			"meta": {
+				"refs": [
+					"https://www.naplesgov.com/"
+				]
+			},
+			"uuid": "3d296128-bf7e-11e9-9cb5-2a2ae2dbcce4",
+			"value": "The City of Naples"
+		},
+		{
+			"description": "Bismarck is the capital city of North Dakota. It's centrally located in the state and in North America and is bordered on the west by the scenic Missouri River. Bismarck is an economically diverse, fast growing and dynamic community. The Bismarck-Mandan Metropolitan Statistical Area (MSA) for 2016 shows a population of more than 125,000.",
+			"meta": {
+				"refs": [
+					"https://www.bismarckschools.org/"
+				]
+			},
+			"uuid": "3d29625e-bf7e-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Bismarck Public Schools"
+		},
+		{
+			"description": "Today, the Charleston County Sheriff's Office is one of the largest full-service Sheriff's Offices in the State of South Carolina. Charleston County is South Carolina's seventh largest county geographically and its third-most populous. As a political subdivision, Charleston County has been in existence since 1682, as one of three original counties in South Carolina.",
+			"meta": {
+				"refs": [
+					"https://www.charlestoncounty.org/departments/sheriff/index.php"
+				]
+			},
+			"uuid": "d2ba19da-bf7e-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Charleston County Sheriff's Office"
+		},
+		{
+			"description": "The provincial government is responsible for making and enforcing laws, collecting taxes, and providing public services such as healthcare and education. It is accountable to all citizens of the province, representing their interests and acting on their concerns.",
+			"meta": {
+				"refs": [
+					"https://www.princeedwardisland.ca/en/topic/child-and-family"
+				]
+			},
+			"uuid": "d2ba1ca0-bf7e-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Child and Family | Government of Prince Edward Island"
+		},
+		{
+			"description": "Public Transport Victoria is the trading name of the Public Transport Development Authority, a statutory authority in the Australian state of Victoria responsible for providing, coordinating and promoting public transport.",
+			"meta": {
+				"refs": [
+					"https://www.ptv.vic.gov.au/"
+				]
+			},
+			"uuid": "d2ba1df4-bf7e-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Public Transport Victoria"
+		},
+		{
+			"description": "Camp Verde Unified School District (CVUSD) is a school district with headquarters in Camp Verde, Arizona.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Camp_Verde_Unified_School_District"
+				]
+			},
+			"uuid": "d2ba1f2a-bf7e-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Camp Verde Unified School District"
+		},
+		{
+			"description": "Valley View School District 365U is located about 35 miles southwest of downtown Chicago, where Interstates 55 & 355 intersect. The district comprises most of Bolingbrook and Romeoville, Illinois. Formed in 1972, the district now serves the educational needs of more than 18,000 students in 20 educational facilities.",
+			"meta": {
+				"refs": [
+					"https://www.vvsd.org/"
+				]
+			},
+			"uuid": "d2ba229a-bf7e-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Valley View District 365U"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
@@ -979,5 +1129,5 @@
 			"value": "Canterbury and West Coast District Health Board "
 		}
 		],
-	"version": 13
+	"version": 14
 }

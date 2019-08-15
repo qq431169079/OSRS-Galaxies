@@ -356,6 +356,26 @@
 			"value": "Morris Jeff Community School"
 		},
 		{
+			"description": "TAFE NSW is an Australian vocational education and training provider. Annually, the network trains over 500,000 students in campus, workplace, online, or distance education methods of education. It was established as an independent statutory body under the TAFE Commission Act 1990.",
+			"meta": {
+				"refs": [
+					"https://www.tafensw.edu.au/"
+				]
+			},
+			"uuid": "beeff87c-bf81-11e9-9cb5-2a2ae2dbcce4",
+			"value": "TAFE NSW"
+		},
+		{
+			"description": "The University of Hong Kong is a public research university in Hong Kong. Founded in 1911, its origins trace back to the Hong Kong College of Medicine for Chinese, which was founded in 1887. It is the oldest tertiary institution in Hong Kong.",
+			"meta": {
+				"refs": [
+					"https://www.hku.hk/"
+				]
+			},
+			"uuid": "beeffb06-bf81-11e9-9cb5-2a2ae2dbcce4",
+			"value": "University of Hong Kong"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [
@@ -366,5 +386,5 @@
 			"value": "Orchard View High School"
 		}
 	],
-	"version": 11
+	"version": 12
 }

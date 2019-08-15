@@ -47,6 +47,16 @@
       "value": "Pacers Basketball, LLC"
     },
 	{
+      "description": "The Electronic Entertainment Expo, commonly referred to as E3, is a premier trade-event for the video-game industry.",
+      "meta": {
+        "refs": [
+          "https://www.e3expo.com/"
+        ]
+      },
+      "uuid": "1dc7f7c0-bf85-11e9-9cb5-2a2ae2dbcce4",
+      "value": "Electronic Entertainment Expo"
+    },
+	{
       "description": "Woodruff Arts Center is a visual and performing arts center located in Atlanta, Georgia. The center houses three not-for-profit arts divisions on one campus. Opened in 1968, the Woodruff Arts Center is home to the Alliance Theatre, the Atlanta Symphony Orchestra, and the High Museum of Art.",
       "meta": {
         "refs": [
@@ -57,5 +67,5 @@
       "value": "The Woodruff Arts Center"
     }
 	  ],
-	"version": 5
+	"version": 6
 }

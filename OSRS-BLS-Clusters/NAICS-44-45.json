@@ -46,6 +46,26 @@
 			"value": "Poshmark"
 		},
 		{
+			"description": "StockX is a Detroit based company primarily known for its e-commerce platform StockX.com. The company was founded by Dan Gilbert, Greg Schwartz, Josh Luber and Chris Kaufman in 2015, with an emphasis on the sneaker resale market.",
+			"meta": {
+				"refs": [
+					"https://stockx.com/"
+				]
+			},
+			"uuid": "7d7c80fe-bf86-11e9-9cb5-2a2ae2dbcce4",
+			"value": "StockX"
+		},
+		{
+			"description": "CafePress, Inc. is an American online retailer of stock and user-customized on demand products. The company was founded in San Mateo, California, but is now headquartered in Louisville, Kentucky, USA along with its production facility. In 2001, CafePress.com won the People's Voice Webby Award in the Commerce category.",
+			"meta": {
+				"refs": [
+					"https://www.cafepress.com/"
+				]
+			},
+			"uuid": "7d7c83ec-bf86-11e9-9cb5-2a2ae2dbcce4",
+			"value": "CafePress, Inc."
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [
@@ -56,5 +76,5 @@
 			"value": "Gearbest"
 		}
 	],
-	"version": 3
+	"version": 4
 }

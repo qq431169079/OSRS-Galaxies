@@ -27,6 +27,16 @@
       "value": "MyPillow"
     },
 	{
+      "description": "IKEA is a Swedish-founded multinational group that designs and sells ready-to-assemble furniture, kitchen appliances and home accessories, among other useful goods and occasionally home services. It has been the world's largest furniture retailer since at least 2008.",
+      "meta": {
+        "refs": [
+          "https://www.ikea.com/ms/en_KR/about-the-ikea-group/company-information/index.html"
+        ]
+      },
+      "uuid": "f11ecea8-bf82-11e9-9cb5-2a2ae2dbcce4",
+      "value": "IKEA"
+    },
+	{
       "description": "Amerisleep is a retailer and producer of mattresses.",
       "meta": {
         "refs": [
@@ -37,5 +47,5 @@
       "value": "Amerisleep"
     }
 	  ],
-	"version": 2
+	"version": 3
 }

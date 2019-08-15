@@ -276,6 +276,16 @@
 			"value": "Puerto Rico Women And Children’s Hospital"
 		},
 		{
+			"description": "Grays Harbor Community Hospital's healthcare team consists of physicians, nurses, other healthcare professionals, and students of the health sciences. These professionals provide needed diagnostic treatment and patient care services of the highest standards. Each patient at Grays Harbor Community Hospital has an attending physician who has primary responsibility for the patient's medical care.",
+			"meta": {
+				"refs": [
+					"https://www.ghcares.org/"
+				]
+			},
+			"uuid": "859d5d3c-bf84-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Grays Harbor Community Hospital"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [
@@ -286,5 +296,5 @@
 			"value": "Hawkesbury General Hospital"
 		}
 	],
-	"version": 13
+	"version": 14
 }

@@ -867,6 +867,46 @@
 			"value": "1to1help"
 		},
 		{
+			"description": "Neoclinical matches patients with clinical trials and vise versa.",
+			"meta": {
+				"refs": [
+					"http://neoclinical.com/"
+				]
+			},
+			"uuid": "8f948134-bf85-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Neoclinical"
+		},
+		{
+			"description": "3Fun (3FUN) is a location-based mobile online dating application for Android and iOS. It is currently the most widely used dating mobile app for polyamorous couples.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/3FUN"
+				]
+			},
+			"uuid": "8f94851c-bf85-11e9-9cb5-2a2ae2dbcce4",
+			"value": "3fun"
+		},
+		{
+			"description": "An Android based chatting and photo sharing application with over 10 million users.",
+			"meta": {
+				"refs": [
+					"https://play.google.com/store/apps/details?id=sweetchat.localdatingtinder.meet&hl=en_US"
+				]
+			},
+			"uuid": "8f94868e-bf85-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Sweet Chat"
+		},
+		{
+			"description": "Suprema is a leading global provider of biometrics and security. By combining world renowned biometric algorithms with superior engineering, Suprema has introduced a number of technology initiatives and innovations to the security industry over the last couple of decades. Suprema’s extensive range of portfolio includes biometric access control systems, time & attendance solutions, fingerprint live scanners, mobile authentication solutions and embedded fingerprint modules. Suprema has established itself as a premium global brand in physical security industry and has worldwide sales network in over 130 countries. Suprema has no.1 market share in biometric access control in EMEA region and named to the world's top 50 security manufacturer.",
+			"meta": {
+				"refs": [
+					"https://www.supremainc.com/en/main.asp"
+				]
+			},
+			"uuid": "8f9487c4-bf85-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Suprema HQ"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
@@ -877,5 +917,5 @@
 			"value": "TriTech"
 		}
 	],
-	"version": 19
+	"version": 20
 }

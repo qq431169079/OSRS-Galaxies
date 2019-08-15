@@ -15,7 +15,27 @@
       },
       "uuid": "af4fb202-4765-11e9-b210-d663bd873d93",
       "value": "Test Acommodation Value"
+    },
+	{
+      "description": "Reservation and management system created by Sark Technologies.",
+      "meta": {
+        "refs": [
+          "https://www.superinn.com/"
+        ]
+      },
+      "uuid": "10f15ece-bf80-11e9-9cb5-2a2ae2dbcce4",
+      "value": "SuperINN"
+    },
+	{
+      "description": "Choice Hotels International, Inc. is a hospitality franchisor based in Rockville, Maryland, United States. The company, which is one of the largest hotel chains in the world, owns several hotel brands ranging from upscale to economy.",
+      "meta": {
+        "refs": [
+          "https://www.choicehotels.com/"
+        ]
+      },
+      "uuid": "10f163ce-bf80-11e9-9cb5-2a2ae2dbcce4",
+      "value": "Choice Hotels"
     }
 	  ],
-	"version": 1
+	"version": 2
 }

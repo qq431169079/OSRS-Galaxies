@@ -146,6 +146,26 @@
 			"value": "Aegon Life Insurance Company"
 		},
 		{
+			"description": "Monzo Bank Ltd, is a digital, mobile-only bank based in the United Kingdom. Originally operating through a mobile app and a prepaid debit card, in April 2017 their UK banking licence restrictions were lifted, enabling them to offer a current account.",
+			"meta": {
+				"refs": [
+					"https://monzo.com/"
+				]
+			},
+			"uuid": "328bf01a-bf82-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Monzo Bank Ltd"
+		},
+		{
+			"description": "State Farm is a large group of insurance and financial services companies throughout the United States with corporate headquarters in Bloomington, Illinois.",
+			"meta": {
+				"refs": [
+					"https://www.statefarm.com/"
+				]
+			},
+			"uuid": "328bf29a-bf82-11e9-9cb5-2a2ae2dbcce4",
+			"value": "State Farm"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [
@@ -156,5 +176,5 @@
 			"value": "Meezan Bank"
 		}
 	],
-	"version": 7
+	"version": 8
 }

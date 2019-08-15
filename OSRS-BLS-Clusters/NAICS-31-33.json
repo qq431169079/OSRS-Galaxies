@@ -27,6 +27,16 @@
       "value": "Honda Motor Company, Ltd."
     },
 	{
+      "description": "Amarin Corporation plc. is a rapidly growing, innovative pharmaceutical company focused on developing therapeutics to improve cardiovascular health.",
+      "meta": {
+        "refs": [
+          "https://amarincorp.com/"
+        ]
+      },
+      "uuid": "cfa8071a-bf84-11e9-9cb5-2a2ae2dbcce4",
+      "value": "Amarin Corporation plc."
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [
@@ -37,5 +47,5 @@
       "value": "Toyota"
     }
 	  ],
-	"version": 3
+	"version": 4
 }

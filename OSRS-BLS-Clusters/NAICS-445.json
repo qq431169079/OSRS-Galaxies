@@ -15,7 +15,17 @@
       },
       "uuid": "ea259db8-48c5-11e9-8646-d663bd873d93",
       "value": "Test Food and Beverage Stores Value"
+    },
+	{
+      "description": "Hy-Vee is a chain of more than 245 supermarkets located throughout the Midwestern United States in Iowa, Illinois, Kansas, Minnesota, Missouri, Nebraska, South Dakota, and Wisconsin.",
+      "meta": {
+        "refs": [
+          "https://www.hy-vee.com/"
+        ]
+      },
+      "uuid": "9ad247c8-bf82-11e9-9cb5-2a2ae2dbcce4",
+      "value": "Hy-Vee"
     }
 	  ],
-	"version": 1
+	"version": 2
 }
