@@ -1872,6 +1872,57 @@
 			"value": "mshta.exe"
 		},
 		{
+			"description": "This malware consists of a remote access Trojan (RAT) module and a proxy mechanism used for command and control (C&C) communication.  We believe this may be the work of a state-sponsored APT actor based on overlaps with historical campaigns and macros utilized. The utilization of this distinct delivery methodology coupled with unique LookBack malware highlights the continuing threats posed by sophisticated adversaries to utilities systems and critical infrastructure providers.",
+			"meta": {
+				"refs": [
+					"https://www.proofpoint.com/us/threat-insight/post/lookback-malware-targets-united-states-utilities-sector-phishing-attacks"
+				]
+			},
+			"uuid": "59906abc-bf8a-11e9-9cb5-2a2ae2dbcce4",
+			"value": "LookBack RAT"
+		},
+		{
+			"description": "It is part of a malvertising chain via the PopCash ad network and uses a compromised site to redirect to a landing page. It uses the ngrok service to craft custom hostnames. This EK typically targets Flash Player vulnerabilities over Internet Explorer.",
+			"meta": {
+				"refs": [
+					"https://blog.malwarebytes.com/threat-analysis/2019/08/say-hello-to-lord-exploit-kit/"
+				]
+			},
+			"uuid": "59906d32-bf8a-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Lord Exploit Kit"
+		},
+		{
+			"description": "The LaZagne project is an open source application used to retrieve lots of passwords stored on a local computer. Each software stores its passwords using different techniques (plaintext, APIs, custom algorithms, databases, etc.). This tool has been developed for the purpose of finding these passwords for the most commonly-used software.",
+			"meta": {
+				"refs": [
+					"https://securelist.com/recent-cloud-atlas-activity/92016/",
+					"https://github.com/AlessandroZ/LaZagne"
+				]
+			},
+			"uuid": "59906e86-bf8a-11e9-9cb5-2a2ae2dbcce4",
+			"value": "LaZagne"
+		},
+		{
+			"description": "The BalkanRAT part of the malicious Balkan- toolset is more complex compared to its backdoor accomplice. Its goal is to deploy a copy of the Remote Utilities software, which is commercial software by a Russian vendor, Remote Utilities, LLC, used for remote access to a computer or for remote administration. BalkanRAT also provides the attacker with the credentials needed for this remote access.",
+			"meta": {
+				"refs": [
+					"https://www.welivesecurity.com/2019/08/14/balkans-businesses-double-barreled-weapon/"
+				]
+			},
+			"uuid": "59907174-bf8a-11e9-9cb5-2a2ae2dbcce4",
+			"value": "BalkanRAT"
+		},
+		{
+			"description": "Android malware, dubbed Cerberus, being rented out on underground forums. Its authors claim that it was used for private operations for two years preceding the start of the rental. They also state that the code is written from scratch and is not using parts of other existing banking Trojans unlike many other Trojans that are either based completely on the source of another Trojan (such as the leaked Anubis source code that is now being resold) or at least borrow parts of other Trojans. After thorough analysis we can confirm that Cerberus was indeed not based on the Anubis source code.",
+			"meta": {
+				"refs": [
+					"https://www.threatfabric.com/blogs/cerberus-a-new-banking-trojan-from-the-underworld.html"
+				]
+			},
+			"uuid": "599072c8-bf8a-11e9-9cb5-2a2ae2dbcce4",
+			"value": "Cerberus"
+		},
+		{
 			"description": "Nheqminer is a great implementation of equihash mining, mainly used on NiceHas but forked many times and todays is getting used for several spare projects as well. Nheqminer is a specific miner for Zcash value based on common PCs. You might want to checkout more here. Exploring memory snapshots during its execution can be easy to figure out the miner runs over Zcash.Flypool server mining for the following wallet address.",
 			"meta": {
 				"refs": [
@@ -1882,5 +1933,5 @@
 			"value": "Nheqminer"
 		}
 	],
-	"version": 18
+	"version": 19
 }

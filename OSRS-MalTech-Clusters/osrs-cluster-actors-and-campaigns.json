@@ -441,6 +441,30 @@
       "value": "Lotsy"
     },
 	{
+      "description": "Threat actor claiming responsibility for hacking the Murfreesboro Water Department bill payment system.",
+      "meta": {
+        "refs": [
+          "https://www.databreaches.net/tn-murfreesboro-water-departments-bill-pay-website-hacked/"
+        ]
+      },
+      "uuid": "2dbb1f1a-bf88-11e9-9cb5-2a2ae2dbcce4",
+      "value": "Mamad Warning"
+    },
+	{
+      "description": "A phishing campaign targeting Korean and Japanese Android users.",
+      "meta": {
+        "refs": [
+          "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/moqhao-related-android-spyware-targeting-japan-and-korea-found-on-google-play/"
+        ],
+		"synonyms": [
+		"XLoader",
+		"Roaming Mantis"
+	       ]
+      },
+      "uuid": "9111161e-bf88-11e9-9cb5-2a2ae2dbcce4",
+      "value": "MoqHao Phishing Campaign"
+    },
+	{
       "description": "SandCat, on the other hand, is a group that was discovered more recently by Kaspersky. One of the Windows vulnerabilities patched by Microsoft in December had been exploited by both FruityArmor and SandCat in attacks targeting the Middle East and Africa. SandCat has been using FinFisher/FinSpy spyware and CHAINSHOT, a piece of malware analyzed earlier this year by Palo Alto Networks. The group has also used the CVE-2018-8589 and CVE-2018-8611 Windows vulnerabilities in its attacks, both of which had a zero-day status when Microsoft released fixes.",
       "meta": {
         "refs": [
@@ -451,5 +475,5 @@
       "value": "SandCat"
     }  
 	  ],
-	"version": 10
+	"version": 11
 }

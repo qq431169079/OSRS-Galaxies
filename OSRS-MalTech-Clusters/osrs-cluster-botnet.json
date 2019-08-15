@@ -149,6 +149,46 @@
       "value": "WatchBog"
     },
 	{
+      "description": "This spambot is interesting because it can steal passwords, spy on its victims’ screen using FFmpeg when they watch pornographic content online, and communication to the C&C server is done through Tor, while spam is sent as regular internet traffic. This article describes the functionality of the malware.",
+      "meta": {
+        "refs": [
+          "https://www.welivesecurity.com/2019/08/08/varenyky-spambot-campaigns-france/"
+        ]
+      },
+      "uuid": "f171030e-bf8b-11e9-9cb5-2a2ae2dbcce4",
+      "value": "Varenyky"
+    },
+	{
+      "description": "the Neko botnet is capable of executing several backdoor commands. It can execute shell commands as well as launch user datagram protocol or UDP and UPD-HEX flood attacks, inundating a router’s ability to properly process and respond to information. It is also capable of killing processes. Neko holds within it an extensive kill list of other malware-related processes that it will terminate. Further examination of the Neko botnet code shows that it comes with scanners that are capable of looking for multiple exploits that would allow the malware to propagate itself to other vulnerable devices.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/back-to-back-campaigns-neko-mirai-and-bashlite-malware-variants-use-various-exploits-to-target-several-routers-devices/"
+        ]
+      },
+      "uuid": "f17105de-bf8b-11e9-9cb5-2a2ae2dbcce4",
+      "value": "Neko"
+    },
+	{
+      "description": "A Mirai variant. Typical of Mirai, this variant infects devices with a BusyBox, which is a software suite for devices with limited resources. It first checks for BusyBox presence by executing the bin busybox any string command.  If the device’s system responds with any string applet not found, the bot will proceed with its operation. The malware variant’s authors used the any string part to name the malware; in this case, they used Asher.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/back-to-back-campaigns-neko-mirai-and-bashlite-malware-variants-use-various-exploits-to-target-several-routers-devices/"
+        ]
+      },
+      "uuid": "f1710746-bf8b-11e9-9cb5-2a2ae2dbcce4",
+      "value": "Asher"
+    },
+	{
+      "description": "A Bashlite variant that seems to refer to itself as Ayedz. Based on this malware’s file name. Upon execution, Ayedz will send the following information about the infected device back to the host IP address. Ayedz is capable of running several backdoor commands for launching DDoS attacks. Ayedz also features several attack and flood options.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/back-to-back-campaigns-neko-mirai-and-bashlite-malware-variants-use-various-exploits-to-target-several-routers-devices/"
+        ]
+      },
+      "uuid": "f1710890-bf8b-11e9-9cb5-2a2ae2dbcce4",
+      "value": "Ayedz"
+    },
+	{
       "description": "GoLang Botnet",
       "meta": {
         "refs": [
@@ -159,5 +199,5 @@
       "value": "GoBrut"
     }
 	  ],
-	"version": 4
+	"version": 5
 }

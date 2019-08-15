@@ -227,6 +227,36 @@
       "value": "Okrum"
     },
 	{
+      "description": "BalkanDoor is a simple backdoor with a small number of commands (download and execute a file, create a remote shell, take a screenshot). It can be used to automate tasks on the compromised computer or to automatically control several affected computers at once. We have seen six versions of the backdoor, ranging in supported commands, evolving since 2016.",
+      "meta": {
+        "refs": [
+          "https://www.welivesecurity.com/2019/08/14/balkans-businesses-double-barreled-weapon/"
+        ]
+      },
+      "uuid": "192e9026-bf89-11e9-9cb5-2a2ae2dbcce4",
+      "value": "BalkanDoor"
+    },
+	{
+      "description": "PowerShower, named and previously disclosed by Palo Alto Networks in their blogspot (see above), is a malicious piece of PowerShell designed to receive PowerShell and VBS modules to execute on the local computer. This malware has been used since October 2018 by Cloud Atlas as a validator and now as a second stage. The differences in the two versions reside mostly in anti-forensics features for the validator version of PowerShower.",
+      "meta": {
+        "refs": [
+          "https://securelist.com/recent-cloud-atlas-activity/92016/"
+        ]
+      },
+      "uuid": "8796a760-bf89-11e9-9cb5-2a2ae2dbcce4",
+      "value": "PowerShower"
+    },
+	{
+      "description": "The VBShower backdoor has the same philosophy of the validator version of PowerShower. Its aim is to complicate forensic analysis by trying to delete all the files contained in APPDATA..Local Temporary Internet Files Content.Word and APPDATA .. Local Settings Temporary Internet Files Content.Word. Once these files have been deleted and its persistence is achieved in the registry, VBShower sends the context file computed by the HTA to the remote server and tries to get via HTTP a VBS script to execute from the remote server every hour.",
+      "meta": {
+        "refs": [
+          "https://securelist.com/recent-cloud-atlas-activity/92016/"
+        ]
+      },
+      "uuid": "8796a9ea-bf89-11e9-9cb5-2a2ae2dbcce4",
+      "value": "VBShower"
+    },
+	{
       "description": "The backdoor dubbed SLUB by the Trend Micro Cyber Safety Solutions Team who detected it in the wild is part of a multi-stage infection process designed by capable threat actors who programmed it in C++. SLUB uses statically-linked curl, boost, and JsonCpp libraries for performing HTTP request, extracting commands from gist snippets, and parsing Slack channel communication.",
       "meta": {
         "refs": [
@@ -237,5 +267,5 @@
       "value": "SLUB"
     }
 	  ],
-	"version": 7
+	"version": 8
 }

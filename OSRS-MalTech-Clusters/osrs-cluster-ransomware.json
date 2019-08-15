@@ -227,6 +227,17 @@
       "value": "REvil"
     },
 	{
+      "description": "After compromising a computer and deleting files, GermanWiper leaves a ransom note indicating that the data was encrypted and would not be decrypted unless a BTC ammount is transferred to a listed bitcoin address. Even if a victim pays the ransom, the money is wasted because the malware does not encrypt the data but overwrites it with zeroes and ones; destroying it. GermanWiper is being distributed in Germany through a spam campaign that pretends to be a job applicant who is submitting their resume. When GermanWiper is first executed, it terminates processes associated with database and other software so that the files can be accessed and wiping becomes possible. It then scans the system for files to destroy.",
+      "meta": {
+        "refs": [
+          "https://www.computing.co.uk/ctg/news/3080040/germanwiper-ransomware-erases-data",
+		  "https://www.bleepingcomputer.com/news/security/germanwiper-ransomware-erases-data-still-asks-for-ransom/"
+        ]
+      },
+      "uuid": "6beb12d6-bf8d-11e9-9cb5-2a2ae2dbcce4",
+      "value": "GermanWiper"
+    },
+	{
       "description": "Jcry is written in Go language via #OpJerusalem2019 campaign that attack Windows users to encrypt the file and demand the ransom.",
       "meta": {
         "refs": [
@@ -238,5 +249,5 @@
       "value": "jCry"
     }
 	],
-	"version": 7
+	"version": 8
 }
