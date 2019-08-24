@@ -1923,6 +1923,88 @@
 			"value": "Cerberus"
 		},
 		{
+			"description": "Reverse proxy program used by threat actor group Silence. Used to create custom proxy connections.",
+			"meta": {
+				"refs": [
+					"https://www.group-ib.com/resources/threat-research/silence_2.0.going_global.pdf"
+				]
+			},
+			"uuid": "8ef1e9bc-c690-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Silence.ProxyBot"
+		},
+		{
+			"description": "The .NET version of the Silence.ProxyBot used by the threat actor group Silence. Used to create custom proxy connections.",
+			"meta": {
+				"refs": [
+					"https://www.group-ib.com/resources/threat-research/silence_2.0.going_global.pdf"
+				]
+			},
+			"uuid": "8ef1ec82-c690-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Silence.ProxyBot.NET"
+		},
+		{
+			"description": "This open-source tool is designed to create an encrypted command-and-control (C&C) channel over the DNS protocol, which is an effective tunnel out of almost every network. Used by the Silence threat actor group.",
+			"meta": {
+				"refs": [
+					"https://www.group-ib.com/resources/threat-research/silence_2.0.going_global.pdf",
+					"https://github.com/iagox86/dnscat2"
+				]
+			},
+			"uuid": "8ef1edd6-c690-11e9-aa8c-2a2ae2dbcce4",
+			"value": "dnscat2"
+		},
+		{
+			"description": "Based on the open-source Empire project. The program is designed to remotely control the compromised system via the DNS protocol and supports the following commands - changing the CnC address, downloading files from the network, sending a local file to the CnC server, executing commands in the cmd.exe command shell, collecting system information, rebooting and shutting down the system, and tunneling traffic. Used by the Silence threat actor group.",
+			"meta": {
+				"refs": [
+					"https://www.group-ib.com/resources/threat-research/silence_2.0.going_global.pdf",
+					"https://github.com/EmpireProject/Empire"
+				]
+			},
+			"uuid": "8ef1ef02-c690-11e9-aa8c-2a2ae2dbcce4",
+			"value": "EmpireDNSAgent"
+		},
+		{
+			"description": "A trojan developed by Silence to remotely control ATM dispensers.",
+			"meta": {
+				"refs": [
+					"https://www.group-ib.com/resources/threat-research/silence_2.0.going_global.pdf"
+				]
+			},
+			"uuid": "8ef1f038-c690-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Atmosphere"
+		},
+		{
+			"description": "A trojan for attacking ATMs, which was allegedly used in the attack on IT Bank. Used by the Silence threat actor group.",
+			"meta": {
+				"refs": [
+					"https://www.group-ib.com/resources/threat-research/silence_2.0.going_global.pdf"
+				]
+			},
+			"uuid": "8ef1f3c6-c690-11e9-aa8c-2a2ae2dbcce4",
+			"value": "xfs-disp.exe"
+		},
+		{
+			"description": "ACEHASH is a credential theft and password dumping utility that combines the functionality of multiple tools such as Mimikatz, hashdump, and Windows Credential Editor (WCE).",
+			"meta": {
+				"refs": [
+					"https://www.fireeye.com/blog/threat-research/2019/08/game-over-detecting-and-stopping-an-apt41-operation.html"
+				]
+			},
+			"uuid": "8ef1f506-c690-11e9-aa8c-2a2ae2dbcce4",
+			"value": "ACEHASH"
+		},
+		{
+			"description": "AhMyth, the open-source Remote Access Tool from which the Radio Balouch app borrowed its malicious functionality, was made publicly available in late 2017. ",
+			"meta": {
+				"refs": [
+					"https://www.welivesecurity.com/2019/08/22/first-spyware-android-ahmyth-google-play/"
+				]
+			},
+			"uuid": "8ef1f632-c690-11e9-aa8c-2a2ae2dbcce4",
+			"value": "AhMyth"
+		},
+		{
 			"description": "Nheqminer is a great implementation of equihash mining, mainly used on NiceHas but forked many times and todays is getting used for several spare projects as well. Nheqminer is a specific miner for Zcash value based on common PCs. You might want to checkout more here. Exploring memory snapshots during its execution can be easy to figure out the miner runs over Zcash.Flypool server mining for the following wallet address.",
 			"meta": {
 				"refs": [
@@ -1933,5 +2015,5 @@
 			"value": "Nheqminer"
 		}
 	],
-	"version": 19
+	"version": 20
 }

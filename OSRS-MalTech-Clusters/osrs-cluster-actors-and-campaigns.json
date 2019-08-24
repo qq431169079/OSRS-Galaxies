@@ -465,6 +465,26 @@
       "value": "MoqHao Phishing Campaign"
     },
 	{
+      "description": "A China-nexus dual espionage and financially-focused group, APT41 targets industries such as gaming, healthcare, high-tech, higher education, telecommunications, and travel services. APT41 is known to adapt quickly to changes and detections within victim environments, often recompiling malware within hours of incident responder activity. In multiple situations, we also identified APT41 utilizing recently-disclosed vulnerabilities, often weaponzing and exploiting within a matter of days.",
+      "meta": {
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/08/game-over-detecting-and-stopping-an-apt41-operation.html"
+        ]
+      },
+      "uuid": "c9c823e6-c67a-11e9-aa8c-2a2ae2dbcce4",
+      "value": "APT41"
+    },
+	{
+      "description": "Actor group identified by FireEye researchers. Atributed to the hacking of several India-based healthcare organizations web sites and systems.",
+      "meta": {
+        "refs": [
+          "https://www.databreaches.net/hackers-attack-indian-healthcare-website-steal-68/"
+        ]
+      },
+      "uuid": "c9c8263e-c67a-11e9-aa8c-2a2ae2dbcce4",
+      "value": "fallensky519"
+    },
+	{
       "description": "SandCat, on the other hand, is a group that was discovered more recently by Kaspersky. One of the Windows vulnerabilities patched by Microsoft in December had been exploited by both FruityArmor and SandCat in attacks targeting the Middle East and Africa. SandCat has been using FinFisher/FinSpy spyware and CHAINSHOT, a piece of malware analyzed earlier this year by Palo Alto Networks. The group has also used the CVE-2018-8589 and CVE-2018-8611 Windows vulnerabilities in its attacks, both of which had a zero-day status when Microsoft released fixes.",
       "meta": {
         "refs": [
@@ -475,5 +495,5 @@
       "value": "SandCat"
     }  
 	  ],
-	"version": 11
+	"version": 12
 }

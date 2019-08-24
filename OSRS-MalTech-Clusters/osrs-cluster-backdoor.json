@@ -257,6 +257,26 @@
       "value": "VBShower"
     },
 	{
+      "description": "The Ivoke backdoor is a completely fileless Trojan. Its main task is to collect information about the infected system and load the next stage upon command from the CnC server.",
+      "meta": {
+        "refs": [
+          "https://www.group-ib.com/resources/threat-research/silence_2.0.going_global.pdf"
+        ]
+      },
+      "uuid": "fd505ada-c693-11e9-aa8c-2a2ae2dbcce4",
+      "value": "Ivoke"
+    },
+	{
+      "description": "HIGHNOON is a backdoor that consists of multiple components, including a loader, dynamic-link library (DLL), and a rootkit. When loaded, the DLL may deploy one of two embedded drivers to conceal network traffic and communicate with its command and control server to download and launch memory-resident DLL plugins.",
+      "meta": {
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/08/game-over-detecting-and-stopping-an-apt41-operation.html"
+        ]
+      },
+      "uuid": "fd505d46-c693-11e9-aa8c-2a2ae2dbcce4",
+      "value": "HIGHNOON"
+    },
+	{
       "description": "The backdoor dubbed SLUB by the Trend Micro Cyber Safety Solutions Team who detected it in the wild is part of a multi-stage infection process designed by capable threat actors who programmed it in C++. SLUB uses statically-linked curl, boost, and JsonCpp libraries for performing HTTP request, extracting commands from gist snippets, and parsing Slack channel communication.",
       "meta": {
         "refs": [
@@ -267,5 +287,5 @@
       "value": "SLUB"
     }
 	  ],
-	"version": 8
+	"version": 9
 }

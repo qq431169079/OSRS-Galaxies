@@ -238,6 +238,26 @@
       "value": "GermanWiper"
     },
 	{
+      "description": "An open-source form of ransomware that is widely available and was available on GitHub for a time. Like various forms of ransomware before it, the code encrypts files and demands a ransom payments with the addition of threats that files will be deleted every two hours until such time that the ransom payment is made.",
+      "meta": {
+        "refs": [
+          "https://siliconangle.com/2019/08/21/fortnite-players-targeted-ransomware-fake-aimbot/"
+        ]
+      },
+      "uuid": "94bb12ac-c67b-11e9-aa8c-2a2ae2dbcce4",
+      "value": "Hidden-Cry"
+    },
+	{
+      "description": "Ransomware that uses the code from the Hidden-Cry ransomware family. Used to target gamers who play the online shooter Fortnite.",
+      "meta": {
+        "refs": [
+          "https://siliconangle.com/2019/08/21/fortnite-players-targeted-ransomware-fake-aimbot/"
+        ]
+      },
+      "uuid": "94bb1522-c67b-11e9-aa8c-2a2ae2dbcce4",
+      "value": "Syrk Ransomware"
+    },
+	{
       "description": "Jcry is written in Go language via #OpJerusalem2019 campaign that attack Windows users to encrypt the file and demand the ransom.",
       "meta": {
         "refs": [
@@ -249,5 +269,5 @@
       "value": "jCry"
     }
 	],
-	"version": 8
+	"version": 9
 }
