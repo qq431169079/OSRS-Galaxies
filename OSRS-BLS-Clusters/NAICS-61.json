@@ -376,6 +376,16 @@
 			"value": "University of Hong Kong"
 		},
 		{
+			"description": "Arizona State University is a public metropolitan research university on five campuses across the Phoenix metropolitan area, and four regional learning centers throughout Arizona. ASU is one of the largest public universities by enrollment in the U.S.",
+			"meta": {
+				"refs": [
+					"https://www.asu.edu/"
+				]
+			},
+			"uuid": "566c0704-c676-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Arizona State University"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [
@@ -386,5 +396,5 @@
 			"value": "Orchard View High School"
 		}
 	],
-	"version": 12
+	"version": 13
 }

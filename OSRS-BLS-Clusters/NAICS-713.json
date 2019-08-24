@@ -15,7 +15,17 @@
       },
       "uuid": "04b148e8-48bd-11e9-8646-d663bd873d93",
       "value": "Test Amusement, Gambling, and Recreation Industries Value"
+    },
+	{
+      "description": "Tivoli, also known as Tivoli Gardens, is an amusement park and pleasure garden in Copenhagen, Denmark. The park opened on 15 August 1843 and is the second-oldest operating amusement park in the world, after Dyrehavsbakken in nearby Klampenborg, also in Denmark.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Tivoli_(Copenhagen)"
+        ]
+      },
+      "uuid": "dcfa02cc-c675-11e9-aa8c-2a2ae2dbcce4",
+      "value": "Tivoli Gardens"
     }
 	  ],
-	"version": 1
+	"version": 2
 }

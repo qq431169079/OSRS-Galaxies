@@ -27,6 +27,16 @@
       "value": "Merrill Community Arts Center"
     },
 	{
+      "description": "MoviePass, Inc. is an American subscription-based movie ticketing service majority-owned by Helios and Matheson Analytics. Founded in 2011 and headquartered in New York City, the service allows subscribers to purchase up to three movie tickets per month for a monthly fee.",
+      "meta": {
+        "refs": [
+          "https://www.moviepass.com/"
+        ]
+      },
+      "uuid": "056f0ebe-c676-11e9-aa8c-2a2ae2dbcce4",
+      "value": "MoviePass"
+    },
+	{
       "description": "The Shubert Organization is a theatrical producing organization and a major owner of theatres based in Manhattan, New York City. It was founded by the three Shubert brothers in the late 19th century. They steadily expanded, owning many theaters in New York and across the country.",
       "meta": {
         "refs": [
@@ -37,5 +47,5 @@
       "value": "The Shubert Organization"
     }
 	  ],
-	"version": 3
+	"version": 4
 }

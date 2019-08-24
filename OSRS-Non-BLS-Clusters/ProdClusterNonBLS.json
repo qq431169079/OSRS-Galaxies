@@ -1119,6 +1119,76 @@
 			"value": "Valley View District 365U"
 		},
 		{
+			"description": "Circut clerk for the county of Macon IL.",
+			"meta": {
+				"refs": [
+					"http://www.cclerk.co.macon.il.us/"
+				]
+			},
+			"uuid": "b05227a0-c674-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Macon County Circuit Clerk"
+		},
+		{
+			"description": "San Dieguito Union High School District is a school district headquartered in Encinitas, California. The district serves students in the cities of Encinitas, Solana Beach, and Del Mar and surrounding areas. In 2006, the district reported a total of 12,375 students enrolled between seventh and twelfth grade.",
+			"meta": {
+				"refs": [
+					"https://www.sduhsd.net/"
+				]
+			},
+			"uuid": "b0522a0c-c674-11e9-aa8c-2a2ae2dbcce4",
+			"value": "San Dieguito Union High School District"
+		},
+		{
+			"description": "The Canada Border Services Agency is a federal agency that is responsible for border protection and surveillance, immigration enforcement and customs services in Canada. The CBSA is accountable to Parliament through the Minister of Public Safety and Emergency Preparedness.",
+			"meta": {
+				"refs": [
+					"https://www.cbsa-asfc.gc.ca/menu-eng.html"
+				]
+			},
+			"uuid": "b0522d2c-c674-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Canada Border Services Agency"
+		},
+		{
+			"description": "The mission of the Robertson County Sheriff’s Office is to enhance and protect the quality of life of the citizens of Robertson County by providing professional, ethical, efficient, and effective law enforcement, correctional, and court security services.",
+			"meta": {
+				"refs": [
+					"https://www.robertsonsheriff.com/"
+				]
+			},
+			"uuid": "b0522e62-c674-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Robertson County Sheriff Department"
+		},
+		{
+			"description": "Alberta Health Services is the single health authority for the Canadian province of Alberta. Alberta Health Services delivers medical care on behalf of the Government of Alberta's Ministry of Health.",
+			"meta": {
+				"refs": [
+					"https://www.albertahealthservices.ca/"
+				]
+			},
+			"uuid": "b0522f84-c674-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Alberta Health Services"
+		},
+		{
+			"description": "The Argentine Federal Police is the national civil police force of the Argentine federal government. The PFA has detachments throughout the country. Until January 1, 2017, it also acted as the local law enforcement agency in the capital, Buenos Aires.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Argentine_Federal_Police"
+				]
+			},
+			"uuid": "b05230a6-c674-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Argentine Federal Police"
+		},
+		{
+			"description": "The Argentine Naval Prefecture is a service of the Argentine Security Ministry charged with protecting the country's rivers and maritime territory. It therefore fulfills the functions of other countries' coast guards, and furthermore acts as a gendarmerie force policing navigable rivers.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Argentine_Naval_Prefecture"
+				]
+			},
+			"uuid": "b05231c8-c674-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Argentine Naval Prefecture"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
@@ -1129,5 +1199,5 @@
 			"value": "Canterbury and West Coast District Health Board "
 		}
 		],
-	"version": 14
+	"version": 15
 }

@@ -676,6 +676,26 @@
 			"value": "The NCH Healthcare System"
 		},
 		{
+			"description": "Western Connecticut Health Network is a for-profit group of three Western Connecticut hospitals formed in 2010 by Danbury Hospital, New Milford Hospital and Norwalk Hospital.",
+			"meta": {
+				"refs": [
+					"https://www.westernconnecticuthealthnetwork.org/introducing-nuvance-health"
+				]
+			},
+			"uuid": "1fa9b4d6-c677-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Western Connecticut Health Network"
+		},
+		{
+			"description": "Michigan Medicine, formerly the University of Michigan Health System, is the wholly owned academic medical center of the University of Michigan in Ann Arbor.",
+			"meta": {
+				"refs": [
+					"https://med.umich.edu/"
+				]
+			},
+			"uuid": "1fa9b792-c677-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Michigan Medicine University of Michigan"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [
@@ -686,5 +706,5 @@
 			"value": "SingHealth"
 		}
 	],
-	"version": 17
+	"version": 18
 }

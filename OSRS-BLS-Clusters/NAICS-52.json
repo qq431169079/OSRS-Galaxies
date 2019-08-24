@@ -166,6 +166,26 @@
 			"value": "State Farm"
 		},
 		{
+			"description": "The European Central Bank is the central bank for the euro and administers monetary policy within the Eurozone, which comprises 19 member states of the European Union and is one of the largest monetary areas in the world.",
+			"meta": {
+				"refs": [
+					"https://www.ecb.europa.eu/"
+				]
+			},
+			"uuid": "b0f18ee2-c676-11e9-aa8c-2a2ae2dbcce4",
+			"value": "European Central Bank"
+		},
+		{
+			"description": "Mastercard Incorporated is an American multinational financial services corporation headquartered in the Mastercard International Global Headquarters in Purchase, New York, United States. The Global Operations Headquarters is located in O'Fallon, Missouri, United States, a municipality of St. Charles County, Missouri.",
+			"meta": {
+				"refs": [
+					"https://www.mastercard.us/en-us.html"
+				]
+			},
+			"uuid": "b0f19162-c676-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Mastercard "
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [
@@ -176,5 +196,5 @@
 			"value": "Meezan Bank"
 		}
 	],
-	"version": 8
+	"version": 9
 }

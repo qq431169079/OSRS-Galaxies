@@ -286,6 +286,46 @@
 			"value": "Grays Harbor Community Hospital"
 		},
 		{
+			"description": "Virginia Gay Hospital was named after our founder and benefactor, Virginia Gay, who bequeathed a generous gift of $50,000 to the City of Vinton in 1914 to establish a community hospital.  This important gift, valued at more than $1,000,000 today, provided the necessary foundation for what was to become the Virginia Gay Hospital in 1923.",
+			"meta": {
+				"refs": [
+					"https://myvgh.org/"
+				]
+			},
+			"uuid": "8c0219fc-c677-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Virginia Gay Hospital"
+		},
+		{
+			"description": "In 1980 a group of concerned nurses and social workers came together to review the need for hospice services in San Joaquin County. Their Proposal for Hospice in the Stockton Community was published in August 1980.  And on November 5, 1980 Hospice of San Joaquin was incorporated as a California Nonprofit Benefit Corporation. Our first office was a single phone on a folding table in Delta Blood Bank storage room.",
+			"meta": {
+				"refs": [
+					"https://www.hospicesj.org/"
+				]
+			},
+			"uuid": "8c021c4a-c677-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Hospice of San Joaquin"
+		},
+		{
+			"description": "Sonoma Valley Hospital is a hospital located in Sonoma, California, United States. The hospital, which has 75 beds, provides surgical and general medical procedures.",
+			"meta": {
+				"refs": [
+					"https://www.facebook.com/SVHospital/"
+				]
+			},
+			"uuid": "8c021d94-c677-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Sonoma Valley Hospital"
+		},
+		{
+			"description": "Massachusetts General Hospital is the original and largest teaching hospital of Harvard Medical School and a biomedical research facility located in the West End neighborhood of Boston, Massachusetts. It is the third oldest general hospital in the United States, and has a capacity of 999 beds.",
+			"meta": {
+				"refs": [
+					"https://www.massgeneral.org/"
+				]
+			},
+			"uuid": "8c021ec0-c677-11e9-aa8c-2a2ae2dbcce4",
+			"value": "Massachusetts General Hospital"
+		},
+		{
 			"description": "HGH is a family and patient-centered bilingual community hospital with a regional focus. ",
 			"meta": {
 				"refs": [
@@ -296,5 +336,5 @@
 			"value": "Hawkesbury General Hospital"
 		}
 	],
-	"version": 14
+	"version": 15
 }
