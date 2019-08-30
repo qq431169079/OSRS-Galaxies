@@ -27,6 +27,16 @@
       "value": "The Pyramid Hotel Group"
     },
 	{
+      "description": "Lyons Companies is one of the region’s largest independent and privately held risk management and insurance brokerage firms. We invest in the expertise and intellectual capital of in-house risk control, claims management, workers’ compensation, employee benefits, alternative risk financing, and human capital management professionals.",
+      "meta": {
+        "refs": [
+          "https://www.lyonsinsurance.com/"
+        ]
+      },
+      "uuid": "cedf6780-cb30-11e9-a32f-2a2ae2dbcce4",
+      "value": "Lyons Companies"
+    },
+	{
       "description": "Earl Enterprises bring together the power of people, services and creative genius to build innovative sustainable companies that guests can enjoy today and in the future through our diversified brand portfolio. Earl Enterprises is growing as a leader in the field of entertainment, leisure, tourism, hotel, and restaurant consultant services.",
       "meta": {
         "refs": [
@@ -37,5 +47,5 @@
       "value": "Earl Enterprises"
     }
 	  ],
-	"version": 3
+	"version": 4
 }

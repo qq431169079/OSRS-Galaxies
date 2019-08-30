@@ -258,6 +258,26 @@
       "value": "Syrk Ransomware"
     },
 	{
+      "description": "This new ransomware was discovered by Michael Gillespie on 8 February 2019 and it is still improving over time. The Clop ransomware is usually packed to hide its inner workings. Signing a malicious binary, in this case ransomware, may trick security solutions to trust the binary and let it pass. Clop ransomware shows some characteristics that enterprises are its intended targets instead of end consumers. The authors displayed some creative technical solutions, to detect the victim’s language settings and installed programs.",
+      "meta": {
+        "refs": [
+          "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/clop-ransomware/"
+        ]
+      },
+      "uuid": "6912b106-cb43-11e9-a32f-2a2ae2dbcce4",
+      "value": "Clop Ransomware"
+    },
+	{
+      "description": "The name of the ransomware comes after the extension it adds to the encrypted file names, the malicious code also deletes their shadow copies to make in impossible any recovery procedure. Attackers demand the payment of a 0.09981 BTC ransom through a portal hosted on the Tor network. Nemty ransomware is dropped via compromised remote desktop connections.",
+      "meta": {
+        "refs": [
+          "https://securityaffairs.co/wordpress/90396/malware/nemty-ransomware.html"
+        ]
+      },
+      "uuid": "6912b37c-cb43-11e9-a32f-2a2ae2dbcce4",
+      "value": "Nemty Ransomware"
+    },
+	{
       "description": "Jcry is written in Go language via #OpJerusalem2019 campaign that attack Windows users to encrypt the file and demand the ransom.",
       "meta": {
         "refs": [
@@ -269,5 +289,5 @@
       "value": "jCry"
     }
 	],
-	"version": 9
+	"version": 10
 }

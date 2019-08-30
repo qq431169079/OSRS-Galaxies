@@ -56,6 +56,16 @@
 			"value": "Cable One"
 		},
 		{
+			"description": "Broadband TV provider.",
+			"meta": {
+				"refs": [
+					"https://www.astro.com.my/"
+				]
+			},
+			"uuid": "aa3a4348-cb33-11e9-a32f-2a2ae2dbcce4",
+			"value": "Astro"
+		},
+		{
 			"description": "Dalil is the biggest phone directory in Saudi Arabia.  With more than 5 million downloads, Dalil is the 13th most popular communications app in the Kingdom. For context, this is where Viber and Telegram rank in the US. 96% of its users are in Saudi Arabia; the remainder are in Egypt and other Arab countries.",
 			"meta": {
 				"refs": [
@@ -66,5 +76,5 @@
 			"value": "Dalil"
 		}
 	],
-	"version": 4
+	"version": 5
 }

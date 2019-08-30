@@ -696,6 +696,26 @@
 			"value": "Michigan Medicine University of Michigan"
 		},
 		{
+			"description": "General and cosmetic dentistry services.",
+			"meta": {
+				"refs": [
+					"http://www.maitlanddentistry.com/"
+				]
+			},
+			"uuid": "633913d2-cb30-11e9-a32f-2a2ae2dbcce4",
+			"value": "Maitland Dentistry"
+		},
+		{
+			"description": "Capital and Coast DHB (CCDHB) is located centrally in Wellington and has over 6,000 full-time equivalent staff, making us one of the major employers in the Wellington region. CCDHB operates two hospitals – Wellington Regional Hospital in Newtown and Kenepuru Hospital in Porirua – as well as the Kāpiti Health Centre at Paraparaumu.",
+			"meta": {
+				"refs": [
+					"https://www.ccdhb.org.nz/"
+				]
+			},
+			"uuid": "63391634-cb30-11e9-a32f-2a2ae2dbcce4",
+			"value": "Capital & Coast District Health Board"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [
@@ -706,5 +726,5 @@
 			"value": "SingHealth"
 		}
 	],
-	"version": 18
+	"version": 19
 }

@@ -186,6 +186,16 @@
 			"value": "Mastercard "
 		},
 		{
+			"description": "Invest in stocks, ETFs, options, and cryptocurrencies, all commission-free, right from your phone or desktop.",
+			"meta": {
+				"refs": [
+					"https://robinhood.com/"
+				]
+			},
+			"uuid": "e87f39be-cb2f-11e9-a1ac-2a2ae2dbcce4",
+			"value": "Robinhood Financial LLC"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [
@@ -196,5 +206,5 @@
 			"value": "Meezan Bank"
 		}
 	],
-	"version": 9
+	"version": 10
 }

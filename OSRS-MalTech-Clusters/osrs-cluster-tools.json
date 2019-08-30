@@ -2005,6 +2005,96 @@
 			"value": "AhMyth"
 		},
 		{
+			"description": "Delievered via malicious attachments, this malware consists of a remote access Trojan (RAT) module and a proxy mechanism used for command and control (C&C) communication. LookBack malware is a remote access Trojan written in C++ that relies on a proxy communication tool to relay data from the infected host to a command and control IP. Its capabilities include an enumeration of services; viewing of process, system, and file data; deleting files; executing commands; taking screenshots; moving and clicking the mouse; rebooting the machine and deleting itself from an infected host.",
+			"meta": {
+				"refs": [
+					"https://www.proofpoint.com/us/threat-insight/post/lookback-malware-targets-united-states-utilities-sector-phishing-attacks"
+				]
+			},
+			"uuid": "8b5a916a-cb44-11e9-a32f-2a2ae2dbcce4",
+			"value": "LookBack RAT"
+		},
+		{
+			"description": "The SodomMain module is the LookBack malware remote access Trojan module that can send and receive numerous commands indicative of its function as a RAT. The malware is delivered within the encoded data that is received by the SodomNormal module as part of its initial beacon response. It then runs within the SodomNormal module and uses its send_data function for C&C communications. The data is ultimately relayed to the GUP Proxy Tool and the C&C IP. ",
+			"meta": {
+				"refs": [
+					"https://www.proofpoint.com/us/threat-insight/post/lookback-malware-targets-united-states-utilities-sector-phishing-attacks"
+				]
+			},
+			"uuid": "8b5a9412-cb44-11e9-a32f-2a2ae2dbcce4",
+			"value": "SodomMain RAT"
+		},
+		{
+			"description": "Nullsoft Scriptable Install System (NSIS), is a free script-driven installer authoring tool for Windows.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/ta505-at-it-again-variety-is-the-spice-of-servhelper-and-flawedammyy/"
+				]
+			},
+			"uuid": "928a55be-cb45-11e9-a32f-2a2ae2dbcce4",
+			"value": "Nullsoft Scriptable Install System (NSIS)"
+		},
+		{
+			"description": "A first-stage remote access trojan (RAT) that uses DNS and HTTP-based communication mechanisms and provides basic remote access capability, including the abilities to execute arbitrary commands via cmd.exe and to upload and download files.",
+			"meta": {
+				"refs": [
+					"https://www.secureworks.com/blog/lyceum-takes-center-stage-in-middle-east-campaign"
+				]
+			},
+			"uuid": "d0a800d0-cb45-11e9-a32f-2a2ae2dbcce4",
+			"value": "danbot"
+		},
+		{
+			"description": "A VBA macro embedded in an Excel XLS file used to drop DanBot.",
+			"meta": {
+				"refs": [
+					"https://www.secureworks.com/blog/lyceum-takes-center-stage-in-middle-east-campaign"
+				]
+			},
+			"uuid": "d0a8031e-cb45-11e9-a32f-2a2ae2dbcce4",
+			"value": "dandrop"
+		},
+		{
+			"description": "A PowerShell-based keylogger.",
+			"meta": {
+				"refs": [
+					"https://www.secureworks.com/blog/lyceum-takes-center-stage-in-middle-east-campaign"
+				]
+			},
+			"uuid": "d0a80710-cb45-11e9-a32f-2a2ae2dbcce4",
+			"value": "kl.ps1"
+		},
+		{
+			"description": "Part of the PoshC2 framework.",
+			"meta": {
+				"refs": [
+					"https://www.secureworks.com/blog/lyceum-takes-center-stage-in-middle-east-campaign"
+				]
+			},
+			"uuid": "d0a80882-cb45-11e9-a32f-2a2ae2dbcce4",
+			"value": "Decrypt-RDCMan.ps1"
+		},
+		{
+			"description": "A PowerView-based script from the PowerShell Empire framework.",
+			"meta": {
+				"refs": [
+					"https://www.secureworks.com/blog/lyceum-takes-center-stage-in-middle-east-campaign"
+				]
+			},
+			"uuid": "d0a809ae-cb45-11e9-a32f-2a2ae2dbcce4",
+			"value": "Get-LAPSP.ps1"
+		},
+		{
+			"description": "The first samples were found in the wild date to January and February 2019, while so far over 20 different variants have appeared in the Google Play Store, the majority of these pose as an update to the popular instant messaging application WhatsApp. The CVE-2019-3568 WhatsApp patch is one of the topics abused by BRATA threat actor. Once a victim’s device is infected, BRATA enables its keylogging feature, enhancing it with real-time streaming functionality. It uses Android’s Accessibility Service feature to interact with other applications installed on the user device.",
+			"meta": {
+				"refs": [
+					"https://securelist.com/spying-android-rat-from-brazil-brata/92775/"
+				]
+			},
+			"uuid": "5b996576-cb46-11e9-a32f-2a2ae2dbcce4",
+			"value": "BRATA"
+		},
+		{
 			"description": "Nheqminer is a great implementation of equihash mining, mainly used on NiceHas but forked many times and todays is getting used for several spare projects as well. Nheqminer is a specific miner for Zcash value based on common PCs. You might want to checkout more here. Exploring memory snapshots during its execution can be easy to figure out the miner runs over Zcash.Flypool server mining for the following wallet address.",
 			"meta": {
 				"refs": [
@@ -2015,5 +2105,5 @@
 			"value": "Nheqminer"
 		}
 	],
-	"version": 20
+	"version": 21
 }

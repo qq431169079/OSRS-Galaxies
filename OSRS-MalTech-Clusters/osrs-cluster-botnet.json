@@ -189,6 +189,16 @@
       "value": "Ayedz"
     },
 	{
+      "description": "RDP, the remote desktop protocol, made the news recently after Microsoft patched a critical remote code execution vulnerability (CVE-2019-0708). While the reporting around this Bluekeep vulnerability focused on patching vulnerable servers, exposing RDP to the Internet has never been a good idea. Botnets have been scanning for these servers and are using weak and reused passwords to gain access to them. The latest example of such a botnet is an ongoing malicious campaign we are refering to as GoldBrute. This botnet is currently brute forcing a list of about 1.5 million RDP servers exposed to the Internet. Shdoan lists about 2.4 million exposed servers. GoldBrute uses its own list and is extending it as it continues to scan and grow. The GoldBrute botnet is controlled by a single command and control server. Bots are exchanging data with it via AES encrypted WebSocket connections to port 8333. An infected system will first be instructed to download the bot code. The download is very large (80 MBytes) and includes the complete Java Runtime. The bot itself is implemented in a Java class called GoldBrute. Initially, the bot will start scanning random IP addresses to find more hosts with exposed RDP servers. These IPs are reported back to the C&C server. After the bot reported 80 new victims, the C&C server will assign a set of targets to brute force to the bot. Each bot will only try one particular username and password per target. This is possibly a strategy to fly under the radar of security tools as each authentication attempt comes from different addresses.",
+      "meta": {
+        "refs": [
+          "https://isc.sans.edu/forums/diary/GoldBrute+Botnet+Brute+Forcing+15+Million+RDP+Servers/25002/"
+        ]
+      },
+      "uuid": "10d6b444-cb37-11e9-a32f-2a2ae2dbcce4",
+      "value": "GoldBrute"
+    },
+	{
       "description": "GoLang Botnet",
       "meta": {
         "refs": [
@@ -199,5 +209,5 @@
       "value": "GoBrut"
     }
 	  ],
-	"version": 5
+	"version": 6
 }

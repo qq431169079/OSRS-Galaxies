@@ -15,7 +15,17 @@
       },
       "uuid": "341cd6f2-48f8-11e9-8646-d663bd873d93",
       "value": "Test Plastics and Rubber Products Manufacturing Value"
+    },
+	{
+      "description": "Specialty Polyfilms is a leader in manufacturing of specialized products such as Stretch Wrap, Cling Wrap, Catering Wrap and Surface Protective films. We export our products to more than 30 countries to our 200+ global customers.",
+      "meta": {
+        "refs": [
+          "http://www.specialty-films.com/"
+        ]
+      },
+      "uuid": "81474c70-cb32-11e9-a32f-2a2ae2dbcce4",
+      "value": "Specality Polyfilm Pvt Ltd."
     }
 	  ],
-	"version": 1
+	"version": 2
 }

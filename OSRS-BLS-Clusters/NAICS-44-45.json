@@ -66,6 +66,16 @@
 			"value": "CafePress, Inc."
 		},
 		{
+			"description": "Lumber Liquidators is an American retailer of hardwood flooring.",
+			"meta": {
+				"refs": [
+					"https://www.lumberliquidators.com/ll/home"
+				]
+			},
+			"uuid": "61824cea-cb33-11e9-a32f-2a2ae2dbcce4",
+			"value": "Lumber Liquidators Inc."
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [
@@ -76,5 +86,5 @@
 			"value": "Gearbest"
 		}
 	],
-	"version": 4
+	"version": 5
 }

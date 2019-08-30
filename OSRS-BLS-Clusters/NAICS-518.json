@@ -17,6 +17,16 @@
       "value": "Test Data Processing, Hosting, and Related Services Value"
     },
 	{
+      "description": "Hostinger International, Ltd. is an employee-owned web hosting provider and Internet domain registrar. Established in 2004, Hostinger now has over 29 million users, collectively with its subsidiaries in 178 countries. The company uses cloud web hosting technology and provides hosting with MySQL, FTP and PHP.",
+      "meta": {
+        "refs": [
+          "https://www.hostinger.com/"
+        ]
+      },
+      "uuid": "96b91b22-cb2f-11e9-a32f-2a2ae2dbcce4",
+      "value": "Hostinger"
+    },
+	{
       "description": "iNSYNQ offers virtual desktops, giving you access to all of your critical business applications anytime and from anywhere.",
       "meta": {
         "refs": [
@@ -27,5 +37,5 @@
       "value": "iNSYNQ"
     }
 	  ],
-	"version": 2
+	"version": 3
 }

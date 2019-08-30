@@ -485,6 +485,60 @@
       "value": "fallensky519"
     },
 	{
+      "description": "Threat actor moniker associated with FireEye report regarding APT41 operational activies.",
+      "meta": {
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/08/apt41-dual-espionage-and-cyber-crime-operation.html"
+        ]
+      },
+      "uuid": "9be84316-cb34-11e9-a32f-2a2ae2dbcce4",
+      "value": "Zhang Xuguang"
+    },
+	{
+      "description": "Threat actor moniker associated with FireEye report regarding APT41 operational activies.",
+      "meta": {
+        "refs": [
+          "https://www.fireeye.com/blog/threat-research/2019/08/apt41-dual-espionage-and-cyber-crime-operation.html"
+        ]
+      },
+      "uuid": "9be8456e-cb34-11e9-a32f-2a2ae2dbcce4",
+      "value": "Wolfzhi"
+    },
+	{
+      "description": "The group targeted third-party companies, like telco service providers, to hit the final target in a classic supply chain attack. HEXANE leverages on weaponized documents used to drop the malware and compromise the target network. The threat actor shows similarities with other groups such as Magnallium and Chrysene, both active since at least 2017 and involved in attacks on oil and gas companies. Anyway, experts pointed out that the Hexane group has differed TTPs and has its own arsenal. Stylistically, the observed tradecraft resembles activity from groups such as COBALT GYPSY (which is related to OilRig, Crambus, and APT34) and COBALT TRINITY (also known as Elfin and APT33). However, none of the collected malware or infrastructure associated with LYCEUM has direct links to observed activity from these or other known threat groups. As of this publication, there is insufficient technical evidence to support an attribution assessment. When CTU researchers first published information about LYCEUM to Secureworks Threat Intelligence clients, no public documentation on the group existed.  Since then, reporting has emerged that refers to the threat group as HEXANE.",
+      "meta": {
+        "refs": [
+          "https://securityaffairs.co/wordpress/89249/apt/hexane-threat-actor.html",
+		  "https://www.secureworks.com/blog/lyceum-takes-center-stage-in-middle-east-campaign"
+        ],
+		"synonyms": [
+		"Lyceum"
+		]
+      },
+      "uuid": "9be846b8-cb34-11e9-a32f-2a2ae2dbcce4",
+      "value": "Hexane"
+    },
+	{
+      "description": "Nomenclature given to a threat actor group that notably leverages the TrickBot malware family.",
+      "meta": {
+        "refs": [
+          "https://www.secureworks.com/blog/trickbot-modifications-target-us-mobile-users"
+        ]
+      },
+      "uuid": "9be847da-cb34-11e9-a32f-2a2ae2dbcce4",
+      "value": "GOLD BLACKBURN"
+    },
+	{
+      "description": "A campaign identified by TrendMicro researchers that leverages phishing attacks to steal PayPal and credit card information.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/heatstroke-campaign-uses-multistage-phishing-attack-to-steal-paypal-and-credit-card-information/"
+        ]
+      },
+      "uuid": "9be84a82-cb34-11e9-a32f-2a2ae2dbcce4",
+      "value": "Heatstroke"
+    },
+	{
       "description": "SandCat, on the other hand, is a group that was discovered more recently by Kaspersky. One of the Windows vulnerabilities patched by Microsoft in December had been exploited by both FruityArmor and SandCat in attacks targeting the Middle East and Africa. SandCat has been using FinFisher/FinSpy spyware and CHAINSHOT, a piece of malware analyzed earlier this year by Palo Alto Networks. The group has also used the CVE-2018-8589 and CVE-2018-8611 Windows vulnerabilities in its attacks, both of which had a zero-day status when Microsoft released fixes.",
       "meta": {
         "refs": [
@@ -495,5 +549,5 @@
       "value": "SandCat"
     }  
 	  ],
-	"version": 12
+	"version": 13
 }

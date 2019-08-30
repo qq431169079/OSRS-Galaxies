@@ -1189,6 +1189,46 @@
 			"value": "Argentine Naval Prefecture"
 		},
 		{
+			"description": "The Ministry for Culture and Heritage Te Manatū Taonga (MCH) is the public-service department of the New Zealand government charged with advising the government on policies and issues involving the arts, culture, built heritage, sport and recreation, and broadcasting sectors, and participating in functions that advance or promote those sectors.",
+			"meta": {
+				"refs": [
+					"https://mch.govt.nz/"
+				]
+			},
+			"uuid": "c16c8cce-cb2e-11e9-a32f-2a2ae2dbcce4",
+			"value": "Ministry for Culture and Heritage"
+		},
+		{
+			"description": "Lake County is a county located in the U.S. state of Indiana. In 2010, its population was 496,005, making it Indiana's second-most populous county. The county seat is Crown Point. This county is part of Northwest Indiana and the Chicago metropolitan area, and contains a mix of urban, suburban and rural areas.",
+			"meta": {
+				"refs": [
+					"https://www.lakecountyin.org/"
+				]
+			},
+			"uuid": "c16c9084-cb2e-11e9-a32f-2a2ae2dbcce4",
+			"value": "Lake County Indiana"
+		},
+		{
+			"description": "Founded in 1654, New Kent County has a rich, deep history which includes a number of historic sites and people.  The county is a traditionally rural county that sits between Richmond and Williamsburg, both of which are easily accessible via Interstate 64.",
+			"meta": {
+				"refs": [
+					"http://newkentschools.org/"
+				]
+			},
+			"uuid": "c16c91f6-cb2e-11e9-a32f-2a2ae2dbcce4",
+			"value": "New Kent County Public Schools"
+		},
+		{
+			"description": "Public school district within New Haven County, Connecticut. Wolcott is a town in New Haven County, Connecticut, United States. It is primarily residential with a population of 16,680 at the 2010 census. The town was settled in the 1730s by the Connecticut Colony and was known as Farmingbury, but it was renamed Wolcott after being incorporated in 1796.",
+			"meta": {
+				"refs": [
+					"http://www.wolcottps.org/"
+				]
+			},
+			"uuid": "c16c9322-cb2e-11e9-a32f-2a2ae2dbcce4",
+			"value": "Wolcott Public Schools"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
@@ -1199,5 +1239,5 @@
 			"value": "Canterbury and West Coast District Health Board "
 		}
 		],
-	"version": 15
+	"version": 16
 }
