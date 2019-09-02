@@ -927,6 +927,16 @@
 			"value": "PerCSoft Dental Technology Consulting"
 		},
 		{
+			"description": "Foxit Software, Inc. develops Portable Document Format software and tools used to create, edit, sign, and secure files and digital documents. It is a software company headquartered in Fremont, California, with offices in Berlin, Beijing, Fuzhou, South Yarra, Australia and other locations.",
+			"meta": {
+				"refs": [
+					"https://www.foxitsoftware.com/"
+				]
+			},
+			"uuid": "703e35e8-cdb6-11e9-a32f-2a2ae2dbcce4",
+			"value": "Foxit Software"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
@@ -937,5 +947,5 @@
 			"value": "TriTech"
 		}
 	],
-	"version": 21
+	"version": 22
 }

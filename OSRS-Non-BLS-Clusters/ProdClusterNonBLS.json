@@ -1229,6 +1229,16 @@
 			"value": "Wolcott Public Schools"
 		},
 		{
+			"description": "The Oregon Judicial Department is the judicial branch of government of the state of Oregon in the United States. The chief executive of the branch is the Chief Justice of the Oregon Supreme Court.",
+			"meta": {
+				"refs": [
+					"https://courts.oregon.gov/"
+				]
+			},
+			"uuid": "c110f292-638c-11e9-a923-1681be663d3e",
+			"value": "Oregon Judicial Department"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
@@ -1239,5 +1249,5 @@
 			"value": "Canterbury and West Coast District Health Board "
 		}
 		],
-	"version": 16
+	"version": 17
 }

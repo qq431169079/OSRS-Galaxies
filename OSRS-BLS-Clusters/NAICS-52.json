@@ -196,6 +196,16 @@
 			"value": "Robinhood Financial LLC"
 		},
 		{
+			"description": "Welcome to Providence Health Plan, a part of the integrated delivery system of Providence Health & Services. We provide or administer health coverage to more than 650,000 members nationwide. We continue to respond to the needs of the community by offering insurance for commercial groups, Medicare, Medicaid, individuals and families. We work with your physicians, hospitals and pharmacies to keep you healthy, and we strive to make your health care affordable.",
+			"meta": {
+				"refs": [
+					"https://healthplans.providence.org/landing/"
+				]
+			},
+			"uuid": "06a6b380-cdb6-11e9-a32f-2a2ae2dbcce4",
+			"value": "Providence Health Plan"
+		},
+		{
 			"description": "Meezan Bank is the first and largest Islamic commercial Bank of Pakistan. The Bank is headquartered in Meezan House - Karachi, Pakistan. It has a network of over 660 branches in more than 159 cities of Pakistan.",
 			"meta": {
 				"refs": [
@@ -206,5 +216,5 @@
 			"value": "Meezan Bank"
 		}
 	],
-	"version": 10
+	"version": 11
 }
