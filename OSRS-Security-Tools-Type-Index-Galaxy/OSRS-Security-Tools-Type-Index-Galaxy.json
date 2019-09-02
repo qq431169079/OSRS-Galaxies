@@ -1,1 +1,8 @@
-p
+{
+  "description": "The OSRS Security Tools Type Index is a compliment to the OSRS Security Tools Index. This galaxy drills down into the specific type of security tool (scanner, brute force tool, et al).",
+  "name": "OSRS-Security-Tools-Type-Index",
+  "namespace": "misp",
+  "type": "OSRS-Security-Tools-Type-Index",
+  "uuid": "b7574e8c-cd85-11e9-a32f-2a2ae2dbcce4",
+  "version": 1
+}
