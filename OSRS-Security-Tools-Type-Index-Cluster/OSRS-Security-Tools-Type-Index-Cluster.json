@@ -1,1 +1,21 @@
-p
+{
+  "category": "OSRS-Security-Tools-Type-Index",
+  "description": "The OSRS Security Tools Type Index is a compliment to the OSRS Security Tools Index. This galaxy drills down into the specific type of security tool (scanner, brute force tool, et al).",
+  "name": "OSRS-Security-Tools-Type-Index",
+  "source": "Open Sources",
+  "type": "OSRS-Security-Tools-Type-Index",
+  "uuid": "b7574e8c-cd85-11e9-a32f-2a2ae2dbcce4",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Penetration_test"
+        ]
+      },
+      "uuid": "f40c1416-cd85-11e9-a32f-2a2ae2dbcce4",
+      "value": "Test OSRS-Security-Tools-Type-Index Value"
+    }
+	  ],
+	"version": 1
+}
