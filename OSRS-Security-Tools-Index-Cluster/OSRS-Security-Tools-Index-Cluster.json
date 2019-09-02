@@ -15,7 +15,120 @@
       },
       "uuid": "d9875e0a-cd82-11e9-a32f-2a2ae2dbcce4",
       "value": "Test OSRS-Security-Tools-Index Value"
+    },
+	{
+      "description": "Nmap (Network Mapper) is a free and open-source network scanner created by Gordon Lyon (also known by his pseudonym Fyodor Vaskovich). Nmap is used to discover hosts and services on a computer network by sending packets and analyzing the responses. Nmap provides a number of features for probing computer networks, including host discovery and service and operating system detection. These features are extensible by scripts that provide more advanced service detection, vulnerability detection, and other features. Nmap can adapt to network conditions including latency and congestion during a scan. Nmap started as a Linux utility and was ported to other systems including Windows, macOS, and BSD. Linux is the most popular platform, followed by Windows.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Nmap",
+		  "https://packetstormsecurity.com/files/154000/nmap-7.80.tgz"
+        ]
+      },
+      "uuid": "736b8676-cdbb-11e9-a32f-2a2ae2dbcce4",
+      "value": "Nmap Port Scanner"
+    },
+	{
+      "description": "The Mandos system allows computers to have encrypted root file systems and at the same time be capable of remote or unattended reboots. The computers run a small client program in the initial RAM disk environment which will communicate with a server over a network. All network communication is encrypted using TLS. The clients are identified by the server using an OpenPGP key that is unique to each client. The server sends the clients an encrypted password. The encrypted password is decrypted by the clients using the same OpenPGP key, and the password is then used to unlock the root file system.",
+      "meta": {
+        "refs": [
+          "https://packetstormsecurity.com/files/154148/mandos_1.8.8.orig.tar.gz",
+		  "https://www.recompile.se/mandos"
+        ]
+      },
+      "uuid": "736b8b94-cdbb-11e9-a32f-2a2ae2dbcce4",
+      "value": "Mandos Encrypted File System Unattended Reboot Utility"
+    },
+	{
+      "description": "Haveged is a daemon that feeds the /dev/random pool on Linux using an adaptation of the HArdware Volatile Entropy Gathering and Expansion algorithm invented at IRISA. The algorithm is self-tuning on machines with cpuid support, and has been tested in both 32-bit and 64-bit environments. The tarball uses the GNU build mechanism, and includes self test targets and a spec file for those who want to build an RPM.",
+      "meta": {
+        "refs": [
+          "https://wiki.archlinux.org/index.php/Haveged",
+		  "https://packetstormsecurity.com/files/154166/haveged-1.9.5-alpha.tar.gz"
+        ]
+      },
+      "uuid": "736b8cde-cdbb-11e9-a32f-2a2ae2dbcce4",
+      "value": "Haveged"
+    },
+	{
+      "description": "Tor is free and open-source software for enabling anonymous communication. The name is derived from an acronym for the original software project name The Onion Router. Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity to the user; this includes, visits to Web sites, online posts, instant messages, and other communication forms. Tor's intended use is to protect the personal privacy of its users, as well as their freedom and ability to conduct confidential communication by keeping their Internet activities from being monitored.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Tor_(anonymity_network)",
+		  "https://packetstormsecurity.com/files/154167/tor-0.4.1.5.tar.gz"
+        ]
+      },
+      "uuid": "736b8e1e-cdbb-11e9-a32f-2a2ae2dbcce4",
+      "value": "TOR Virtual Network Tunneling Tool"
+    },
+	{
+      "description": "Tinc is a Virtual Private Network (VPN) daemon that uses tunnelling and encryption to create a secure private network between hosts on the Internet. tinc is Free Software and licensed under the GNU General Public License version 2 or later. Because the VPN appears to the IP level network code as a normal network device, there is no need to adapt any existing software. This allows VPN sites to share information with each other over the Internet without exposing any information to others.",
+      "meta": {
+        "refs": [
+          "https://www.tinc-vpn.org",
+		  "https://packetstormsecurity.com/files/154218/tinc-1.0.36.tar.gz"
+        ]
+      },
+      "uuid": "b8bcbfc8-cdbc-11e9-a32f-2a2ae2dbcce4",
+      "value": "Tinc Virtual Private Network Daemon"
+    },
+	{
+      "description": "I2P is an anonymous network built on top of the internet. It allows netizens to create and access content and build online communities on a network that is both distributed and dynamic. It is intended to protect communication and resist monitoring by third parties such as ISPs.",
+      "meta": {
+        "refs": [
+          "https://geti2p.net/en/",
+		  "https://packetstormsecurity.com/files/154241/i2psource_0.9.42.tar.bz2"
+        ]
+      },
+      "uuid": "b8bcc338-cdbc-11e9-a32f-2a2ae2dbcce4",
+      "value": "I2P"
+    },
+	{
+      "description": "Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. (Zeek is the new name for the long-established Bro system. Note that parts of the system retain the Bro name, and it also often appears in the documentation and distributions.)",
+      "meta": {
+        "refs": [
+          "https://www.zeek.org/",
+		  "https://packetstormsecurity.com/files/154248/bro-2.6.4.tar.gz"
+        ],
+		"synonyms": [
+		"Bro Network Security Monitor",
+		"Bro"
+		]
+      },
+      "uuid": "b8bcc4a0-cdbc-11e9-a32f-2a2ae2dbcce4",
+      "value": "Zeek Network Security Monitor"
+    },
+	{
+      "description": "SSLsplit is a tool for man-in-the-middle attacks against SSL/TLS encrypted network connections. It is intended to be useful for network forensics, application security analysis and penetration testing. SSLsplit is designed to transparently terminate connections that are redirected to it using a network address translation engine. SSLsplit then terminates SSL/TLS and initiates a new SSL/TLS connection to the original destination address, while logging all data transmitted. Besides NAT based operation, SSLsplit also supports static destinations and using the server name indicated by SNI as upstream destination. SSLsplit is purely a transparent proxy and cannot act as a HTTP or SOCKS proxy configured in a browser.",
+      "meta": {
+        "refs": [
+          "https://www.roe.ch/SSLsplit",
+		  "https://packetstormsecurity.com/files/154273/sslsplit-0.5.5.tar.bz2"
+        ]
+      },
+      "uuid": "b8bcc64e-cdbc-11e9-a32f-2a2ae2dbcce4",
+      "value": "SSLsplit"
+    },
+	{
+      "description": "BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers. The repository contains 2325 tools. You can install tools individually or in groups. BlackArch Linux is compatible with existing Arch installs.",
+      "meta": {
+        "refs": [
+          "https://www.blackarch.org"
+        ]
+      },
+      "uuid": "b8bcca0e-cdbc-11e9-a32f-2a2ae2dbcce4",
+      "value": "BlackArch Linux"
+    },
+	{
+      "description": "Clam AntiVirus (ClamAV) is a free software, cross-platform and open-source antivirus software toolkit able to detect many types of malicious software, including viruses. One of its main uses is on mail servers as a server-side email virus scanner. The application was developed for Unix and has third party versions available for AIX, BSD, HP-UX, Linux, macOS, OpenVMS, OSF (Tru64) and Solaris. As of version 0.97.5, ClamAV builds and runs on Microsoft Windows. Both ClamAV and its updates are made available free of charge.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Clam_AntiVirus",
+		  "https://packetstormsecurity.com/files/154185/clamav-0.101.4.tar.gz"
+        ]
+      },
+      "uuid": "736b8f4a-cdbb-11e9-a32f-2a2ae2dbcce4",
+      "value": "Clam AntiVirus"
     }
 	  ],
-	"version": 1
+	"version": 2
 }
