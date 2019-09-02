@@ -1,21 +1,8 @@
 {
-  "category": "OSRS-Security-Tools-Index",
   "description": "The OSRS security tools index is used to track new developments of security testing tools as well as create an inventory of these tool types for easy look-up.",
   "name": "OSRS-Security-Tools-Index",
-  "source": "Open Sources",
+  "namespace": "misp",
   "type": "OSRS-Security-Tools-Index",
   "uuid": "bd0b3a26-cd82-11e9-a32f-2a2ae2dbcce4",
-  "values": [
-	  {
-      "description": "Test place holder",
-      "meta": {
-        "refs": [
-          "https://en.wikipedia.org/wiki/Penetration_test"
-        ]
-      },
-      "uuid": "d9875e0a-cd82-11e9-a32f-2a2ae2dbcce4",
-      "value": "Test OSRS-Security-Tools-Index Value"
-    }
-	  ],
-	"version": 1
+  "version": 1
 }
