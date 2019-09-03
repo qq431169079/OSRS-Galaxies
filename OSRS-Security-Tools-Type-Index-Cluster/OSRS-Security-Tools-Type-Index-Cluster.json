@@ -24,7 +24,7 @@
         ]
       },
       "uuid": "19373de6-cdbe-11e9-a32f-2a2ae2dbcce4",
-      "value": "Network System Identifier"
+      "value": "Tool Type - Network System Identifier"
     },
 	{
       "description": "Remote administration refers to any method of controlling a computer from a remote location. Software that allows remote administration is becoming increasingly common and is often used when it is difficult or impractical to be physically near a system in order to use it. A remote location may refer to a computer in the next room or one on the other side of the world. It may also refer to both legal and illegal remote administration.",
@@ -34,7 +34,7 @@
         ]
       },
       "uuid": "19374098-cdbe-11e9-a32f-2a2ae2dbcce4",
-      "value": "Remote Administration"
+      "value": "Tool Type - Remote Administration"
     },
 	{
       "description": "Filesystem-level encryption, often called file-based encryption, FBE, or file/folder encryption, is a form of disk encryption where individual files or directories are encrypted by the file system itself. This is in contrast to full disk encryption where the entire partition or disk, in which the file system resides, is encrypted.",
@@ -44,7 +44,7 @@
         ]
       },
       "uuid": "193741d8-cdbe-11e9-a32f-2a2ae2dbcce4",
-      "value": "Encrypted File System"
+      "value": "Tool Type - Encrypted File System"
     },
 	{
       "description": "Communcations that are encrypted and not displayed openly; thus, requiring a cypher to decrypt for meaning. There are various methods to encrypt communications over a network, and the subject itself is too broad to completely describe here.",
@@ -54,7 +54,7 @@
         ]
       },
       "uuid": "19374570-cdbe-11e9-a32f-2a2ae2dbcce4",
-      "value": "Encrypted Communication"
+      "value": "Tool Type - Encrypted Communication"
     },
 	{
       "description": "A virtual private network (VPN) extends a private network across a public network, and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network. Applications running on a computing device, e.g. a laptop, desktop, smartphone, across a VPN may therefore benefit from the functionality, security, and management of the private network. Encryption is a common though not an inherent part of a VPN connection.",
@@ -64,7 +64,7 @@
         ]
       },
       "uuid": "193747dc-cdbe-11e9-a32f-2a2ae2dbcce4",
-      "value": "Virtual Private Network"
+      "value": "Tool Type - Virtual Private Network"
     },
 	{
       "description": "Antivirus software, or anti-virus software (abbreviated to AV software), also known as anti-malware, is a computer program used to prevent, detect, and remove malware.",
@@ -74,7 +74,7 @@
         ]
       },
       "uuid": "20a02bc8-cdbf-11e9-a32f-2a2ae2dbcce4",
-      "value": "Anti-Virus"
+      "value": "Tool Type - Anti-Virus"
     },
 	{
       "description": "An intrusion detection system (IDS) is a device or software application that monitors a network or systems for malicious activity or policy violations. Any malicious activity or violation is typically reported either to an administrator or collected centrally using a security information and event management (SIEM) system. A SIEM system combines outputs from multiple sources, and uses alarm filtering techniques to distinguish malicious activity from false alarms.",
@@ -84,7 +84,7 @@
         ]
       },
       "uuid": "20a02f24-cdbf-11e9-a32f-2a2ae2dbcce4",
-      "value": "Intrusion Detection System (IDS)"
+      "value": "Tool Type - Intrusion Detection System (IDS)"
     },
 	{
       "description": "In cryptography and computer security, a man-in-the-middle attack (MITM) is an attack where the attacker secretly relays and possibly alters the communications between two parties who believe they are directly communicating with each other. One example of a MITM attack is active eavesdropping, in which the attacker makes independent connections with the victims and relays messages between them to make them believe they are talking directly to each other over a private connection, when in fact the entire conversation is controlled by the attacker. The attacker must be able to intercept all relevant messages passing between the two victims and inject new ones. This is straightforward in many circumstances; for example, an attacker within reception range of an unencrypted wireless access point (Wi-Fi) could insert themselves as a man-in-the-middle.",
@@ -94,7 +94,7 @@
         ]
       },
       "uuid": "20a035e6-cdbf-11e9-a32f-2a2ae2dbcce4",
-      "value": "Man-in-the-Middle (MITM)"
+      "value": "Tool Type - Man-in-the-Middle (MITM)"
     },
 	{
       "description": "An operating system (OS) is system software that manages computer hardware and software resources and provides common services for computer programs.",
@@ -104,7 +104,17 @@
         ]
       },
       "uuid": "20a0374e-cdbf-11e9-a32f-2a2ae2dbcce4",
-      "value": "Operating System"
+      "value": "Tool Type - Operating System"
+    },
+	{
+      "description": "SQL injection is a code injection technique, used to attack data-driven applications, in which malicious SQL statements are inserted into an entry field for execution (e.g. to dump the database contents to the attacker). SQL injection must exploit a security vulnerability in an application's software, for example, when user input is either incorrectly filtered for string literal escape characters embedded in SQL statements or user input is not strongly typed and unexpectedly executed. SQL injection is mostly known as an attack vector for websites but can be used to attack any type of SQL database.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/SQL_injection"
+        ]
+      },
+      "uuid": "7e76c234-ce78-11e9-a32f-2a2ae2dbcce4",
+      "value": "Tool Type - SQL Injection"
     },
 	{
       "description": "A port scanner is an application designed to probe a server or host for open ports. Such an application may be used by administrators to verify security policies of their networks and by attackers to identify network services running on a host and exploit vulnerabilities. A port scan or portscan is a process that sends client requests to a range of server port addresses on a host, with the goal of finding an active port; this is not a nefarious process in and of itself. The majority of uses of a port scan are not attacks, but rather simple probes to determine services available on a remote machine. To portsweep is to scan multiple hosts for a specific listening port. The latter is typically used to search for a specific service, for example, an SQL-based computer worm may portsweep looking for hosts listening on TCP port 1433.",
@@ -114,8 +124,8 @@
         ]
       },
       "uuid": "fd1658b8-cdbd-11e9-a32f-2a2ae2dbcce4",
-      "value": "Network Scanner"
+      "value": "Tool Type - Network Scanner"
     }
 	],
-	"version": 2
+	"version": 3
 }

@@ -937,6 +937,56 @@
 			"value": "Foxit Software"
 		},
 		{
+			"description": "The world's leading independent advertising platform, Amobee unifies all advertising channels—including TV, programmatic and social—across all formats and devices, providing marketers with streamlined, advanced media planning capabilities powered by in-depth analytics and proprietary audience data.",
+			"meta": {
+				"refs": [
+					"https://www.amobee.com/"
+				]
+			},
+			"uuid": "19641584-ce75-11e9-a32f-2a2ae2dbcce4",
+			"value": "Amobee"
+		},
+		{
+			"description": "Subsidiary of Amobee, an advertising company.",
+			"meta": {
+				"refs": [
+					"https://www.linkedin.com/company/adconion-direct/about/"
+				]
+			},
+			"uuid": "196418cc-ce75-11e9-a32f-2a2ae2dbcce4",
+			"value": "Adconion Direct"
+		},
+		{
+			"description": "French air travel booking company.",
+			"meta": {
+				"refs": [
+					"https://www.optionway.com"
+				]
+			},
+			"uuid": "19641a20-ce75-11e9-a32f-2a2ae2dbcce4",
+			"value": "Option Way"
+		},
+		{
+			"description": "Aliznet is an independent consultancy company from the Retail sector, specialising in project transformation, support and guidance in Business Sectors, Digital and IT.",
+			"meta": {
+				"refs": [
+					"https://en.aliznet.fr/"
+				]
+			},
+			"uuid": "19641b56-ce75-11e9-a32f-2a2ae2dbcce4",
+			"value": "Aliznet"
+		},
+		{
+			"description": "Affiliate of HelloTravel. HelloTravel is a marketplace where you get travel packages & holiday deals by trusted travel agents across the world. You may enquire about a trip package or customize your holiday. We connect you with Verified travel agents who provide you best quotes.",
+			"meta": {
+				"refs": [
+					"https://www.hellotravel.com/truly-travels"
+				]
+			},
+			"uuid": "19641c8c-ce75-11e9-a32f-2a2ae2dbcce4",
+			"value": "Truly Travels"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
@@ -947,5 +997,5 @@
 			"value": "TriTech"
 		}
 	],
-	"version": 22
+	"version": 23
 }

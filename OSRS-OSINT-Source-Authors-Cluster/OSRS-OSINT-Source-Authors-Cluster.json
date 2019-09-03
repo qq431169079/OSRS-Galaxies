@@ -15,7 +15,20 @@
       },
       "uuid": "806ffc0a-ce68-11e9-a32f-2a2ae2dbcce4",
       "value": "Test OSRS-OSINT-Source-Authors Value"
+    },
+	{
+      "description": "An experienced IT writer and editor, I've spent the past 14+ years honing my skills, building my contacts and broadening my horizons. At PM Media I now provide a comprehensive range of copywriting and media consultancy services to a wide variety of clients, albeit with a technology bias. I've been able to consistently deliver compelling copy on time and to brief, including blogs; white papers; case studies; EDMs; awards entries; and bylined opinion articles. Clients past and present include Microsoft, Cisco, Lenovo, Barclaycard, Worldpay, Trend Micro, Ferrero, and PayPal.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/philmunc33/?originalSubdomain=uk",
+		  "http://www.philmuncaster.com/",
+		  "http://www.infosecurity-magazine.com/",
+		  "https://twitter.com/philmuncaster"
+        ]
+      },
+      "uuid": "0a588636-ce77-11e9-a32f-2a2ae2dbcce4",
+      "value": "Phil Muncaster"
     }
 	  ],
-	"version": 1
+	"version": 2
 }

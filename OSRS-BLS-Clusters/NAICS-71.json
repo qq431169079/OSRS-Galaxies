@@ -37,6 +37,16 @@
       "value": "MoviePass"
     },
 	{
+      "description": "xkcd, sometimes styled XKCD, is a webcomic created in 2005 by American author Randall Munroe. The comic tagline describes it as A webcomic of romance, sarcasm, math, and language. Munroe states on the comic website that the name of the comic is not an initialism, but just a word with no phonetic pronunciation.",
+      "meta": {
+        "refs": [
+          "https://xkcd.com/"
+        ]
+      },
+      "uuid": "9e04c49c-ce74-11e9-a32f-2a2ae2dbcce4",
+      "value": "XKCD Comic"
+    },
+	{
       "description": "The Shubert Organization is a theatrical producing organization and a major owner of theatres based in Manhattan, New York City. It was founded by the three Shubert brothers in the late 19th century. They steadily expanded, owning many theaters in New York and across the country.",
       "meta": {
         "refs": [
@@ -47,5 +57,5 @@
       "value": "The Shubert Organization"
     }
 	  ],
-	"version": 4
+	"version": 5
 }

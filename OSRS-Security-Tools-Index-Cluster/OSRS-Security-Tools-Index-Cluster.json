@@ -119,6 +119,17 @@
       "value": "BlackArch Linux"
     },
 	{
+      "description": "sqlmap is an open source software that is used to detect and exploit database vulnerabilities and provides options for injecting malicious codes into them. It is a penetration testing tool that automates the process of detecting and exploiting SQL injection flaws providing its user interface in the terminal. The software is run at the command line and is available to download for different operating systems: Linux distributions, Windows and Mac OS operating systems. In addition to mapping and detecting vulnerabilities, the software enables access to the database, editing and deleting data, and viewing data in tables such as users, passwords, backups, phone numbers, e-mail addresses, credit cards and other confidential and sensitive information. sqlmap has full support for multiple DBMSs, including MySQL, Oracle, PostgreSQL, Microsoft SQL Server, Microsoft Access, IBM DB2, SQLite, Firebird and SAP MaxDB. And full support for all injection techniques - Boolean, Error, Stack, Time, Union.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Sqlmap",
+		  "https://packetstormsecurity.com/files/154303/sqlmap-1.3.9.tar.gz"
+        ]
+      },
+      "uuid": "0794d3d6-ce78-11e9-a32f-2a2ae2dbcce4",
+      "value": "SQLMAP - Automatic SQL Injection Tool"
+    },
+	{
       "description": "Clam AntiVirus (ClamAV) is a free software, cross-platform and open-source antivirus software toolkit able to detect many types of malicious software, including viruses. One of its main uses is on mail servers as a server-side email virus scanner. The application was developed for Unix and has third party versions available for AIX, BSD, HP-UX, Linux, macOS, OpenVMS, OSF (Tru64) and Solaris. As of version 0.97.5, ClamAV builds and runs on Microsoft Windows. Both ClamAV and its updates are made available free of charge.",
       "meta": {
         "refs": [
@@ -130,5 +141,5 @@
       "value": "Clam AntiVirus"
     }
 	  ],
-	"version": 2
+	"version": 3
 }

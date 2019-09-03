@@ -76,6 +76,16 @@
 			"value": "Lumber Liquidators Inc."
 		},
 		{
+			"description": "Yves Rocher is a worldwide cosmetics and beauty brand, founded in 1959 by the French entrepreneur Yves Rocher in La Gacilly. The company is present in 88 countries on five continents and employs 13,500 personnel, excluding more than 215,000 through additional indirect jobs.",
+			"meta": {
+				"refs": [
+					"https://www.yvesrocherusa.com/control/main/"
+				]
+			},
+			"uuid": "e86649ec-ce75-11e9-a32f-2a2ae2dbcce4",
+			"value": "Yves Rocher"
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [
@@ -86,5 +96,5 @@
 			"value": "Gearbest"
 		}
 	],
-	"version": 5
+	"version": 6
 }
