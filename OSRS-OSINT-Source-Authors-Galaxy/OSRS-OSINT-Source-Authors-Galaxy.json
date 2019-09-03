@@ -1,1 +1,8 @@
--
+{
+  "description": "The OSRS OSINT Source Authors galaxy is used for the tracking of authors in association to the OSINT artificats collected.",
+  "name": "OSRS-OSINT-Source-Authors",
+  "namespace": "misp",
+  "type": "OSRS-OSINT-Source-Authors",
+  "uuid": "a26d426e-ce67-11e9-a32f-2a2ae2dbcce4",
+  "version": 1
+}
