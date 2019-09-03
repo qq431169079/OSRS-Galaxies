@@ -1,1 +1,21 @@
--
+{
+  "category": "OSRS-OSINT-Source-Authors",
+  "description": "The OSRS OSINT Source Authors galaxy is used for the tracking of authors in association to the OSINT artificats collected.",
+  "name": "OSRS-OSINT-Source-Authors",
+  "source": "Open Sources",
+  "type": "OSRS-OSINT-Source-Authors",
+  "uuid": "a26d426e-ce67-11e9-a32f-2a2ae2dbcce4",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Author"
+        ]
+      },
+      "uuid": "6237ed3e-48bb-11e9-8646-d663bd873d93",
+      "value": "Test OSRS-OSINT-Source-Authors Value"
+    }
+	  ],
+	"version": 1
+}
