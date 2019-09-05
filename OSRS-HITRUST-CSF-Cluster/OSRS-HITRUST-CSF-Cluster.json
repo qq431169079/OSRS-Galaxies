@@ -1,1 +1,21 @@
--
+{
+  "category": "OSRS-HITRUST-CSF",
+  "description": "The HITRUST CSF (created to stand for Common Security Framework) is a prescriptive set of controls that meet the requirements of multiple regulations and standards. The framework provides a way to comply with ISO/IEC 27000-series and HIPAA standards.HITRUST is led by a management team and governed by an Executive Council made up of leaders from across a variety of industry. These leaders represent the governance of the organization, but other founders also comprise the leadership to ensure the framework meets the short- and long-term needs of the entire industry.",
+  "name": "OSRS-HITRUST-CSF",
+  "source": "HITRUST CSF",
+  "type": "OSRS-HITRUST-CSF",
+  "uuid": "OSRS-HITRUST-CSF",
+  "values": [
+	  {
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://hitrustalliance.net/hitrust-csf/"
+        ]
+      },
+      "uuid": "48cd022a-d034-11e9-bb65-2a2ae2dbcce4",
+      "value": "Test OSRS-HITRUST-CSF Value"
+    }
+	  ],
+	"version": 1
+}
