@@ -278,6 +278,16 @@
       "value": "Nemty Ransomware"
     },
 	{
+      "description": "JSWorm encrypts all the user files appending a new extension to their name. Unlike other ransomware, the extension is composed by many fields, reporting the information the user needs to move on the ransom payment phase. These fields are the same shown in the ransom note, that are Filename.originalExtension.Infection_ID-Attacker_email.JSWRM.",
+      "meta": {
+        "refs": [
+          "https://blog.yoroi.company/research/jsworm-the-4th-version-of-the-infamous-ransomware/"
+        ]
+      },
+      "uuid": "42b246e0-cff1-11e9-bb65-2a2ae2dbcce4",
+      "value": "JSWorm Ransomware"
+    },
+	{
       "description": "Jcry is written in Go language via #OpJerusalem2019 campaign that attack Windows users to encrypt the file and demand the ransom.",
       "meta": {
         "refs": [
@@ -289,5 +299,5 @@
       "value": "jCry"
     }
 	],
-	"version": 10
+	"version": 11
 }

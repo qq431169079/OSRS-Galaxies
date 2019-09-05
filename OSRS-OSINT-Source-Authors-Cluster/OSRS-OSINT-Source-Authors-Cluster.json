@@ -17,6 +17,146 @@
       "value": "Test OSRS-OSINT-Source-Authors Value"
     },
 	{
+      "description": "Brian Krebs is an American journalist and investigative reporter. He is best known for his coverage of profit-seeking cybercriminals. His interest grew after a computer worm locked him out of his own computer in 2001. Krebs is the author of a daily blog, KrebsOnSecurity.com, covering computer security and cybercrime.",
+      "meta": {
+        "refs": [
+          "https://krebsonsecurity.com/",
+		  "https://twitter.com/briankrebs?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+		  "https://en.wikipedia.org/wiki/Brian_Krebs",
+		  "https://www.facebook.com/Brian-Krebs-119740914725557/"
+        ]
+      },
+      "uuid": "e9590a30-cff4-11e9-bb65-2a2ae2dbcce4",
+      "value": "Brian Krebs"
+    },
+	{
+      "description": "Pierluigi Paganini is CTO at Cybaze Enterprise SpA Pierluigi is member of the ENISA (European Union Agency for Network and Information Security) Threat Landscape Stakeholder Group, member of Cyber G7 Workgroup of the Italian Ministry of Foreign Affairs and International Cooperation, Professor and Director of the Master in Cyber Security at the Link Campus University. Editor-in-Chief at Cyber Defense Magazine, Pierluigi is a cyber security expert with over 20 years experience in the field, he is Certified Ethical Hacker at EC Council in London. The passion for writing and a strong belief that security is founded on sharing and awareness led Pierluigi to find the security blog Security Affairs recently named a Top National Security Resource for US. Pierluigi is a member of the The Hacker News team and he is a writer for some major publications in the field such as Cyber War Zone, ICTTF, Infosec Island, Infosec Institute, The Hacker News Magazine and for many other Security magazines.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/securityaffairs?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+		  "https://resources.infosecinstitute.com/author/pierluigi-paganini/#gref"
+        ]
+      },
+      "uuid": "e9590c56-cff4-11e9-bb65-2a2ae2dbcce4",
+      "value": "Pierluigi Paganini"
+    },
+	{
+      "description": "Informational extention of the anti-virus company TrendMicro.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com"
+        ]
+      },
+      "uuid": "e9590da0-cff4-11e9-bb65-2a2ae2dbcce4",
+      "value": "Trend Micro Blog"
+    },
+	{
+      "description": "Reverse engineer with a deep knowledge of x86 and x64 assembly, proficient in using several debuggers and disassemblers (OllyDBG, WinDBG, IDA) and other reversing tools. Abilities include reversing applications under Windows, Linux and Android platforms, exploits (OLE, PDF, Java) and scripts. Has detailed knowledge of PE executables and Windows internals. Software engineer with experience in developing applications in C as well as C++ and Java. Prolific blogger and IT security conference speaker.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/jaromirhorejsi/",
+		  "https://twitter.com/JaromirHorejsi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+		  "https://blog.trendmicro.com/trendlabs-security-intelligence/author/jaromirh/"
+        ]
+      },
+      "uuid": "e9590ecc-cff4-11e9-bb65-2a2ae2dbcce4",
+      "value": "Jaromir Horejsi"
+    },
+	{
+      "description": "Fraud researcher with the anti-virus vendor TrendMicro.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/author/josephcchen/",
+		  "https://tw.linkedin.com/in/joseph-chen-229965100",
+		  "https://blog.trendmicro.com/trendlabs-security-intelligence/author/josephcchen/page/2/"
+        ]
+      },
+      "uuid": "e9590fee-cff4-11e9-bb65-2a2ae2dbcce4",
+      "value": "Joseph C. Chen"
+    },
+	{
+      "description": "Red Team Consultant at Mandiant (FireEye).",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/brett-hawkins-ba843037/",
+		  "https://twitter.com/h4wkst3r/media"
+        ]
+      },
+      "uuid": "f7d1bda8-cff6-11e9-bb65-2a2ae2dbcce4",
+      "value": "Brett Hawkins"
+    },
+	{
+      "description": "Blog extension of the organization Yoroi.  Yoroi is a managed security service provider. It provides cyber security solutions against industrial espionage, internal threats and advanced targeted attacks. Yoroi offers an high specialized Security Operation Center (SOC) to protect your company.",
+      "meta": {
+        "refs": [
+          "https://www.facebook.com/weareyoroi/",
+		  "https://twitter.com/yoroisecurity",
+		  "https://www.youtube.com/channel/UCb3woWzGtRO8tYHHpje3AMA",
+		  "https://www.linkedin.com/company/yoroi"
+        ]
+      },
+      "uuid": "f7d1c0a0-cff6-11e9-bb65-2a2ae2dbcce4",
+      "value": "ZLAB-YOROI"
+    },
+	{
+      "description": "Malware Analyst | Security Researcher @Yoroi ZLab - Cybaze SpA. Antonio graduated in Software Engineering at the University of Sannio. Antonio is now part of ZLab, the malware analysis team of Yoroi Cybaze.",
+      "meta": {
+        "refs": [
+          "https://www.yoroi.company/about-us.html",
+		  "https://www.linkedin.com/in/antonio-farina-a2528a102/"
+        ]
+      },
+      "uuid": "f7d1c1f4-cff6-11e9-bb65-2a2ae2dbcce4",
+      "value": "Antonio Farina"
+    },
+	{
+      "description": "Malware Analyst | Security Researcher @Yoroi ZLab - Cybaze SpA. Davide graduated in Software Engineering at the University of Sannio. Davide is now part of ZLab, the malware analysis team of Yoroi Cybaze.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/davidetesta94/",
+		  "https://www.yoroi.company/about-us.html"
+        ]
+      },
+      "uuid": "f7d1c3e8-cff6-11e9-bb65-2a2ae2dbcce44",
+      "value": "Davide Testa"
+    },
+	{
+      "description": "Malware Analyst | Security Researcher @Yoroi ZLab - Cybaze SpA. Antonio graduated in Computer Engineering at the University of Sannio. He is the director of ZLab, the malware analysis team of Yoroi Cybaze.",
+      "meta": {
+        "refs": [
+          "https://www.yoroi.company/about-us.html",
+		  "https://www.researchgate.net/profile/Antonio_Pirozzi2",
+		  "https://eucybersummit.com/team/antonio-pirozzi/"
+        ]
+      },
+      "uuid": "f7d1c51e-cff6-11e9-bb65-2a2ae2dbcce4",
+      "value": "Antonio Pirozzi"
+    },
+	{
+      "description": "Only a few years removed from college, I am using my training as a journalist to inform consumers, researchers and executives in the cybersecurity field now as a technical editor and writer at Cisco Talos.",
+      "meta": {
+        "refs": [
+          "https://www.blogger.com/profile/13414456218583234191",
+		  "https://www.linkedin.com/in/jonmunshaw/"
+        ]
+      },
+      "uuid": "5ce54104-cff9-11e9-bb65-2a2ae2dbcce4",
+      "value": "Jon Munshaw"
+    },
+	{
+      "description": "Zack Whittaker is the security editor at TechCrunch.",
+      "meta": {
+        "refs": [
+          "https://techcrunch.com/author/zack-whittaker/",
+		  "zack.whittaker@techcrunch.com",
+		  "https://twitter.com/zackwhittaker",
+		  "https://www.linkedin.com/in/zackwhittaker"
+        ]
+      },
+      "uuid": "5ce5435c-cff9-11e9-bb65-2a2ae2dbcce4",
+      "value": "Zack Whittaker"
+    },
+	{
       "description": "An experienced IT writer and editor, I've spent the past 14+ years honing my skills, building my contacts and broadening my horizons. At PM Media I now provide a comprehensive range of copywriting and media consultancy services to a wide variety of clients, albeit with a technology bias. I've been able to consistently deliver compelling copy on time and to brief, including blogs; white papers; case studies; EDMs; awards entries; and bylined opinion articles. Clients past and present include Microsoft, Cisco, Lenovo, Barclaycard, Worldpay, Trend Micro, Ferrero, and PayPal.",
       "meta": {
         "refs": [
@@ -30,5 +170,5 @@
       "value": "Phil Muncaster"
     }
 	  ],
-	"version": 2
+	"version": 3
 }

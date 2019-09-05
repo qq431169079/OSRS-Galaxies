@@ -130,6 +130,56 @@
       "value": "SQLMAP - Automatic SQL Injection Tool"
     },
 	{
+      "description": "Windows persistence toolkit written in C#. Author - Brett Hawkins (@h4wkst3r)",
+      "meta": {
+        "refs": [
+          "https://github.com/fireeye/SharPersist"
+        ]
+      },
+      "uuid": "9c0c1e42-cffa-11e9-bb65-2a2ae2dbcce4",
+      "value": "SharPersist"
+    },
+	{
+      "description": "Seatbelt is a C# project that performs a number of security oriented host-survey safety checks relevant from both offensive and defensive security perspectives. Seatbelt is licensed under the BSD 3-Clause license.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Penetration_test"
+        ]
+      },
+      "uuid": "9c0c22e8-cffa-11e9-bb65-2a2ae2dbcce4",
+      "value": "https://github.com/GhostPack/Seatbelt"
+    },
+	{
+      "description": "SharpUp is a C# port of various PowerUp functionality. Currently, only the most common checks have been ported; no weaponization functions have yet been implemented.",
+      "meta": {
+        "refs": [
+          "https://github.com/GhostPack/SharpUp"
+        ]
+      },
+      "uuid": "9c0c2464-cffa-11e9-bb65-2a2ae2dbcce4",
+      "value": "SharpUp"
+    },
+	{
+      "description": ".NET port of PowerView. PowerView is a PowerShell tool to gain network situational awareness on Windows domains. It contains a set of pure-PowerShell replacements for various windows net commands, which utilize PowerShell AD hooks and underlying Win32 API functions to perform useful Windows domain functionality.",
+      "meta": {
+        "refs": [
+          "https://github.com/tevora-threat/SharpView"
+        ]
+      },
+      "uuid": "9c0c25ae-cffa-11e9-bb65-2a2ae2dbcce4",
+      "value": "SharpView"
+    },
+	{
+      "description": "Wapiti allows you to audit the security of your websites or web applications. It performs black-box scans (it does not study the source code) of the web application by crawling the webpages of the deployed webapp, looking for scripts and forms where it can inject data. Once it gets the list of URLs, forms and their inputs, Wapiti acts like a fuzzer, injecting payloads to see if a script is vulnerable.",
+      "meta": {
+        "refs": [
+          "http://wapiti.sourceforge.net/"
+        ]
+      },
+      "uuid": "9c0c26f8-cffa-11e9-bb65-2a2ae2dbcce4",
+      "value": "Wapiti"
+    },
+	{
       "description": "Clam AntiVirus (ClamAV) is a free software, cross-platform and open-source antivirus software toolkit able to detect many types of malicious software, including viruses. One of its main uses is on mail servers as a server-side email virus scanner. The application was developed for Unix and has third party versions available for AIX, BSD, HP-UX, Linux, macOS, OpenVMS, OSF (Tru64) and Solaris. As of version 0.97.5, ClamAV builds and runs on Microsoft Windows. Both ClamAV and its updates are made available free of charge.",
       "meta": {
         "refs": [
@@ -141,5 +191,5 @@
       "value": "Clam AntiVirus"
     }
 	  ],
-	"version": 3
+	"version": 4
 }

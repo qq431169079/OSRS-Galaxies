@@ -552,6 +552,16 @@
       "value": "ITG08"
     },
 	{
+      "description": "Operation Windigo – the vivisection of a large Linux server-side credential-stealing malware campaign. The gang behind Operation Windigo uses infected systems to steal credentials, redirect web traffic to malicious content, and send spam messages.",
+      "meta": {
+        "refs": [
+          "https://www.welivesecurity.com/2014/03/18/operation-windigo-the-vivisection-of-a-large-linux-server-side-credential-stealing-malware-campaign/"
+        ]
+      },
+      "uuid": "b2cb2376-cff0-11e9-bb65-2a2ae2dbcce4",
+      "value": "Operation Windigo"
+    },
+	{
       "description": "SandCat, on the other hand, is a group that was discovered more recently by Kaspersky. One of the Windows vulnerabilities patched by Microsoft in December had been exploited by both FruityArmor and SandCat in attacks targeting the Middle East and Africa. SandCat has been using FinFisher/FinSpy spyware and CHAINSHOT, a piece of malware analyzed earlier this year by Palo Alto Networks. The group has also used the CVE-2018-8589 and CVE-2018-8611 Windows vulnerabilities in its attacks, both of which had a zero-day status when Microsoft released fixes.",
       "meta": {
         "refs": [
@@ -562,5 +572,5 @@
       "value": "SandCat"
     }  
 	  ],
-	"version": 14
+	"version": 15
 }

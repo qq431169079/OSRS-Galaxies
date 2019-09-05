@@ -117,6 +117,36 @@
       "value": "Tool Type - SQL Injection"
     },
 	{
+      "description": "A web application vulnerability scanner, also known as a web application security scanner, is an automated security tool. It scans web applications for malware, vulnerabilities, and logical flaws. Web application vulnerability scanners use black box tests, as these tests do not require access to the source code but instead launch external attacks to test for security vulnerabilities. These simulated attacks can detect path traversal, cross-site scripting(XSS), and command injection.",
+      "meta": {
+        "refs": [
+          "https://www.whitehatsec.com/glossary/content/web-application-vulnerability-scanner"
+        ]
+      },
+      "uuid": "d0f9f758-cffc-11e9-bb65-2a2ae2dbcce4",
+      "value": "Web Application Vulnerability Scanner"
+    },
+	{
+      "description": "Persistence consists of techniques that adversaries use to keep access to systems across restarts, changed credentials, and other interruptions that could cut off their access. Techniques used for persistence include any access, action, or configuration changes that let them maintain their foothold on systems, such as replacing or hijacking legitimate code or adding startup code.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0003/"
+        ]
+      },
+      "uuid": "d0f9f9f6-cffc-11e9-bb65-2a2ae2dbcce4",
+      "value": "Persistence"
+    },
+	{
+      "description": "Privilege Escalation consists of techniques that adversaries use to gain higher-level permissions on a system or network. Adversaries can often enter and explore a network with unprivileged access but require elevated permissions to follow through on their objectives. Common approaches are to take advantage of system weaknesses, misconfigurations, and vulnerabilities.",
+      "meta": {
+        "refs": [
+          "https://attack.mitre.org/tactics/TA0004/"
+        ]
+      },
+      "uuid": "d0f9fbea-cffc-11e9-bb65-2a2ae2dbcce4",
+      "value": "Privilege Escalation"
+    },
+	{
       "description": "A port scanner is an application designed to probe a server or host for open ports. Such an application may be used by administrators to verify security policies of their networks and by attackers to identify network services running on a host and exploit vulnerabilities. A port scan or portscan is a process that sends client requests to a range of server port addresses on a host, with the goal of finding an active port; this is not a nefarious process in and of itself. The majority of uses of a port scan are not attacks, but rather simple probes to determine services available on a remote machine. To portsweep is to scan multiple hosts for a specific listening port. The latter is typically used to search for a specific service, for example, an SQL-based computer worm may portsweep looking for hosts listening on TCP port 1433.",
       "meta": {
         "refs": [
@@ -127,5 +157,5 @@
       "value": "Tool Type - Network Scanner"
     }
 	],
-	"version": 3
+	"version": 4
 }
