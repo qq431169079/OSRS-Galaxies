@@ -124,7 +124,7 @@
         ]
       },
       "uuid": "d0f9f758-cffc-11e9-bb65-2a2ae2dbcce4",
-      "value": "Web Application Vulnerability Scanner"
+      "value": "Tool Type - Web Application Vulnerability Scanner"
     },
 	{
       "description": "Persistence consists of techniques that adversaries use to keep access to systems across restarts, changed credentials, and other interruptions that could cut off their access. Techniques used for persistence include any access, action, or configuration changes that let them maintain their foothold on systems, such as replacing or hijacking legitimate code or adding startup code.",
@@ -134,7 +134,7 @@
         ]
       },
       "uuid": "d0f9f9f6-cffc-11e9-bb65-2a2ae2dbcce4",
-      "value": "Persistence"
+      "value": "Tool Type - Persistence"
     },
 	{
       "description": "Privilege Escalation consists of techniques that adversaries use to gain higher-level permissions on a system or network. Adversaries can often enter and explore a network with unprivileged access but require elevated permissions to follow through on their objectives. Common approaches are to take advantage of system weaknesses, misconfigurations, and vulnerabilities.",
@@ -144,7 +144,17 @@
         ]
       },
       "uuid": "d0f9fbea-cffc-11e9-bb65-2a2ae2dbcce4",
-      "value": "Privilege Escalation"
+      "value": "Tool Type - Privilege Escalation"
+    },
+	{
+      "description": "Tools used to generate random values. Sometimes used in DNS spoofing or encryption.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Random_number_generation"
+        ]
+      },
+      "uuid": "1292a862-d0cb-11e9-bb65-2a2ae2dbcce4",
+      "value": "Tool Typoe - Random Value Generator"
     },
 	{
       "description": "A port scanner is an application designed to probe a server or host for open ports. Such an application may be used by administrators to verify security policies of their networks and by attackers to identify network services running on a host and exploit vulnerabilities. A port scan or portscan is a process that sends client requests to a range of server port addresses on a host, with the goal of finding an active port; this is not a nefarious process in and of itself. The majority of uses of a port scan are not attacks, but rather simple probes to determine services available on a remote machine. To portsweep is to scan multiple hosts for a specific listening port. The latter is typically used to search for a specific service, for example, an SQL-based computer worm may portsweep looking for hosts listening on TCP port 1433.",
