@@ -52,3 +52,21 @@ https://hitrustalliance.net/csf-license-agreement/
 https://hitrustalliance.net/hitrust-threat-catalogue-license-agreement/
 
 The OSRS is not responsible for actions against those who have not downloaded the HITRUST Threat Catalogue.
+
+# BLS
+
+## BLS Linking and Copyright
+
+### Copyright
+The Bureau of Labor Statistics (BLS) is a Federal government agency and everything that we publish, both in hard copy and electronically, is in the public domain, except for previously copyrighted photographs and illustrations. You are free to use our public domain material without specific permission, although we do ask that you cite the Bureau of Labor Statistics as the source.
+
+### Links to BLS.gov
+The public domain use of our materials includes linking to our website. You do not need to obtain special permission from the BLS to link to our site.
+
+### Links from BLS.gov
+Links to non-BLS Internet sites are provided for your convenience and do not constitute an endorsement.
+
+### BLS Emblem
+The BLS emblem, which is displayed on the BLS homepage, on BLS publications, and other BLS products, is a federally registered trademark. Unauthorized use of the emblem is prohibited. All rights reserved.
+
+https://www.bls.gov/bls/linksite.htm
