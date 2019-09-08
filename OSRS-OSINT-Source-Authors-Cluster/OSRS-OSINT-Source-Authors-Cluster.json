@@ -27,7 +27,7 @@
         ]
       },
       "uuid": "e9590a30-cff4-11e9-bb65-2a2ae2dbcce4",
-      "value": "Brian Krebs"
+      "value": "Brian-Krebs"
     },
 	{
       "description": "Pierluigi Paganini is CTO at Cybaze Enterprise SpA Pierluigi is member of the ENISA (European Union Agency for Network and Information Security) Threat Landscape Stakeholder Group, member of Cyber G7 Workgroup of the Italian Ministry of Foreign Affairs and International Cooperation, Professor and Director of the Master in Cyber Security at the Link Campus University. Editor-in-Chief at Cyber Defense Magazine, Pierluigi is a cyber security expert with over 20 years experience in the field, he is Certified Ethical Hacker at EC Council in London. The passion for writing and a strong belief that security is founded on sharing and awareness led Pierluigi to find the security blog Security Affairs recently named a Top National Security Resource for US. Pierluigi is a member of the The Hacker News team and he is a writer for some major publications in the field such as Cyber War Zone, ICTTF, Infosec Island, Infosec Institute, The Hacker News Magazine and for many other Security magazines.",
@@ -38,7 +38,7 @@
         ]
       },
       "uuid": "e9590c56-cff4-11e9-bb65-2a2ae2dbcce4",
-      "value": "Pierluigi Paganini"
+      "value": "Pierluigi-Paganini"
     },
 	{
       "description": "Informational extention of the anti-virus company TrendMicro.",
@@ -48,7 +48,7 @@
         ]
       },
       "uuid": "e9590da0-cff4-11e9-bb65-2a2ae2dbcce4",
-      "value": "Trend Micro Blog"
+      "value": "Trend-Micro-Blog"
     },
 	{
       "description": "Reverse engineer with a deep knowledge of x86 and x64 assembly, proficient in using several debuggers and disassemblers (OllyDBG, WinDBG, IDA) and other reversing tools. Abilities include reversing applications under Windows, Linux and Android platforms, exploits (OLE, PDF, Java) and scripts. Has detailed knowledge of PE executables and Windows internals. Software engineer with experience in developing applications in C as well as C++ and Java. Prolific blogger and IT security conference speaker.",
@@ -60,7 +60,7 @@
         ]
       },
       "uuid": "e9590ecc-cff4-11e9-bb65-2a2ae2dbcce4",
-      "value": "Jaromir Horejsi"
+      "value": "Jaromir-Horejsi"
     },
 	{
       "description": "Fraud researcher with the anti-virus vendor TrendMicro.",
@@ -72,7 +72,7 @@
         ]
       },
       "uuid": "e9590fee-cff4-11e9-bb65-2a2ae2dbcce4",
-      "value": "Joseph C. Chen"
+      "value": "Joseph-C-Chen"
     },
 	{
       "description": "Red Team Consultant at Mandiant (FireEye).",
@@ -83,7 +83,7 @@
         ]
       },
       "uuid": "f7d1bda8-cff6-11e9-bb65-2a2ae2dbcce4",
-      "value": "Brett Hawkins"
+      "value": "Brett-Hawkins"
     },
 	{
       "description": "Blog extension of the organization Yoroi.  Yoroi is a managed security service provider. It provides cyber security solutions against industrial espionage, internal threats and advanced targeted attacks. Yoroi offers an high specialized Security Operation Center (SOC) to protect your company.",
@@ -107,7 +107,7 @@
         ]
       },
       "uuid": "f7d1c1f4-cff6-11e9-bb65-2a2ae2dbcce4",
-      "value": "Antonio Farina"
+      "value": "Antonio-Farina"
     },
 	{
       "description": "Malware Analyst | Security Researcher @Yoroi ZLab - Cybaze SpA. Davide graduated in Software Engineering at the University of Sannio. Davide is now part of ZLab, the malware analysis team of Yoroi Cybaze.",
@@ -118,7 +118,7 @@
         ]
       },
       "uuid": "f7d1c3e8-cff6-11e9-bb65-2a2ae2dbcce44",
-      "value": "Davide Testa"
+      "value": "Davide-Testa"
     },
 	{
       "description": "Malware Analyst | Security Researcher @Yoroi ZLab - Cybaze SpA. Antonio graduated in Computer Engineering at the University of Sannio. He is the director of ZLab, the malware analysis team of Yoroi Cybaze.",
@@ -130,7 +130,7 @@
         ]
       },
       "uuid": "f7d1c51e-cff6-11e9-bb65-2a2ae2dbcce4",
-      "value": "Antonio Pirozzi"
+      "value": "Antonio-Pirozzi"
     },
 	{
       "description": "Only a few years removed from college, I am using my training as a journalist to inform consumers, researchers and executives in the cybersecurity field now as a technical editor and writer at Cisco Talos.",
@@ -141,7 +141,7 @@
         ]
       },
       "uuid": "5ce54104-cff9-11e9-bb65-2a2ae2dbcce4",
-      "value": "Jon Munshaw"
+      "value": "Jon-Munshaw"
     },
 	{
       "description": "Zack Whittaker is the security editor at TechCrunch.",
@@ -154,7 +154,47 @@
         ]
       },
       "uuid": "5ce5435c-cff9-11e9-bb65-2a2ae2dbcce4",
-      "value": "Zack Whittaker"
+      "value": "Zack-Whittaker"
+    },
+	{
+      "description": "Malware researcher and author at Cisco Talos.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/andrea-marcelli-69377990/",
+		  "https://jimmy-sonny.github.io",
+		  "https://github.com/Cisco-Talos/Ghidraaas",
+		  "https://twitter.com/_s0nn1_?lang=en"
+        ]
+      },
+      "uuid": "229e198e-d27f-11e9-bb65-2a2ae2dbcce4",
+      "value": "Andrea-Marcelli"
+    },
+	{
+      "description": "Catalin Cimpanu is a security reporter at ZDNet, where he covers cyber-security, data breaches, hacking, and other related topics. He previously served as security reporter for Bleeping Computer and Softpedia. Catalin is based in Romania.",
+      "meta": {
+        "refs": [
+          "https://www.zdnet.com/meet-the-team/us/catalin.cimpanu/",
+		  "https://twitter.com/campuscodi",
+		  "catalincimpanu@gmail.com",
+		  "https://github.com/campuscodi"
+        ]
+      },
+      "uuid": "229e1be6-d27f-11e9-bb65-2a2ae2dbcce4",
+      "value": "Catalin-Cimpanu"
+    },
+	{
+      "description": "ABC affiliate out of Phoenix Arizona.",
+      "meta": {
+        "refs": [
+          "https://www.abc15.com",
+		  "https://www.facebook.com/ABC15/",
+		  "https://www.instagram.com/abc15arizona/",
+		  "https://twitter.com/abc15",
+		  "https://www.youtube.com/abc15"
+        ]
+      },
+      "uuid": "229e1d3a-d27f-11e9-bb65-2a2ae2dbcce4",
+      "value": "abc15-dot-com"
     },
 	{
       "description": "An experienced IT writer and editor, I've spent the past 14+ years honing my skills, building my contacts and broadening my horizons. At PM Media I now provide a comprehensive range of copywriting and media consultancy services to a wide variety of clients, albeit with a technology bias. I've been able to consistently deliver compelling copy on time and to brief, including blogs; white papers; case studies; EDMs; awards entries; and bylined opinion articles. Clients past and present include Microsoft, Cisco, Lenovo, Barclaycard, Worldpay, Trend Micro, Ferrero, and PayPal.",
@@ -167,8 +207,8 @@
         ]
       },
       "uuid": "0a588636-ce77-11e9-a32f-2a2ae2dbcce4",
-      "value": "Phil Muncaster"
+      "value": "Phil-Muncaster"
     }
 	  ],
-	"version": 3
+	"version": 4
 }
