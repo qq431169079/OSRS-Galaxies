@@ -15,7 +15,17 @@
       },
       "uuid": "23ff5cf0-48c5-11e9-8646-d663bd873d93",
       "value": "Test Food Manufacturing Value"
+    },
+	{
+      "description": "The Weaver Popcorn Company, based in Van Buren, Indiana, is one of the largest popcorn companies in the United States.",
+      "meta": {
+        "refs": [
+          "https://www.trails-end.com/"
+        ]
+      },
+      "uuid": "f37dea96-d353-11e9-bb65-2a2ae2dbcce4",
+      "value": "Trails End"
     }
 	  ],
-	"version": 1
+	"version": 2
 }

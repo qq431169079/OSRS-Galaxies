@@ -386,6 +386,16 @@
 			"value": "Arizona State University"
 		},
 		{
+			"description": "Meridian Community College is a public community college in Meridian, Mississippi. Founded in 1937, it was originally named Meridian Junior College but changed its name in 1987.",
+			"meta": {
+				"refs": [
+					"http://www.meridiancc.edu/"
+				]
+			},
+			"uuid": "4371c384-d353-11e9-bb65-2a2ae2dbcce4",
+			"value": "Meridian Community College"
+		},
+		{
 			"description": "Orchard View Highschool is a part of the Orchard View School District located in Muskegon Township Michigan, USA.",
 			"meta": {
 				"refs": [
@@ -396,5 +406,5 @@
 			"value": "Orchard View High School"
 		}
 	],
-	"version": 13
+	"version": 14
 }

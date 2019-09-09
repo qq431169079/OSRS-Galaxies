@@ -86,6 +86,16 @@
 			"value": "Yves Rocher"
 		},
 		{
+			"description": "Online furniture retialer.",
+			"meta": {
+				"refs": [
+					"https://www.pepperfry.com/"
+				]
+			},
+			"uuid": "a2930f1e-d356-11e9-bb65-2a2ae2dbcce4",
+			"value": "Trendsutra Platform Services Private Limited"
+		},
+		{
 			"description": "Online Shopping at Gearbest for the best cell phones, electronic gadgets, toys, sporting goods, home products and apparel for geeks at unbeatable great prices.",
 			"meta": {
 				"refs": [
@@ -96,5 +106,5 @@
 			"value": "Gearbest"
 		}
 	],
-	"version": 6
+	"version": 7
 }

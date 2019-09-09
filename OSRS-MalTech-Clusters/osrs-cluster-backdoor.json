@@ -287,6 +287,26 @@
       "value": "Asruex"
     },
 	{
+      "description": "Hannotog is a custom backdoor which provides the attackers with a persistent presence on the victim’s network. It has been used in conjunction with several other Thrip tools, including Sagerunex, another custom backdoor providing remote access to the attackers, and Catchamas (Infostealer.Catchamas), a custom Trojan deployed on selected computers of interest and designed to steal information.",
+      "meta": {
+        "refs": [
+          "https://www.symantec.com/blogs/threat-intelligence/thrip-apt-south-east-asia"
+        ]
+      },
+      "uuid": "283ea29e-d358-11e9-bb65-2a2ae2dbcce4",
+      "value": "Hannotog"
+    },
+	{
+      "description": "Hannotog is a custom backdoor which provides the attackers with a persistent presence on the victim’s network. It has been used in conjunction with several other Thrip tools, including Sagerunex, another custom backdoor providing remote access to the attackers, and Catchamas (Infostealer.Catchamas), a custom Trojan deployed on selected computers of interest and designed to steal information.",
+      "meta": {
+        "refs": [
+          "https://www.symantec.com/blogs/threat-intelligence/thrip-apt-south-east-asia"
+        ]
+      },
+      "uuid": "283ea50a-d358-11e9-bb65-2a2ae2dbcce4",
+      "value": "Sagerunex"
+    },
+	{
       "description": "The backdoor dubbed SLUB by the Trend Micro Cyber Safety Solutions Team who detected it in the wild is part of a multi-stage infection process designed by capable threat actors who programmed it in C++. SLUB uses statically-linked curl, boost, and JsonCpp libraries for performing HTTP request, extracting commands from gist snippets, and parsing Slack channel communication.",
       "meta": {
         "refs": [
@@ -297,5 +317,5 @@
       "value": "SLUB"
     }
 	  ],
-	"version": 10
+	"version": 11
 }

@@ -716,6 +716,26 @@
 			"value": "Capital & Coast District Health Board"
 		},
 		{
+			"description": "UC Health brings together the region’s top clinicians and researchers to provide world-class care to the Cincinnati community and beyond. From our flagship University of Cincinnati Medical Center to our state-of-the-art West Chester Hospital, UC Health delivers the absolute best in treatment and care.",
+			"meta": {
+				"refs": [
+					"https://www.uchealth.com"
+				]
+			},
+			"uuid": "fafc9fc4-d353-11e9-bb65-2a2ae2dbcce4",
+			"value": "UC Health, OH"
+		},
+		{
+			"description": "The Gender Identity Clinic (GIC) is the largest and oldest gender clinic in the UK, dating back to 1966. We accept referrals from all over the UK for adults with issues related to gender. We accept referrals for patients who are aged 17 years and older onto our waiting list. Patients will not be offered an appointment before their 18th birthday.",
+			"meta": {
+				"refs": [
+					"https://gic.nhs.uk/"
+				]
+			},
+			"uuid": "fafca244-d353-11e9-bb65-2a2ae2dbcce4",
+			"value": "Charing Cross Gender Identity Clinic"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [
@@ -726,5 +746,5 @@
 			"value": "SingHealth"
 		}
 	],
-	"version": 19
+	"version": 20
 }

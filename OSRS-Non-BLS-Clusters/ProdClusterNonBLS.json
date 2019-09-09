@@ -1239,6 +1239,77 @@
 			"value": "Oregon Judicial Department"
 		},
 		{
+			"description": "The Metropolitan Council is the regional policy-making body, planning agency, and provider of essential services for the Twin Cities metropolitan region. The Council's mission is to foster efficient and economic growth for a prosperous region.",
+			"meta": {
+				"refs": [
+					"https://metrocouncil.org/About-Us/The-Council-Who-We-Are.aspx"
+				]
+			},
+			"uuid": "3c4f6842-d351-11e9-bb65-2a2ae2dbcce4",
+			"value": "Metro Mobility"
+		},
+		{
+			"description": "The Flagstaff Unified School District is the primary school district for Flagstaff, Arizona area and neighboring areas. The district has approximately 11,500 students and operates 16 schools; including three high schools, two middle schools, four magnet schools, ten elementary schools, and two alternative programs.",
+			"meta": {
+				"refs": [
+					"https://www.fusd1.org/"
+				]
+			},
+			"uuid": "3c4f6ac2-d351-11e9-bb65-2a2ae2dbcce4",
+			"value": "Flagstaff Unified School District"
+		},
+		{
+			"description": "Unalaska is the chief center of population in the Aleutian Islands. The city is in the Aleutians West Census Area, a regional component of the Unorganized Borough in the U.S. state of Alaska. Unalaska is located on Unalaska Island and neighboring Amaknak Island in the Aleutian Islands off mainland Alaska.",
+			"meta": {
+				"refs": [
+					"https://www.ci.unalaska.ak.us/"
+				]
+			},
+			"uuid": "3c4f6c16-d351-11e9-bb65-2a2ae2dbcce4",
+			"value": "City of Unalaska"
+		},
+		{
+			"description": "Tamil Nadu Police Department is the primary law enforcement agency of the state of Tamil Nadu, India. It is over 150 years old and is the fifth largest state police force in India. Tamil Nadu has a police-population ratio of 1:632.",
+			"meta": {
+				"refs": [
+					"http://www.tnpolice.gov.in/"
+				]
+			},
+			"uuid": "3c4f6fae-d351-11e9-bb65-2a2ae2dbcce4",
+			"value": "Tamil Nadu Police"
+		},
+		{
+			"description": "The Oklahoma Law Enforcement Retirement System (OLERS) mission is to administer retirement / survivor retirement and medical benefits for members of the law enforcement profession of the state of Oklahoma and their families. OLERS places high value on the integrity of our agency. Our most important resource is our customer. Our goal is to treat every person who comes into contact with our agency with courtesy and concern, and respond to all inquiries promptly, accurately and clearly.",
+			"meta": {
+				"refs": [
+					"https://www.olers.state.ok.us/"
+				]
+			},
+			"uuid": "3c4f7116-d351-11e9-bb65-2a2ae2dbcce4",
+			"value": "Oklahoma Law Enforcement Retirement System"
+		},
+		{
+			"description": "The NZ Transport Agency is a New Zealand Crown entity tasked with promoting safe and functional transport by land, including the responsibility for driver and vehicle licensing, and administering the New Zealand state highway network.",
+			"meta": {
+				"refs": [
+					"https://www.nzta.govt.nz/"
+				]
+			},
+			"uuid": "3c4f724c-d351-11e9-bb65-2a2ae2dbcce4",
+			"value": "The New Zealand Transport Agency (NZTA)"
+		},
+		{
+			"description": "Vancouver Coastal Health (VCH) is a regional health authority providing direct and contracted health services including primary, secondary, tertiary and quaternary care, home and community care, mental health services, population and preventive health and addictions services in part of Greater Vancouver and the Coast Garibaldi area.",
+			"meta": {
+				"refs": [
+					"http://www.vch.ca/",
+					"https://en.wikipedia.org/wiki/Vancouver_Coastal_Health"
+				]
+			},
+			"uuid": "3c4f7378-d351-11e9-bb65-2a2ae2dbcce4",
+			"value": "Vancouver Coastal Health"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
@@ -1249,5 +1320,5 @@
 			"value": "Canterbury and West Coast District Health Board "
 		}
 		],
-	"version": 17
+	"version": 18
 }

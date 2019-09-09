@@ -135,6 +135,26 @@
 			"value": "Park Duvalle Community Health Center Inc"
 		},
 		{
+			"description": "The stated mission of the Boy Scouts of America is to prepare young people to make ethical and moral choices over their lifetimes by instilling in them the values of the Scout Oath and Law.",
+			"meta": {
+				"refs": [
+					"https://www.scouting.org/"
+				]
+			},
+			"uuid": "224463e4-d356-11e9-bb65-2a2ae2dbcce4",
+			"value": "Boy Scouts of America"
+		},
+		{
+			"description": "Likud, officially the Likud-National Liberal Movement, is a centre-right to right-wing political party in Israel. A secular party, it was founded in 1973 by Menachem Begin and Ariel Sharon in an alliance with several right-wing parties.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Likud"
+				]
+			},
+			"uuid": "22446650-d356-11e9-bb65-2a2ae2dbcce4",
+			"value": "Likud"
+		},
+		{
 			"description": "UNITED TISSUE NETWORK IS A NONPROFIT 501C3, AATB ACCREDITED, WHOLE-BODY DONATION COMPANY.",
 			"meta": {
 				"refs": [
@@ -145,5 +165,5 @@
 			"value": "United Tissue Network"
 		}
 	],
-	"version": 8
+	"version": 9
 }

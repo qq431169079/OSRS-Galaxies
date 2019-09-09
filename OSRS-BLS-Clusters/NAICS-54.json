@@ -987,6 +987,36 @@
 			"value": "Truly Travels"
 		},
 		{
+			"description": "Monster.com is a global employment website owned and operated by Monster Worldwide, Inc. It was created in 1999 through the merger of The Monster Board and Online Career Center. It is a subsidiary of Randstad Holding, a Dutch multinational human resource consulting firm, and is headquartered in Weston, Massachusetts.",
+			"meta": {
+				"refs": [
+					"https://www.monster.com/"
+				]
+			},
+			"uuid": "63b4930e-d355-11e9-bb65-2a2ae2dbcce4",
+			"value": "Monster.com"
+		},
+		{
+			"description": "Our first priority is your customer’s and/or employee’s safety, security, and their positive interaction with our agents. Professionalism means extraordinary execution of service delivery. Alert, capable, energetic, and pleasant Andy Frain staff fully understand they not only represent Andy Frain Services, but our customers as well.",
+			"meta": {
+				"refs": [
+					"https://www.andyfrain.com/"
+				]
+			},
+			"uuid": "63b49598-d355-11e9-bb65-2a2ae2dbcce4",
+			"value": "Andy Frain Services"
+		},
+		{
+			"description": "The company was founded to add technological service for our Indian police force who ensure the safety and security of the citizens.Innovative investigation Copseye brings unique image investigation featuresto face recognition product for law enforcement. Agents can find criminal persons quickly and narrow down suspect investigations.",
+			"meta": {
+				"refs": [
+					"https://www.copseye.ai/"
+				]
+			},
+			"uuid": "63b49778-d355-11e9-bb65-2a2ae2dbcce4",
+			"value": "COPSEYE | AI - Face recognition"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
@@ -997,5 +1027,5 @@
 			"value": "TriTech"
 		}
 	],
-	"version": 23
+	"version": 24
 }

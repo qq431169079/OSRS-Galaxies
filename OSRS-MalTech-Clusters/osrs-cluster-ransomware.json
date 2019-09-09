@@ -288,6 +288,19 @@
       "value": "JSWorm Ransomware"
     },
 	{
+      "description": "Thousands of web servers have been infected and had their files encrypted by a new strain of ransomware named Lilocked (or Lilu). Infections have been happening since mid-July, and have intensified in the past two weeks, ZDNet has learned. Based on current evidence, the Lilocked ransomware appears to target Linux-based systems only. First reports date to mid-July, after some victims uploaded the Lilocked ransom note/demand on ID Ransomware, a website for identifying the name of the ransomware that infected a victim's system.",
+      "meta": {
+        "refs": [
+          "https://www.zdnet.com/article/thousands-of-servers-infected-with-new-lilocked-lilu-ransomware/"
+        ],
+		"synonyms": [
+		"Lilu"
+		]
+      },
+      "uuid": "4b5f0556-d359-11e9-bb65-2a2ae2dbcce4",
+      "value": "Lilocked"
+    },
+	{
       "description": "Jcry is written in Go language via #OpJerusalem2019 campaign that attack Windows users to encrypt the file and demand the ransom.",
       "meta": {
         "refs": [
@@ -299,5 +312,5 @@
       "value": "jCry"
     }
 	],
-	"version": 11
+	"version": 12
 }

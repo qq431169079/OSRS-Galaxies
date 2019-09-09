@@ -37,6 +37,26 @@
       "value": "Amarin Corporation plc."
     },
 	{
+      "description": "DK-Lok tube fittings, instrument pipe & weld fittings, and valves are manufactured to stringent industry standards.",
+      "meta": {
+        "refs": [
+          "https://www.dklokusa.com/"
+        ]
+      },
+      "uuid": "6a06a838-d354-11e9-bb65-2a2ae2dbcce4",
+      "value": "DK-Lok"
+    },
+	{
+      "description": "Toyota Boshoku Corporation is a Japanese automotive component manufacturer. It is a member of the Toyota Group of companies. Toyota Boshoku Corporation entered the North American market via Toyota Boshoku America.",
+      "meta": {
+        "refs": [
+          "http://www.toyota-boshoku.com/"
+        ]
+      },
+      "uuid": "6a06aafe-d354-11e9-bb65-2a2ae2dbcce4",
+      "value": "Toyota Boshoku Corporation"
+    },
+	{
       "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide and, as of September 2018, was the sixth-largest company in the world by revenue.",
       "meta": {
         "refs": [
@@ -47,5 +67,5 @@
       "value": "Toyota"
     }
 	  ],
-	"version": 4
+	"version": 5
 }

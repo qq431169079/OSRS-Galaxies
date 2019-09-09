@@ -562,6 +562,19 @@
       "value": "Operation Windigo"
     },
 	{
+      "description": "Another nomenclature for the threat actor Lotus Blossom. Billbug is a long-established espionage group, active since at least January 2009. Similar to the Thrip sub-group, the wider Billbug group is known for specializing in operations against targets in South Asia. Billbug targets are usually compromised by either spear-phishing emails or watering hole attacks. The group spear-phishing attacks have tended to use exploits in Microsoft Office and PDF documents to drop its malware onto victims computers. To date, many of the group targets have been governments or military organizations.",
+      "meta": {
+        "refs": [
+          "https://www.symantec.com/blogs/threat-intelligence/thrip-apt-south-east-asia"
+        ],
+		"synonyms": [
+		"Lotus Blossom"
+		]
+      },
+      "uuid": "670e26a8-d357-11e9-bb65-2a2ae2dbcce4",
+      "value": "Billbug"
+    },
+	{
       "description": "SandCat, on the other hand, is a group that was discovered more recently by Kaspersky. One of the Windows vulnerabilities patched by Microsoft in December had been exploited by both FruityArmor and SandCat in attacks targeting the Middle East and Africa. SandCat has been using FinFisher/FinSpy spyware and CHAINSHOT, a piece of malware analyzed earlier this year by Palo Alto Networks. The group has also used the CVE-2018-8589 and CVE-2018-8611 Windows vulnerabilities in its attacks, both of which had a zero-day status when Microsoft released fixes.",
       "meta": {
         "refs": [
@@ -572,5 +585,5 @@
       "value": "SandCat"
     }  
 	  ],
-	"version": 15
+	"version": 16
 }
