@@ -197,6 +197,145 @@
       "value": "abc15-dot-com"
     },
 	{
+      "description": "Inc42 staff writer. As a recent Post-Graduate in Journalism, Kritti is still exploring the real world. She's currently working as a Journalist at Inc42, and enjoys the art of multimedia storytelling.",
+      "meta": {
+        "refs": [
+          "https://inc42.com/author/kritti-bhalla/"
+        ]
+      },
+      "uuid": "e5852a46-d3ba-11e9-bb65-2a2ae2dbcce4",
+      "value": "Kritti Bhalla"
+    },
+	{
+      "description": "Computer security researcher and a software developer, living in Denmark.",
+      "meta": {
+        "refs": [
+          "https://medium.com/@aku_12953",
+		  "https://twitter.com/s_metanka",
+		  "https://www.linkedin.com/in/aleksejskuprins/"
+        ]
+      },
+      "uuid": "e5852d3e-d3ba-11e9-bb65-2a2ae2dbcce4",
+      "value": "Aleksejs Kuprins"
+    },
+	{
+      "description": "Test place holder",
+      "meta": {
+        "refs": [
+          "https://www.vulnerability-lab.com",
+		  "https://www.vulnerability-lab.com/team.php"
+        ]
+      },
+      "uuid": "e5852e9c-d3ba-11e9-bb65-2a2ae2dbcce4",
+      "value": "VULNERABILITY LABORATORY RESEARCH TEAM"
+    },
+	{
+      "description": "Security researcher, Cisco Talos.",
+      "meta": {
+        "refs": [
+          "https://blog.talosintelligence.com/2019/09/vuln-spotlight-Netgear-N300-routers-DoS-sept-2019.html",
+		  "https://blog.talosintelligence.com/2019/06/vulnerability-spotlight-two-bugs-in.html"
+        ]
+      },
+      "uuid": "e5852fd2-d3ba-11e9-bb65-2a2ae2dbcce4",
+      "value": "Dave McDaniel"
+    },
+	{
+      "description": "I'm an experienced machine learning developer that applies natural language processing and computer vision in order to detect fraud, platform abuse, and cybersecurity threats. Rather than learning malicious patterns from text, images, and binaries, my doctoral work focused on learning memory patterns from spiking neural networks. My research concerning the intersection of artificial intelligence and cybersecurity has been presented at RSA, Black Hat, DEF CON, and a NeurIPS workshop, and it's been covered by The New York Times, BBC, TechCrunch, The Wall Street Journal, CNN, The Atlantic, KrebsOnSecurity, and more.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/phtully/",
+		  "https://twitter.com/phtully?lang=en"
+        ]
+      },
+      "uuid": "19223e4c-d3bc-11e9-bb65-2a2ae2dbcce4",
+      "value": "Philip Tully"
+    },
+	{
+      "description": "FireEye security researcher.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/iamthepr0blem"
+        ]
+      },
+      "uuid": "192240b8-d3bc-11e9-bb65-2a2ae2dbcce4",
+      "value": "Matthew Haigh"
+    },
+	{
+      "description": "FireEye security researcher.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/fireeye/status/1134202881786167297?lang=en",
+		  "https://twitter.com/FireEye/status/1133810364905414656"
+        ]
+      },
+      "uuid": "19224496-d3bc-11e9-bb65-2a2ae2dbcce4",
+      "value": "Jay Gibble"
+    },
+	{
+      "description": "FireEye security researcher.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/mikesiko?lang=es"
+        ]
+      },
+      "uuid": "192245e0-d3bc-11e9-bb65-2a2ae2dbcce4",
+      "value": "Michael Sikorski"
+    },
+	{
+      "description": "Author on the Pentestlab.blog site. Typically publishes information regarding offensive security methods.",
+      "meta": {
+        "refs": [
+          "https://pentestlab.blog/author/worm1984/",
+		  "https://twitter.com/netbiosX?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+        ]
+      },
+      "uuid": "19224716-d3bc-11e9-bb65-2a2ae2dbcce4",
+      "value": "netbiosX"
+    },
+	{
+      "description": "Francesca Fionda is an investigative journalist based in Vancouver reporting for Attention Control. The podcast explores misinformation, technology and data during our upcoming federal election. She has also worked as a data reporter at the community-driven journalism organization, The Discourse and on investigative teams at Global News and the CBC.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/francescafionda",
+		  "https://www.ctvnews.ca/more/ctvnews-ca-team/francesca-fionda-1.4571483"
+        ]
+      },
+      "uuid": "9190dfb2-d3be-11e9-bb65-2a2ae2dbcce4",
+      "value": "Francesca Fionda"
+    },
+	{
+      "description": "Staff journalist for news site HAARETZ.",
+      "meta": {
+        "refs": [
+          "https://www.haaretz.com/misc/writers/WRITER-1.4968424",
+		  "https://www.linkedin.com/company/haaretz/"
+        ]
+      },
+      "uuid": "9190e318-d3be-11e9-bb65-2a2ae2dbcce4",
+      "value": "Hagai Amit"
+    },
+	{
+      "description": "Ionut Ilascu is freelancing as a technology writer with a focus on all things cybersecurity. The topics he writes about include malware, vulnerabilities, exploits and security defenses, as well as research and innovation in information security. His work has been published by Bitdefender, Netgear, The Security Ledger and Softpedia.",
+      "meta": {
+        "refs": [
+          "https://www.bleepingcomputer.com/author/ionut-ilascu/"
+        ]
+      },
+      "uuid": "9190e46c-d3be-11e9-bb65-2a2ae2dbcce4",
+      "value": "Ionut Ilascu"
+    },
+	{
+      "description": "Author group as an extension of the Symantec Security Blog.",
+      "meta": {
+        "refs": [
+          "https://www.symantec.com/blogs/"
+        ]
+      },
+      "uuid": "9190e62e-d3be-11e9-bb65-2a2ae2dbcce4",
+      "value": "Symantec Security Response Attack Investigation Team"
+    },
+	{
       "description": "An experienced IT writer and editor, I've spent the past 14+ years honing my skills, building my contacts and broadening my horizons. At PM Media I now provide a comprehensive range of copywriting and media consultancy services to a wide variety of clients, albeit with a technology bias. I've been able to consistently deliver compelling copy on time and to brief, including blogs; white papers; case studies; EDMs; awards entries; and bylined opinion articles. Clients past and present include Microsoft, Cisco, Lenovo, Barclaycard, Worldpay, Trend Micro, Ferrero, and PayPal.",
       "meta": {
         "refs": [
@@ -210,5 +349,5 @@
       "value": "Phil-Muncaster"
     }
 	  ],
-	"version": 4
+	"version": 5
 }
