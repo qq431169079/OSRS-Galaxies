@@ -199,6 +199,16 @@
       "value": "GoldBrute"
     },
 	{
+      "description": "The Joker, a new Trojan on GooglePlay. 24 apps with over 472,000+ installs in total. The malware — going by the name the Joker (which was borrowed from one of the C&C domain names) — delivers a second stage component, which silently simulates the interaction with advertisement websites, steals the victim’s SMS messages, the contact list and device info. The automated interaction with the advertisement websites includes simulation of clicks and entering of the authorization codes for premium service subscriptions. This strategy works by automating the necessary interaction with the premium offer webpage, entering the operator offer code, then waiting for a SMS message with a confirmation code and extracting it using regular expressions. Finally, the Joker submits the extracted code to the offer webpage, in order to authorize the premium subscription. The Joker malware only attacks targeted countries. Most of the infected apps contain a list of Mobile Country Codes (MCC) and the victim has to be using a SIM card from one of these countries in order to receive the second stage payload. The majority of the discovered apps target the EU and Asian countries, however, some apps allow for any country to join. Furthermore, most of the discovered apps have an additional check, which will make sure that the payload will not execute when running within the US or Canada. The UI of C&C panel and some of the bot code comments are written in Chinese, which could be a hint in terms of geographical attribution.",
+      "meta": {
+        "refs": [
+          "https://medium.com/csis-techblog/analysis-of-joker-a-spy-premium-subscription-bot-on-googleplay-9ad24f044451"
+        ]
+      },
+      "uuid": "2ccdf80e-d589-11e9-bb65-2a2ae2dbcce4",
+      "value": "The Joker"
+    },
+	{
       "description": "GoLang Botnet",
       "meta": {
         "refs": [
@@ -209,5 +219,5 @@
       "value": "GoBrut"
     }
 	  ],
-	"version": 6
+	"version": 7
 }

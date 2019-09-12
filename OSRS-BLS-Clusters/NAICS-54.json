@@ -1017,6 +1017,16 @@
 			"value": "COPSEYE | AI - Face recognition"
 		},
 		{
+			"description": "Miracle Systems is a Virginia-based firm with proven record and professional certifications as a Federal contractor. We provide leading edge solutions and outstanding service to our Federal clients. As the most successful OASIS Small Business vendor, we maintain over 100 prime contracts and provide services in the following areas - PMO Support, IT Systems, Financial Consulting, Engineering Services, Training Services, Cyber Mission.",
+			"meta": {
+				"refs": [
+					"https://www.miraclesystems.net/about"
+				]
+			},
+			"uuid": "d6c59030-d587-11e9-bb65-2a2ae2dbcce4",
+			"value": "Miracle Systems, LLC"
+		},
+		{
 			"description": "TriTech Software Systems, formerly known as American Tritech, is a public safety software company based in San Diego, California, with offices in San Ramon, California; Hillsboro, Oregon; Decorah, Iowa; Castle Hayne, North Carolina; Melville, New York; Marlborough, Massachusetts; and Montreal, Quebec, Canada.",
 			"meta": {
 				"refs": [
@@ -1027,5 +1037,5 @@
 			"value": "TriTech"
 		}
 	],
-	"version": 24
+	"version": 25
 }

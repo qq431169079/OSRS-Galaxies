@@ -1310,6 +1310,46 @@
 			"value": "Vancouver Coastal Health"
 		},
 		{
+			"description": "The United Nations Children's Fund (UNICEF), originally known as the United Nations International Children's Emergency Fund, was created by the United Nations General Assembly on 11 December 1946, to provide emergency food and healthcare to children and mothers in countries that had been devastated by World War II. The Polish physician Ludwik Rajchman is widely regarded as the founder of UNICEF and observed as its first chairman from 1946 to 1950, when he had to flee the United States in the wake of McCarthyism. Rajchman is to this day the only person that served as UNICEF's Chairman for longer than 2 years. On Rajchman's suggestion, the American Maurice Pate was appointed first executive director, serving from 1947 until his death in 1965. In 1950, UNICEF's mandate was extended to address the long-term needs of children and women in developing countries everywhere. In 1953 it became a permanent part of the United Nations System, and the words international and emergency were dropped from the organization's name, though it retained the original acronym, UNICEF.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/UNICEF"
+				]
+			},
+			"uuid": "4aa99bec-d586-11e9-bb65-2a2ae2dbcce4",
+			"value": "The United Nations Childrens Fund (UNICEF)"
+		},
+		{
+			"description": "Souderton Area School District is a large, suburban public school district which covers an area of almost 50 square miles in the Montgomery County suburbs of Philadelphia. The district serves the municipalities of Souderton, Telford, Franconia, Lower Salford, Upper Salford, and Salford.",
+			"meta": {
+				"refs": [
+					"http://www.soudertonsd.org/"
+				]
+			},
+			"uuid": "4aa99f5c-d586-11e9-bb65-2a2ae2dbcce4",
+			"value": "Souderton Area School District"
+		},
+		{
+			"description": "Wakulla County School District has four elementary schools, two middle schools, one high school, one charter school, and The Wakulla Institute, which encompasses drop-out prevention programs and a virtual school.  As of March 2016, the total population for pre-school through adult education was approximately 5,195 students.",
+			"meta": {
+				"refs": [
+					"http://wakulla.schooldesk.net/"
+				]
+			},
+			"uuid": "4aa9a0c4-d586-11e9-bb65-2a2ae2dbcce4",
+			"value": "Wakulla County School District"
+		},
+		{
+			"description": "Rockford Public Schools, officially designated by the state as Rockford Public Schools District 205 is a large unit school district located in Rockford, Illinois. In 2012, the district had an enrollment of 26,980 students, making it the fourth-largest school district by enrollment in Illinois.",
+			"meta": {
+				"refs": [
+					"https://en.wikipedia.org/wiki/Rockford_Public_School_District_205"
+				]
+			},
+			"uuid": "4aa9a27c-d586-11e9-bb65-2a2ae2dbcce4",
+			"value": "Rockford School District 205"
+		},
+		{
 			"description": "Canterbury District Health Board has provided this public information for Canterbury health professionals which includes, guidelines, policies and resources for professional development.",
 			"meta": {
 				"refs": [
@@ -1320,5 +1360,5 @@
 			"value": "Canterbury and West Coast District Health Board "
 		}
 		],
-	"version": 18
+	"version": 19
 }

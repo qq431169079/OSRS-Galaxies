@@ -736,6 +736,16 @@
 			"value": "Charing Cross Gender Identity Clinic"
 		},
 		{
+			"description": "Healthcare service provider in the state of Utah.",
+			"meta": {
+				"refs": [
+					"https://premierfamily.net/"
+				]
+			},
+			"uuid": "76bf64b8-d587-11e9-bb65-2a2ae2dbcce4",
+			"value": "Premier Family Medical, UT"
+		},
+		{
 			"description": "SingHealth is Singapore's largest group of healthcare institutions. The group was formed in 2000 and consists of four public hospitals, five national specialty centres and a network of eight polyclinics.",
 			"meta": {
 				"refs": [
@@ -746,5 +756,5 @@
 			"value": "SingHealth"
 		}
 	],
-	"version": 20
+	"version": 21
 }

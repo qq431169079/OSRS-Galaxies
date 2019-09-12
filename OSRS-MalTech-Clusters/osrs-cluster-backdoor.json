@@ -307,6 +307,16 @@
       "value": "Sagerunex"
     },
 	{
+      "description": "The StealthFalcon backdoor, which appears to have been created in 2015, allows the attacker to control the compromised computer remotely. A small number of targets have been observed in UAE, Saudi Arabia, Thailand, and the Netherlands; in the latter case, the target was a diplomatic mission of a Middle Eastern country.",
+      "meta": {
+        "refs": [
+          "https://www.welivesecurity.com/2019/09/09/backdoor-stealth-falcon-group/"
+        ]
+      },
+      "uuid": "6d67f866-d588-11e9-bb65-2a2ae2dbcce4",
+      "value": "StealthFalcon Backdoor"
+    },
+	{
       "description": "The backdoor dubbed SLUB by the Trend Micro Cyber Safety Solutions Team who detected it in the wild is part of a multi-stage infection process designed by capable threat actors who programmed it in C++. SLUB uses statically-linked curl, boost, and JsonCpp libraries for performing HTTP request, extracting commands from gist snippets, and parsing Slack channel communication.",
       "meta": {
         "refs": [
@@ -317,5 +327,5 @@
       "value": "SLUB"
     }
 	  ],
-	"version": 11
+	"version": 12
 }

@@ -2095,6 +2095,47 @@
 			"value": "BRATA"
 		},
 		{
+			"description": "Besmtour is a tool developed by APT3 to gain remote code execution on a victim machine using UPSynergy – a combination of an exploit based on EternalRomance and a 0-day found by the group itself. The goal is to deploy a payload on the victim machine which is injected to a running process using an implant. This implant is highly similar to the Equation group’s DoublePulsar. The tool is meant to be run from a command line, and provides 2 modes of operation. In the first, the attacker sends a local file which will be executed on the victim machine with a given command line argument. In the 2nd mode, the attacker runs an arbitrary shell command without the need to send an actual file. These functionalities are supported in both 32 and 64 bit versions. According to Symantec, the 64 bit versions were leveraged solely for executing shell commands, mostly to generate new user accounts in the victim environments.",
+			"meta": {
+				"refs": [
+					"https://research.checkpoint.com/upsynergy/"
+				]
+			},
+			"uuid": "cff98ade-d589-11e9-bb65-2a2ae2dbcce4",
+			"value": "Bemstour"
+		},
+		{
+			"description": "APT3 exploit bundled delivered by malware Besmtour.",
+			"meta": {
+				"refs": [
+					"https://research.checkpoint.com/upsynergy/"
+				]
+			},
+			"uuid": "cff98dae-d589-11e9-bb65-2a2ae2dbcce4",
+			"value": "UPSynergy"
+		},
+		{
+			"description": "XMR-Stak is a universal open source stratum pool miner. This miner supports x86-64 CPUs, AMD and NVIDIA GPUs and can be used various crypto currencies: Ryo, Monero, Turtlecoin, Graft, Bittube, Loki, Aeon and many more Cryptonight coins.",
+			"meta": {
+				"refs": [
+					"https://blog.talosintelligence.com/2019/09/watchbog-patching.html",
+					"https://github.com/fireice-uk/xmr-stak"
+				]
+			},
+			"uuid": "cff98f02-d589-11e9-bb65-2a2ae2dbcce4",
+			"value": "XMR-Stack"
+		},
+		{
+			"description": "The Purple Fox fileless downloader malware. Also delivered by the Rig exploit kit, Purple Fox previously used the Nullsoft Scriptable Install System (NSIS) tool to retrieve and execute its payload. Purple Fox also downloads and executes cryptocurrency-mining malware. Purple Fox is a downloader malware; besides retrieving and executing cryptocurrency-mining threats, it can also deliver other kinds of malware.",
+			"meta": {
+				"refs": [
+					"https://blog.trendmicro.com/trendlabs-security-intelligence/purple-fox-fileless-malware-with-rookit-component-delivered-by-rig-exploit-kit-now-abuses-powershell/"
+				]
+			},
+			"uuid": "cff99038-d589-11e9-bb65-2a2ae2dbcce4",
+			"value": "Purple Fox"
+		},
+		{
 			"description": "Nheqminer is a great implementation of equihash mining, mainly used on NiceHas but forked many times and todays is getting used for several spare projects as well. Nheqminer is a specific miner for Zcash value based on common PCs. You might want to checkout more here. Exploring memory snapshots during its execution can be easy to figure out the miner runs over Zcash.Flypool server mining for the following wallet address.",
 			"meta": {
 				"refs": [
@@ -2105,5 +2146,5 @@
 			"value": "Nheqminer"
 		}
 	],
-	"version": 21
+	"version": 22
 }

@@ -17,6 +17,16 @@
       "value": "Test Food Manufacturing Value"
     },
 	{
+      "description": "Russell Stover Candies, Inc., founded by Russell and Clara Stover in 1923, is an American supplier of candy, chocolate, and confections. The corporate headquarters are in Kansas City, Missouri. In July 2014 the company was acquired by the Swiss company Lindt & Sprüngli.",
+      "meta": {
+        "refs": [
+          "https://www.russellstover.com/"
+        ]
+      },
+      "uuid": "29ce0664-d587-11e9-bb65-2a2ae2dbcce4",
+      "value": "Russell Stover Chocolates"
+    },
+	{
       "description": "The Weaver Popcorn Company, based in Van Buren, Indiana, is one of the largest popcorn companies in the United States.",
       "meta": {
         "refs": [
@@ -27,5 +37,5 @@
       "value": "Trails End"
     }
 	  ],
-	"version": 2
+	"version": 3
 }
