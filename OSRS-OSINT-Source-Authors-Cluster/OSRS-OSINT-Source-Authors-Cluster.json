@@ -336,6 +336,171 @@
       "value": "Symantec Security Response Attack Investigation Team"
     },
 	{
+      "description": "Author and blogger with Cisco Talos Group.",
+      "meta": {
+        "refs": [
+          "https://blog.talosintelligence.com/2019/09/the-latest-on-bluekeep-and-dejablue.html",
+		  "https://blog.talosintelligence.com/2018/12/Netgate-pfsense-command-injection-vulns.html",
+		  "https://blogs.cisco.com/security/talos/firepower-encrypted-rdp-detection"
+        ]
+      },
+      "uuid": "0fa70a6a-d63b-11e9-bb65-2a2ae2dbcce4",
+      "value": "Brandon Stultz"
+    },
+	{
+      "description": "Holger is a long term security enthusiast started to work for Siemens as a telecommunication specialist building Hicom PBX systems and later networking systems. After passing the CCIE exam, he moved to Cisco 16 years ago, worked as penetration tester and as security consultant supporting large customer projects. His last job role at Cisco was leading the Cyber Security Technical Advisor Group in EMEA. Holger is now working as a Security Researcher in TALOS. He did security research in a couple of sectors like botnet technology, sandbox bypassing, VPN MITM and developed several tools for penetration testing.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/holger-unterbrink-5aa8501/",
+		  "https://twitter.com/hunterbr72?lang=en",
+		  "https://blogs.cisco.com/author/holgerunterbrink"
+        ]
+      },
+      "uuid": "0fa70f10-d63b-11e9-bb65-2a2ae2dbcce4",
+      "value": "Holger Unterbrink"
+    },
+	{
+      "description": "Edmund Brumaghin is a threat researcher with Cisco Talos. He has spent the past several years protecting environments across a number of different industries including nuclear energy, financial services, etc. He currently spends his days hunting malware and analyzing various threats as they emerge and continue to evolve. In his time with Talos he has researched ransomware and other threats being distributed using various attack vectors. He has also worked to expose large scale malware campaigns and raise awareness of security threats observed across the threat landscape.",
+      "meta": {
+        "refs": [
+          "https://blogs.cisco.com/author/edmundbrumaghin?dtid=osscdc000283"
+        ]
+      },
+      "uuid": "0fa71096-d63b-11e9-bb65-2a2ae2dbcce4",
+      "value": "Edmund Brumaghin"
+    },
+	{
+      "description": "Charlie Osborne is a cybersecurity journalist and photographer who writes for ZDNet and CNET from London.",
+      "meta": {
+        "refs": [
+          "https://www.zdnet.com/meet-the-team/us/charlie-osborne/",
+		  "@SecurityCharlie",
+		  "https://twitter.com/SecurityCharlie"
+        ]
+      },
+      "uuid": "0fa711cc-d63b-11e9-bb65-2a2ae2dbcce4",
+      "value": "Charlie Osborne"
+    },
+	{
+      "description": "Author name for research published by the anti-virus company ESET.",
+      "meta": {
+        "refs": [
+          "https://www.welivesecurity.com/author/esetresearch/",
+		  "https://www.welivesecurity.com"
+        ]
+      },
+      "uuid": "0fa7130c-d63b-11e9-bb65-2a2ae2dbcce4",
+      "value": "ESET Research"
+    },
+	{
+      "description": "Security researcher with both Checkpoint and Kaspersky.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/_marklech_?lang=en",
+		  "https://www.linkedin.com/in/mark-lechtik-18977ba7/"
+        ],
+		"synonyms": [
+		"@_marklech_"
+		]
+      },
+      "uuid": "bc5753e0-d63c-11e9-bb65-2a2ae2dbcce4",
+      "value": "Mark Lechtik"
+    },
+	{
+      "description": "Security research with Checkpoint.",
+      "meta": {
+        "refs": [
+          "https://twitter.com/NadavGrossman",
+		  "https://www.linkedin.com/in/nadav-grossman/"
+        ],
+		"synonyms": [
+		"@NadavGrossman"
+		]
+      },
+      "uuid": "bc575656-d63c-11e9-bb65-2a2ae2dbcce4",
+      "value": "Nadav Grossman"
+    },
+	{
+      "description": "CTU researchers use a wide variety of commercial and proprietary toolsets to produce, analyze and validate threat intelligence. CTU researchers perform thorough analysis to discover new attack techniques and threats.",
+      "meta": {
+        "refs": [
+          "https://www.secureworks.com/counter-threat-unit",
+		  "https://www.secureworks.com"
+        ]
+      },
+      "uuid": "bc5757be-d63c-11e9-bb65-2a2ae2dbcce4",
+      "value": "Secureworks COUNTER THREAT UNIT RESEARCH TEAM"
+    },
+	{
+      "description": "Pseudonym used for publications from security vendor Fortinet.",
+      "meta": {
+        "refs": [
+          "https://www.fortinet.com/blog/search.html?author=FortiGuard+SE+Team",
+		  "https://www.fortinet.com",
+		  "https://www.facebook.com/fortinet",
+		  "https://www.twitter.com/fortinet"
+        ]
+      },
+      "uuid": "bc575908-d63c-11e9-bb65-2a2ae2dbcce4",
+      "value": "FortiGuard SE Team"
+    },
+	{
+      "description": "Vitali oversees subject matter expert collection efforts and leads a technical team that specializes in researching and investigating complex cyber attacks, network intrusions, data breaches, and hacking incidents. Vitali is a strong believer in responsible disclosure and has helped enterprises and government agencies deliver indictments of many high-profile investigations involving data breaches, network intrusions, ransomware, computer hacking, intellectual property theft, credit card fraud, money laundering, and identity theft. Previously, Vitali enjoyed a rewarding career as a Cybercrime Investigative Analyst for the New York County District Attorney's Office.",
+      "meta": {
+        "refs": [
+          "https://www.vkremez.com",
+		  "https://www.linkedin.com/in/vitali-kremez-021905104/",
+		  "https://twitter.com/VK_Intel"
+        ],
+		"synonyms": [
+		"@VK_Intel"
+		]
+      },
+      "uuid": "bc575ba6-d63c-11e9-bb65-2a2ae2dbcce4",
+      "value": "Vitali Kremez"
+    },
+	{
+      "description": "Author and researcher with Cisco Talos Group.",
+      "meta": {
+        "refs": [
+          "https://blog.talosintelligence.com/2019/09/watchbog-patching.html"
+        ]
+      },
+      "uuid": "e502cbc8-d63f-11e9-bb65-2a2ae2dbcce4",
+      "value": "Luke DuCharme"
+    },
+	{
+      "description": "Author and researcher with Cisco Talos Group.",
+      "meta": {
+        "refs": [
+          "https://blog.talosintelligence.com/2019/09/watchbog-patching.html",
+		  "https://www.linkedin.com/in/linkedinpaullee/"
+        ]
+      },
+      "uuid": "e502ce48-d63f-11e9-bb65-2a2ae2dbcce4",
+      "value": "Paul Lee"
+    },
+	{
+      "description": "Security researcher with anti-virus vendor TrendMicro.",
+      "meta": {
+        "refs": [
+          "https://www.linkedin.com/in/johnlerytriunfante/"
+        ]
+      },
+      "uuid": "e502cfa6-d63f-11e9-bb65-2a2ae2dbcce4",
+      "value": "Johnlery Triunfante"
+    },
+	{
+      "description": "Security researcher with anti-virus vendor TrendMicro.",
+      "meta": {
+        "refs": [
+          "https://blog.trendmicro.com/trendlabs-security-intelligence/purple-fox-fileless-malware-with-rookit-component-delivered-by-rig-exploit-kit-now-abuses-powershell/"
+        ]
+      },
+      "uuid": "e502d348-d63f-11e9-bb65-2a2ae2dbcce4",
+      "value": "Earle Earnshaw"
+    },
+	{
       "description": "An experienced IT writer and editor, I've spent the past 14+ years honing my skills, building my contacts and broadening my horizons. At PM Media I now provide a comprehensive range of copywriting and media consultancy services to a wide variety of clients, albeit with a technology bias. I've been able to consistently deliver compelling copy on time and to brief, including blogs; white papers; case studies; EDMs; awards entries; and bylined opinion articles. Clients past and present include Microsoft, Cisco, Lenovo, Barclaycard, Worldpay, Trend Micro, Ferrero, and PayPal.",
       "meta": {
         "refs": [
@@ -349,5 +514,5 @@
       "value": "Phil-Muncaster"
     }
 	  ],
-	"version": 5
+	"version": 6
 }

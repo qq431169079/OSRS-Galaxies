@@ -157,6 +157,83 @@
       "value": "Tool Typoe - Random Value Generator"
     },
 	{
+      "description": "A decompiler is a computer program that takes an executable file as input, and attempts to create a high level source file which can be recompiled successfully. It is therefore the opposite of a compiler, which takes a source file and makes an executable. Decompilers are usually unable to perfectly reconstruct the original source code, and as such, will frequently produce obfuscated code. Nonetheless, decompilers remain an important tool in the reverse engineering of computer software.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Decompiler"
+        ],
+		"synonyms": [
+		"Disassembler"
+		]
+      },
+      "uuid": "a37766f6-d64d-11e9-bb65-2a2ae2dbcce4",
+      "value": "Tool Type - Decompiler"
+    },
+	{
+      "description": "Machine learning (ML) is the scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to perform the task. Machine learning algorithms are used in a wide variety of applications, such as email filtering and computer vision, where it is difficult or infeasible to develop a conventional algorithm for effectively performing the task. Machine learning is closely related to computational statistics, which focuses on making predictions using computers. The study of mathematical optimization delivers methods, theory and application domains to the field of machine learning. Data mining is a field of study within machine learning, and focuses on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive analytics.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Machine_learning"
+        ]
+      },
+      "uuid": "a37769f8-d64d-11e9-bb65-2a2ae2dbcce4",
+      "value": "Tool Type - Machine Learning"
+    },
+	{
+      "description": "Malware analysis is the study or process of determining the functionality, origin and potential impact of a given malware sample such as a virus, worm, trojan horse, rootkit, or backdoor. Malware or malicious software is any computer software intended to harm the host operating system or to steal sensitive data from users, organizations or companies. Malware may include software that gathers user information without permission.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Malware_analysis"
+        ]
+      },
+      "uuid": "a3776c1e-d64d-11e9-bb65-2a2ae2dbcce4",
+      "value": "Tool Type - Malware Analysis"
+    },
+	{
+      "description": "A vulnerability scanner is a computer program designed to assess computers, networks or applications for known weaknesses. In plain words, these scanners are used to discover the weaknesses of a given system. They are utilized in the identification and detection of vulnerabilities arising from mis-configurations or flawed programming within a network-based asset such as a firewall, router, web server, application server, etc. Modern vulnerability scanners allow for both authenticated and unauthenticated scans. Modern scanners are typically available as SaaS (Software as a service); provided over the internet and delivered as a web application. The modern vulnerability scanner often has the ability to customize vulnerability reports as well as the installed software, open ports, certificates and other host information that can be queried as part of its workflow.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Vulnerability_scanner"
+        ]
+      },
+      "uuid": "a3776df4-d64d-11e9-bb65-2a2ae2dbcce4",
+      "value": "Tool Type - Vulnerability Scanner"
+    },
+	{
+      "description": "Used to gather information about a system or application.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Data_collection"
+        ]
+      },
+      "uuid": "a3776fd4-d64d-11e9-bb65-2a2ae2dbcce4",
+      "value": "Tool Type - Information Gathering"
+    },
+	{
+      "description": "Tools used to take over user or system accounts.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/Computer_access_control"
+        ]
+      },
+      "uuid": "bfb6ccc0-d64e-11e9-bb65-2a2ae2dbcce4",
+      "value": "Tool Type - Account Control"
+    },
+	{
+      "description": "An offline reader (sometimes called an offline browser or offline navigator) is computer software that downloads e-mail, newsgroup posts or web pages, making them available when the computer is offline: not connected to the Internet. Offline readers are useful for portable computers and dial-up access. Allows users to download World Wide Web sites from the Internet to a local computer. Uses a Web crawler to download a website.",
+      "meta": {
+        "refs": [
+          "https://en.wikipedia.org/wiki/HTTrack",
+		  "https://en.wikipedia.org/wiki/Offline_reader"
+        ],
+		"synonyms": [
+		"Offline Reader"
+		]
+      },
+      "uuid": "bfb6cf40-d64e-11e9-bb65-2a2ae2dbcce4",
+      "value": "Tool Type - Website Copier"
+    },
+	{
       "description": "A port scanner is an application designed to probe a server or host for open ports. Such an application may be used by administrators to verify security policies of their networks and by attackers to identify network services running on a host and exploit vulnerabilities. A port scan or portscan is a process that sends client requests to a range of server port addresses on a host, with the goal of finding an active port; this is not a nefarious process in and of itself. The majority of uses of a port scan are not attacks, but rather simple probes to determine services available on a remote machine. To portsweep is to scan multiple hosts for a specific listening port. The latter is typically used to search for a specific service, for example, an SQL-based computer worm may portsweep looking for hosts listening on TCP port 1433.",
       "meta": {
         "refs": [
@@ -167,5 +244,5 @@
       "value": "Tool Type - Network Scanner"
     }
 	],
-	"version": 4
+	"version": 5
 }
